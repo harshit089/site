@@ -1,5 +1,103 @@
 [
   {
+    "generated_at": "2026-06-21T09:40:48.237885+00:00",
+    "brief": "The geopolitical landscape in the region is witnessing significant developments, with the Islamic State launching a digital war against India and Pakistan adopting a new approach to foreign policy using fixers and lobbyists. Meanwhile, the Reserve Bank of India's Monetary Policy Committee has decided to adopt a cautious approach and not make any pre-emptive changes in interest rates due to uncertainty around the West Asia conflict, but a recent drop in oil prices has given the MPC headroom to consider policy normalization. Additionally, the World Bank has approved a $1.5 billion financing package to boost India's structural reforms and private sector-led job creation, which is expected to support economic growth and stimulate entrepreneurship.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Afghan outfit ISKP launches digital war on India, seeks to derail New Delhi",
+          "summary": "The Islamic State has launched an anti-India propaganda campaign, targeting New Delhi-Kabul ties. This digital war aims to derail the relationship between India and Afghanistan. The campaign is a significant development in the geopolitical landscape of the region.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/afghan-outfit-iskp-launches-digital-war-on-india-seeks-to-derail-new-delhi-kabul-ties-1/"
+        },
+        {
+          "title": "Pakistan's parallel diplomacy: How fixers, lobbyists and power brokers are opening doors abroad",
+          "summary": "Pakistan has adopted a new approach to foreign policy, using fixers, lobbyists, and power brokers to open doors abroad. This shift in diplomacy has been noticed in recent times, with various individuals and groups playing a key role in shaping Pakistan's international relations. The development has significant implications for the country's global standing.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/pakistans-parallel-diplomacy-how-fixers-lobbyists-and-power-brokers-are-opening-doors-abroad-1/"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "MPC members favour caution over pre-emptive rate move amid West Asia uncertainty, show RBI minutes",
+          "summary": "The Reserve Bank of India's Monetary Policy Committee (MPC) has decided to adopt a cautious approach and not make any pre-emptive changes in interest rates due to uncertainty around the West Asia conflict and supply chain disruptions. This decision was made to avoid any potential risks and to wait for more clarity on the situation. The MPC will continue to monitor the situation and make decisions based on data.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3937936-mpc-members-favour-caution-over-pre-emptive-rate-move-amid-west-asia-uncertainty-show-rbi-minutes"
+        },
+        {
+          "title": "Oil Prices Slump 16% Since June Meeting, Giving MPC Headroom for Policy Normalisation: ICICI Research Report",
+          "summary": "A recent drop in oil prices has improved India's inflation outlook, giving the Monetary Policy Committee (MPC) room to consider policy normalization. The 16% decrease in oil prices since the June meeting has eased geopolitical tensions and reduced inflation concerns. This development may influence the MPC's decision on interest rates in the future.",
+          "source": "Republic World",
+          "url": "https://www.republicworld.com/business/oil-prices-slump-16-since-june-meeting-giving-mpc-headroom-for-policy-normalisation-icici-research-report-2026-06-20-129160"
+        },
+        {
+          "title": "Lower oil prices open door for MPC to time policy normalisation: ICICI Research",
+          "summary": "According to ICICI Research, the decline in oil prices and easing of geopolitical tensions have created an opportunity for the Monetary Policy Committee (MPC) to consider policy normalization. While concerns about food and fuel prices remain, underlying inflation is stable, and domestic growth is resilient. The MPC may adjust its inflation forecasts if oil prices remain low, potentially reducing the likelihood of near-term rate hikes.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/lower-oil-prices-open-door-for-mpc-to-time-policy-normalisation-icici-research/articleshow/131871079.cms"
+        },
+        {
+          "title": "From missions to markets: India’s space economy takes shape",
+          "summary": "India's space sector is transitioning from a mission-based approach to a market-driven economy, with private players, startups, and investors entering the industry. The focus is shifting from building capabilities to creating commercially viable businesses that can compete globally. This development is expected to drive growth and innovation in the space sector.",
+          "source": "Firstpost",
+          "url": "https://www.firstpost.com/tech/indias-space-economy-is-taking-off-and-states-want-a-bigger-share-of-the-opportunity-14024223.html"
+        },
+        {
+          "title": "RBI MPC minutes: Policy misstep fears drove rate pause amid West Asia uncertainty",
+          "summary": "The Reserve Bank of India's Monetary Policy Committee (MPC) decided to maintain a cautious stance and keep interest rates steady due to significant geopolitical and weather-related uncertainties. The committee is concerned about rising crude oil prices and potential El Nino impacts on inflation. While core inflation remains subdued, the MPC is prioritizing data dependency before considering any policy rate adjustments.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-mpc-minutes-policy-misstep-fears-drove-rate-pause-amid-west-asia-uncertainty/articleshow/131861187.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "World Bank clears $1.5 billion package to boost India's structural reforms, private sector jobs",
+          "summary": "The World Bank has approved a $1.5 billion financing package for India to accelerate structural reforms and stimulate private sector-led job creation. This initiative aims to support economic growth by fostering entrepreneurship and simplifying business processes. The funding is expected to create millions of job opportunities for young people entering the workforce annually.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/world-bank-clears-1-5-billion-package-to-boost-indias-structural-reforms-private-sector-jobs/articleshow/131866304.cms"
+        },
+        {
+          "title": "India Should Address Structural Gaps To Attract Global Funds for Startup Ecosystem",
+          "summary": "India needs to address structural gaps in its startup ecosystem to attract global funds. Tax reforms, growth funding, and stronger exits are key to drawing global investors. This will help India's startup ecosystem grow and become more attractive to international investors.",
+          "source": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/business/india-should-address-structural-gaps-to-attract-global-funds-for-startup-ecosystem-1964760"
+        },
+        {
+          "title": "Karo Sambhav raises Rs 56 crore from Rainmatter to expand critical mineral recovery from e",
+          "summary": "Karo Sambhav, a circular economy startup, has secured Rs 56 crore from Rainmatter to boost its infrastructure for recovering critical minerals and valuable materials from electronic waste. The company aims to scale its recycling operations and focus on extracting precious and high-value components from end-of-life products. This move supports India's manufacturing future and reduces import dependence.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/funding/karo-sambhav-raises-rs-56-crore-from-rainmatter-to-expand-critical-mineral-recovery-from-e-waste/articleshow/131835309.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Encounter Killings Decoded: What Is A Police ‘Encounter’, Who Orders It, And When Can Police Open Fire?",
+          "summary": "The article explains the concept of police encounters in India, who authorizes them, and the legal limits on police firing. It also discusses the Supreme Court guidelines and why encounters are a topic of public debate. This understanding is crucial for grasping India's law and order situation.",
+          "source": "NewsX",
+          "url": "https://www.newsx.com/india/encounter-killings-decoded-what-is-a-police-encounter-who-orders-it-and-when-can-police-open-fire-inside-indias-most-controversial-law-and-order-tool-explained-238108/"
+        },
+        {
+          "title": "Centre Bans 16 Fixed-Dose Combination Drugs After Safety Review, Cites Lack Of Medical Justification",
+          "summary": "The Indian government has banned 16 fixed-dose combination medicines due to safety concerns and lack of medical justification. This move aims to promote rational prescribing and protect public health by removing unsupported drug combinations from the market. The decision was made after a scientific review and follows Supreme Court directions.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/business/centre-bans-16-fixed-dose-combination-drugs-after-safety-review-cites-lack-of-medical-justification"
+        },
+        {
+          "title": "Trafficked or not, Supreme Court upholds woman’s consent to rehabilitation in Prajwala verdict",
+          "summary": "The Supreme Court's Prajwala verdict emphasizes the importance of an adult woman's consent in rehabilitation and protective detention. The judgment differentiates between sex trafficking and voluntary sex work, upholding dignity and questioning detention-based 'rescue' models. This ruling has significant implications for India's sex trafficking laws and women's rights.",
+          "source": "The News Minute",
+          "url": "https://www.thenewsminute.com/news/trafficked-or-not-supreme-court-upholds-womans-consent-to-rehabilitation-in-prajwala-verdict"
+        },
+        {
+          "title": "Telegram loses bid to overturn India’s temporary blocking of the app",
+          "summary": "A New Delhi court has upheld the Indian government's temporary ban on Telegram, citing the need to protect med school exam integrity. The ban has sparked debate on free speech rights and the government's power to block messaging platforms. Telegram, with 150 million Indian users, has expressed concern about the precedent set by this decision.",
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/shorts/technology/telegram-loses-bid-to-overturn-indias-temporary-blocking-of-the-app-10748714/"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-06-21T03:29:00.465063+00:00",
     "brief": "India's foreign policy and national security are being closely watched as the Islamic State launches an anti-India propaganda campaign, while Pakistan adopts a new approach to foreign policy using fixers, lobbyists, and power brokers to strengthen its international relationships. Meanwhile, the Reserve Bank of India's Monetary Policy Committee has taken a cautious approach to interest rates due to uncertainty around the West Asia conflict and supply chain disruptions, but a significant drop in oil prices may give the MPC room to consider policy normalization. The Indian government has also made notable moves on the domestic front, including banning 16 fixed-dose combination medicines due to safety concerns and promoting structural reforms to stimulate private sector-led job creation with a $1.5 billion financing package from the World Bank.",
     "categories": {
