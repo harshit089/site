@@ -1,5 +1,103 @@
 [
   {
+    "generated_at": "2026-06-22T03:31:51.031202+00:00",
+    "brief": "Today's brief highlights key developments across geopolitics, economy, and national affairs, with South Africa seeking to strengthen economic ties with India as its relations with the US sour, while the Reserve Bank of India's Monetary Policy Committee has adopted a cautious approach, choosing not to change interest rates due to uncertainty around the West Asia conflict. The drop in oil prices since the June MPC meeting has improved India's inflation outlook, potentially giving the MPC room to normalize policy, and the Asian Development Bank plans to maintain its private sector funding pace in India, aiming to provide $1 billion in support by 2026. These developments are expected to have significant implications for India's economic growth and global relations.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "South Africa eyes stronger economic relations with India as US ties sour",
+          "summary": "South Africa is seeking to strengthen its economic ties with India as its relations with the US have become strained. This development could potentially lead to increased trade and cooperation between India and South Africa. The move is seen as an attempt by South Africa to diversify its economic partnerships.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/south-africa-eyes-stronger-economic-relations-with-india-as-us-ties-sour-2/"
+        },
+        {
+          "title": "‘US-Israel war on Iran was unnecessary - its military emissions damage everyone on Earth’",
+          "summary": "A professor of international relations has stated that the US-Israel war on Iran was unnecessary and has resulted in significant environmental damage due to military emissions. The war's impact on global emissions is a concern for everyone. The statement highlights the broader consequences of military conflicts beyond the immediate geopolitical implications.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/us-israel-war-on-iran-was-unnecessary-its-military-emissions-damage-everyone-on-earth/articleshow/131885086.cms"
+        },
+        {
+          "title": "Afghan outfit ISKP launches digital war on India, seeks to derail New Delhi",
+          "summary": "The Islamic State's Afghan outfit, ISKP, has launched a digital propaganda campaign against India, aiming to disrupt relations between India and Afghanistan. The campaign is seen as an attempt to undermine the diplomatic efforts between New Delhi and Kabul. This development highlights the increasing use of digital platforms in geopolitical conflicts.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/afghan-outfit-iskp-launches-digital-war-on-india-seeks-to-derail-new-delhi-kabul-ties-1/"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "MPC members favour caution over pre-emptive rate move amid West Asia uncertainty, show RBI minutes",
+          "summary": "The Reserve Bank of India's Monetary Policy Committee (MPC) has chosen a cautious approach, deciding not to change interest rates due to uncertainty around the West Asia conflict, supply chain disruptions, and monsoon risks. This 'wait-and-watch' stance is intended to avoid any potential policy missteps. The MPC will continue to monitor the situation before making any adjustments to interest rates.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3937936-mpc-members-favour-caution-over-pre-emptive-rate-move-amid-west-asia-uncertainty-show-rbi-minutes"
+        },
+        {
+          "title": "Oil Prices Slump 16% Since June Meeting, Giving MPC Headroom for Policy Normalisation: ICICI Research Report",
+          "summary": "A significant drop in oil prices since the June MPC meeting has improved India's inflation outlook, according to an ICICI Research report. This decrease in oil prices may give the MPC room to normalize policy. The report suggests that the MPC may reconsider its stance on interest rates due to the improved inflation outlook.",
+          "source": "Republic World",
+          "url": "https://www.republicworld.com/business/oil-prices-slump-16-since-june-meeting-giving-mpc-headroom-for-policy-normalisation-icici-research-report-2026-06-20-129160"
+        },
+        {
+          "title": "Lower oil prices open door for MPC to time policy normalisation: ICICI Research",
+          "summary": "Falling oil prices and easing geopolitical tensions have improved India's inflation outlook, giving the Monetary Policy Committee room to decide on policy normalization timing. While concerns about food and fuel prices persist, underlying inflation remains stable, and domestic growth shows resilience. The MPC may lower inflation forecasts if oil prices remain subdued.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/lower-oil-prices-open-door-for-mpc-to-time-policy-normalisation-icici-research/articleshow/131871079.cms"
+        },
+        {
+          "title": "From missions to markets: India’s space economy takes shape",
+          "summary": "India's space sector is entering a new phase, with states, startups, and investors stepping in after policy reforms opened the industry to private players. The focus is shifting from building capabilities to creating commercially viable businesses that can compete on a global stage. As demand for space technologies rises, India's space economy is taking off.",
+          "source": "Firstpost",
+          "url": "https://www.firstpost.com/tech/indias-space-economy-is-taking-off-and-states-want-a-bigger-share-of-the-opportunity-14024223.html"
+        },
+        {
+          "title": "RBI MPC minutes: Policy misstep fears drove rate pause amid West Asia uncertainty",
+          "summary": "The Reserve Bank of India's Monetary Policy Committee has opted for a cautious 'wait and watch' stance, holding the repo rate steady due to significant geopolitical and weather-related uncertainties. Concerns over rising crude oil prices and potential El Nino impacts are driving inflation worries. The committee emphasized vigilance against generalized price increases, prioritizing data dependency before considering any policy rate adjustments.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-mpc-minutes-policy-misstep-fears-drove-rate-pause-amid-west-asia-uncertainty/articleshow/131861187.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "ADB to maintain private sector funding pace in India, eyes $1 billion support in 2026",
+          "summary": "The Asian Development Bank plans to maintain its private sector funding pace in India, aiming to provide $1 billion in support by 2026. India is the largest market for the bank's private sector operations. This funding is expected to boost the country's economic growth and development.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/adb-to-maintain-private-sector-funding-pace-in-india-eyes-1-billion-support-in-2026/articleshow/131889694.cms"
+        },
+        {
+          "title": "World Bank clears $1.5 billion package to boost India's structural reforms, private sector jobs",
+          "summary": "The World Bank has approved a $1.5 billion financing package to accelerate India's structural reforms and stimulate private sector-led job creation. This initiative aims to support economic growth, foster entrepreneurship, and simplify business processes. The funding is expected to create millions of job opportunities for young people entering the workforce.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/world-bank-clears-1-5-billion-package-to-boost-indias-structural-reforms-private-sector-jobs/articleshow/131866304.cms"
+        },
+        {
+          "title": "India Should Address Structural Gaps To Attract Global Funds for Startup Ecosystem",
+          "summary": "India needs to address structural gaps in its startup ecosystem to attract global funds. Tax reforms, growth funding, and stronger exits are key to drawing global investors. This will help the country's startup ecosystem grow and become more competitive.",
+          "source": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/business/india-should-address-structural-gaps-to-attract-global-funds-for-startup-ecosystem-1964760"
+        },
+        {
+          "title": "Karo Sambhav raises Rs 56 crore from Rainmatter to expand critical mineral recovery from e-waste",
+          "summary": "Karo Sambhav, a circular economy startup, has raised Rs 56 crore from Rainmatter to expand its critical mineral recovery from electronic waste. The funding will boost the company's infrastructure and help scale its recycling operations, supporting India's manufacturing future and reducing import dependence.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/funding/karo-sambhav-raises-rs-56-crore-from-rainmatter-to-expand-critical-mineral-recovery-from-e-waste/articleshow/131835309.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Centre Bans 16 Fixed-Dose Combination Drugs After Safety Review, Cites Lack Of Medical Justification",
+          "summary": "The Indian government has banned 16 fixed-dose combination medicines due to safety concerns and lack of medical justification, following a scientific review and Supreme Court directions. This move aims to promote rational prescribing and protect public health by removing unsupported drug combinations from the market. The ban is issued under the Drugs and Cosmetics Act.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/business/centre-bans-16-fixed-dose-combination-drugs-after-safety-review-cites-lack-of-medical-justification"
+        },
+        {
+          "title": "Encounter Killings Decoded: What Is A Police ‘Encounter’, Who Orders It, And When Can Police Open Fire?",
+          "summary": "A police encounter in India refers to a situation where police engage with suspects, often resulting in the death of the accused. The process involves guidelines set by the Supreme Court, and police can open fire in specific circumstances. The topic of encounter killings is controversial and has been subject to public debate.",
+          "source": "NewsX",
+          "url": "https://www.newsx.com/india/encounter-killings-decoded-what-is-a-police-encounter-who-orders-it-and-when-can-police-open-fire-inside-indias-most-controversial-law-and-order-tool-explained-238108/"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-06-21T19:21:08.898209+00:00",
     "brief": "Tensions in West Asia continue to impact India, with the US-Israel war on Iran sparking concerns over environmental damage and the Islamic State launching a digital war on India to disrupt its ties with Afghanistan. Meanwhile, the Reserve Bank of India's Monetary Policy Committee has adopted a cautious approach, choosing not to make any pre-emptive changes in interest rates due to uncertainty around the West Asia conflict, but a significant drop in oil prices since the June MPC meeting may provide the committee with the opportunity to normalize policy. The Indian government has also taken steps to promote economic growth, including a ban on 16 fixed-dose combination medicines due to safety concerns and the approval of a $1.5 billion financing package from the World Bank to accelerate structural reforms and stimulate private sector-led job creation.",
     "categories": {
