@@ -1,5 +1,115 @@
 [
   {
+    "generated_at": "2026-06-22T16:43:21.173337+00:00",
+    "brief": "Major developments across the globe are having significant implications for India, with the Trump administration's talks with Iran potentially leading to a broader reset in the Middle East, while South Africa is seeking to strengthen its economic ties with India amidst a rough patch in its relations with the US. Meanwhile, in India, the Reserve Bank of India's Monetary Policy Committee has adopted a cautious approach to interest rates due to uncertainty surrounding the West Asia conflict, and a significant drop in oil prices since the June MPC meeting has improved India's inflation outlook, giving the MPC room to consider policy normalization. These global and domestic factors are likely to have a profound impact on India's economy and geopolitical landscape.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "War reconstruction needs in Middle East: FM",
+          "summary": "South Korea has established a task force to identify country-specific post-war reconstruction needs in the Middle East. This move aims to provide cooperation and support to countries in the region. The task force will help Seoul to play a significant role in the reconstruction efforts.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/south-korea-identifying-country-specific-post-war-reconstruction-needs-in-middle-east-fm/"
+        },
+        {
+          "title": "Trump administration sees Iran talks as path to broader Middle East reset",
+          "summary": "The Trump administration views its new diplomacy with Iran as a step towards a broader reset in the Middle East. The talks are seen as an effort to address various issues in the region. This development could have significant implications for the geopolitical landscape of the Middle East.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/trump-administration-sees-iran-talks-as-path-to-broader-middle-east-reset/"
+        },
+        {
+          "title": "South Africa eyes stronger economic relations with India as US ties sour",
+          "summary": "South Africa is seeking to strengthen its economic ties with India amidst a rough patch in its relations with the US. This move is driven by the country's desire to diversify its economic partnerships. The development could lead to increased trade and investment between South Africa and India.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/south-africa-eyes-stronger-economic-relations-with-india-as-us-ties-sour-2/"
+        },
+        {
+          "title": "PM's Kolkata Yoga Event Venue Was Once Used As Airstrip During World War 2",
+          "summary": "The venue of the 12th International Day of Yoga celebrations in Kolkata, led by Prime Minister Narendra Modi, has a historic past. The Red Road was once used as a fighter airstrip during World War II. This highlights the significant transformation of the venue over time.",
+          "source": "NDTV.com",
+          "url": "https://www.ndtv.com/feature/international-day-of-yoga-2026-from-wwii-fighter-airstrip-to-yoga-day-stage-the-untold-story-of-kolkatas-red-road-11665559"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "The benefits and risks of RBI’s policy on foreign currency NRI deposits",
+          "summary": "The Indian government is considering a policy to encourage Non-Resident Indians (NRIs) to make foreign currency deposits in Indian banks to support the rupee. This move has implications for India's external debt management and could impact the country's economy. The policy aims to shore up the rupee, but it also carries risks that need to be considered.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/economy/rbi-foreign-currency-nri-deposits-rupee-defence-risks-explained-11782041864329.html"
+        },
+        {
+          "title": "MPC members favour caution over pre-emptive rate move amid West Asia uncertainty, show RBI minutes",
+          "summary": "The Reserve Bank of India's Monetary Policy Committee (MPC) has adopted a cautious approach to interest rates due to uncertainty surrounding the West Asia conflict, supply chain disruptions, and monsoon risks. Most MPC members saw little justification for a pre-emptive change in interest rates at the June policy review. This decision reflects the committee's wait-and-watch approach to monetary policy.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3937936-mpc-members-favour-caution-over-pre-emptive-rate-move-amid-west-asia-uncertainty-show-rbi-minutes"
+        },
+        {
+          "title": "Oil Prices Slump 16% Since June Meeting, Giving MPC Headroom for Policy Normalisation: ICICI Research Report",
+          "summary": "A significant drop in oil prices since the June MPC meeting has improved India's inflation outlook, according to an ICICI Research report. This decline in oil prices gives the MPC room to consider policy normalization. The improved inflation outlook could lead to changes in the MPC's policy decisions in the near future.",
+          "source": "Republic World",
+          "url": "https://www.republicworld.com/business/oil-prices-slump-16-since-june-meeting-giving-mpc-headroom-for-policy-normalisation-icici-research-report-2026-06-20-129160"
+        },
+        {
+          "title": "Lower oil prices open door for MPC to time policy normalisation: ICICI Research",
+          "summary": "Falling oil prices and easing geopolitical tensions have improved India's inflation outlook, providing the MPC with an opportunity to decide on the timing of policy normalization. While concerns about food and fuel prices remain, underlying inflation is stable, and domestic growth shows resilience. The MPC may reconsider its inflation forecasts if oil prices remain low, potentially reducing the likelihood of near-term rate hikes.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/lower-oil-prices-open-door-for-mpc-to-time-policy-normalisation-icici-research/articleshow/131871079.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "West Asia conflict tightens the tap on India's startup funding options",
+          "summary": "The escalating tensions in West Asia have led to a 43% decrease in startup funding in India since March, as investors have become more cautious. This decrease in funding can impact the growth and development of startups in India. The situation highlights the vulnerability of India's startup ecosystem to global geopolitical events.",
+          "source": "Business Standard",
+          "url": "https://www.business-standard.com/markets/news/west-asia-crisis-pulls-startup-funding-down-43-yoy-since-march-126062100439_1.html"
+        },
+        {
+          "title": "ADB to maintain private sector funding pace in India, eyes $1 billion support in 2026",
+          "summary": "The Asian Development Bank (ADB) plans to maintain its private sector funding pace in India and aims to provide $1 billion in support by 2026. India is the largest market for ADB's private sector operations, indicating the country's significance in the bank's investment strategy. This funding can contribute to the growth of India's private sector.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/adb-to-maintain-private-sector-funding-pace-in-india-eyes-1-billion-support-in-2026/articleshow/131889694.cms"
+        },
+        {
+          "title": "World Bank clears $1.5 billion package to boost India's structural reforms, private sector jobs",
+          "summary": "The World Bank has approved a $1.5 billion financing package to support India's structural reforms and stimulate private sector-led job creation. This initiative aims to foster entrepreneurship, simplify business processes, and create millions of job opportunities for young people. The funding reflects India's progress in governance and inclusive labor empowerment.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/world-bank-clears-1-5-billion-package-to-boost-indias-structural-reforms-private-sector-jobs/articleshow/131866304.cms"
+        },
+        {
+          "title": "India Should Address Structural Gaps To Attract Global Funds for Startup Ecosystem",
+          "summary": "India needs to address structural gaps, such as tax reforms, growth funding, and stronger exits, to attract global funds for its startup ecosystem. These reforms are crucial for drawing global investors and supporting the growth of Indian startups. By addressing these gaps, India can create a more favorable environment for startups to thrive.",
+          "source": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/business/india-should-address-structural-gaps-to-attract-global-funds-for-startup-ecosystem-1964760"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Centre reappoints Tushar Mehta as Solicitor General of India",
+          "summary": "The Appointments Committee of the Cabinet has reappointed Tushar Mehta as the Solicitor General of India, along with the reappointment of five Additional Solicitor Generals for the Supreme Court. This move is significant as it affects the country's legal representation. The reappointments are expected to have an impact on the country's legal landscape.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/delhi/centre-reappoints-tushar-mehta-as-solicitor-general-of-india/"
+        },
+        {
+          "title": "Students With Disabilities In Higher Education: A Grim Scenario",
+          "summary": "The Supreme Court's National Task Force has found that students with disabilities face significant barriers in higher education institutions across India, with enrolment at just 0.2%. The task force has identified inaccessible campuses, lack of support systems, and entrenched stereotypes as major obstacles. This highlights the need for greater inclusivity in higher education.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/analysis/students-with-disabilities-in-higher-education-a-grim-scenario"
+        },
+        {
+          "title": "Supreme Court Clearing A Path For Pedestrians",
+          "summary": "The Supreme Court has emphasized the importance of pedestrian safety, asserting the right to safe and obstruction-free footpaths. The court has criticized policies that prioritize vehicles over pedestrians and urged audits to promote inclusive and safer mobility infrastructure. This move aims to shift urban planning towards more pedestrian-friendly and sustainable cities.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/analysis/supreme-court-clearing-a-path-for-pedestrians"
+        },
+        {
+          "title": "From skincare creams to fever formulations: Why 16 drug combinations, including paracetamol mix, are banned in India",
+          "summary": "The Indian government has banned 16 drug combinations, including a paracetamol mix, following a review of Fixed-Dose Combinations (FDCs) as directed by the Supreme Court. This move aims to ensure public health and safety by removing potentially harmful drug combinations from the market. The ban is expected to have a significant impact on the pharmaceutical industry.",
+          "source": "THE WEEK",
+          "url": "https://www.theweek.in/news/health/2026/06/21/from-skincare-creams-to-fever-formulations-why-16-drug-combinations-including-paracetamol-mix-are-banned-in-india.html"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-06-22T11:41:08.806412+00:00",
     "brief": "Tensions in West Asia continue to have far-reaching implications, with South Africa seeking to strengthen economic ties with India as its relations with the US sour, while the Reserve Bank of India's Monetary Policy Committee has adopted a cautious approach, avoiding pre-emptive changes in interest rates due to uncertainty in the region. Meanwhile, a significant drop in oil prices since the June MPC meeting has improved India's inflation outlook, providing the Monetary Policy Committee with room to decide on policy normalization. As the global economic landscape evolves, India's space economy is also entering a new phase, with private players and investors stepping in after policy reforms, and the country is expected to receive significant funding support from institutions like the Asian Development Bank and the World Bank to boost economic growth and job creation.",
     "categories": {
