@@ -1,5 +1,109 @@
 [
   {
+    "generated_at": "2026-06-23T19:53:05.637814+00:00",
+    "brief": "Tensions between the US and Iran continue to simmer, with Iran's Parliament Speaker reiterating that the Strait of Hormuz will remain under Iranian control, managed according to international laws. This development has significant implications for global trade and geopolitics. Meanwhile, in the economic sphere, the Reserve Bank of India's Monetary Policy Committee has projected a growth rate of 6.6% for the current fiscal year, which could increase to over 7% if oil prices fall further. Additionally, the World Bank has approved a $1.5 billion loan to support India's structural reforms and job creation, aiming to simplify business regulations and enhance trade.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "‘Never trust Americans’: Iran draws red line at Strait of Hormuz, warning Trump it will ‘never’ relinquish control",
+          "summary": "Iran's Parliament Speaker Mohammad Bagher Ghalibaf stated that the Strait of Hormuz will never return to its pre-war operation and Iran will manage the passage under international laws. This statement comes after talks with the US resulted in progress on sanctions relief and frozen fund releases. The move highlights Iran's stance on maintaining control over the strategic waterway.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/world-news/never-trust-americans-iran-draws-red-line-at-strait-of-hormuz-warning-trump-it-will-never-relinquish-control/4274261/"
+        },
+        {
+          "title": "‘Hormuz will never return to pre-war status’: Iran Speaker after US talks",
+          "summary": "Iran's Parliament Speaker Mohammad Bagher Ghalibaf said the Strait of Hormuz will remain under Iran's control while following international rules. The statement was made in response to US talks, indicating that Iran will not relinquish control over the strait. This development has significant implications for global trade and geopolitics.",
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/shorts/world/strait-of-hormuz-iran-war-united-states-talks-parliament-speaker-mohammad-bagher-ghalibaf-10752928/"
+        },
+        {
+          "title": "Hormuz will never go back to its pre-war status: Iran's Parliament Speaker says Iran will manage the strait",
+          "summary": "Iran's Parliament Speaker Mohammad Bagher Ghalibaf asserted that the Strait of Hormuz will be managed by Iran under international rules. He emphasized that operational control will remain with Iran, indicating a significant shift in the strait's administration. This move is likely to impact global trade and shipping routes.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/news/world/hormuz-will-never-go-back-to-its-pre-war-status-irans-parliament-speaker-says-iran-will-manage-the-strait/article71135954.ece"
+        },
+        {
+          "title": "US Iran War Live Updates: Iran says Strait of Hormuz to be administered by Tehran after talks with US",
+          "summary": "Iran's chief negotiator Mohammad Bagher Ghalibaf announced that the Strait of Hormuz will be administered by Tehran under international law. The announcement follows talks with the US aimed at ending the conflict with Iran. The development marks a significant shift in the administration of the strategic waterway.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/newsblogs/us-iran-war-live-updates-trump-iran-peace-deal-netanyahu-lebanon-hezbollah-ceasefire-strait-of-hormuz-nuclear-talks-jd-vance-abbas-araghchi-latest-news-updates/liveblog/131922961.cms"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Alan Greenspan Dies at 100: Legacy of Economic Influence and Controversy",
+          "summary": "Alan Greenspan, the former Federal Reserve chairman, has passed away at 100, leaving behind a legacy of economic influence and controversy. His tenure shaped the US economy and sparked debates about his monetary policies. His legacy continues to have a lasting impact on economic policy.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/alan-greenspan-us-fed-maestro-dies-at-100/articleshow/131927402.cms"
+        },
+        {
+          "title": "RBI MPC: Growth rate could top 7% if oil prices fall further",
+          "summary": "The Reserve Bank of India's Monetary Policy Committee (MPC) has projected a growth rate of 6.6% for FY27, but this could increase to over 7% if oil prices fall further. The economy expanded at 7.7% in the January-March quarter, exceeding earlier estimates. The MPC will closely monitor incoming data to assess inflation impact.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-mpc-growth-rate-could-top-7-if-oil-prices-fall-further/articleshow/131922542.cms"
+        },
+        {
+          "title": "Talks Of RBI Rate Hike Unwarranted Amid Highest Policy Cautiousness Since 2016 & Severe Monsoon Deficit: SBI Report",
+          "summary": "According to a report by the SBI, discussions around a possible interest rate hike by the Reserve Bank of India are unwarranted due to elevated uncertainty surrounding inflation, monsoon progress, and global economic conditions. The report suggests that policymakers should exercise caution before making any decisions. This could impact the country's economic growth and inflation rates.",
+          "source": "Republic World",
+          "url": "https://www.republicworld.com/business/talks-of-rate-hike-unwarranted-amid-elevated-uncertainty-monsoon-concerns-sbi-report-2026-06-22-129433"
+        },
+        {
+          "title": "Warsh Fed era heralds a new trial for Asian currencies",
+          "summary": "The new Federal Reserve chief Kevin Warsh's hawkish stance on inflation has signaled a stronger dollar, posing a challenge for Asian economies reliant on exports. This may force nations like Japan, Indonesia, and India to intervene in currency markets and raise borrowing costs. The dollar's strength is a global concern, with emerging markets like Turkey also facing currency pressures.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/warsh-fed-era-heralds-a-new-trial-for-asian-currencies/articleshow/131906116.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "World Bank approves USD 1.5 bn loan to support India's reforms, job creation",
+          "summary": "The World Bank has approved a $1.5 billion loan to support India's structural reforms and job creation, aiming to simplify business regulations, enhance trade, and improve access to capital. This initiative is expected to create employment for millions of young Indians and bolster the nation's economic resilience. The funding aligns with the government's long-term development vision.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/finance/world-bank-approves-15-billion-loan-to-drive-job-creation-and-economic-reforms-in-india/articleshow/131909557.cms"
+        },
+        {
+          "title": "West Asia conflict tightens the tap on India's startup funding options",
+          "summary": "The escalating tensions in West Asia have made investors more cautious, resulting in a 43% decrease in India's startup funding since March. This decrease in funding may impact the growth and development of Indian startups. The conflict has led to a more cautious approach from investors, affecting the startup ecosystem.",
+          "source": "Business Standard",
+          "url": "https://www.business-standard.com/markets/news/west-asia-crisis-pulls-startup-funding-down-43-yoy-since-march-126062100439_1.html"
+        },
+        {
+          "title": "ADB to maintain private sector funding pace in India, eyes $1 billion support in 2026",
+          "summary": "The Asian Development Bank (ADB) plans to maintain its private sector funding pace in India, with a goal of providing $1 billion in support by 2026. India remains the largest market for ADB's private sector operations, and the bank expects to continue its funding efforts in the country. This funding will likely contribute to the growth of India's private sector.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/adb-to-maintain-private-sector-funding-pace-in-india-eyes-1-billion-support-in-2026/articleshow/131889694.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "The Supreme Court’s Amazon ruling has revealed a gap in the CCI’s authority over corporate mergers",
+          "summary": "The Supreme Court's recent verdict on the Amazon-Future case has exposed a weakness in the Competition Commission of India's (CCI) ability to regulate corporate mergers, highlighting the need for a stronger merger control regime. This gap can be exploited by companies to deceive the CCI during merger reviews. The ruling has significant implications for India's corporate landscape and competition law.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/opinion/online-views/supreme-court-amazon-ruling-cci-authority-corporate-mergers-competition-commission-future-group-11782193391248.html"
+        },
+        {
+          "title": "Congress on India US trade deal",
+          "summary": "The Congress party has urged the Indian government not to sign the current India-US trade deal, citing a recent US Supreme Court ruling that undermines tariff concessions. The party believes the deal would harm Indian farmers and benefit the US. This development highlights the complexities and challenges involved in negotiating international trade agreements.",
+          "source": "Telegraph India",
+          "url": "https://www.telegraphindia.com/india/congress-urges-prime-minister-narednra-modi-not-to-sign-india-us-trade-deal-calls-pact-a-steal-benefiting-america/cid/2166816"
+        },
+        {
+          "title": "India-US trade deal talks: India wants preferential access through US deal, says Piyush Goyal",
+          "summary": "India is seeking preferential access to the US market through a new trade deal, according to Commerce Minister Piyush Goyal. The talks are focused on finalizing a new tariff architecture after a US Supreme Court ruling invalidated certain reciprocal duties on Indian goods. The outcome of these negotiations could have significant implications for India's trade relations with the US.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/indiaus-trade-deal-talks-piyush-goyal-says-india-seeks-interim-pact-not-bound-by-july-24-tariff-deadline-101782186101496.html"
+        },
+        {
+          "title": "Ayodhya Ram Mandir Donation Row: Plea Filed In SC Seeks FIR, CBI-Led Probe Into Alleged Embezzlement Of Funds",
+          "summary": "A plea has been filed in the Supreme Court seeking an FIR and a CBI-led investigation into alleged irregularities in the collection of donations for the Ayodhya Ram Temple. The petitioners have raised concerns about potential embezzlement of funds, which could have significant implications for the temple's construction and the trust responsible for its management.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/ayodhya-ram-mandir-donation-row-plea-filed-in-sc-seeks-fir-cbi-led-probe-into-alleged-embezzlement-of-funds-article-154731746"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-06-23T14:34:56.431373+00:00",
     "brief": "Global oil trade and shipping may be impacted by Iran's announcement that it will administer the Strait of Hormuz under international law following talks with the US. This development, combined with the closure of Pakistan's airspace and conflict in West Asia, is also affecting Indian airlines and the country's aviation industry. Meanwhile, the Indian economy is closely watching the Reserve Bank of India's monetary policy decisions, with the possibility of a growth rate exceeding 7% if oil prices fall further, and the World Bank has approved a $1.5 billion loan to support India's structural reforms and job creation.",
     "categories": {
