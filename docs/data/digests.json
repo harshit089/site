@@ -1,5 +1,121 @@
 [
   {
+    "generated_at": "2026-06-23T09:27:52.959208+00:00",
+    "brief": "Today's brief highlights the intersection of geopolitics and economy, as the G7 Summit and US-Iran tensions continue to shape global narratives, while the Reserve Bank of India's Monetary Policy Committee projects a growth rate of 6.6% for FY27, which could increase to over 7% if oil prices fall further. Meanwhile, the World Bank's approval of a $1.5 billion loan to support India's reforms and job creation underscores the country's efforts to bolster its economic resilience, amidst a backdrop of global economic uncertainty and geopolitical instability. The ongoing tensions in West Asia are also having a ripple effect on India's startup funding options and the aviation industry, with Indian airlines facing significant losses due to airspace closures and conflicts in the region.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "G7 Summit: Trump, Meloni And The Question Of The Photo Op",
+          "summary": "The G7 Summit highlighted how political performance and media attention influence international diplomacy and global leadership narratives, as seen in the exchange between Donald Trump and Giorgia Meloni. This intersection of politics and media can shape global perceptions and relationships. The incident showcases the evolving nature of diplomacy in the modern era.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/analysis/g7-summit-trump-meloni-and-the-question-of-the-photo-op"
+        },
+        {
+          "title": "Trump escalates attack on New York Times over Iran war",
+          "summary": "US President Donald Trump intensified his criticism of The New York Times over its reporting on the Iran war. This escalation reflects the ongoing tensions between the US and Iran, as well as the role of media in shaping public discourse on international conflicts. The incident highlights the complex dynamics of global politics and media.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/trump-escalates-attack-on-new-york-times-over-iran-war/"
+        },
+        {
+          "title": "Geopolitical jolt: How airspace closures and global conflict are hurting Indian airlines",
+          "summary": "The closure of Pakistan's airspace and conflicts in West Asia have forced Indian airlines like IndiGo and Air India to cut routes and suspend destinations, resulting in significant losses. This geopolitical instability affects not only the aviation industry but also India's international market share. The situation underscores the interconnectedness of global events and their impact on national economies.",
+          "source": "Firstpost",
+          "url": "https://www.firstpost.com/business/geopolitical-jolt-how-airspace-closures-and-global-conflict-are-hurting-indian-airlines-14025035.html"
+        },
+        {
+          "title": "How India's maitrata doctrine benefits from the US-Iran truce",
+          "summary": "India's maitrata doctrine, which emphasizes cultural diplomacy and dialogue, has benefited from the truce between the US and Iran. By combining cultural initiatives like International Yoga Day with high-stakes geopolitical dialogue, India has cemented its global role. This approach allows India to navigate complex international relationships and promote its interests.",
+          "source": "ThePrint",
+          "url": "https://theprint.in/opinion/forthwrite/how-indias-maitrata-doctrine-benefits-from-the-us-iran-truce/2966506/"
+        },
+        {
+          "title": "War reconstruction needs in Middle East: FM",
+          "summary": "South Korea has established a task force to identify country-specific post-war reconstruction needs in the Middle East. This initiative reflects the region's ongoing conflicts and the need for international cooperation in rebuilding and recovery efforts. South Korea's move highlights the importance of planning for post-conflict reconstruction and the role of international actors in supporting these efforts.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/south-korea-identifying-country-specific-post-war-reconstruction-needs-in-middle-east-fm/"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "RBI MPC: Growth rate could top 7% if oil prices fall further",
+          "summary": "The Reserve Bank of India's Monetary Policy Committee (MPC) has projected a growth rate of 6.6% for FY27, but this could increase to over 7% if oil prices fall further. The economy expanded at 7.7% in the January-March quarter, exceeding earlier estimates. The MPC will closely monitor incoming data to assess inflation impact.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-mpc-growth-rate-could-top-7-if-oil-prices-fall-further/articleshow/131922542.cms"
+        },
+        {
+          "title": "Talks Of RBI Rate Hike Unwarranted Amid Highest Policy Cautiousness Since 2016 & Severe Monsoon Deficit: SBI Report",
+          "summary": "According to a report by the SBI, discussions around a possible interest rate hike by the Reserve Bank of India are unwarranted due to elevated uncertainty surrounding inflation, monsoon progress, and global economic conditions. The report suggests that policymakers should exercise caution in their decision-making. This uncertainty could impact the RBI's monetary policy decisions.",
+          "source": "Republic World",
+          "url": "https://www.republicworld.com/business/talks-of-rate-hike-unwarranted-amid-elevated-uncertainty-monsoon-concerns-sbi-report-2026-06-22-129433"
+        },
+        {
+          "title": "Warsh Fed era heralds a new trial for Asian currencies",
+          "summary": "The new Federal Reserve chief Kevin Warsh's hawkish stance on inflation has signaled a stronger dollar, posing a challenge for Asian economies reliant on exports. This could force nations like Japan, Indonesia, and India to intervene in currency markets and raise borrowing costs. The shift in the Fed's policy is being closely watched by investors worldwide.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/warsh-fed-era-heralds-a-new-trial-for-asian-currencies/articleshow/131906116.cms"
+        },
+        {
+          "title": "The benefits and risks of RBI’s policy on foreign currency NRI deposits",
+          "summary": "The government is looking at NRIs to make foreign currency deposits in Indian banks to shore up the rupee. This policy has implications for India's external debt management, and its benefits and risks need to be considered. The move aims to support the rupee, but its impact on the economy needs to be evaluated.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/economy/rbi-foreign-currency-nri-deposits-rupee-defence-risks-explained-11782041864329.html"
+        }
+      ],
+      "Business": [
+        {
+          "title": "World Bank approves USD 1.5 bn loan to support India's reforms, job creation",
+          "summary": "The World Bank has approved a $1.5 billion loan to support India's structural reforms and job creation, aiming to simplify business regulations, enhance trade, and improve access to capital. This initiative is expected to create employment for millions of young Indians and bolster the nation's economic resilience. The funding aligns with the government's long-term development vision, focusing on private sector-led growth.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/finance/world-bank-approves-15-billion-loan-to-drive-job-creation-and-economic-reforms-in-india/articleshow/131909557.cms"
+        },
+        {
+          "title": "West Asia conflict tightens the tap on India's startup funding options",
+          "summary": "The escalating tensions in West Asia have made investors more cautious, resulting in a 43% decrease in India's startup funding since March. This decrease in funding may impact the growth and development of Indian startups. The conflict has led to a more cautious approach from investors, affecting the startup ecosystem in India.",
+          "source": "Business Standard",
+          "url": "https://www.business-standard.com/markets/news/west-asia-crisis-pulls-startup-funding-down-43-yoy-since-march-126062100439_1.html"
+        },
+        {
+          "title": "ADB to maintain private sector funding pace in India, eyes $1 billion support in 2026",
+          "summary": "The Asian Development Bank (ADB) plans to maintain its private sector funding pace in India, aiming to provide $1 billion in support by 2026. India remains the largest market for ADB's private sector operations, and the bank expects to continue its funding efforts in the country. This support is expected to contribute to India's economic growth and development.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/adb-to-maintain-private-sector-funding-pace-in-india-eyes-1-billion-support-in-2026/articleshow/131889694.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Madras HC seeks stray dog management reports from Tamil Nadu, Puducherry govt",
+          "summary": "The Madras High Court has asked the governments of Tamil Nadu and Puducherry to submit reports on their stray dog management efforts, following a Supreme Court directive. This move aims to address the issue of stray dogs in the region. The court's action is a response to a newspaper report highlighting alarming statistics on the matter.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/madras-hc-seeks-stray-dog-management-reports-from-tamil-nadu-puducherry-govt-101782142574674.html"
+        },
+        {
+          "title": "How India’s roads evolved into the world’s second-largest network",
+          "summary": "India's road network has become the world's second-largest, with the Supreme Court recognizing safe walking on footpaths as a fundamental right. The evolution of India's roads can be traced from the Nagpur Plan to the Bharatmala Pariyojana and PM GatiShakti. This development highlights the country's efforts to improve its infrastructure.",
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/how-indias-roads-evolved-into-the-worlds-second-largest-network-10752178/"
+        },
+        {
+          "title": "Jindal Poly Films row reaches SC again as minority investors seek revival of class action suit",
+          "summary": "Minority shareholders of Jindal Poly Films have approached the Supreme Court to revive India's first corporate class action suit. They argue that the dispute, which was sent to arbitration, cannot be settled without their proper representation. The shareholders are seeking to safeguard public investors' rights and ensure a fair adjudication of the case.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/jindal-poly-films-row-reaches-sc-again-as-minority-investors-seek-revival-of-class-action-suit/articleshow/131912103.cms"
+        },
+        {
+          "title": "HC refuses to interfere with Delhi govt notice on CAG audit of BSES Rajdhani, BSES Yamuna",
+          "summary": "The Delhi High Court has refused to interfere with the Delhi government's proposal to have the Comptroller and Auditor General of India (CAG) audit BSES Rajdhani Power Ltd and BSES Yamuna Power Ltd. The court dismissed a petition by the power companies, allowing the CAG audit to proceed. This decision may impact the companies' operations and finances.",
+          "source": "ThePrint",
+          "url": "https://theprint.in/india/hc-refuses-to-interfere-with-delhi-govt-notice-on-cag-audit-of-bses-rajdhani-bses-yamuna/2966686/"
+        },
+        {
+          "title": "Centre reappoints Tushar Mehta as Solicitor General of India",
+          "summary": "The Centre has reappointed Tushar Mehta as the Solicitor General of India, a key position in the country's legal system. The Appointments Committee of the Cabinet has also cleared the reappointments of five Additional Solicitor Generals for the Supreme Court. This move may have implications for the country's legal landscape and the functioning of the Supreme Court.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/delhi/centre-reappoints-tushar-mehta-as-solicitor-general-of-india/"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-06-23T02:38:01.013860+00:00",
     "brief": "Global events are having a significant impact on India's economy and businesses, with the ongoing conflict in West Asia affecting the country's aviation industry and startup funding options. The US-Iran truce, however, is seen as a positive development for India's cultural diplomacy and global influence, with the country's maitrata doctrine benefiting from the improved relations. Meanwhile, the Reserve Bank of India is exercising caution in its monetary policy decisions, choosing not to hike interest rates due to uncertainty surrounding inflation and global economic conditions, a move that is being closely watched by investors and economists.",
     "categories": {
