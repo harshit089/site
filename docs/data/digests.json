@@ -1,5 +1,109 @@
 [
   {
+    "generated_at": "2026-06-24T02:38:42.155663+00:00",
+    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. Iran's stance against the US, particularly its control over the Strait of Hormuz, has major implications for global trade and security, while also inspiring other countries in the Global South to stand up to major world powers. Meanwhile, in the economy, the legacy of former Federal Reserve chairman Alan Greenspan continues to shape US economic policy, and the Reserve Bank of India's Monetary Policy Committee is closely monitoring inflation and growth rates, with potential implications for interest rates and trade agreements, including the ongoing high-level trade talks between India and the US.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Iran’s lesson to the Global South on standing up to Donald Trump",
+          "summary": "Iran's stance against the US has cemented its position as a major regional power, with significant implications for Middle Eastern geopolitics. This development could inspire other countries in the Global South to stand up to major world powers. The situation highlights the complex dynamics at play in international relations.",
+          "source": "Scroll.in",
+          "url": "https://scroll.in/article/1093762/irans-lesson-to-the-global-south-on-standing-up-to-donald-trump"
+        },
+        {
+          "title": "‘Never trust Americans’: Iran draws red line at Strait of Hormuz, warning Trump it will ‘never’ relinquish control",
+          "summary": "Iran's Parliament Speaker has stated that the Strait of Hormuz will remain under Iran's control, following international laws, and will not return to its pre-war status. This declaration is a significant development in the geopolitical tensions between Iran and the US. The situation has implications for global trade and security.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/world-news/never-trust-americans-iran-draws-red-line-at-strait-of-hormuz-warning-trump-it-will-never-relinquish-control/4274261/"
+        },
+        {
+          "title": "‘Hormuz will never return to pre-war status’: Iran Speaker after US talks",
+          "summary": "Iran's Parliament Speaker has reaffirmed that the Strait of Hormuz will remain under Iran's control, in line with international rules, and will not revert to its pre-war status. This statement is a clear indication of Iran's stance on the issue, following talks with the US. The development has significant implications for regional and global geopolitics.",
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/shorts/world/strait-of-hormuz-iran-war-united-states-talks-parliament-speaker-mohammad-bagher-ghalibaf-10752928/"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Alan Greenspan Dies at 100: Legacy of Economic Influence and Controversy",
+          "summary": "Alan Greenspan, the former Federal Reserve chairman, has passed away at 100, leaving behind a legacy of significant economic influence and controversy. His monetary policies during his tenure shaped the US economy and sparked debates about their impact on the financial crisis. His legacy continues to have a lasting impact on economic policy.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/alan-greenspan-us-fed-maestro-dies-at-100/articleshow/131927402.cms"
+        },
+        {
+          "title": "RBI MPC: Growth rate could top 7% if oil prices fall further",
+          "summary": "The Reserve Bank of India's Monetary Policy Committee (MPC) has projected a growth rate of 6.6% for FY27, but notes that it could exceed 7% if oil prices fall further. The economy expanded at 7.7% in the January-March quarter, exceeding earlier estimates. The MPC will closely monitor incoming data to assess the impact of inflation.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-mpc-growth-rate-could-top-7-if-oil-prices-fall-further/articleshow/131922542.cms"
+        },
+        {
+          "title": "Talks Of RBI Rate Hike Unwarranted Amid Highest Policy Cautiousness Since 2016 & Severe Monsoon Deficit: SBI Report",
+          "summary": "A report by the SBI states that discussions around a possible interest rate hike by the Reserve Bank of India are unwarranted due to elevated uncertainty surrounding inflation, monsoon progress, and global economic conditions. The report suggests that policymakers are being cautious in their decision-making. The RBI is currently grappling with multiple challenges, including a severe monsoon deficit.",
+          "source": "Republic World",
+          "url": "https://www.republicworld.com/business/talks-of-rate-hike-unwarranted-amid-elevated-uncertainty-monsoon-concerns-sbi-report-2026-06-22-129433"
+        },
+        {
+          "title": "Warsh Fed era heralds a new trial for Asian currencies",
+          "summary": "The new Federal Reserve chief, Kevin Warsh, has taken a hawkish stance on inflation, signaling a stronger dollar and posing a challenge for Asian economies reliant on exports. This has forced nations like Japan, Indonesia, and India to intervene in currency markets and raise borrowing costs. The dollar's strength is a global concern, with emerging markets like Turkey also facing currency pressures.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/warsh-fed-era-heralds-a-new-trial-for-asian-currencies/articleshow/131906116.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Akasa Air plans IPO in next 2-4 years",
+          "summary": "Akasa Air is planning to go public in the next 2-4 years as it expands its fleet and routes, with improving earnings and new funding. The airline aims to grow across India and Southeast Asia. This move is seen as a significant step for the airline's growth and expansion plans.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/market/akasa-air-plans-ipo-in-next-2-4-years-share-sale-is-a-question-of-when-cfo-19930755.htm"
+        },
+        {
+          "title": "World Bank approves $1.5 billion loan to support India's reforms",
+          "summary": "The World Bank has approved a $1.5 billion loan to support India's reforms and job creation. The funding will help simplify business regulations, enhance trade, and improve access to capital, creating employment opportunities for millions of young Indians. This initiative aligns with the government's long-term development vision.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/finance/world-bank-approves-15-billion-loan-to-drive-job-creation-and-economic-reforms-in-india/articleshow/131909557.cms"
+        },
+        {
+          "title": "West Asia conflict affects India's startup funding",
+          "summary": "The escalating tensions in West Asia have made investors more cautious, resulting in a 43% decrease in startup funding in India since March. This has tightened the funding options for Indian startups. The conflict has led to a more risk-averse approach among investors, impacting the startup ecosystem.",
+          "source": "Business Standard",
+          "url": "https://www.business-standard.com/markets/news/west-asia-crisis-pulls-startup-funding-down-43-yoy-since-march-126062100439_1.html"
+        },
+        {
+          "title": "ADB to maintain private sector funding pace in India",
+          "summary": "The Asian Development Bank (ADB) plans to maintain its private sector funding pace in India, with a target of providing $1 billion in support in 2026. India remains the largest market for ADB's private sector operations. The bank aims to continue supporting the growth of the private sector in India.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/adb-to-maintain-private-sector-funding-pace-in-india-eyes-1-billion-support-in-2026/articleshow/131889694.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "India 'proactively monitoring' Telegram over concerns about illegal content, government report shows",
+          "summary": "The Indian government is closely monitoring Telegram due to concerns about the spread of illegal content, including child abuse material and financial scams, on the platform. This move follows a temporary ban and ongoing global investigations into Telegram's handling of such content. The government has received hundreds of thousands of cyber fraud complaints, prompting this scrutiny.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/india-proactively-monitoring-telegram-over-concerns-about-illegal-content-government-report-shows/articleshow/131934851.cms"
+        },
+        {
+          "title": "Supreme Court Halts Early Release of 1993 Kolkata Blast Convict",
+          "summary": "The Supreme Court has stayed the premature release of a convict in the 1993 Kolkata Bowbazar blast case, citing the severity of the crime and its impact on victims. This decision highlights the court's emphasis on ensuring justice for victims of serious crimes. The case is significant due to its impact on the legal framework surrounding the release of convicts in serious cases.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/test-article-sc-stays-delhi-hc-order-for-premature-release-of-1993-kolkata-bowbazaar-blast-case/articleshow/131932486.cms"
+        },
+        {
+          "title": "Karnataka's Active Mobility Bill: A Step Towards Safer Streets for Pedestrians",
+          "summary": "The Active Mobility Bill in Karnataka aims to ensure safer streets for pedestrians and cyclists, following a Supreme Court ruling on walking rights. The bill's enactment is seen as a crucial step towards promoting pedestrian-friendly infrastructure and reducing accidents. This development is significant for urban planning and road safety in India.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/with-sc-push-for-walkers-rights-it-may-be-time-for-karnataka-to-table-active-mobility-bill/articleshow/131931176.cms"
+        },
+        {
+          "title": "India, US begin high-level trade talks as two nations rework deal amid tariff changes",
+          "summary": "India and the US have initiated high-level trade talks to rework their bilateral trade agreement, following changes in US tariffs and a Supreme Court ruling. The talks aim to recalibrate the trade framework, including tariff commitments, energy purchases, and market access for goods from both countries. This development is crucial for one of the world's most important economic partnerships.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/economy/india-us-begin-high-level-trade-talks-as-two-nations-rework-deal-amid-tariff-changes/article71136631.ece"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-06-23T19:53:05.637814+00:00",
     "brief": "Tensions between the US and Iran continue to simmer, with Iran's Parliament Speaker reiterating that the Strait of Hormuz will remain under Iranian control, managed according to international laws. This development has significant implications for global trade and geopolitics. Meanwhile, in the economic sphere, the Reserve Bank of India's Monetary Policy Committee has projected a growth rate of 6.6% for the current fiscal year, which could increase to over 7% if oil prices fall further. Additionally, the World Bank has approved a $1.5 billion loan to support India's structural reforms and job creation, aiming to simplify business regulations and enhance trade.",
     "categories": {
