@@ -1,5 +1,121 @@
 [
   {
+    "generated_at": "2026-06-24T19:29:18.517207+00:00",
+    "brief": "Tensions are escalating globally, with North Korea warning of a potential nuclear war and announcing plans to expand its naval capabilities, while the US and Iran are at odds over tolls on ships passing through the Strait of Hormuz. Meanwhile, in the economic sphere, the Reserve Bank of India is cautiously monitoring growth and inflation, and the new Federal Reserve chief's hawkish stance on inflation is posing a challenge for Asian economies. These developments are having a ripple effect on various sectors, including business, where startup funding in India has decreased due to the West Asia conflict, and the World Bank has approved a $1.5 billion loan to support India's reforms and job creation.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "North Korea bets big on navy with newest destroyer; Kim issues 'brink of nuclear war' warning",
+          "summary": "North Korean leader Kim Jong Un has announced plans to build two warships similar to the 5,000-ton destroyer Choe Hyon over the next five years, and warned of a potential nuclear war. This development highlights North Korea's efforts to strengthen its naval capabilities. The move is likely to have implications for regional security and international relations.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/north-korea-bets-big-on-navy-with-first-destroyer-kim-issues-brink-of-nuclear-war-warning/articleshow/131956672.cms"
+        },
+        {
+          "title": "Why Russia is suddenly building giant shelters for bombers that once sat in the open",
+          "summary": "Russia has started constructing large protective shelters for its strategic bombers at Engels Air Base, as seen in satellite images. This move suggests that Russia is taking steps to enhance the security and protection of its military assets. The construction of these shelters may be a response to changing geopolitical circumstances.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/why-russia-is-suddenly-building-giant-shelters-for-bombers-that-once-sat-in-the-open/articleshow/131956011.cms"
+        },
+        {
+          "title": "US Senate passes resolution to curb Trump's war powers on Iran",
+          "summary": "The US Senate has passed a resolution aimed at limiting President Donald Trump's ability to take military action against Iran without congressional approval. This move reflects ongoing debates about the balance of power between the executive and legislative branches in the US. The resolution may have implications for US foreign policy and relations with Iran.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/us-senate-passes-resolution-to-curb-trumps-war-powers-on-iran/"
+        },
+        {
+          "title": "'Violation of international law': Hormuz row deepens as Rubio rejects Iranian tolls on key waterway",
+          "summary": "The US has rejected Iran's proposal to impose tolls on ships passing through the Strait of Hormuz, citing international law. This dispute highlights ongoing tensions between the US and Iran, as well as the importance of the Strait of Hormuz as a key shipping route. The issue may have implications for global trade and regional security.",
+          "source": "Firstpost",
+          "url": "https://www.firstpost.com/world/violation-of-international-law-hormuz-row-deepens-as-rubio-rejects-iranian-tolls-on-key-waterway-14025568.html"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Alan Greenspan Dies at 100: Legacy of Economic Influence and Controversy",
+          "summary": "Alan Greenspan, the former Federal Reserve chairman, has passed away at 100, leaving behind a legacy of economic influence and controversy. His tenure shaped the US economy and sparked debates about his monetary policies. His legacy continues to impact economic policy, making his life's work relevant to understanding global economic trends.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/alan-greenspan-us-fed-maestro-dies-at-100/articleshow/131927402.cms"
+        },
+        {
+          "title": "RBI MPC: Growth rate could top 7% if oil prices fall further",
+          "summary": "The Reserve Bank of India's Monetary Policy Committee (MPC) has projected a growth rate of 6.6% for FY27, but notes that it could exceed 7% if oil prices fall further. The economy expanded at 7.7% in the January-March quarter, exceeding earlier estimates. The MPC will closely monitor incoming data to assess the impact of inflation and other factors on growth.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-mpc-growth-rate-could-top-7-if-oil-prices-fall-further/articleshow/131922542.cms"
+        },
+        {
+          "title": "Talks Of RBI Rate Hike Unwarranted Amid Highest Policy Cautiousness Since 2016 & Severe Monsoon Deficit: SBI Report",
+          "summary": "A report by the SBI suggests that discussions around a possible interest rate hike by the RBI are unwarranted due to elevated uncertainty surrounding inflation, monsoon progress, and global economic conditions. The report notes that policymakers are exercising caution, and a rate hike may not be necessary at this stage. The RBI's decision will depend on various factors, including inflation and economic growth.",
+          "source": "Republic World",
+          "url": "https://www.republicworld.com/business/talks-of-rate-hike-unwarranted-amid-elevated-uncertainty-monsoon-concerns-sbi-report-2026-06-22-129433"
+        },
+        {
+          "title": "Warsh Fed era heralds a new trial for Asian currencies",
+          "summary": "The new Federal Reserve chief, Kevin Warsh, has taken a hawkish stance on inflation, signaling a stronger dollar and posing a challenge for Asian economies reliant on exports. This has forced nations like Japan, Indonesia, and India to intervene in currency markets and raise borrowing costs. The dollar's strength is a global concern, and investors are watching closely as the Fed's policy shifts reverberate worldwide.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/warsh-fed-era-heralds-a-new-trial-for-asian-currencies/articleshow/131906116.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Akasa Air plans IPO in next 2-4 years",
+          "summary": "Akasa Air is planning to go public in the next 2-4 years as it expands its fleet and routes, with improving earnings and new funding. The airline aims to grow across India and Southeast Asia. This development indicates the airline's ambitious growth plans and potential for expansion in the aviation sector.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/market/akasa-air-plans-ipo-in-next-2-4-years-share-sale-is-a-question-of-when-cfo-19930755.htm"
+        },
+        {
+          "title": "World Bank approves $1.5 billion loan to support India's reforms",
+          "summary": "The World Bank has approved a $1.5 billion loan to support India's reforms and job creation. The funding will help simplify business regulations, enhance trade, and improve access to capital, creating employment opportunities for millions of young Indians. This initiative aligns with the government's long-term development vision.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/finance/world-bank-approves-15-billion-loan-to-drive-job-creation-and-economic-reforms-in-india/articleshow/131909557.cms"
+        },
+        {
+          "title": "West Asia conflict impacts India's startup funding",
+          "summary": "The escalating tensions in West Asia have made investors more cautious, resulting in a 43% decrease in startup funding in India since March. This development highlights the impact of global events on India's startup ecosystem and the need for founders to be prepared for changing market conditions.",
+          "source": "Business Standard",
+          "url": "https://www.business-standard.com/markets/news/west-asia-crisis-pulls-startup-funding-down-43-yoy-since-march-126062100439_1.html"
+        },
+        {
+          "title": "ADB to maintain private sector funding pace in India",
+          "summary": "The Asian Development Bank (ADB) plans to maintain its private sector funding pace in India, with a target of providing $1 billion in support in 2026. India remains the largest market for ADB's private sector operations, indicating the country's significance in the regional economy.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/adb-to-maintain-private-sector-funding-pace-in-india-eyes-1-billion-support-in-2026/articleshow/131889694.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "SC stays release of 1993 Kolkata blast convict release, says act akin to terrorism",
+          "summary": "The Supreme Court has stayed the release of Rashid Khan, a convict in the 1993 Kolkata blast case, who was sentenced to life imprisonment. The court's decision comes after the Delhi High Court had ordered his release. The apex court has equated the act with terrorism.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/sc-stays-93-kolkata-blast-convict-release-says-act-akin-to-terrorism/articleshow/131953462.cms"
+        },
+        {
+          "title": "Tamil Nadu govt moves SC against HC order on lighting Karthigai Deepam on Madurai hill",
+          "summary": "The Tamil Nadu government has approached the Supreme Court against a High Court order allowing the lighting of Karthigai Deepam near a dargah in Madurai. The move revives a contentious legal dispute. The state government filed a Special Leave Petition before the apex court.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/tamil-nadu-govt-moves-sc-against-hc-order-on-lighting-karthigai-deepam-on-madurai-hill-101782262821265.html"
+        },
+        {
+          "title": "SC declines urgent hearing in ration denial linked to SIR",
+          "summary": "The Supreme Court has declined an urgent hearing on a plea related to the denial of ration benefits in West Bengal due to electoral roll exclusions. The court has directed the matter to the Calcutta High Court instead. The plea is related to the exclusion of people from welfare benefits.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/sc-declines-urgent-hearing-in-ration-denial-linked-to-sir-101782241366257.html"
+        },
+        {
+          "title": "India 'proactively monitoring' Telegram over concerns about illegal content, government report shows",
+          "summary": "The Indian government is closely monitoring Telegram due to concerns about the spread of illegal content on the platform. A government report has highlighted the use of Telegram for child abuse material and financial scams. The scrutiny comes amid a temporary ban and ongoing global investigations into illegal content on the platform.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/india-proactively-monitoring-telegram-over-concerns-about-illegal-content-government-report-shows/articleshow/131934851.cms"
+        },
+        {
+          "title": "US flags resolve for ‘fair deal’ as Goyal, Greer meet on BTA",
+          "summary": "India and the US have held key ministerial talks to advance an interim trade deal. The talks come amid a US Supreme Court ruling invalidating reciprocal tariffs. The two countries are negotiating to enhance bilateral trade and economic cooperation.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/business/news/us-flags-resolve-for-fair-deal-as-goyal-greer-meet-on-bta/4274740/"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-06-24T14:13:32.340475+00:00",
     "brief": "Tensions between the US and Iran continue to escalate, with the US rejecting Iran's proposal to impose tolls on the Strait of Hormuz, a key waterway for global shipping and trade. This development has significant implications for international relations and the global economy, particularly as the Reserve Bank of India projects a growth rate of 6.6% for FY27, which could be impacted by fluctuations in oil prices. Meanwhile, the global economic landscape is also being shaped by the legacy of former Federal Reserve chairman Alan Greenspan, who passed away at 100, and the new Federal Reserve chief Kevin Warsh's hawkish stance on inflation, which is posing a challenge for Asian economies reliant on exports.",
     "categories": {
