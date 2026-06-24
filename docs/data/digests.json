@@ -1,5 +1,121 @@
 [
   {
+    "generated_at": "2026-06-24T08:56:48.718542+00:00",
+    "brief": "Tensions in the Strait of Hormuz continue to escalate, with US Senator Marco Rubio stating that no country can impose tolls on the strategic waterway, while Iran's Parliament Speaker has drawn a red line at managing the passage according to international laws. Meanwhile, the global economy is also experiencing significant developments, including the passing of former Federal Reserve chairman Alan Greenspan, who left behind a legacy of economic influence and controversy. As the Reserve Bank of India projects a growth rate of 6.6% for FY27, the ongoing conflict in West Asia is having a ripple effect on India's startup funding, with a 43% decrease in funding since March, highlighting the complex interplay between geopolitics and economic trends.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Rubio Says No One Allowed To Impose Toll On Strait Of Hormuz",
+          "summary": "US Senator Marco Rubio stated that no country can impose tolls on the Strait of Hormuz under international law, as Iran seeks to generate revenue amid ongoing conflict discussions in West Asia. This statement highlights the geopolitical tensions surrounding the strategic waterway. The US position on the matter is significant due to the strait's importance for global oil trade.",
+          "source": "News18",
+          "url": "https://www.news18.com/world/its-an-international-waterway-rubio-says-no-one-allowed-to-impose-toll-on-strait-of-hormuz-ws-l-10169189.html"
+        },
+        {
+          "title": "Rubio says US will not accept Iranian tolls on Hormuz",
+          "summary": "US Secretary of State Marco Rubio asserted that the US will not permit Iran to impose tolls on the Strait of Hormuz, an international waterway. This comes as Iran and Oman consider studying administration and costs for the route, claiming sovereignty. The situation is part of broader diplomatic efforts and conflict in the region.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/rubio-says-us-will-not-accept-iranian-tolls-on-hormuz/articleshow/131945912.cms"
+        },
+        {
+          "title": "Iran’s lesson to the Global South on standing up to Donald Trump",
+          "summary": "The ongoing conflict has solidified Iran's position as a major regional power, with lasting implications for Middle Eastern geopolitics. This development could influence how other countries in the Global South interact with major world powers. The situation reflects the complex dynamics at play in international relations.",
+          "source": "Scroll.in",
+          "url": "https://scroll.in/article/1093762/irans-lesson-to-the-global-south-on-standing-up-to-donald-trump"
+        },
+        {
+          "title": "‘Never trust Americans’: Iran draws red line at Strait of Hormuz",
+          "summary": "Iran's Parliament Speaker Mohammad Bagher Ghalibaf stated that the Strait of Hormuz will not return to its pre-war state and Iran will manage the passage according to international laws. This declaration is part of the ongoing tensions and negotiations between Iran and the US, with talks resulting in some progress on frozen funds and sanctions relief.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/world-news/never-trust-americans-iran-draws-red-line-at-strait-of-hormuz-warning-trump-it-will-never-relinquish-control/4274261/"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Alan Greenspan Dies at 100: Legacy of Economic Influence and Controversy",
+          "summary": "Alan Greenspan, the former Federal Reserve chairman, has passed away at 100, leaving behind a legacy of significant economic influence and controversy. His tenure shaped the US economy and sparked debates about his monetary policies. His legacy continues to impact economic policy decisions.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/alan-greenspan-us-fed-maestro-dies-at-100/articleshow/131927402.cms"
+        },
+        {
+          "title": "RBI MPC: Growth rate could top 7% if oil prices fall further",
+          "summary": "The Reserve Bank of India's Monetary Policy Committee (MPC) has projected a growth rate of 6.6% for FY27, but notes that it could exceed 7% if oil prices fall further. The economy expanded at 7.7% in the January-March quarter, exceeding earlier estimates. The MPC will closely monitor incoming data to assess inflation impact.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-mpc-growth-rate-could-top-7-if-oil-prices-fall-further/articleshow/131922542.cms"
+        },
+        {
+          "title": "Talks Of RBI Rate Hike Unwarranted Amid Highest Policy Cautiousness Since 2016 & Severe Monsoon Deficit: SBI Report",
+          "summary": "A report by the SBI suggests that discussions around a possible interest rate hike by the Reserve Bank of India are unwarranted due to elevated uncertainty surrounding inflation, monsoon progress, and global economic conditions. The report notes that policymakers are exercising caution, making a rate hike unlikely at this stage.",
+          "source": "Republic World",
+          "url": "https://www.republicworld.com/business/talks-of-rate-hike-unwarranted-amid-elevated-uncertainty-monsoon-concerns-sbi-report-2026-06-22-129433"
+        },
+        {
+          "title": "Warsh Fed era heralds a new trial for Asian currencies",
+          "summary": "The new Federal Reserve chief, Kevin Warsh, has taken a hawkish stance on inflation, signaling a stronger dollar and posing a challenge for Asian economies reliant on exports. This has forced nations like Japan, Indonesia, and India to intervene in currency markets and raise borrowing costs, with investors watching closely as the Fed's policy shifts reverberate worldwide.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/warsh-fed-era-heralds-a-new-trial-for-asian-currencies/articleshow/131906116.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Akasa Air plans IPO in next 2-4 years",
+          "summary": "Akasa Air is planning to go public in the next 2-4 years as it expands its fleet and routes, with improving earnings and new funding. The airline aims to grow across India and Southeast Asia. This move is seen as a significant step for the airline's growth and expansion plans.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/market/akasa-air-plans-ipo-in-next-2-4-years-share-sale-is-a-question-of-when-cfo-19930755.htm"
+        },
+        {
+          "title": "World Bank approves $1.5 billion loan to support India's reforms",
+          "summary": "The World Bank has approved a $1.5 billion loan to support India's reforms and job creation efforts. The funding will help simplify business regulations, enhance trade, and improve access to capital, aiming to create employment for millions of young Indians. This initiative aligns with the government's long-term development vision.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/finance/world-bank-approves-15-billion-loan-to-drive-job-creation-and-economic-reforms-in-india/articleshow/131909557.cms"
+        },
+        {
+          "title": "West Asia conflict impacts India's startup funding",
+          "summary": "The escalating tensions in West Asia have made investors more cautious, resulting in a 43% decrease in startup funding in India since March. This has tightened the funding options for Indian startups. The conflict has led to a more risk-averse approach among investors.",
+          "source": "Business Standard",
+          "url": "https://www.business-standard.com/markets/news/west-asia-crisis-pulls-startup-funding-down-43-yoy-since-march-126062100439_1.html"
+        },
+        {
+          "title": "ADB to maintain private sector funding pace in India",
+          "summary": "The Asian Development Bank (ADB) plans to maintain its private sector funding pace in India, with a target of providing $1 billion in support by 2026. India remains the largest market for ADB's private sector operations. The funding will support various initiatives and projects in the country.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/adb-to-maintain-private-sector-funding-pace-in-india-eyes-1-billion-support-in-2026/articleshow/131889694.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "US flags resolve for ‘fair deal’ as Goyal, Greer meet on BTA",
+          "summary": "India and the US are holding key ministerial talks to advance an interim trade deal, aiming to enhance bilateral trade and economic cooperation. The talks come after a US Supreme Court ruling invalidated reciprocal tariffs, affecting the trade agreement. The negotiations are crucial for both countries to reach a fair deal.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/business/news/us-flags-resolve-for-fair-deal-as-goyal-greer-meet-on-bta/4274740/"
+        },
+        {
+          "title": "India 'proactively monitoring' Telegram over concerns about illegal content, government report shows",
+          "summary": "The Indian government is closely monitoring Telegram due to concerns about the app's use for illegal activities such as child abuse and financial scams. A government report has highlighted the challenges posed by Telegram's privacy features in identifying and prosecuting offenders. This scrutiny is part of India's efforts to combat cybercrime and protect its citizens.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/india-proactively-monitoring-telegram-over-concerns-about-illegal-content-government-report-shows/articleshow/131934851.cms"
+        },
+        {
+          "title": "Supreme Court Halts Early Release of 1993 Kolkata Blast Convict",
+          "summary": "The Supreme Court of India has stayed the premature release of a convict in the 1993 Kolkata blast case, citing the severity of the crime and its impact on victims. The court's decision emphasizes the need for justice and accountability in such cases. This ruling may have implications for similar cases in the future.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/test-article-sc-stays-delhi-hc-order-for-premature-release-of-1993-kolkata-bowbazaar-blast-case/articleshow/131932486.cms"
+        },
+        {
+          "title": "Karnataka's Active Mobility Bill: A Step Towards Safer Streets for Pedestrians",
+          "summary": "The Karnataka government is considering enacting the Active Mobility Bill to ensure safer streets for pedestrians and cyclists. The bill's passage is crucial in the wake of a Supreme Court ruling on walking rights, which emphasizes the need for pedestrian-friendly infrastructure. The proposed legislation aims to promote sustainable transportation and reduce accidents.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/with-sc-push-for-walkers-rights-it-may-be-time-for-karnataka-to-table-active-mobility-bill/articleshow/131931176.cms"
+        },
+        {
+          "title": "India, US begin high-level trade talks as two nations rework deal amid tariff changes",
+          "summary": "India and the US have begun high-level trade talks to rework a framework agreement announced earlier this year. The talks are necessary due to changes in tariff commitments following a US Supreme Court ruling. The negotiations aim to establish a new trade deal that benefits both countries and promotes economic cooperation.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/economy/india-us-begin-high-level-trade-talks-as-two-nations-rework-deal-amid-tariff-changes/article71136631.ece"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-06-24T02:38:42.155663+00:00",
     "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. Iran's stance against the US, particularly its control over the Strait of Hormuz, has major implications for global trade and security, while also inspiring other countries in the Global South to stand up to major world powers. Meanwhile, in the economy, the legacy of former Federal Reserve chairman Alan Greenspan continues to shape US economic policy, and the Reserve Bank of India's Monetary Policy Committee is closely monitoring inflation and growth rates, with potential implications for interest rates and trade agreements, including the ongoing high-level trade talks between India and the US.",
     "categories": {
