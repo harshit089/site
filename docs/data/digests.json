@@ -1,5 +1,121 @@
 [
   {
+    "generated_at": "2026-06-25T02:40:03.783429+00:00",
+    "brief": "Tensions are escalating globally, with a paramilitary group closing in on a strategic Sudanese city, raising concerns for civilian safety, while North Korea's leader Kim Jong Un has warned of the country being on the brink of nuclear war. Meanwhile, India's economy is expected to slow down to 6.6% growth in FY27 due to energy stress and weaker global demand, according to S&P Global Ratings, although the Reserve Bank of India believes the growth rate could exceed 7% if oil prices fall further. In a significant development for bilateral relations, Russia and India are working to increase their trade volumes to $100 billion by 2030, a move that could have significant implications for India's growing economy and Russia's efforts to diversify its trade relations.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Russia and India working on increasing bilateral trade volumes: Kremlin spokesman",
+          "summary": "Russia and India are working to increase their bilateral trade volumes, aiming to reach $100 billion by 2030. The current trade volume stands at $60 billion, and both countries are committed to enhancing cooperation across various international platforms. This partnership is significant for India's growing economy and Russia's efforts to diversify its trade relations.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/russia-and-india-working-on-increasing-bilateral-trade-volumes-kremlin-spokesman/articleshow/131967607.cms"
+        },
+        {
+          "title": "Fears grow for civilians as paramilitary group closes in on strategic Sudanese city",
+          "summary": "A paramilitary group is closing in on a strategic city in central Sudan, raising international concerns about potential mass violence against civilians. The city has a population of half a million people and the situation is alarming as the country's war surges into its fourth year. The international community is worried about the safety of civilians in the region.",
+          "source": "Daily Excelsior",
+          "url": "https://www.dailyexcelsior.com/fears-grow-for-civilians-as-paramilitary-group-closes-in-on-strategic-sudanese-city/"
+        },
+        {
+          "title": "North Korea bets big on navy with newest destroyer; Kim issues 'brink of nuclear war' warning",
+          "summary": "North Korean leader Kim Jong Un has announced plans to construct two warships similar to the country's newest destroyer, signaling a significant investment in the navy. Kim has also issued a warning that the country is on the brink of nuclear war, highlighting the ongoing tensions in the region. This development has implications for regional security and international relations.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/north-korea-bets-big-on-navy-with-first-destroyer-kim-issues-brink-of-nuclear-war-warning/articleshow/131956672.cms"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "India's FY27 Growth Likely to Slow Down to 6.6% on Energy Stress, Sub",
+          "summary": "S&P Global Ratings has projected India's GDP growth to slow down to 6.6% in FY27 due to energy stress, a sub-par monsoon, and weaker global demand. This slowdown is expected to lead to higher inflation at 5.1% and a potential RBI policy rate hike in the second half of the fiscal year. The report highlights the challenges facing India's economy in the coming year.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/news/indias-fy27-growth-likely-to-slow-down-to-66-on-energy-stress-sub-par-monsoon-sp"
+        },
+        {
+          "title": "Alan Greenspan Dies at 100: Legacy of Economic Influence and Controversy",
+          "summary": "Alan Greenspan, the former Federal Reserve chairman, has passed away at the age of 100, leaving behind a legacy of economic influence and controversy. His tenure shaped the US economy and sparked debates about his monetary policies, which contributed to the financial crisis. Greenspan's legacy continues to have a lasting impact on economic policy.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/alan-greenspan-us-fed-maestro-dies-at-100/articleshow/131927402.cms"
+        },
+        {
+          "title": "RBI MPC: Growth rate could top 7% if oil prices fall further",
+          "summary": "The Reserve Bank of India has projected FY27 growth at 6.6%, but MPC members believe the growth rate could exceed 7% if oil prices fall further. The economy expanded at 7.7% in the January-March quarter, exceeding earlier estimates. The RBI will closely monitor incoming data to assess the impact of inflation and adjust its monetary policy accordingly.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-mpc-growth-rate-could-top-7-if-oil-prices-fall-further/articleshow/131919901.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "SaffronStays raises $ 3.5 million in a funding round led by Infinity Ventures",
+          "summary": "SaffronStays, a holiday home brand, has raised $3.5 million to expand into new leisure destinations and improve guest experiences. The company aims to build five regional business units generating ₹100 crore annually. This investment will help SaffronStays grow in India's managed holiday-home market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/services/hotels-/-restaurants/saffronstays-secures-35-million-funding-to-revolutionize-indias-holiday-home-market/articleshow/131965217.cms"
+        },
+        {
+          "title": "World Bank approves USD 1.5 bn loan to support India's reforms, job creation",
+          "summary": "The World Bank has approved a $1.5 billion loan to support India's reforms and job creation. The funding will simplify business regulations, enhance trade, and improve access to capital, aiming to create employment for millions of young Indians. This initiative aligns with the government's long-term development vision.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/finance/world-bank-approves-15-billion-loan-to-drive-job-creation-and-economic-reforms-in-india/articleshow/131909557.cms"
+        },
+        {
+          "title": "4 years; share sale is a 'question of when': CFO",
+          "summary": "Akasa Air plans to go public in 2-4 years, with the company expanding its fleet and routes, and improving earnings. The airline aims for ambitious growth across India and Southeast Asia. The IPO is seen as a matter of time, according to the company's CFO.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/market/akasa-air-plans-ipo-in-next-2-4-years-share-sale-is-a-question-of-when-cfo-19930755.htm"
+        },
+        {
+          "title": "West Asia conflict tightens the tap on India's startup funding options",
+          "summary": "The escalating tensions in West Asia have made investors more cautious, resulting in a 43% decrease in startup funding in India since March. This has tightened the funding options for Indian startups. The conflict has led to a more cautious approach from investors.",
+          "source": "Business Standard",
+          "url": "https://www.business-standard.com/markets/news/west-asia-crisis-pulls-startup-funding-down-43-yoy-since-march-126062100439_1.html"
+        },
+        {
+          "title": "FoundrCFOs Launches FoundrRaise to Help Indian Startups Prepare, Discover, and Raise Capital",
+          "summary": "FoundrCFOs has launched FoundrRaise to help Indian startups prepare and raise capital by addressing financial preparedness issues. Many startups fail to secure funding due to incomplete data rooms, unclear cap tables, and weak financial reporting. FoundrRaise aims to bridge this gap and help founders secure funding.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/foundrcfos-launches-foundrraise-to-help-indian-startups-prepare-discover-and-raise-capital/"
+        },
+        {
+          "title": "AI Startup Funding: Investors Tighten Due Diligence As India's AI Boom Accelerates",
+          "summary": "As India's AI boom accelerates, investors are tightening their due diligence for AI startups. This increased scrutiny is a result of the growing AI industry in India, with investors being more cautious in their funding decisions. The AI startup funding landscape is becoming more competitive.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/business-economy/industry/ai-startup-funding-investors-tighten-due-diligence-as-indias-ai-boom-accelerates-article-154742669"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "India’s footpaths have a long way to go to become walkable: SC ruling highlights ground realities",
+          "summary": "The Supreme Court has ruled that footpaths are a fundamental right, highlighting the poor state of pedestrian infrastructure and safety in India. This ruling aims to address the challenges faced by pedestrians in the country. The court's decision is expected to lead to improvements in footpath design and maintenance.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/data-stories/data-focus/indias-footpaths-have-a-long-way-to-go-to-become-walkable-sc-ruling-highlights-ground-realities/article71141598.ece"
+        },
+        {
+          "title": "AI, Courts And Cooperation: India-Russia Judicial Ties Enter A New Era",
+          "summary": "India and Russia have signed a Memorandum of Understanding to strengthen judicial ties, including cooperation in the use of artificial intelligence in courts. The MoU was signed during a meeting between the Chief Justice of India and the Chief Justice of the Supreme Court of the Russian Federation. This agreement marks a new era in India-Russia judicial cooperation.",
+          "source": "News18",
+          "url": "https://www.news18.com/india/ai-courts-and-cooperation-india-russia-judicial-ties-enter-a-new-era-ws-l-10170592.html"
+        },
+        {
+          "title": "SC stays release of 1993 Kolkata blast convict release, says act akin to terrorism",
+          "summary": "The Supreme Court has stayed the release of Rashid Khan, a convict in the 1993 Kolkata blast case, citing that the act was akin to terrorism. The court's decision overturns a Delhi High Court order that had allowed Khan's release. The case highlights the court's stance on terrorism-related crimes.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/sc-stays-93-kolkata-blast-convict-release-says-act-akin-to-terrorism/articleshow/131953462.cms"
+        },
+        {
+          "title": "Tamil Nadu govt moves SC against HC order on lighting Karthigai Deepam on Madurai hill",
+          "summary": "The Tamil Nadu government has filed a petition in the Supreme Court against a High Court order related to the lighting of Karthigai Deepam on a hill in Madurai. The government is seeking to overturn the High Court's decision, which had restricted the lighting of the deepam. The case involves a dispute over religious practices and government regulations.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/tamil-nadu-govt-moves-sc-against-hc-order-on-lighting-karthigai-deepam-on-madurai-hill-101782262821265.html"
+        },
+        {
+          "title": "SC declines urgent hearing in ration denial linked to SIR",
+          "summary": "The Supreme Court has declined an urgent hearing on a plea related to the denial of ration benefits in West Bengal due to exclusions from the electoral roll. The court has directed the plea to be heard by the Calcutta High Court instead. The case involves a dispute over welfare benefits and electoral roll exclusions.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/sc-declines-urgent-hearing-in-ration-denial-linked-to-sir-101782241366257.html"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-06-24T19:29:18.517207+00:00",
     "brief": "Tensions are escalating globally, with North Korea warning of a potential nuclear war and announcing plans to expand its naval capabilities, while the US and Iran are at odds over tolls on ships passing through the Strait of Hormuz. Meanwhile, in the economic sphere, the Reserve Bank of India is cautiously monitoring growth and inflation, and the new Federal Reserve chief's hawkish stance on inflation is posing a challenge for Asian economies. These developments are having a ripple effect on various sectors, including business, where startup funding in India has decreased due to the West Asia conflict, and the World Bank has approved a $1.5 billion loan to support India's reforms and job creation.",
     "categories": {
