@@ -1,5 +1,145 @@
 [
   {
+    "generated_at": "2026-06-25T08:52:03.185528+00:00",
+    "brief": "Tensions between the US and Iran have escalated over nuclear inspections, potentially impacting the US-Iran deal, while India's economy is expected to slow down to 6.6% growth in FY27 due to energy stress and weaker global demand. Meanwhile, the World Bank has approved a $1.5 billion loan to support India's economic reforms and job creation efforts, which may help offset the slowdown. Additionally, geopolitical developments, such as the conflict in West Asia, are affecting India's startup funding options, with a 43% decrease in funding since March, highlighting the interconnectedness of global events and their impact on various sectors.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Public dispute, contradictory statements over nuclear inspection reveals rift in US-Iran deal",
+          "summary": "The US and Iran are experiencing a disagreement over nuclear inspections, with the International Atomic Energy Agency acknowledging a 'war of words' between the two parties. This dispute is affecting other issues, including Iran's spending of frozen funds and its involvement in the Israeli-Hezbollah conflict. The rift may impact the US-Iran deal.",
+          "source": "Telegraph India",
+          "url": "https://www.telegraphindia.com/world/public-dispute-contradictory-statements-over-nuclear-inspections-reveals-rifts-in-us-iran-deal/cid/2167082"
+        },
+        {
+          "title": "Iran's Big Concessions: A Win for Trump?",
+          "summary": "US President Donald Trump claims that Iran is making significant concessions in ongoing discussions, which he believes is a major victory for the US. The development may indicate potential progress in international relations between the two countries.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3940282-irans-big-concessions-a-win-for-trump"
+        },
+        {
+          "title": "Russia and India working on increasing bilateral trade volumes: Kremlin spokesman",
+          "summary": "Russia and India are working to increase their bilateral trade to $100 billion by 2030, up from the current $60 billion. The two countries are committed to enhancing cooperation in various international platforms, with India being a fast-growing economy.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/russia-and-india-working-on-increasing-bilateral-trade-volumes-kremlin-spokesman/articleshow/131967607.cms"
+        },
+        {
+          "title": "How ready are countries for climate shocks?",
+          "summary": "Countries are facing growing climate-related challenges, and experts are assessing their preparedness for climate shocks. The article discusses the need for countries to be better equipped to handle the impacts of climate change.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/ht-insight/climate-change/how-ready-are-countries-for-climate-shocks-101782292586835.html"
+        },
+        {
+          "title": "South Korea to commemorate 76th anniversary of Korean War this week",
+          "summary": "South Korea will commemorate the 76th anniversary of the Korean War with a ceremony, marking the start of the conflict in 1950. The event highlights the country's history and its ongoing efforts to remember the war.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/south-korea-to-commemorate-76th-anniversary-of-korean-war-this-week/"
+        },
+        {
+          "title": "Fears grow for civilians as paramilitary group closes in on strategic Sudanese city",
+          "summary": "A paramilitary group is closing in on a strategic city in Sudan, raising concerns for the safety of civilians. The situation has sparked international alarm, with fears of another round of mass violence against civilians.",
+          "source": "Daily Excelsior",
+          "url": "https://www.dailyexcelsior.com/fears-grow-for-civilians-as-paramilitary-group-closes-in-on-strategic-sudanese-city/"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "India's FY27 Growth Likely to Slow Down to 6.6% on Energy Stress, Sub",
+          "summary": "S&P Global Ratings has projected India's GDP growth to slow down to 6.6% in FY27 due to energy stress, a sub-par monsoon, and weaker global demand. This slowdown is expected to lead to higher inflation and a potential RBI policy rate hike in the second half of the fiscal year. The report cites rising fuel and fertiliser costs as key factors contributing to the slowdown.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/news/indias-fy27-growth-likely-to-slow-down-to-66-on-energy-stress-sub-par-monsoon-sp"
+        },
+        {
+          "title": "Alan Greenspan Dies at 100: Legacy of Economic Influence and Controversy",
+          "summary": "Alan Greenspan, the former Federal Reserve chairman, has passed away at the age of 100, leaving behind a legacy of economic influence and controversy. His tenure shaped the US economy and sparked debates about his monetary policies, which contributed to the financial crisis. Greenspan's legacy continues to have a lasting impact on economic policy.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/alan-greenspan-us-fed-maestro-dies-at-100/articleshow/131927402.cms"
+        },
+        {
+          "title": "RBI MPC: Growth rate could top 7% if oil prices fall further",
+          "summary": "The Reserve Bank of India's Monetary Policy Committee (MPC) has projected FY27 growth at 6.6%, but notes that the growth rate could top 7% if oil prices fall further. The MPC will closely monitor incoming data to assess inflation impact and determine future policy decisions. The economy expanded at 7.7% in the January-March quarter, exceeding earlier estimates.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-mpc-growth-rate-could-top-7-if-oil-prices-fall-further/articleshow/131919901.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "SaffronStays raises $ 3.5 million in a funding round led by Infinity Ventures",
+          "summary": "SaffronStays, a holiday home brand, has raised $3.5 million in funding to expand into new leisure destinations and improve guest experiences. The company aims to build five regional business units generating ₹100 crore annually. This investment will help the company grow in India's managed holiday-home market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/services/hotels-/-restaurants/saffronstays-secures-35-million-funding-to-revolutionize-indias-holiday-home-market/articleshow/131965217.cms"
+        },
+        {
+          "title": "AI Startup Funding: Investors Tighten Due Diligence As India's AI Boom Accelerates",
+          "summary": "As India's AI industry grows, investors are becoming more cautious and tightening their due diligence processes. This shift is expected to impact the funding landscape for AI startups in the country. The increased scrutiny may lead to more sustainable and responsible investments in the AI sector.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/business-economy/industry/ai-startup-funding-investors-tighten-due-diligence-as-indias-ai-boom-accelerates-article-154742669"
+        },
+        {
+          "title": "4 years; share sale is a 'question of when': CFO",
+          "summary": "Akasa Air is planning to go public in the next 2-4 years, with the company's CFO stating that a share sale is a matter of time. The airline aims to expand its fleet and routes, and is working on improving its earnings. An initial public offering (IPO) will help the company raise funds for its growth plans.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/market/akasa-air-plans-ipo-in-next-2-4-years-share-sale-is-a-question-of-when-cfo-19930755.htm"
+        },
+        {
+          "title": "World Bank approves USD 1.5 bn loan to support India's reforms, job creation",
+          "summary": "The World Bank has approved a $1.5 billion loan to support India's economic reforms and job creation efforts. The funding will help simplify business regulations, enhance trade, and improve access to capital. The initiative aims to create employment opportunities for millions of young Indians and boost the country's economic resilience.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/finance/world-bank-approves-15-billion-loan-to-drive-job-creation-and-economic-reforms-in-india/articleshow/131909557.cms"
+        },
+        {
+          "title": "FoundrCFOs Launches FoundrRaise to Help Indian Startups Prepare, Discover, and Raise Capital",
+          "summary": "FoundrCFOs has launched FoundrRaise, a platform that helps Indian startups prepare for and raise capital. The platform addresses common issues that prevent startups from securing funding, such as incomplete data rooms and unclear cap tables. By improving financial preparedness, FoundrRaise aims to increase the chances of Indian startups securing investments.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/foundrcfos-launches-foundrraise-to-help-indian-startups-prepare-discover-and-raise-capital/"
+        },
+        {
+          "title": "West Asia conflict tightens the tap on India's startup funding options",
+          "summary": "The escalating conflict in West Asia has made investors more cautious, resulting in a 43% decrease in startup funding in India since March. The reduced funding options may impact the growth plans of Indian startups. The conflict has led to a more risk-averse investment environment, making it challenging for startups to secure funding.",
+          "source": "Business Standard",
+          "url": "https://www.business-standard.com/markets/news/west-asia-crisis-pulls-startup-funding-down-43-yoy-since-march-126062100439_1.html"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Clearing the road to timely trauma care in India",
+          "summary": "The Supreme Court has settled the constitutional question regarding timely trauma care in India, and now it's up to the governments to ensure effective implementation. This development is crucial for providing emergency medical services to those in need. The focus is on making trauma care a reality in India.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/opinion/op-ed/clearing-the-road-to-timely-trauma-care-in-india/article71142690.ece"
+        },
+        {
+          "title": "India-US trade talks produce no breakthrough",
+          "summary": "High-level trade talks between India and the US have concluded without a breakthrough, with New Delhi reassessing the deal due to the US Supreme Court's reversal on reciprocal tariffs. The outcome of these talks is significant for the trade relationship between the two countries. India is reevaluating its position following the US court's decision.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/policy/economy/india-us-trade-talks-produce-no-breakthrough/4275640/"
+        },
+        {
+          "title": "Move to transfer 152 super-specialty seats to all India quota",
+          "summary": "The Supreme Court has admitted pleas regarding the transfer of 152 super-specialty seats to the all-India quota, questioning how deserving candidates can afford private hospitals. The court's decision will impact the accessibility of medical education for students. The transfer of seats is a matter of concern for medical aspirants.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/city/chennai/move-to-transfer-152-super-specialty-seats-to-all-india-quota-how-can-deserving-candidates-afford-private-hospitals-wonders-supreme-court/articleshow/131972283.cms"
+        },
+        {
+          "title": "US supreme court ruling raises travel risks for some green card holders",
+          "summary": "A US Supreme Court ruling has raised travel risks for some green card holders, particularly those planning to visit India, as it may have unexpected immigration consequences. This development affects the travel plans of green card holders and highlights the need for awareness about the ruling's implications. The ruling may impact the travel plans of individuals with green cards.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/international-business/us-supreme-court-ruling-raises-travel-risks-for-some-green-card-holders/articleshow/131965260.cms"
+        },
+        {
+          "title": "India’s footpaths have a long way to go to become walkable",
+          "summary": "A Supreme Court ruling has affirmed footpaths as a fundamental right, highlighting the poor pedestrian infrastructure and safety challenges in India. The ruling emphasizes the need for improvement in footpath conditions to ensure walkability. India's footpaths face significant challenges in terms of safety and accessibility.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/data-stories/data-focus/indias-footpaths-have-a-long-way-to-go-to-become-walkable-sc-ruling-highlights-ground-realities/article71141598.ece"
+        },
+        {
+          "title": "AI, Courts And Cooperation: India-Russia Judicial Ties Enter A New Era",
+          "summary": "India and Russia have signed a Memorandum of Understanding to enhance judicial cooperation, marking a new era in their ties. The MoU was signed between the Chief Justice of India and the Chief Justice of the Supreme Court of the Russian Federation. This development is expected to strengthen the relationship between the two countries' judicial systems.",
+          "source": "News18",
+          "url": "https://www.news18.com/india/ai-courts-and-cooperation-india-russia-judicial-ties-enter-a-new-era-ws-l-10170592.html"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-06-25T02:40:03.783429+00:00",
     "brief": "Tensions are escalating globally, with a paramilitary group closing in on a strategic Sudanese city, raising concerns for civilian safety, while North Korea's leader Kim Jong Un has warned of the country being on the brink of nuclear war. Meanwhile, India's economy is expected to slow down to 6.6% growth in FY27 due to energy stress and weaker global demand, according to S&P Global Ratings, although the Reserve Bank of India believes the growth rate could exceed 7% if oil prices fall further. In a significant development for bilateral relations, Russia and India are working to increase their trade volumes to $100 billion by 2030, a move that could have significant implications for India's growing economy and Russia's efforts to diversify its trade relations.",
     "categories": {
