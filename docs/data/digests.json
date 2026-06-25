@@ -1,5 +1,139 @@
 [
   {
+    "generated_at": "2026-06-25T19:50:15.862836+00:00",
+    "brief": "Tensions in the Middle East appear to be easing as the US and Iran engage in high-level negotiations in Switzerland, with a potential peace agreement on the horizon, which has already led to a decrease in crude oil prices. Meanwhile, India's economic growth is expected to slow down to 6.6% in FY27 due to energy stress and weaker global demand, although a further fall in oil prices could boost growth to over 7%. In other news, the business sector in India is witnessing significant developments, including funding rounds for startups such as Steamhouse and SaffronStays, as well as the World Bank's approval of a $1.5 billion loan to support India's reforms and job creation efforts.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Iran US Israel war Live Updates: Iran Rejects New Strait Of Hormuz Shipping Route, Warns Commercial Vessels",
+          "summary": "The US and Iran are in high-level negotiations in Switzerland to transform a fragile ceasefire into a lasting peace agreement, with discussions focusing on Iran's nuclear programme, sanctions relief, and regional security. The outcome of these talks could reshape the future of the Middle East. Tensions remain over international inspections and Israel's military operations in Lebanon.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-updates-president-trump-pezeshkian-netanyahu-peace-deal-israel-iran-news-liveblog-154753523"
+        },
+        {
+          "title": "Missiles, drones, damaged bases and depleted stockpiles: Trump faces massive Iran war bill",
+          "summary": "US military operations against Iran could strain the Pentagon's operating budget and affect its ability to conduct future operations. The costs of the conflict, including damaged bases and depleted stockpiles, are expected to be significant. This could have implications for the US military's ability to respond to future threats.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/missiles-drones-damaged-bases-and-depleted-stockpiles-trump-faces-massive-iran-war-bill/articleshow/131983051.cms"
+        },
+        {
+          "title": "World court judges sue Trump administration over sanctions",
+          "summary": "The Trump administration imposed sanctions on several judges at the International Criminal Court in retaliation for the court's decision to open a case into alleged war crimes by US troops in Afghanistan. The judges are now suing the Trump administration over these sanctions. This move highlights the tensions between the US and the International Criminal Court.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/world/world-court-judges-sue-trump-administration-over-sanctions-19931987.htm"
+        },
+        {
+          "title": "Crude slips toward $70 as tankers return to Hormuz after US-Iran reach peace deal",
+          "summary": "Crude oil prices have fallen as tanker movement through the Strait of Hormuz has picked up, easing supply concerns. The return of tankers to the region is a result of a peace deal between the US and Iran. This development is expected to have a positive impact on the global oil market.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/international-business/crude-slips-toward-70-as-tankers-return-to-hormuz-after-us-iran-reach-peace-deal-oil-price-on-june-25/articleshow/131980091.cms"
+        },
+        {
+          "title": "Uncertain Blame: The Mystery of the Iranian School Strike",
+          "summary": "A deadly strike on an Iranian girls' school has drawn international condemnation due to the high number of children casualties. The incident remains shrouded in mystery, with conflicting narratives and an ongoing investigation. Initial reports suggest US responsibility, but the truth remains unclear.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3940361-uncertain-blame-the-mystery-of-the-iranian-school-strike"
+        },
+        {
+          "title": "Crude below $75/barrel but will take time to return to pre-war levels",
+          "summary": "Crude oil prices have fallen below $75 per barrel as the Strait of Hormuz has reopened, but it may take time for prices to return to pre-conflict levels. The reopening of the strait has eased supply concerns, but the market is still recovering from the impact of the conflict. This development is being closely watched by the global oil market.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/international-business/crude-below-75/barrel-but-will-take-time-to-return-to-pre-war-levels/articleshow/131979585.cms"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "India's FY27 Growth Likely to Slow Down to 6.6% on Energy Stress, Sub",
+          "summary": "India's GDP growth is expected to slow down to 6.6% in FY27 due to energy stress, a sub-par monsoon, and weaker global demand, with higher inflation and a possible RBI policy rate hike in the second half of the fiscal. This forecast is based on a report by S&P Global Ratings. The growth slowdown is attributed to various factors, including energy market pressures and global economic deceleration.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/news/indias-fy27-growth-likely-to-slow-down-to-66-on-energy-stress-sub-par-monsoon-sp"
+        },
+        {
+          "title": "Alan Greenspan Dies at 100: Legacy of Economic Influence and Controversy",
+          "summary": "Alan Greenspan, the former Federal Reserve chairman, has passed away at the age of 100, leaving behind a legacy of economic influence and controversy. His tenure shaped the US economy and sparked debates about his monetary policies. Greenspan's legacy continues to have a lasting impact on economic policy.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/alan-greenspan-us-fed-maestro-dies-at-100/articleshow/131927402.cms"
+        },
+        {
+          "title": "RBI MPC: Growth rate could top 7% if oil prices fall further",
+          "summary": "The Reserve Bank of India has projected FY27 growth at 6.6%, but the growth rate could exceed 7% if oil prices fall further. The MPC members have voted for a status quo in the June policy, citing resilient growth and the need to assess inflation impact. The economy expanded at 7.7% in the January-March quarter, exceeding earlier estimates.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-mpc-growth-rate-could-top-7-if-oil-prices-fall-further/articleshow/131919901.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Steamhouse raises ₹50 crore in pre-IPO funding from Madhusudhan Kela-backed funds, Niveshaay",
+          "summary": "Steamhouse India has raised ₹50 crore in pre-IPO funding to expand its operations and reduce debt ahead of its public offering. This funding will help the company prepare for its initial public offering. The investment is a significant step for Steamhouse as it looks to grow its business.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/markets/steamhouse-raises-50-crore-in-pre-ipo-funding-from-madhusudhan-kela-backed-funds-niveshaay/article71144985.ece"
+        },
+        {
+          "title": "SaffronStays raises $ 3.5 million in a funding round led by Infinity Ventures",
+          "summary": "SaffronStays, a holiday home brand, has secured $3.5 million in funding to expand into new leisure destinations, enhance technology, and improve guest experiences. The company aims to build five regional business units generating ₹100 crore annually. This funding will help SaffronStays grow its business and increase its presence in the managed holiday-home market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/services/hotels-/-restaurants/saffronstays-secures-35-million-funding-to-revolutionize-indias-holiday-home-market/articleshow/131965217.cms"
+        },
+        {
+          "title": "AI Startup Funding: Investors Tighten Due Diligence As India's AI Boom Accelerates",
+          "summary": "As India's AI industry grows, investors are becoming more cautious and are tightening their due diligence processes when funding AI startups. This shift in investor behavior is a result of the increasing number of AI startups in India and the need for more scrutiny in investments. The AI boom in India is accelerating, and investors are adapting to the changing landscape.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/business-economy/industry/ai-startup-funding-investors-tighten-due-diligence-as-indias-ai-boom-accelerates-article-154742669"
+        },
+        {
+          "title": "4 years; share sale is a 'question of when': CFO",
+          "summary": "Akasa Air is planning to go public in the next 2-4 years, with the company's CFO stating that a share sale is a matter of when, not if. The airline is expanding its fleet and routes, and is expecting improving earnings and new funding to support its growth plans. Akasa Air aims to expand across India and Southeast Asia.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/market/akasa-air-plans-ipo-in-next-2-4-years-share-sale-is-a-question-of-when-cfo-19930755.htm"
+        },
+        {
+          "title": "World Bank approves USD 1.5 bn loan to support India's reforms, job creation",
+          "summary": "The World Bank has approved a $1.5 billion loan to support India's reforms and job creation efforts. The funding will help simplify business regulations, enhance trade, and improve access to capital, with the goal of creating employment opportunities for millions of young Indians. The loan is part of the government's long-term development vision.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/finance/world-bank-approves-15-billion-loan-to-drive-job-creation-and-economic-reforms-in-india/articleshow/131909557.cms"
+        },
+        {
+          "title": "FoundrCFOs Launches FoundrRaise to Help Indian Startups Prepare, Discover, and Raise Capital",
+          "summary": "FoundrCFOs has launched FoundrRaise, a platform designed to help Indian startups prepare for and secure funding. The platform aims to address common issues that prevent startups from securing funding, such as incomplete data rooms and unclear cap tables. FoundrRaise will provide startups with the tools and resources needed to raise capital and grow their businesses.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/foundrcfos-launches-foundrraise-to-help-indian-startups-prepare-discover-and-raise-capital/"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Ram Mandir embezzlement row: SC declines urgent hearing on probe plea",
+          "summary": "The Supreme Court has refused an urgent hearing on a petition seeking a court-monitored investigation into the Ram Mandir embezzlement row. The petitioner has been asked to return on June 29. This case is significant as it involves allegations of financial irregularities in the construction of the Ram Mandir.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/ram-mandir-embezzlement-row-sc-declines-urgent-hearing-on-probe-plea-asks-petitioner-to-return-on-june-29/articleshow/131985530.cms"
+        },
+        {
+          "title": "'If you are unable to pay, get scholarship': SC rejects fee cut plea",
+          "summary": "The Supreme Court has rejected a student's plea for reduced fees at a private medical college, highlighting the difference between private and government institutions. The court suggested that students who cannot afford the fees can apply for scholarships. This ruling has implications for the education sector and fee structures in private colleges.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/if-you-are-unable-to-pay-get-scholarship-sc-rejects-fee-cut-plea-101782329137279.html"
+        },
+        {
+          "title": "Prefer in-service government doctors in rural hospitals for super specialty seats: Supreme Court",
+          "summary": "The Supreme Court has directed that in-service government doctors working in rural hospitals should be given preference for admission to super specialty medical courses. This move aims to improve public health services in rural areas by incentivizing doctors to work there. The ruling is expected to have a positive impact on healthcare in rural India.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/prefer-in-service-government-doctors-in-rural-hospitals-for-super-specialty-seats-supreme-court-101782328957822.html"
+        },
+        {
+          "title": "Private colleges will shut if asked to charge fee at government rates: SC",
+          "summary": "The Supreme Court has stated that private medical colleges cannot be forced to charge fees at the same rate as government colleges. The court noted that this would lead to the shutdown of private colleges, as they would be unable to sustain themselves financially. This ruling has significant implications for the education sector and the debate on fee regulation.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/private-colleges-will-shut-if-asked-to-charge-fee-at-government-rates-sc/articleshow/131980134.cms"
+        },
+        {
+          "title": "India-US trade talks produce no breakthrough",
+          "summary": "Recent trade talks between India and the US have concluded without a breakthrough. The talks were affected by the US Supreme Court's reversal on reciprocal tariffs, leading India to reassess the deal. The outcome of these talks has significant implications for trade relations between the two countries and India's economic policies.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/policy/economy/india-us-trade-talks-produce-no-breakthrough/4275640/"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-06-25T14:11:07.742030+00:00",
     "brief": "Global crude oil prices have decreased as a result of the US-Iran peace deal, which has eased supply concerns and led to a reduction in tensions in the region. Meanwhile, in India, economic growth is expected to slow down to 6.6% in FY27 due to energy stress and weaker global demand, according to S&P Global Ratings, although the Reserve Bank of India's Monetary Policy Committee notes that growth could exceed 7% if oil prices fall further. Additionally, the World Bank has approved a $1.5 billion loan to support India's economic reforms and job creation efforts, which may help bolster the nation's economic resilience amidst global uncertainties.",
     "categories": {
