@@ -1,5 +1,127 @@
 [
   {
+    "generated_at": "2026-06-26T02:43:12.202301+00:00",
+    "brief": "Global oil prices have fallen to pre-war levels, which could ease inflation risks and reduce India's import bill, but the impact on domestic fuel prices remains to be seen. Meanwhile, the US and Iran are engaged in high-level negotiations to transform a fragile ceasefire into a lasting peace agreement, which could reshape the future of the Middle East. In India, the economy is expected to slow down to 6.6% growth in FY27 due to energy stress and weaker global demand, but the technology startup ecosystem is showing resilience, with funding rising 12% to $7.2 billion in the first half of 2026.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Oil falls to pre-war levels, no change in petrol and diesel prices",
+          "summary": "Global oil prices have fallen to their lowest levels since before the Iran conflict, which could ease inflation risks and reduce India's import bill. This drop in oil prices may improve the government's fiscal position. However, there has been no change in petrol and diesel prices in India.",
+          "source": "ThePrint",
+          "url": "https://theprint.in/economy/oil-falls-to-pre-war-levels-no-change-in-petrol-and-diesel-prices/2969789/"
+        },
+        {
+          "title": "'If you ran in New Delhi, you'd win a million votes': Italian PM Giorgia Meloni recalls 2023 India visit",
+          "summary": "Italian Prime Minister Giorgia Meloni has shared anecdotes from her 2023 India visit, highlighting the importance of personal connections in diplomacy. She recalled a joke about winning a million votes in New Delhi and shared stories of gifts and shared moments with leaders. These interactions can forge strong international relationships.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/if-you-ran-in-new-delhi-youd-win-a-million-votes-italian-pm-giorgia-meloni-recalls-2023-india-visit/articleshow/131989837.cms"
+        },
+        {
+          "title": "Iran US Israel war Live Updates: Iran Rejects New Strait Of Hormuz Shipping Route, Warns Commercial Vessels",
+          "summary": "The US and Iran are engaged in high-level negotiations in Switzerland to transform a fragile ceasefire into a lasting peace agreement. The talks cover issues like Iran's nuclear program, sanctions relief, and regional security. The outcome of these negotiations could reshape the future of the Middle East.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-updates-president-trump-pezeshkian-netanyahu-peace-deal-israel-iran-news-liveblog-154753523"
+        },
+        {
+          "title": "Missiles, drones, damaged bases and depleted stockpiles: Trump faces massive Iran war bill",
+          "summary": "The US military operations against Iran could strain the Pentagon's operating budget and affect its ability to conduct future operations. The costs include missiles, drones, damaged bases, and depleted stockpiles. This could have significant implications for the US military's ability to respond to future threats.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/missiles-drones-damaged-bases-and-depleted-stockpiles-trump-faces-massive-iran-war-bill/articleshow/131983051.cms"
+        },
+        {
+          "title": "World court judges sue Trump administration over sanctions",
+          "summary": "The Trump administration imposed sanctions on several judges at the International Criminal Court in retaliation for the court's decisions on war crimes cases. The judges have sued the Trump administration over these sanctions, which is an unprecedented move. This case highlights the tensions between the US and the International Criminal Court.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/world/world-court-judges-sue-trump-administration-over-sanctions-19931987.htm"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "MSMEs key to India’s developed nation ambition: KDEM Chairman",
+          "summary": "Micro, small and medium enterprises (MSMEs) are crucial for India to achieve developed nation status by 2047, but they require stronger policy support, easier access to capital, infrastructure, and talent. The sector's growth is essential for India's economic development. According to BV Naidu, Chairman of Karnataka Digital Economy Mission, MSMEs need these factors to thrive.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/news/msmes-key-to-indias-developed-nation-ambition-kdem-chairman/article71146464.ece"
+        },
+        {
+          "title": "India's FY27 Growth Likely to Slow Down to 6.6% on Energy Stress, Sub",
+          "summary": "S&P Global Ratings has projected India's GDP growth to slow down to 6.6% in FY27 due to energy stress, a sub-par monsoon, and weaker global demand. This slowdown may lead to higher inflation and a potential RBI policy rate hike in the second half of the fiscal year. The report highlights the challenges facing India's economy in the current fiscal year.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/news/indias-fy27-growth-likely-to-slow-down-to-66-on-energy-stress-sub-par-monsoon-sp"
+        },
+        {
+          "title": "Alan Greenspan Dies at 100: Legacy of Economic Influence and Controversy",
+          "summary": "Alan Greenspan, the former Federal Reserve chairman, has passed away at the age of 100, leaving behind a legacy of economic influence and controversy. His tenure shaped the US economy and sparked debates about his monetary policies, which contributed to the financial crisis. Greenspan's legacy continues to have a lasting impact on economic policy.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/alan-greenspan-us-fed-maestro-dies-at-100/articleshow/131927402.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "India tech funding rises 12 pc to $7.2 billion in H1 2026: Report",
+          "summary": "India's technology startup ecosystem attracted $7.2 billion in funding during the first half of 2026, a 12% increase. This growth indicates a strong and resilient tech industry in the country. The funding will likely support innovation and expansion in the sector.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/technology/india-tech-funding-rises-12-pc-to-72-billion-in-h1-2026-report-1/"
+        },
+        {
+          "title": "Steamhouse raises ₹50 crore in pre-IPO funding from Madhusudhan Kela-backed funds, Niveshaay",
+          "summary": "Steamhouse India has raised ₹50 crore in pre-IPO funding to expand its operations and reduce debt. The funding is a significant step for the company as it prepares for its public offering. The investment will help Steamhouse achieve its growth objectives.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/markets/steamhouse-raises-50-crore-in-pre-ipo-funding-from-madhusudhan-kela-backed-funds-niveshaay/article71144985.ece"
+        },
+        {
+          "title": "SaffronStays raises $ 3.5 million in a funding round led by Infinity Ventures",
+          "summary": "SaffronStays, a holiday home brand, has secured $3.5 million in funding to expand into new leisure destinations and enhance its technology. The company aims to build five regional business units generating ₹100 crore annually, focusing on profitability and customer satisfaction. This investment will help SaffronStays grow in India's managed holiday-home market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/services/hotels-/-restaurants/saffronstays-secures-35-million-funding-to-revolutionize-indias-holiday-home-market/articleshow/131965217.cms"
+        },
+        {
+          "title": "AI Startup Funding: Investors Tighten Due Diligence As India's AI Boom Accelerates",
+          "summary": "As India's AI industry experiences rapid growth, investors are becoming more cautious and tightening their due diligence processes. This shift reflects the increasing importance of careful evaluation in AI startup funding. The trend may impact the way AI startups secure investments in the future.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/business-economy/industry/ai-startup-funding-investors-tighten-due-diligence-as-indias-ai-boom-accelerates-article-154742669"
+        },
+        {
+          "title": "4 years; share sale is a 'question of when': CFO",
+          "summary": "Akasa Air is planning an initial public offering (IPO) in the next 2-4 years, as the company expands its fleet and routes. The airline aims to improve its earnings and achieve growth across India and Southeast Asia. The IPO will be a significant milestone for Akasa Air, and the company's CFO believes it is a matter of when, not if, the share sale will happen.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/market/akasa-air-plans-ipo-in-next-2-4-years-share-sale-is-a-question-of-when-cfo-19930755.htm"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Trade deal with US hinges on competitive edge for India: Piyush Goyal",
+          "summary": "India's Commerce Minister Piyush Goyal has stated that the India-US interim trade deal cannot be implemented until the US provides a framework that gives India a distinct tariff advantage over global competitors. This comes after a recent US Supreme Court ruling. The deal's fate now depends on the US's ability to provide such a framework.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/policy/economy/trade-deal-with-us-hinges-on-competitive-edge-for-india-piyush-goyal/4276514/"
+        },
+        {
+          "title": "A Ray of Hope for Lakhs of Occupants of PSU: Bombay High Court Grants Protection to Jam Mill Occupants; Supreme Court Constitution Bench to Take the Final Call",
+          "summary": "The Bombay High Court has granted protection to occupants of a PSU, giving them hope for a resolution. The case will now be taken up by a Supreme Court Constitution Bench, which will make a final decision. This development could impact lakhs of occupants of public sector units.",
+          "source": "Republic World",
+          "url": "https://www.republicworld.com/initiatives/a-ray-of-hope-for-lakhs-of-occupants-of-psu-bombay-high-court-grants-protection-to-jam-mill-occupants-supreme-court-constitution-bench-to-take-the-final-call-2026-06-25-129902"
+        },
+        {
+          "title": "Ram Mandir embezzlement row: SC declines urgent hearing on probe plea; asks petitioner to return on June 29",
+          "summary": "The Supreme Court has refused an urgent hearing on a petition seeking a court-monitored investigation into the Ram Mandir embezzlement row. The petitioner has been asked to return on June 29, indicating that the court will consider the matter at a later date. The case involves allegations of financial irregularities in the construction of the Ram Mandir.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/ram-mandir-embezzlement-row-sc-declines-urgent-hearing-on-probe-plea-asks-petitioner-to-return-on-june-29/articleshow/131985530.cms"
+        },
+        {
+          "title": "‘If you are unable to pay, get scholarship’: SC rejects fee cut plea",
+          "summary": "The Supreme Court has rejected a student's plea for reduced fees at a private medical college, stating that private institutions are different from government ones. The court suggested that students who are unable to pay can apply for scholarships instead. This decision highlights the differences between private and government educational institutions.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/if-you-are-unable-to-pay-get-scholarship-sc-rejects-fee-cut-plea-101782329137279.html"
+        },
+        {
+          "title": "Prefer in-service government doctors in rural hospitals for super specialty seats: Supreme Court",
+          "summary": "The Supreme Court has directed that in-service government doctors working in rural hospitals should be given preference for admission to super specialty medical courses. This move aims to serve the cause of public health by incentivizing doctors to work in remote areas. The decision is expected to improve healthcare services in rural India.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/prefer-in-service-government-doctors-in-rural-hospitals-for-super-specialty-seats-supreme-court-101782328957822.html"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-06-25T19:50:15.862836+00:00",
     "brief": "Tensions in the Middle East appear to be easing as the US and Iran engage in high-level negotiations in Switzerland, with a potential peace agreement on the horizon, which has already led to a decrease in crude oil prices. Meanwhile, India's economic growth is expected to slow down to 6.6% in FY27 due to energy stress and weaker global demand, although a further fall in oil prices could boost growth to over 7%. In other news, the business sector in India is witnessing significant developments, including funding rounds for startups such as Steamhouse and SaffronStays, as well as the World Bank's approval of a $1.5 billion loan to support India's reforms and job creation efforts.",
     "categories": {
