@@ -1,5 +1,121 @@
 [
   {
+    "generated_at": "2026-06-26T19:40:06.073463+00:00",
+    "brief": "Tensions in the Strait of Hormuz have eased slightly with Qatar's crude oil entering the Asian market, but a recent attack on a vessel has reignited concerns about regional stability and its impact on global oil flows. Meanwhile, in India, the economy is expected to slow down to 6.6% growth in FY27 due to energy stress and weaker global demand, according to S&P Global Ratings, which may lead to a hike in the RBI policy rate. Additionally, India's trade relations with the US are being closely watched, with the US potentially reinstating higher tariffs through a new legal route, which could impact ongoing trade talks between the two countries.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Qatar crude enters Asian market again as Hormuz gets back to business",
+          "summary": "The Strait of Hormuz has resumed business with Qatar's crude oil entering the Asian market for the first time since the war broke out. This development indicates a potential easing of tensions in the region. The resumption of oil supplies through the Strait of Hormuz is crucial for global oil flows.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/international-business/qatar-crude-enters-asian-market-again-as-hormuz-gets-back-to-business/articleshow/132009861.cms"
+        },
+        {
+          "title": "UN halts escort of ships through Hormuz after vessel comes under attack",
+          "summary": "The UN International Maritime Organization has paused its operation to escort ships through the Strait of Hormuz after a vessel reported an attack. This incident has reignited concerns about the stability of the region and the potential impact on global oil flows. The attack has raised questions about the viability of a preliminary deal to end the Iran war.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/world/un-halts-escort-of-ships-through-hormuz-after-vessel-comes-under-attack/"
+        },
+        {
+          "title": "US Senator Warner calls Iran conflict a 'war of choice'",
+          "summary": "US Senator Mark Warner has criticized President Donald Trump's handling of the conflict with Iran, calling it a 'war of choice'. This statement reflects the ongoing debate in the US about the country's involvement in the conflict. The senator's comments may have implications for US foreign policy and the ongoing negotiations with Iran.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/us-senator-warner-calls-iran-conflict-a-war-of-choice/"
+        },
+        {
+          "title": "The week that was in international affairs: US-Iran talks, Ukraine-Poland kerfuffle, Ukraine targets Russian-occupied Crimea",
+          "summary": "The US and Iran have been engaged in talks to end their war, while Ukraine has been targeting Russian-occupied Crimea. Additionally, a kerfuffle has erupted between Ukraine and Poland. These developments highlight the complex and evolving nature of international relations, with multiple conflicts and diplomatic efforts underway.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/the-week-that-was-in-international-affairs-us-iran-talks-ukraine-poland-kerfuffle-ukraine-targets-russian-occupied-crimea/articleshow/132000614.cms"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "RBI opens term money market to AIFIs, housing finance companies",
+          "summary": "The Reserve Bank of India has allowed All India Financial Institutions and housing finance companies to participate in the term money market, enabling them to borrow and lend. This move aims to increase market participation and improve liquidity, ultimately strengthening monetary policy transmission. It also includes a significant increase in prudential borrowing limits for primary dealers.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-opens-term-money-market-to-aifis-housing-finance-companies/articleshow/132005366.cms"
+        },
+        {
+          "title": "MSMEs key to India’s developed nation ambition: KDEM Chairman",
+          "summary": "Micro, small and medium enterprises (MSMEs) are crucial for India to achieve developed nation status by 2047, according to BV Naidu, Chairman of Karnataka Digital Economy Mission. However, the sector requires stronger policy support, easier access to capital, infrastructure, and talent to fulfill this role. This highlights the importance of MSMEs in India's economic development.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/news/msmes-key-to-indias-developed-nation-ambition-kdem-chairman/article71146464.ece"
+        },
+        {
+          "title": "India's FY27 Growth Likely to Slow Down to 6.6% on Energy Stress, Sub",
+          "summary": "S&P Global Ratings has projected India's GDP growth to slow down to 6.6% in FY27 due to energy stress, a sub-par monsoon, and weaker global demand. The report also warns of higher inflation and rising fuel and fertiliser costs, which may lead to a RBI policy rate hike in the second half of the fiscal. This forecast indicates a potential slowdown in India's economic growth.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/news/indias-fy27-growth-likely-to-slow-down-to-66-on-energy-stress-sub-par-monsoon-sp"
+        },
+        {
+          "title": "S&P Global Projects 110-Bps Drop In India's Economic Growth Amid Inflation Fears",
+          "summary": "S&P Global expects India's economic growth to drop by 110 basis points due to inflation concerns, which may lead the RBI to raise the repo rate from October. This marks the beginning of monetary policy tightening in the second half of the financial year, aiming to control inflation. The forecast highlights the potential impact of inflation on India's economic growth.",
+          "source": "NDTV Profit",
+          "url": "https://www.ndtvprofit.com/economy/s-p-global-projects-110-bps-drop-in-indias-economic-growth-amid-inflation-fears-11680797"
+        }
+      ],
+      "Business": [
+        {
+          "title": "India's startup pipeline narrows despite rise in unicorns and IPOs in H1",
+          "summary": "Despite a rise in unicorns and IPOs, India's startup pipeline has narrowed, with technology startups raising $7.2 billion across 652 equity funding rounds in the first half of 2026. This indicates a potential slowdown in the growth of new startups. The funding amount is significant, but the narrowing pipeline is a concern for the industry.",
+          "source": "The New Indian Express",
+          "url": "https://www.newindianexpress.com/business/2026/Jun/25/indias-startup-pipeline-narrows-despite-rise-in-unicorns-and-ipos-in-h1"
+        },
+        {
+          "title": "Steamhouse raises ₹50 crore in pre-IPO funding from Madhusudhan Kela-backed funds, Niveshaay",
+          "summary": "Steamhouse India has raised ₹50 crore in pre-IPO funding to expand its operations and reduce debt ahead of its public offering. This funding round is significant as it indicates investor confidence in the company's growth prospects. The funds will be used to drive expansion and improve the company's financial health.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/markets/steamhouse-raises-50-crore-in-pre-ipo-funding-from-madhusudhan-kela-backed-funds-niveshaay/article71144985.ece"
+        },
+        {
+          "title": "SaffronStays raises $ 3.5 million in a funding round led by Infinity Ventures",
+          "summary": "SaffronStays, a holiday home brand, has secured $3.5 million in funding to fuel its expansion into new leisure destinations and enhance its technology. The company aims to build five regional business units generating ₹100 crore annually, focusing on profitability and customer satisfaction. This funding round is significant as it indicates the growing demand for managed holiday homes in India.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/services/hotels-/-restaurants/saffronstays-secures-35-million-funding-to-revolutionize-indias-holiday-home-market/articleshow/131965217.cms"
+        },
+        {
+          "title": "AI Startup Funding: Investors Tighten Due Diligence As India's AI Boom Accelerates",
+          "summary": "As India's AI boom accelerates, investors are tightening their due diligence for AI startups. This indicates a more cautious approach to investing in the AI sector, with investors focusing on the potential for long-term growth and sustainability. The AI boom in India is expected to continue, with investors looking for startups with strong potential for innovation and scalability.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/business-economy/industry/ai-startup-funding-investors-tighten-due-diligence-as-indias-ai-boom-accelerates-article-154742669"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Trump's Tariffs Could Return Through a New Legal Route, Here's How",
+          "summary": "The US may reinstate higher tariffs through Section 301 investigations after the Supreme Court struck down Trump's earlier tariff regime, which could impact India-US trade talks and global commerce. This move could have significant implications for India's trade relations with the US. The development is being closely watched by trade experts and policymakers.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/economy-and-policy/trumps-tariffs-could-return-through-a-new-legal-route-heres-how"
+        },
+        {
+          "title": "70-year case, older than its judges, finally decided",
+          "summary": "A 70-year-old land dispute case has been finally decided by the Supreme Court, marking the end of a long and complex legal battle. The case is significant as it has been pending for over seven decades, spanning the tenures of all past Prime Ministers. The verdict brings closure to the parties involved and sets a precedent for similar cases.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/70-year-case-older-than-its-judges-finally-decided/articleshow/132005684.cms"
+        },
+        {
+          "title": "What's Holding Up India-US Trade Deal? Piyush Goyal Explains",
+          "summary": "The India-US trade deal is being held up due to the US Supreme Court's ruling that the IEEPA tariffs are illegal, which has rendered several US trade pacts unenforceable. Commerce Minister Piyush Goyal has explained that the US is transitioning to a new tariff structure under Section 301 of the US Trade Act of 1974. The development has significant implications for India's trade relations with the US.",
+          "source": "Outlook India",
+          "url": "https://www.outlookindia.com/national/whats-holding-up-india-us-trade-deal-piyush-goyal-explains"
+        },
+        {
+          "title": "Trade deal with US hinges on competitive edge for India: Piyush Goyal",
+          "summary": "Commerce Minister Piyush Goyal has stated that the India-US interim trade deal cannot be finalized until the US provides a framework that ensures India a competitive edge over global competitors. The US Supreme Court's ruling on IEEPA tariffs has led to a transition to a new tariff structure under Section 301 of the US Trade Act of 1974. The development is crucial for India's trade negotiations with the US.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/policy/economy/trade-deal-with-us-hinges-on-competitive-edge-for-india-piyush-goyal/4276514/"
+        },
+        {
+          "title": "A Ray of Hope for Lakhs of Occupants of PSU",
+          "summary": "The Bombay High Court has granted protection to occupants of a PSU, providing a ray of hope for lakhs of occupants. The Public Sector Tenants Action Committee has approached the Supreme Court, seeking the constitution of a larger Constitution Bench to take the final call. The development is significant for the occupants of PSUs who have been facing uncertainty.",
+          "source": "Republic World",
+          "url": "https://www.republicworld.com/initiatives/a-ray-of-hope-for-lakhs-of-occupants-of-psu-bombay-high-court-grants-protection-to-jam-mill-occupants-supreme-court-constitution-bench-to-take-the-final-call-2026-06-25-129902"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-06-26T14:10:33.171413+00:00",
     "brief": "Tensions in the Strait of Hormuz continue to escalate, with the International Maritime Organization halting operations and a UN evacuation plan on hold, affecting global oil flows and international trade. Meanwhile, in India, economic growth is expected to slow down to 6.6% in FY27 due to energy stress and weaker global demand, according to S&P Global Ratings. Additionally, India's startup pipeline is narrowing despite a rise in unicorns and IPOs, with investors tightening their due diligence for AI startups as the country's AI boom accelerates, indicating a shift in the startup ecosystem towards more established companies.",
     "categories": {
