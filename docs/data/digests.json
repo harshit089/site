@@ -1,5 +1,133 @@
 [
   {
+    "generated_at": "2026-06-26T14:10:33.171413+00:00",
+    "brief": "Tensions in the Strait of Hormuz continue to escalate, with the International Maritime Organization halting operations and a UN evacuation plan on hold, affecting global oil flows and international trade. Meanwhile, in India, economic growth is expected to slow down to 6.6% in FY27 due to energy stress and weaker global demand, according to S&P Global Ratings. Additionally, India's startup pipeline is narrowing despite a rise in unicorns and IPOs, with investors tightening their due diligence for AI startups as the country's AI boom accelerates, indicating a shift in the startup ecosystem towards more established companies.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Tensions Surge in the Strait: IMO Halts Operations Amid New Attacks",
+          "summary": "The International Maritime Organization has paused its operations in the Strait of Hormuz due to an attack on a vessel, amid rising tensions and concerns about Iran's control over the channel. This move affects global oil flows and challenges an emerging deal to end the Iran war. The situation is being closely monitored as it has significant implications for international trade and security.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/law-order/3941049-tensions-surge-in-the-strait-imo-halts-operations-amid-new-attacks"
+        },
+        {
+          "title": "UN Pauses Hormuz Evacuation Plan After Cargo Ship Struck Near Oman",
+          "summary": "The UN's International Maritime Organization has paused its plan to evacuate over 11,000 stranded sailors in the Strait of Hormuz after Iran objected and a cargo ship was struck near Oman. The situation is critical, with around 600 ships still stranded and at least 14 sailors killed since the Iran war began. The evacuation plan is on hold, leaving the sailors in a precarious situation.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/world/un-pauses-hormuz-evacuation-plan-after-cargo-ship-struck-near-oman-article-154760161"
+        },
+        {
+          "title": "US Senator Warner calls Iran conflict a 'war of choice'",
+          "summary": "US Senator Mark Warner has criticized President Donald Trump's handling of the conflict with Iran, calling it a 'war of choice'. This statement reflects the ongoing debate and criticism within the US about the country's involvement in the conflict. The senator's comments highlight the complexities and challenges of the situation, with implications for US foreign policy and international relations.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/us-senator-warner-calls-iran-conflict-a-war-of-choice/"
+        },
+        {
+          "title": "The week that was in international affairs: US-Iran talks, Ukraine-Poland kerfuffle, Ukraine targets Russian-occupied Crimea",
+          "summary": "The past week saw significant developments in international affairs, including US-Iran talks to end their war, a kerfuffle between Ukraine and Poland, and Ukraine targeting Russian-occupied Crimea. These events reflect the complex and dynamic nature of global politics, with multiple conflicts and tensions ongoing. Understanding these developments is crucial for grasping the current state of international relations.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/the-week-that-was-in-international-affairs-us-iran-talks-ukraine-poland-kerfuffle-ukraine-targets-russian-occupied-crimea/articleshow/132000614.cms"
+        },
+        {
+          "title": "India, Saudi Arabia discuss growing bilateral relations",
+          "summary": "India's outgoing Ambassador to Saudi Arabia, Suhel Khan, met with Riyadh's Governor Faisal bin Bandar bin Abdulaziz to discuss growing bilateral relations between the two countries. This meeting highlights the strengthening ties between India and Saudi Arabia, with implications for trade, security, and regional cooperation. The discussion is significant for understanding the evolving dynamics of India's relationships with key countries in the Middle East.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/india-saudi-arabia-discuss-growing-bilateral-relations/"
+        },
+        {
+          "title": "India, Japan discuss strengthening bilateral relations",
+          "summary": "India's Ambassador to Japan, Nagma Malik, met with Senate President Sekiguchi Masakazu to discuss strengthening bilateral relations between India and Japan. This meeting reflects the ongoing efforts to enhance cooperation between the two countries, with implications for trade, investment, and regional security. The discussion is significant for understanding the evolving dynamics of India's relationships with key countries in East Asia.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/india-japan-discuss-strengthening-bilateral-relations/"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "RBI opens term money market to AIFIs, housing finance companies",
+          "summary": "The Reserve Bank of India has allowed All India Financial Institutions and housing finance companies to participate in the term money market, enabling them to borrow and lend. This move aims to increase market participation, improve liquidity, and strengthen monetary policy transmission. It also includes a significant increase in prudential borrowing limits for primary dealers.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-opens-term-money-market-to-aifis-housing-finance-companies/articleshow/132005366.cms"
+        },
+        {
+          "title": "MSMEs key to India’s developed nation ambition: KDEM Chairman",
+          "summary": "Micro, small and medium enterprises are crucial for India to achieve its goal of becoming a developed nation by 2047. However, the sector requires stronger policy support, easier access to capital, infrastructure, and talent to fulfill this role. The Chairman of Karnataka Digital Economy Mission emphasized the importance of MSMEs in India's development.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/news/msmes-key-to-indias-developed-nation-ambition-kdem-chairman/article71146464.ece"
+        },
+        {
+          "title": "India's FY27 Growth Likely to Slow Down to 6.6% on Energy Stress, Sub",
+          "summary": "S&P Global Ratings has projected India's GDP growth to slow down to 6.6% in FY27 due to energy stress, a sub-par monsoon, and weaker global demand. The report also warns of higher inflation and a potential RBI policy rate hike in the second half of the fiscal year. This forecast indicates a decline from the 7.7% growth rate in FY26.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/news/indias-fy27-growth-likely-to-slow-down-to-66-on-energy-stress-sub-par-monsoon-sp"
+        },
+        {
+          "title": "S&P Global Projects 110-Bps Drop In India's Economic Growth Amid Inflation Fears",
+          "summary": "S&P Global expects India's economic growth to drop by 110 basis points due to inflation concerns. The agency believes the RBI will start raising the repo rate from October, marking the beginning of monetary policy tightening in the second half of the financial year. This move is in response to expected higher inflation rates.",
+          "source": "NDTV Profit",
+          "url": "https://www.ndtvprofit.com/economy/s-p-global-projects-110-bps-drop-in-indias-economic-growth-amid-inflation-fears-11680797"
+        }
+      ],
+      "Business": [
+        {
+          "title": "India's startup pipeline narrows despite rise in unicorns and IPOs in H1",
+          "summary": "India's technology startups raised $7.2 billion across 652 equity funding rounds in the first half of 2026, indicating a rise in funding despite a narrowing startup pipeline. This trend suggests a shift in the startup ecosystem, with a focus on established companies. The funding amount is significant, but the number of deals has decreased.",
+          "source": "The New Indian Express",
+          "url": "https://www.newindianexpress.com/business/2026/Jun/25/indias-startup-pipeline-narrows-despite-rise-in-unicorns-and-ipos-in-h1"
+        },
+        {
+          "title": "Steamhouse raises ₹50 crore in pre-IPO funding from Madhusudhan Kela-backed funds, Niveshaay",
+          "summary": "Steamhouse India has raised ₹50 crore in pre-IPO funding to expand its operations and reduce debt ahead of its public offering. This funding round is significant as it indicates investor confidence in the company's growth prospects. The funds will be used to drive business expansion and prepare for the IPO.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/markets/steamhouse-raises-50-crore-in-pre-ipo-funding-from-madhusudhan-kela-backed-funds-niveshaay/article71144985.ece"
+        },
+        {
+          "title": "SaffronStays raises $ 3.5 million in a funding round led by Infinity Ventures",
+          "summary": "SaffronStays, a holiday home brand, has secured $3.5 million in funding to expand into new leisure destinations, enhance technology, and improve guest experiences. The company aims to build five regional business units generating ₹100 crore annually, focusing on profitability and customer satisfaction. This funding will help SaffronStays to revolutionize India's managed holiday-home market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/services/hotels-/-restaurants/saffronstays-secures-35-million-funding-to-revolutionize-indias-holiday-home-market/articleshow/131965217.cms"
+        },
+        {
+          "title": "AI Startup Funding: Investors Tighten Due Diligence As India's AI Boom Accelerates",
+          "summary": "As India's AI boom accelerates, investors are tightening their due diligence for AI startups, indicating a more cautious approach to funding. This shift in investor behavior may impact the growth of AI startups in the country. The increased scrutiny is likely to lead to more sustainable and viable AI startups in the long run.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/business-economy/industry/ai-startup-funding-investors-tighten-due-diligence-as-indias-ai-boom-accelerates-article-154742669"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "70-year case, older than its judges, finally decided",
+          "summary": "A 70-year-old land dispute case in India has been finally decided by the Supreme Court, marking the end of a long-standing legal battle that has spanned the tenures of all past Prime Ministers. The case is significant due to its longevity and the fact that it has been ongoing for longer than the judges who decided it have been alive. This decision brings closure to a case that has been ongoing for decades.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/70-year-case-older-than-its-judges-finally-decided/articleshow/132005684.cms"
+        },
+        {
+          "title": "What's Holding Up India-US Trade Deal? Piyush Goyal Explains",
+          "summary": "The India-US trade deal is being held up due to a recent US Supreme Court ruling that deemed certain tariffs illegal, rendering several US trade pacts unenforceable. Commerce Minister Piyush Goyal has explained that the deal cannot move forward until the US provides a framework that ensures India has a competitive edge over other countries. The US is transitioning to a new tariff structure under Section 301 of the US Trade Act of 1974.",
+          "source": "Outlook India",
+          "url": "https://www.outlookindia.com/national/whats-holding-up-india-us-trade-deal-piyush-goyal-explains"
+        },
+        {
+          "title": "Trade deal with US hinges on competitive edge for India: Piyush Goyal",
+          "summary": "According to Commerce Minister Piyush Goyal, the India-US interim trade deal is contingent upon the US providing a framework that gives India a distinct tariff advantage over global competitors. This is in response to a recent US Supreme Court ruling that affected the enforceability of several US trade pacts. Goyal's statement highlights the importance of a competitive edge for India in the trade deal.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/policy/economy/trade-deal-with-us-hinges-on-competitive-edge-for-india-piyush-goyal/4276514/"
+        },
+        {
+          "title": "A Ray of Hope for Lakhs of Occupants of PSU: Bombay High Court Grants Protection to Jam Mill Occupants; Supreme Court Constitution Bench to Take the Final Call",
+          "summary": "The Bombay High Court has granted protection to the occupants of a PSU, providing a ray of hope for lakhs of occupants. The Public Sector Tenants Action Committee has approached the Supreme Court, seeking the constitution of a larger Constitution Bench to take the final call on the matter. This development is significant for the occupants of PSUs who are seeking protection and resolution.",
+          "source": "Republic World",
+          "url": "https://www.republicworld.com/initiatives/a-ray-of-hope-for-lakhs-of-occupants-of-psu-bombay-high-court-grants-protection-to-jam-mill-occupants-supreme-court-constitution-bench-to-take-the-final-call-2026-06-25-129902"
+        },
+        {
+          "title": "Ram Mandir embezzlement row: SC declines urgent hearing on probe plea; asks petitioner to return on June 29",
+          "summary": "The Supreme Court has declined an urgent hearing on a petition seeking a court-monitored investigation into the Ram Mandir embezzlement row. The court has asked the petitioner to return on June 29, indicating that the matter will be heard at a later date. This development is significant as it relates to allegations of embezzlement in the construction of the Ram Mandir.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/ram-mandir-embezzlement-row-sc-declines-urgent-hearing-on-probe-plea-asks-petitioner-to-return-on-june-29/articleshow/131985530.cms"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-06-26T08:54:43.446087+00:00",
     "brief": "Tensions between the US and Iran remain high, with US Senator Mark Warner criticizing President Donald Trump's handling of the conflict, while Ukraine continues to experience turmoil with targeted attacks on Russian-occupied Crimea and a significant €10 billion post-war reconstruction deal. Meanwhile, India's economic growth is expected to slow down to 6.6% in FY27 due to energy stress and weaker global demand, according to S&P Global Ratings, which may impact the country's development goals, including its ambition to become a developed nation by 2047, with MSMEs playing a crucial role in achieving this objective. Additionally, India's startup pipeline has narrowed despite a rise in unicorns and IPOs, with investors taking a more cautious approach to funding, particularly in the AI sector.",
     "categories": {
