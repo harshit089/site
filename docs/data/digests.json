@@ -1,5 +1,133 @@
 [
   {
+    "generated_at": "2026-06-27T13:18:50.551262+00:00",
+    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. A notable prisoner swap between Russia and Ukraine has eased tensions, while Air India is considering restoring international flights as US-Iran tensions subside. In economic news, India's GDP growth is projected to slow down to 6.6% in FY27 due to energy stress and weaker global demand, according to S&P Global Ratings. Meanwhile, the Indian startup funding market has seen a strong rebound, with venture funding crossing the $1 billion mark in a week, driven largely by CRED's significant fundraising round.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Russia, Ukraine swap 160 prisoners of war each",
+          "summary": "Russia and Ukraine have exchanged 160 prisoners of war each, marking a significant development in the conflict between the two countries. This prisoner swap is a positive step towards easing tensions and potentially paving the way for further negotiations. The exchange is a notable humanitarian gesture amidst the ongoing conflict.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/russia-ukraine-swap-160-prisoners-of-war-each/"
+        },
+        {
+          "title": "Air India weighs restoring part of international flights as Iran tensions ease",
+          "summary": "Air India is considering restoring some of its international flights as tensions between the US and Iran have eased, following a memorandum of understanding signed in April. This development is expected to lead to a gradual return to normal operations for international aviation. The easing of tensions may also impact fuel prices and overall regional stability.",
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/india/story/air-india-international-flights-may-return-as-middle-east-stabilises-and-fuel-prices-fall-2935121-2026-06-26"
+        },
+        {
+          "title": "India, UAE underscore growing depth of defence relations",
+          "summary": "India and the United Arab Emirates have highlighted the growing depth of their defence relations, with a high-level meeting between Indian officials and the UAE's Land Forces' Deputy Commander. This underscores the strengthening of bilateral ties between the two nations in the defence sector. The meeting is expected to further enhance cooperation and collaboration in defence matters.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/india-uae-underscore-growing-depth-of-defence-relations-1/"
+        },
+        {
+          "title": "'To make enemies feel constant uneasiness & fear': North Korea leader Kim Jong Un observes major weapons tests",
+          "summary": "North Korean leader Kim Jong Un has overseen a series of significant artillery and missile tests, marking the 76th anniversary of the Korean War. The tests are seen as a demonstration of North Korea's military capabilities and a message to its enemies. This development has implications for regional security and stability, particularly in East Asia.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/to-make-enemies-feel-constant-uneasiness-fear-north-korea-leader-kim-jong-un-observes-major-weapons-tests/articleshow/132009838.cms"
+        },
+        {
+          "title": "Qatar crude enters Asian market again as Hormuz gets back to business",
+          "summary": "The Strait of Hormuz has resumed business, with Qatar's crude oil supplies entering the Asian market for the first time since the outbreak of war. This development indicates a return to normalcy in the region's oil trade, which had been disrupted due to the conflict. The resumption of oil supplies through the Strait of Hormuz is expected to have a positive impact on the global energy market.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/international-business/qatar-crude-enters-asian-market-again-as-hormuz-gets-back-to-business/articleshow/132009861.cms"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "RBI opens term money market to AIFIs, housing finance companies",
+          "summary": "The Reserve Bank of India has allowed All India Financial Institutions and housing finance companies to participate in the term money market, enabling them to borrow and lend. This move aims to increase market participation and liquidity, ultimately strengthening monetary policy transmission. It also increases prudential borrowing limits for primary dealers.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-opens-term-money-market-to-aifis-housing-finance-companies/articleshow/132005366.cms"
+        },
+        {
+          "title": "MSMEs key to India’s developed nation ambition: KDEM Chairman",
+          "summary": "Micro, small and medium enterprises (MSMEs) are crucial for India to achieve developed nation status by 2047. However, the sector requires stronger policy support, easier access to capital, infrastructure, and talent. The Chairman of Karnataka Digital Economy Mission emphasized the importance of MSMEs in India's development.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/news/msmes-key-to-indias-developed-nation-ambition-kdem-chairman/article71146464.ece"
+        },
+        {
+          "title": "India's FY27 Growth Likely to Slow Down to 6.6% on Energy Stress, Sub",
+          "summary": "S&P Global Ratings has projected India's GDP growth to slow down to 6.6% in FY27 due to energy stress, a sub-par monsoon, and weaker global demand. The report also warns of higher inflation and a likely RBI policy rate hike in the second half of the fiscal. This forecast indicates a potential slowdown in India's economic growth.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/news/indias-fy27-growth-likely-to-slow-down-to-66-on-energy-stress-sub-par-monsoon-sp"
+        },
+        {
+          "title": "S&P Global Projects 110-Bps Drop In India's Economic Growth Amid Inflation Fears",
+          "summary": "S&P Global expects India's economic growth to slow down due to inflation concerns, leading to a 110-bps drop. The RBI is likely to raise the repo rate from October, marking the start of monetary policy tightening in the second half of the financial year. This move aims to control inflation and stabilize the economy.",
+          "source": "NDTV Profit",
+          "url": "https://www.ndtvprofit.com/economy/s-p-global-projects-110-bps-drop-in-indias-economic-growth-amid-inflation-fears-11680797"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Why Equirus is avoiding loss-making startups in its ₹1,500 crore fund",
+          "summary": "Equirus is launching a new ₹1,500 crore fund that will avoid investing in loss-making startups, reflecting a shift in the Indian startup funding market towards more selective investments. This move indicates a growing focus on sustainable business models. The fund's strategy is a response to the current market conditions where early-stage capital has held up better than late-stage funding.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/companies/news/why-equirus-is-avoiding-loss-making-startups-in-its-1-500-crore-fund-11782469777507.html"
+        },
+        {
+          "title": "India startup funding tops $1 billion as CRED mega",
+          "summary": "India's startup ecosystem has seen a strong funding comeback, with venture funding crossing the $1 billion mark in a week, driven largely by CRED's significant fundraising round. This rebound indicates a positive trend in the Indian startup funding market. The funding surge is a notable development in the country's startup landscape.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-tops-1-billion-dollars-as-cred-mega-round-powers-sharp-weekly-rebound-19933195.htm"
+        },
+        {
+          "title": "India's startup pipeline narrows despite rise in unicorns and IPOs in H1",
+          "summary": "Despite an increase in unicorns and IPOs, India's startup pipeline has narrowed, with technology startups raising $7.2 billion across 652 equity funding rounds in the first half of the year. This trend suggests a potential slowdown in the growth of new startups. The data highlights the evolving nature of India's startup ecosystem.",
+          "source": "The New Indian Express",
+          "url": "https://www.newindianexpress.com/business/2026/Jun/25/indias-startup-pipeline-narrows-despite-rise-in-unicorns-and-ipos-in-h1"
+        },
+        {
+          "title": "India tech funding rises 12 pc to $7.2 billion in H1 2026: Report",
+          "summary": "India's technology startup ecosystem has attracted $7.2 billion in funding during the first half of 2026, representing a 12% increase. This growth indicates a positive trend in the Indian tech funding market. The report highlights the ongoing development of India's startup sector.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/technology/india-tech-funding-rises-12-pc-to-72-billion-in-h1-2026-report-1/"
+        },
+        {
+          "title": "Steamhouse raises ₹50 crore in pre-IPO funding from Madhusudhan Kela-backed funds, Niveshaay",
+          "summary": "Steamhouse India has raised ₹50 crore in pre-IPO funding to expand its operations and reduce debt ahead of its public offering. This funding round is a significant development for the company as it prepares to go public. The investment will help Steamhouse achieve its growth objectives.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/markets/steamhouse-raises-50-crore-in-pre-ipo-funding-from-madhusudhan-kela-backed-funds-niveshaay/article71144985.ece"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "The right to walk: A call for a new legal framework in India",
+          "summary": "The Supreme Court has declared the right to walk on safe footpaths a fundamental right, marking a significant moment in Indian jurisprudence. This judgment highlights the need for a new legal framework to recognize and protect pedestrians' rights. The Motor Vehicles Act, 1988, is seen as inadequate in addressing pedestrian safety concerns.",
+          "source": "Daily Excelsior",
+          "url": "https://www.dailyexcelsior.com/the-right-to-walk-a-call-for-a-new-legal-framework-in-india/"
+        },
+        {
+          "title": "Homebuyers can seek relief for delay after possession: Supreme Court",
+          "summary": "The Supreme Court has ruled that taking possession of a flat does not bar homebuyers from raising complaints against real estate companies for deficiency in services. This judgment provides relief to homebuyers who have faced delays or other issues after taking possession of their properties. The court's decision aims to protect consumers' rights in the real estate sector.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/homebuyers-can-seek-relief-for-delay-after-possession-supreme-court/articleshow/132026736.cms"
+        },
+        {
+          "title": "Adhir moves SC over Bengal SIR deletions",
+          "summary": "A PIL has been filed in the Supreme Court against the deletion of 2.7 million names from West Bengal's voter list, citing concerns over welfare and judicial delays. The petition seeks to address the issue of voter list deletions and its impact on citizens' rights. The Supreme Court's decision will have implications for electoral processes and voter rights in India.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/adhir-moves-sc-over-bengal-sir-deletions-101782497799156.html"
+        },
+        {
+          "title": "BJP saving big fish, Supreme Court must monitor probe: Congress",
+          "summary": "The Congress party has demanded a Supreme Court-monitored investigation into the Ayodhya donation case, alleging that the UP police probe is inadequate. The party claims that the BJP is trying to protect those involved in the case, and a court-monitored probe is necessary to ensure a fair investigation. The case has sparked a political controversy, with the opposition seeking greater transparency and accountability.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/bjp-saving-big-fish-supreme-court-must-monitor-probe-congress/articleshow/132024796.cms"
+        },
+        {
+          "title": "From the India Today archives (2022) | Sukash Chandrashekhar: King of con?",
+          "summary": "Actress Jacqueline Fernandez has withdrawn her plea from the Supreme Court in a money laundering case allegedly involving Sukash Chandrashekhar. The case involves allegations of money laundering and fraud, and the Supreme Court's decision will have implications for the accused individuals and the investigation. The withdrawal of the plea may impact the ongoing case and its outcome.",
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/india-today-insight/story/from-the-india-today-archives-2022-sukash-chandrashekhar-king-of-con-2935050-2026-06-26"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-06-27T08:29:33.189789+00:00",
     "brief": "In a significant development, Russia and Ukraine have exchanged 160 prisoners of war each, marking a positive step towards easing tensions between the two countries. Meanwhile, global trade and geopolitics are also seeing notable shifts, with the Strait of Hormuz reopening for business and Qatar crude entering the Asian market, which could impact oil prices and international trade. On the economic front, India's GDP growth is projected to slow down to 6.6% in FY27 due to energy stress and weaker global demand, according to S&P Global Ratings, which could have implications for the country's development ambitions, including its goal of becoming a developed nation by 2047, where micro, small and medium enterprises are expected to play a crucial role.",
     "categories": {
