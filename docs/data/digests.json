@@ -1,5 +1,139 @@
 [
   {
+    "generated_at": "2026-06-27T08:29:33.189789+00:00",
+    "brief": "In a significant development, Russia and Ukraine have exchanged 160 prisoners of war each, marking a positive step towards easing tensions between the two countries. Meanwhile, global trade and geopolitics are also seeing notable shifts, with the Strait of Hormuz reopening for business and Qatar crude entering the Asian market, which could impact oil prices and international trade. On the economic front, India's GDP growth is projected to slow down to 6.6% in FY27 due to energy stress and weaker global demand, according to S&P Global Ratings, which could have implications for the country's development ambitions, including its goal of becoming a developed nation by 2047, where micro, small and medium enterprises are expected to play a crucial role.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Russia, Ukraine swap 160 prisoners of war each",
+          "summary": "Russia and Ukraine have exchanged 160 prisoners of war each, marking a significant development in the conflict between the two countries. This swap is part of ongoing efforts to resolve the crisis. The exchange is a positive step towards easing tensions between Russia and Ukraine.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/russia-ukraine-swap-160-prisoners-of-war-each/"
+        },
+        {
+          "title": "Air India weighs restoring part of international flights as Iran tensions ease",
+          "summary": "Air India is considering restoring some of its international flights as tensions between the US and Iran have eased. The US and Iran signed a memorandum of understanding to halt the conflict and begin negotiations, which is expected to lead to a return to normal international aviation operations. This development could impact global air travel and trade.",
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/india/story/air-india-international-flights-may-return-as-middle-east-stabilises-and-fuel-prices-fall-2935121-2026-06-26"
+        },
+        {
+          "title": "India, UAE underscore growing depth of defence relations",
+          "summary": "India and the United Arab Emirates (UAE) have highlighted the growing depth of their defence relations. The UAE's Land Forces' Deputy Commander visited India, underscoring the strengthening ties between the two countries. This development is significant for regional security and cooperation in the Middle East.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/india-uae-underscore-growing-depth-of-defence-relations-1/"
+        },
+        {
+          "title": "'To make enemies feel constant uneasiness & fear': North Korea leader Kim Jong Un observes major weapons tests",
+          "summary": "North Korean leader Kim Jong Un has overseen a series of artillery and missile tests, marking the 76th anniversary of the Korean War. The tests are seen as a demonstration of North Korea's military capabilities and a message to its enemies. This development has implications for regional security and global geopolitics.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/to-make-enemies-feel-constant-uneasiness-fear-north-korea-leader-kim-jong-un-observes-major-weapons-tests/articleshow/132009838.cms"
+        },
+        {
+          "title": "Qatar crude enters Asian market again as Hormuz gets back to business",
+          "summary": "The Strait of Hormuz has reopened for business, with Qatar crude entering the Asian market for the first time since the war broke out. This development is significant for global energy trade and could impact oil prices. The reopening of the Strait of Hormuz is a positive sign for international trade and commerce.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/international-business/qatar-crude-enters-asian-market-again-as-hormuz-gets-back-to-business/articleshow/132009861.cms"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "RBI opens term money market to AIFIs, housing finance companies",
+          "summary": "The Reserve Bank of India has allowed All India Financial Institutions and housing finance companies to participate in the term money market, enabling them to borrow and lend. This move aims to increase market participation and improve liquidity, ultimately strengthening monetary policy transmission. It also increases prudential borrowing limits for primary dealers.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-opens-term-money-market-to-aifis-housing-finance-companies/articleshow/132005366.cms"
+        },
+        {
+          "title": "MSMEs key to India’s developed nation ambition: KDEM Chairman",
+          "summary": "Micro, small and medium enterprises (MSMEs) are crucial for India to achieve its goal of becoming a developed nation by 2047. However, the sector requires stronger policy support, easier access to capital, infrastructure, and talent to fulfill this role. The Chairman of Karnataka Digital Economy Mission emphasized the importance of MSMEs in India's development.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/news/msmes-key-to-indias-developed-nation-ambition-kdem-chairman/article71146464.ece"
+        },
+        {
+          "title": "India's FY27 Growth Likely to Slow Down to 6.6% on Energy Stress, Sub",
+          "summary": "S&P Global Ratings has projected that India's GDP growth will slow down to 6.6% in FY27 due to energy stress, a sub-par monsoon, and weaker global demand. The report also warns of higher inflation and a likely RBI policy rate hike in the second half of the fiscal. This forecast indicates a decline from the 7.7% growth rate in FY26.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/news/indias-fy27-growth-likely-to-slow-down-to-66-on-energy-stress-sub-par-monsoon-sp"
+        },
+        {
+          "title": "S&P Global Projects 110-Bps Drop In India's Economic Growth Amid Inflation Fears",
+          "summary": "S&P Global expects India's economic growth to decline by 110 basis points due to inflation concerns. The company believes the RBI will start raising the repo rate from October, marking the beginning of monetary policy tightening in the second half of the financial year. This move is in response to expected higher inflation.",
+          "source": "NDTV Profit",
+          "url": "https://www.ndtvprofit.com/economy/s-p-global-projects-110-bps-drop-in-indias-economic-growth-amid-inflation-fears-11680797"
+        }
+      ],
+      "Business": [
+        {
+          "title": "India startup funding tops $1 billion as CRED mega",
+          "summary": "India's startup ecosystem has seen a strong funding comeback, with venture funding crossing the $1 billion mark, driven largely by CRED's recent fundraising round. This indicates a positive trend in the Indian startup scene. The funding surge is a significant development for the country's entrepreneurial landscape.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-tops-1-billion-dollars-as-cred-mega-round-powers-sharp-weekly-rebound-19933195.htm"
+        },
+        {
+          "title": "India's startup pipeline narrows despite rise in unicorns and IPOs in H1",
+          "summary": "Despite an increase in unicorns and IPOs, India's startup pipeline has narrowed, with technology startups raising $7.2 billion across 652 equity funding rounds between January 1 and June 24. This suggests a potential slowdown in the growth of new startups. The data provides insight into the current state of the Indian startup ecosystem.",
+          "source": "The New Indian Express",
+          "url": "https://www.newindianexpress.com/business/2026/Jun/25/indias-startup-pipeline-narrows-despite-rise-in-unicorns-and-ipos-in-h1"
+        },
+        {
+          "title": "India tech funding rises 12 pc to $7.2 billion in H1 2026: Report",
+          "summary": "India's technology startup ecosystem attracted $7.2 billion in funding during the first half of 2026, representing a 12% increase. This growth indicates a strong investment environment for Indian tech startups. The report highlights the positive trajectory of the Indian startup funding landscape.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/technology/india-tech-funding-rises-12-pc-to-72-billion-in-h1-2026-report-1/"
+        },
+        {
+          "title": "Steamhouse raises ₹50 crore in pre-IPO funding from Madhusudhan Kela-backed funds, Niveshaay",
+          "summary": "Steamhouse India has raised ₹50 crore in pre-IPO funding to expand operations and reduce debt ahead of its public offering. This funding round will help the company prepare for its initial public offering. The investment is a significant development for Steamhouse as it moves towards listing on the stock exchange.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/markets/steamhouse-raises-50-crore-in-pre-ipo-funding-from-madhusudhan-kela-backed-funds-niveshaay/article71144985.ece"
+        },
+        {
+          "title": "SaffronStays raises $ 3.5 million in a funding round led by Infinity Ventures",
+          "summary": "SaffronStays, a holiday home brand, has secured $3.5 million in a funding round led by Infinity Ventures. The company plans to use this capital to expand into new leisure destinations, enhance technology, and improve guest experiences. With a focus on profitability and customer satisfaction, SaffronStays aims to build a strong presence in India's growing managed holiday-home market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/services/hotels-/-restaurants/saffronstays-secures-35-million-funding-to-revolutionize-indias-holiday-home-market/articleshow/131965217.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Actress Jacqueline Fernandez withdraws plea from Supreme Court in money laundering case",
+          "summary": "Actress Jacqueline Fernandez has withdrawn her plea from the Supreme Court in a money laundering case allegedly involving Sukash Chandrashekhar. The case is significant as it involves a high-profile individual and a complex financial crime. The development may have implications for the ongoing investigation and potential legal proceedings.",
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/india-today-insight/story/from-the-india-today-archives-2022-sukash-chandrashekhar-king-of-con-2935050-2026-06-26"
+        },
+        {
+          "title": "Trump Administration Seeks Section 301 Loophole to Restore Tariffs",
+          "summary": "The Trump administration is exploring a new legal route to restore higher tariffs on Indian imports after a Supreme Court ruling struck down the previous tariff regime. This move could impact India-US trade talks and global commerce. The development may lead to increased tariffs and affect trade relations between the two countries.",
+          "source": "Outlook India",
+          "url": "https://www.outlookindia.com/international/trump-administration-seeks-section-301-loophole-to-restore-tariffs"
+        },
+        {
+          "title": "New NCERT textbook describes judiciary as 'impartial and independent institution'",
+          "summary": "A new NCERT textbook has described the judiciary as an impartial and independent institution, months after a controversy over a chapter on judicial corruption. The move is significant as it reflects the government's stance on the judiciary and its role in the country's governance. The development may have implications for the education system and the perception of the judiciary.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/impartial-and-independent-new-ncert-textbook-lauds-judiciary-months-after-judicial-corruption-chapter-row/articleshow/132016122.cms"
+        },
+        {
+          "title": "Supreme Court declares right to walk on footpath as fundamental right",
+          "summary": "The Supreme Court has declared that the right to walk on a demarcated footpath is a fundamental right, placing pedestrians at the center of road infrastructure. This move is significant as it prioritizes pedestrian safety and accessibility. The development may lead to changes in urban planning and infrastructure development.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/toi-plus/politics/why-indias-footpath-problem-is-now-a-fundamental-rights-issue/articleshow/132011045.cms"
+        },
+        {
+          "title": "US may reinstate higher tariffs through Section 301 investigations",
+          "summary": "The US may reinstate higher tariffs on Indian imports through Section 301 investigations, after the Supreme Court struck down the previous tariff regime. This move could impact India-US trade talks and global commerce. The development may lead to increased tariffs and affect trade relations between the two countries.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/economy-and-policy/trumps-tariffs-could-return-through-a-new-legal-route-heres-how"
+        },
+        {
+          "title": "70-year-old land dispute finally decided by Supreme Court",
+          "summary": "A 70-year-old land dispute has been finally decided by the Supreme Court, marking the end of a long-standing legal battle. The case is significant as it highlights the complexities and challenges of India's legal system. The development may have implications for similar long-pending cases and the country's judicial system.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/70-year-case-older-than-its-judges-finally-decided/articleshow/132005684.cms"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-06-27T02:35:06.337376+00:00",
     "brief": "Tensions between the US and Iran have eased, leading to a potential return to normal operations in international aviation, with Air India considering restoring some international flights and Qatar's crude oil re-entering the Asian market. Meanwhile, in the economic sphere, India's GDP growth is expected to slow down to 6.6% in FY27 due to energy stress, a sub-par monsoon, and weaker global demand, according to S&P Global Ratings. These developments are likely to have a ripple effect on various sectors, including trade and business, with the US exploring the use of Section 301 investigations to restore tariffs on Indian imports, which could impact the India-US trade deal and global commerce.",
     "categories": {
