@@ -1,5 +1,151 @@
 [
   {
+    "generated_at": "2026-06-28T13:23:23.547142+00:00",
+    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The ongoing war in West Asia continues to have far-reaching implications, with Iran's inflation surging to 88.6% and Bangladesh receiving $1.1 billion in emergency aid from the World Bank to cope with economic challenges. In India, the economy is expected to slow down to 6.6% growth in FY27 due to energy stress and a sub-par monsoon, while the startup ecosystem has seen a strong funding comeback, with venture funding crossing the $1 billion mark in a week. Meanwhile, the Supreme Court has taken significant steps to address issues such as delayed justice and pedestrians' rights, ruling that homebuyers can seek relief for delays in possession of their flats and affirming the right to walk on safe footpaths as a fundamental right.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Iran lashes out at Italy for providing 'technical and logistical' support to US during war",
+          "summary": "Iran has criticized Italy for providing support to the US during the war, calling it a violation of international law. This development highlights the complexities of international relations and alliances in the context of global conflicts. The situation may have implications for diplomatic relationships between the countries involved.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/world/iran-lashes-out-at-italy-for-providing-technical-and-logistical-support-to-us-during-war/"
+        },
+        {
+          "title": "Iran's inflation surges to 88.6% as war deepens economic crisis",
+          "summary": "Iran's inflation rate has surged to 88.6% due to the ongoing war, which has intensified pressure on the country's economy. This significant increase in inflation may have far-reaching consequences for Iran's economic stability and the well-being of its citizens. The situation underscores the economic challenges that can arise from conflict.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/international-business/irans-inflation-surges-to-88-6-as-war-deepens-economic-crisis/articleshow/132037963.cms"
+        },
+        {
+          "title": "Defence deal with China risks creating long-term dependency for Bangladesh",
+          "summary": "A report suggests that Bangladesh's defence deal with China may lead to long-term dependency, highlighting the potential risks associated with such agreements. This situation raises questions about the balance between strategic cooperation and maintaining independence in defence capabilities. The development is significant for understanding the geopolitical dynamics in the region.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/defence-deal-with-china-risks-creating-long-term-dependency-for-bangladesh-report/"
+        },
+        {
+          "title": "Indian envoy to Shanghai discusses New Delhi-Beijing ties with Chinese scholars",
+          "summary": "India's Consul General in Shanghai engaged in discussions with Chinese scholars to bolster India-China relations, focusing on areas such as trade, technology, and tourism. The talks also covered resuming people-to-people exchanges, indicating a shared interest in deepening bilateral dialogues. This development suggests efforts to enhance cooperation and understanding between the two nations.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/indian-envoy-to-shanghai-discusses-new-delhi-beijing-ties-with-chinese-scholars/articleshow/132037628.cms"
+        },
+        {
+          "title": "World Bank grants Bangladesh $1.1 billion emergency aid as West Asia war strains economy",
+          "summary": "The World Bank has provided Bangladesh with $1.1 billion in emergency aid to help the country cope with economic challenges exacerbated by the West Asia war. Bangladesh is also seeking additional financing from other sources, including the IMF, to support its foreign exchange reserves and public finances. This assistance reflects the international community's response to the economic impacts of global conflicts.",
+          "source": "Telegraph India",
+          "url": "https://www.telegraphindia.com/world/world-bank-grants-bangladesh-1-1-billion-emergency-aid-as-west-asia-war-strains-economy/cid/2167510"
+        },
+        {
+          "title": "Zelenskyy's new war plan: Ukraine launches 40-day deep strike campaign inside Russia",
+          "summary": "Ukraine has initiated a 40-day campaign of long-range drone strikes against strategic targets in Russia, aiming to intensify pressure on the country. This military strategy is part of Ukraine's efforts to counter Russian actions and may have significant implications for the ongoing conflict. The development highlights the evolving nature of modern warfare and the use of advanced technologies in combat.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/zelenskyys-new-war-plan-ukraine-launches-40-day-deep-strike-campaign-inside-russia/articleshow/132030610.cms"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Explained: How India’s transition from WPI to PPI will strengthen inflation measurement",
+          "summary": "India is transitioning from the Wholesale Price Index (WPI) to the Producer Price Index (PPI) to strengthen inflation measurement, which will have implications for policy making. This change aims to provide a more accurate picture of inflation. The shift is expected to impact monetary policy decisions.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/explained-how-indias-transition-from-wpi-to-ppi-will-strengthen-inflation-measurement-what-it-means-for-policy-making/articleshow/132030869.cms"
+        },
+        {
+          "title": "RBI opens term money market to AIFIs, housing finance companies",
+          "summary": "The Reserve Bank of India has opened the term money market to All India Financial Institutions and housing finance companies, allowing them to borrow and lend. This move aims to deepen market participation, improve liquidity, and strengthen monetary policy transmission. Prudential borrowing limits for primary dealers have also been increased.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-opens-term-money-market-to-aifis-housing-finance-companies/articleshow/132005366.cms"
+        },
+        {
+          "title": "MSMEs key to India’s developed nation ambition: KDEM Chairman",
+          "summary": "Micro, small and medium enterprises (MSMEs) are expected to play a crucial role in helping India achieve developed nation status by 2047. However, the sector requires stronger policy support, easier access to capital, infrastructure, and talent. The Chairman of Karnataka Digital Economy Mission emphasized the importance of MSMEs in India's growth.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/news/msmes-key-to-indias-developed-nation-ambition-kdem-chairman/article71146464.ece"
+        },
+        {
+          "title": "India's FY27 Growth Likely to Slow Down to 6.6% on Energy Stress, Sub-par Monsoon",
+          "summary": "S&P Global Ratings has projected India's GDP growth to slow down to 6.6% in FY27 from 7.7% in FY26 due to energy stress, a sub-par monsoon, and weaker global demand. The report also warns of higher inflation and a likely RBI policy rate hike in the second half of the fiscal. This slowdown is expected to impact the economy.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/news/indias-fy27-growth-likely-to-slow-down-to-66-on-energy-stress-sub-par-monsoon-sp"
+        },
+        {
+          "title": "S&P Global Projects 110-Bps Drop In India's Economic Growth Amid Inflation Fears",
+          "summary": "S&P Global has projected a 110-bps drop in India's economic growth due to inflation fears. The RBI is expected to raise the repo rate from October, marking the start of monetary policy tightening in the second half of the financial year. This move is aimed at controlling inflation.",
+          "source": "NDTV Profit",
+          "url": "https://www.ndtvprofit.com/economy/s-p-global-projects-110-bps-drop-in-indias-economic-growth-amid-inflation-fears-11680797"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Why Equirus is avoiding loss-making startups in its ₹1,500 crore fund",
+          "summary": "Equirus is launching a new ₹1,500 crore fund that will avoid investing in loss-making startups, reflecting a shift in India's startup funding market towards more selective investments. This move indicates a growing focus on sustainability and profitability in the startup ecosystem. The fund's strategy is a response to the changing market dynamics.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/companies/news/why-equirus-is-avoiding-loss-making-startups-in-its-1-500-crore-fund-11782469777507.html"
+        },
+        {
+          "title": "India startup funding tops $1 billion as CRED mega",
+          "summary": "India's startup ecosystem has seen a strong funding comeback, with venture funding crossing the $1 billion mark in a week, driven largely by CRED's significant fundraising round. This surge in funding indicates a rebound in investor confidence in the Indian startup market. The funding milestone is a positive sign for the ecosystem.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-tops-1-billion-dollars-as-cred-mega-round-powers-sharp-weekly-rebound-19933195.htm"
+        },
+        {
+          "title": "India's startup pipeline narrows despite rise in unicorns and IPOs in H1",
+          "summary": "Despite an increase in unicorns and IPOs, India's startup pipeline has narrowed, with technology startups raising $7.2 billion across 652 equity funding rounds in the first half of the year. This trend suggests that while some startups are achieving significant milestones, the overall pipeline of new startups may be shrinking. The data provides insight into the current state of the startup ecosystem.",
+          "source": "The New Indian Express",
+          "url": "https://www.newindianexpress.com/business/2026/Jun/25/indias-startup-pipeline-narrows-despite-rise-in-unicorns-and-ipos-in-h1"
+        },
+        {
+          "title": "India tech funding rises 12 pc to $7.2 billion in H1 2026: Report",
+          "summary": "India's technology startup ecosystem has attracted $7.2 billion in funding during the first half of 2026, representing a 12% increase from the previous year. This growth in funding indicates a positive trend for the Indian tech industry, with investors continuing to show confidence in the sector. The report highlights the resilience of the Indian startup ecosystem.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/technology/india-tech-funding-rises-12-pc-to-72-billion-in-h1-2026-report-1/"
+        },
+        {
+          "title": "Steamhouse raises ₹50 crore in pre-IPO funding from Madhusudhan Kela-backed funds, Niveshaay",
+          "summary": "Steamhouse India has raised ₹50 crore in pre-IPO funding from investors including Madhusudhan Kela-backed funds and Niveshaay, which will be used to expand operations and reduce debt ahead of its public offering. This funding round indicates that investors are showing interest in the company's growth prospects and are willing to support it ahead of its IPO. The funding will help Steamhouse prepare for its public listing.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/markets/steamhouse-raises-50-crore-in-pre-ipo-funding-from-madhusudhan-kela-backed-funds-niveshaay/article71144985.ece"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Supreme Court takes 14 years on criminal case, 2 convicts die waiting",
+          "summary": "The Supreme Court has taken 14 years to decide on a criminal case, resulting in the death of two convicts while waiting for the verdict. This highlights the issue of delayed justice in India's judicial system. The case underscores the need for efficient and timely disposal of cases to ensure justice is served.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/supreme-court-takes-14-years-on-criminal-case-2-convicts-die-waiting/articleshow/132044102.cms"
+        },
+        {
+          "title": "Government Orders All Ministries to Remove Stray Dogs From Their Campuses, Sets June 30 Deadline",
+          "summary": "The Indian government has ordered all ministries to remove stray dogs from their campuses by June 30, following a Supreme Court ruling on safety. This move aims to ensure public safety and prevent potential hazards. The deadline sets a clear timeline for ministries to comply with the order.",
+          "source": "Republic World",
+          "url": "https://www.republicworld.com/india/government-orders-all-ministries-to-remove-stray-dogs-from-their-campuses-sets-june-30-deadline-2026-06-27-130183"
+        },
+        {
+          "title": "We visited 10 Delhi neighbourhoods after SC's 'right to walk' ruling. Here's what we found",
+          "summary": "After the Supreme Court affirmed the right to walk, an investigation found that footpaths in Delhi are often blocked, broken, or narrowed. The mayor has promised to take action to address the issue. The findings highlight the need for better infrastructure to support pedestrians' rights.",
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/lifestyle/society/story/we-visited-10-delhi-neighbourhoods-after-scs-right-to-walk-ruling-heres-what-we-found-2934938-2026-06-27"
+        },
+        {
+          "title": "The right to walk: A call for a new legal framework in India",
+          "summary": "The Supreme Court's judgment declaring the right to walk on safe footpaths a fundamental right marks a significant moment in Indian jurisprudence. The ruling highlights the need for a new legal framework to recognize and protect pedestrians' rights. This could lead to changes in laws and policies related to road safety and infrastructure.",
+          "source": "Daily Excelsior",
+          "url": "https://www.dailyexcelsior.com/the-right-to-walk-a-call-for-a-new-legal-framework-in-india/"
+        },
+        {
+          "title": "Homebuyers can seek relief for delay after possession: Supreme Court",
+          "summary": "The Supreme Court has ruled that homebuyers can seek relief for delays in possession of their flats even after taking possession. This decision allows homebuyers to raise complaints against real estate companies for deficiency in services. The ruling provides additional protection for homebuyers and holds developers accountable for delays.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/homebuyers-can-seek-relief-for-delay-after-possession-supreme-court/articleshow/132026736.cms"
+        },
+        {
+          "title": "Adhir moves SC over Bengal SIR deletions",
+          "summary": "Adhir Ranjan Chowdhury has filed a PIL in the Supreme Court against the deletion of 2.7 million names from West Bengal's voter list, citing concerns over welfare and judicial delays. The petition seeks to address the issue of voter list deletions and its impact on citizens. The case highlights the importance of accurate voter lists and the need for efficient judicial processes.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/adhir-moves-sc-over-bengal-sir-deletions-101782497799156.html"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-06-28T08:44:29.207628+00:00",
     "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The ongoing war in the Middle East has led to a surge in Iran's inflation rate to 88.6%, while the World Bank has granted Bangladesh $1.1 billion in emergency aid to cope with economic challenges. In India, the economy is expected to slow down to 6.6% growth in FY27 due to energy stress and a sub-par monsoon, according to S&P Global Ratings, which may lead to a hike in the RBI policy rate. Meanwhile, the Indian startup ecosystem has seen a strong funding comeback, with venture funding crossing the $1 billion mark in a week, driven largely by CRED's significant fundraising round.",
     "categories": {
@@ -3223,104 +3369,6 @@
           "summary": "The Ministry of Health has banned 16 fixed dose combination medicines in India, including antibiotics and skin creams, due to safety concerns. The decision follows directions from the Supreme Court, which mandated a comprehensive review of Fixed Dose Combinations available in the country.",
           "source": "The Tribune",
           "url": "https://www.tribuneindia.com/news/top-headlines/16-fixed-dose-combination-medicines-banned-in-india-antibiotics-and-skin-creams-among-affected/"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-06-21T13:54:12.359254+00:00",
-    "brief": "Global tensions and conflicts are under scrutiny, with a potential US-Israel war on Iran highlighting the unnecessary nature of such a conflict and its harmful environmental effects, while the Islamic State has launched a digital war on India, aiming to disrupt ties between New Delhi and Kabul. Amidst this uncertainty, the Reserve Bank of India's Monetary Policy Committee has adopted a cautious approach, avoiding pre-emptive changes in interest rates due to West Asia conflict and supply chain disruptions. Meanwhile, a significant drop in oil prices has given the MPC room to consider policy normalization, and the World Bank has approved a $1.5 billion financing package to boost India's structural reforms and private sector-led job creation, supporting economic growth and development.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "US-Israel war on Iran was unnecessary - its military emissions damage everyone on Earth",
-          "summary": "A professor of international relations discusses the impact of a potential US-Israel war on Iran, highlighting the unnecessary nature of such a conflict and its harmful effects on the environment through military emissions. This affects not just the region but the entire world. The discussion comes at a time when global tensions and conflicts are under scrutiny.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/us-israel-war-on-iran-was-unnecessary-its-military-emissions-damage-everyone-on-earth/articleshow/131885086.cms"
-        },
-        {
-          "title": "Afghan outfit ISKP launches digital war on India, seeks to derail New Delhi",
-          "summary": "The Islamic State has initiated an aggressive anti-India propaganda campaign, aiming to disrupt the ties between New Delhi and Kabul. This digital war signifies an escalation in geopolitical tensions and highlights the evolving nature of conflict in the digital age. India's relations with Afghanistan and its security are potentially at risk.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/afghan-outfit-iskp-launches-digital-war-on-india-seeks-to-derail-new-delhi-kabul-ties-1/"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "MPC members favour caution over pre-emptive rate move amid West Asia uncertainty, show RBI minutes",
-          "summary": "The Reserve Bank of India's Monetary Policy Committee (MPC) has decided to adopt a cautious approach and not make any pre-emptive changes in interest rates due to uncertainty around the West Asia conflict and supply chain disruptions. This decision was made to avoid any potential risks and to wait for more clarity on the situation. The MPC will continue to monitor the situation and make decisions based on data.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3937936-mpc-members-favour-caution-over-pre-emptive-rate-move-amid-west-asia-uncertainty-show-rbi-minutes"
-        },
-        {
-          "title": "Oil Prices Slump 16% Since June Meeting, Giving MPC Headroom for Policy Normalisation: ICICI Research Report",
-          "summary": "A significant drop in oil prices since the June MPC meeting has improved India's inflation outlook, according to an ICICI Research report. This decrease in oil prices has given the MPC room to consider policy normalization. The report suggests that the MPC may lower inflation forecasts if oil prices remain subdued, potentially reducing the likelihood of near-term rate hikes.",
-          "source": "Republic World",
-          "url": "https://www.republicworld.com/business/oil-prices-slump-16-since-june-meeting-giving-mpc-headroom-for-policy-normalisation-icici-research-report-2026-06-20-129160"
-        },
-        {
-          "title": "Lower oil prices open door for MPC to time policy normalisation: ICICI Research",
-          "summary": "Falling oil prices and easing geopolitical tensions have improved India's inflation outlook, giving the Monetary Policy Committee room to decide on policy normalization timing. While concerns about food and fuel prices persist, underlying inflation remains stable, and domestic growth shows resilience. The MPC may lower inflation forecasts if oil prices remain subdued, potentially reducing near-term rate hike odds.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/lower-oil-prices-open-door-for-mpc-to-time-policy-normalisation-icici-research/articleshow/131871079.cms"
-        },
-        {
-          "title": "From missions to markets: India’s space economy takes shape",
-          "summary": "India's space sector is entering a new phase, with states, startups, and investors stepping in after policy reforms opened the industry to private players. The focus is shifting from building capabilities to creating commercially viable businesses that can compete on a global stage. This development is expected to drive growth and innovation in the space economy.",
-          "source": "Firstpost",
-          "url": "https://www.firstpost.com/tech/indias-space-economy-is-taking-off-and-states-want-a-bigger-share-of-the-opportunity-14024223.html"
-        },
-        {
-          "title": "RBI MPC minutes: Policy misstep fears drove rate pause amid West Asia uncertainty",
-          "summary": "The Reserve Bank of India's Monetary Policy Committee has opted for a cautious approach, holding the repo rate steady due to significant geopolitical and weather-related uncertainties. The committee is concerned about rising crude oil prices and potential El Nino impacts on inflation. While core inflation remains subdued, the MPC is prioritizing data dependency before considering any policy rate adjustments.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-mpc-minutes-policy-misstep-fears-drove-rate-pause-amid-west-asia-uncertainty/articleshow/131861187.cms"
-        }
-      ],
-      "Business": [
-        {
-          "title": "World Bank clears $1.5 billion package to boost India's structural reforms, private sector jobs",
-          "summary": "The World Bank has approved a $1.5 billion financing package for India to accelerate structural reforms and stimulate private sector-led job creation. This initiative aims to support economic growth by fostering entrepreneurship and simplifying business processes. The funding is expected to create millions of job opportunities for young people entering the workforce annually.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/india/world-bank-clears-1-5-billion-package-to-boost-indias-structural-reforms-private-sector-jobs/articleshow/131866304.cms"
-        },
-        {
-          "title": "India Should Address Structural Gaps To Attract Global Funds for Startup Ecosystem",
-          "summary": "India needs to address structural gaps in its startup ecosystem to attract global funds. Tax reforms, growth funding, and stronger exits are key to drawing global investors. This will help India's startup ecosystem grow and become more competitive.",
-          "source": "Deccan Chronicle",
-          "url": "https://www.deccanchronicle.com/business/india-should-address-structural-gaps-to-attract-global-funds-for-startup-ecosystem-1964760"
-        },
-        {
-          "title": "Karo Sambhav raises Rs 56 crore from Rainmatter to expand critical mineral recovery from e",
-          "summary": "Karo Sambhav, a circular economy startup, has secured Rs 56 crore from Rainmatter to expand its infrastructure for recovering critical minerals and valuable materials from electronic waste. The company aims to scale its recycling operations and reduce India's import dependence. This move supports India's manufacturing future.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/tech/funding/karo-sambhav-raises-rs-56-crore-from-rainmatter-to-expand-critical-mineral-recovery-from-e-waste/articleshow/131835309.cms"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Painkillers, muscle relaxants among 16 more FDCs banned",
-          "summary": "The Indian health ministry has banned 16 fixed dose combinations of medicines due to safety concerns, following a Supreme Court review. This move aims to promote rational prescribing and protect public health by removing unsupported drug combinations from the market. The ban includes painkillers and muscle relaxants among others.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/painkillers-muscle-relaxants-among-16-more-fdcs-banned-101781982145476.html"
-        },
-        {
-          "title": "Encounter Killings Decoded: What Is A Police ‘Encounter’, Who Orders It, And When Can Police Open Fire?",
-          "summary": "The concept of police encounters in India has been under scrutiny, with questions surrounding who authorizes them and the legal limits on police firing. The Supreme Court has issued guidelines on encounter killings, which have sparked public debate across the country. Understanding the intricacies of encounter killings is crucial in the context of India's law and order situation.",
-          "source": "NewsX",
-          "url": "https://www.newsx.com/india/encounter-killings-decoded-what-is-a-police-encounter-who-orders-it-and-when-can-police-open-fire-inside-indias-most-controversial-law-and-order-tool-explained-238108/"
-        },
-        {
-          "title": "Trafficked or not, Supreme Court upholds woman’s consent to rehabilitation in Prajwala verdict",
-          "summary": "The Supreme Court's Prajwala verdict has redefined sex trafficking law in India, emphasizing the importance of an adult woman's consent in rehabilitation and protective detention. The judgment distinguishes between trafficking and voluntary sex work, upholding dignity and questioning detention-based 'rescue' models. This verdict has significant implications for India's approach to sex trafficking and women's rights.",
-          "source": "The News Minute",
-          "url": "https://www.thenewsminute.com/news/trafficked-or-not-supreme-court-upholds-womans-consent-to-rehabilitation-in-prajwala-verdict"
-        },
-        {
-          "title": "Govt bans 16 major drug combinations over safety issues, expert panel points to ‘irrational’ formula",
-          "summary": "The Ministry of Health has banned 16 Fixed Dose Combinations of medicines in India, citing health risks and lack of therapeutic value. This decision follows a Supreme Court review and aims to ensure patient safety and rational drug use. The ban includes antibiotics and skin creams among other affected medicines.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/india-news/govt-bans-16-major-drug-combinations-over-safety-issues-expert-panel-points-to-irrational-formula/4272273/"
         }
       ]
     }
