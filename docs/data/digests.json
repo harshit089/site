@@ -1,5 +1,145 @@
 [
   {
+    "generated_at": "2026-06-28T19:08:51.625361+00:00",
+    "brief": "Today's brief highlights key developments across geopolitics, economy, and national affairs. The recent Israel-Lebanon ceasefire agreement has raised concerns about its impact on human rights and the rule of law, while Iran's inflation rate has surged to 88.6% due to the ongoing war in the Middle East. In India, the economy is facing challenges, with S&P Global Ratings projecting a slowdown in GDP growth to 6.6% in FY27, attributed to energy stress, a sub-par monsoon, and weaker global demand. Meanwhile, the Indian startup ecosystem has seen a strong funding comeback, with venture funding crossing $1 billion, driven largely by CRED's fundraising round.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "While Israel-Lebanon deal stops fighting, legal experts warned Beirut of a bigger issue: Lack of judicial recourse",
+          "summary": "The recent ceasefire agreement between Israel and Lebanon may hinder victims of war crimes from seeking accountability, as it could block judicial recourse and limit the International Criminal Court's jurisdiction in the country. This raises concerns about the deal's impact on human rights and the rule of law. The agreement's implications for future conflicts and international law are also being closely watched.",
+          "source": "Firstpost",
+          "url": "https://www.firstpost.com/world/while-israel-lebanon-deal-stops-fighting-legal-experts-warned-beirut-of-a-bigger-issue-lack-of-judicial-recourse-14026958.html"
+        },
+        {
+          "title": "How An Indian Explosives Firm Got Caught In Sudan's Bloody Civil War",
+          "summary": "An Indian explosives manufacturer has been linked to Sudan's civil war, alongside companies and networks accused of prolonging the conflict. The firm's involvement has raised questions about the global arms trade and the role of international companies in fueling conflicts. The situation highlights the complex and often hidden dynamics of global warfare.",
+          "source": "NDTV.com",
+          "url": "https://www.ndtv.com/world-news/sbl-energy-sudan-civil-war-us-sanctions-alok-choudhari-how-an-indian-explosives-firm-became-caught-in-sudans-bloody-civil-war-11696854"
+        },
+        {
+          "title": "Iran lashes out at Italy for providing 'technical and logistical' support to US during war",
+          "summary": "Iran has criticized Italy for providing support to the US during a recent conflict, calling it a violation of international law. The incident highlights the complexities of global alliances and the tensions between nations during times of war. Iran's response reflects its concerns about the involvement of other countries in the conflict.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/world/iran-lashes-out-at-italy-for-providing-technical-and-logistical-support-to-us-during-war/"
+        },
+        {
+          "title": "Iran's inflation surges to 88.6% as war deepens economic crisis",
+          "summary": "Iran's inflation rate has reached 88.6%, the highest in recent months, due to the ongoing war in the Middle East. The economic crisis in Iran is being exacerbated by the conflict, which is putting pressure on the country's economy and affecting the lives of its citizens. The situation highlights the human cost of war and its far-reaching economic consequences.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/international-business/irans-inflation-surges-to-88-6-as-war-deepens-economic-crisis/articleshow/132037963.cms"
+        },
+        {
+          "title": "Defence deal with China risks creating long-term dependency for Bangladesh: Report",
+          "summary": "A recent report has warned that Bangladesh's defense deal with China may create long-term dependency for the country. The agreement could provide opportunities for Bangladesh, but it also carries risks, including the potential for over-reliance on China. The situation highlights the complexities of international relations and the need for countries to carefully consider the implications of their defense agreements.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/defence-deal-with-china-risks-creating-long-term-dependency-for-bangladesh-report/"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Weekly economy wrap: Core sector slowdown, US trade talks shape policy week",
+          "summary": "India's policy week was marked by US trade talks, weak core output, stronger FDI, coal-import substitution, and a faster disinvestment push. This indicates a mix of challenges and opportunities for the Indian economy. The developments will likely shape the country's economic policies in the coming weeks.",
+          "source": "Business Standard",
+          "url": "https://www.business-standard.com/economy/news/weekly-economy-wrap-core-sector-us-trade-talks-fdi-disinvestment-126062800183_1.html"
+        },
+        {
+          "title": "Explained: How India’s transition from WPI to PPI will strengthen inflation measurement",
+          "summary": "India is transitioning from Wholesale Price Index (WPI) to Producer Price Index (PPI) to measure inflation. This change is expected to strengthen inflation measurement and have implications for policy making. The new index will provide a more accurate picture of price changes in the economy.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/explained-how-indias-transition-from-wpi-to-ppi-will-strengthen-inflation-measurement-what-it-means-for-policy-making/articleshow/132030869.cms"
+        },
+        {
+          "title": "RBI opens term money market to AIFIs, housing finance companies",
+          "summary": "The Reserve Bank of India has opened the term money market to All India Financial Institutions and housing finance companies. This move aims to deepen market participation, improve liquidity, and strengthen monetary policy transmission. It will allow these institutions to borrow and lend, and prudential borrowing limits for primary dealers have been increased.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-opens-term-money-market-to-aifis-housing-finance-companies/articleshow/132005366.cms"
+        },
+        {
+          "title": "MSMEs key to India’s developed nation ambition: KDEM Chairman",
+          "summary": "Micro, small, and medium enterprises (MSMEs) are expected to play a crucial role in helping India achieve developed nation status by 2047. However, the sector requires stronger policy support, easier access to capital, infrastructure, and talent. The Chairman of Karnataka Digital Economy Mission emphasized the importance of MSMEs in India's economic growth.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/news/msmes-key-to-indias-developed-nation-ambition-kdem-chairman/article71146464.ece"
+        },
+        {
+          "title": "India's FY27 Growth Likely to Slow Down to 6.6% on Energy Stress, Sub-par Monsoon",
+          "summary": "S&P Global Ratings has projected India's GDP growth to slow down to 6.6% in FY27 from 7.7% in FY26. The slowdown is attributed to energy stress, a sub-par monsoon, and weaker global demand. The report also warns of higher inflation and a likely RBI policy rate hike in the second half of the fiscal.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/news/indias-fy27-growth-likely-to-slow-down-to-66-on-energy-stress-sub-par-monsoon-sp"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Where are the unicorns of 2021",
+          "summary": "In 2021, 39 Indian startups achieved unicorn status, but they now face a changed landscape with global uncertainties and investor caution. Some are adapting their strategies or pursuing public listings, while others continue to secure significant investments. This reflects the evolving dynamics of the startup ecosystem.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/startups/where-are-the-unicorns-of-2021/articleshow/132045249.cms"
+        },
+        {
+          "title": "Why Equirus is avoiding loss-making startups in its ₹1,500 crore fund",
+          "summary": "Equirus is launching a new fund that will avoid investing in loss-making startups, reflecting a shift in the Indian startup funding market towards more selective investments. This comes as early-stage capital holds up better than late-stage funding. The fund size is ₹1,500 crore.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/companies/news/why-equirus-is-avoiding-loss-making-startups-in-its-1-500-crore-fund-11782469777507.html"
+        },
+        {
+          "title": "India startup funding tops $1 billion as CRED mega",
+          "summary": "India's startup ecosystem saw a strong funding comeback, with venture funding crossing $1 billion, driven largely by CRED's fundraising round. This indicates a rebound in the startup funding market. The funding surge is a significant development for the Indian startup ecosystem.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-tops-1-billion-dollars-as-cred-mega-round-powers-sharp-weekly-rebound-19933195.htm"
+        },
+        {
+          "title": "India's startup pipeline narrows despite rise in unicorns and IPOs in H1",
+          "summary": "Despite a rise in unicorns and IPOs, India's startup pipeline has narrowed, with technology startups raising $7.2 billion across 652 equity funding rounds in the first half of the year. This data provides insight into the current state of the Indian startup ecosystem. The funding amount was tracked by Tracxn.",
+          "source": "The New Indian Express",
+          "url": "https://www.newindianexpress.com/business/2026/Jun/25/indias-startup-pipeline-narrows-despite-rise-in-unicorns-and-ipos-in-h1"
+        },
+        {
+          "title": "India tech funding rises 12 pc to $7.2 billion in H1 2026: Report",
+          "summary": "India's technology startup ecosystem attracted $7.2 billion in funding during the first half of 2026, a 12% increase. This growth indicates a positive trend in the Indian tech funding market. The report highlights the resilience of the Indian startup ecosystem.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/technology/india-tech-funding-rises-12-pc-to-72-billion-in-h1-2026-report-1/"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Supreme Court Backs Homebuyers Rights, Says Compensation Can Be Claimed Even After Taking Flat Possession",
+          "summary": "The Supreme Court has ruled that homebuyers can claim compensation for delayed delivery even after taking possession of their flats, providing major relief to homebuyers. This verdict could set a precedent for similar disputes across India. The ruling revives a 2005 complaint and emphasizes the rights of homebuyers.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/business/supreme-court-backs-homebuyers-rights-says-compensation-can-be-claimed-even-after-taking-flat-possession"
+        },
+        {
+          "title": "Telangana government, SBI reach amicable solution to land row",
+          "summary": "The Telangana government and State Bank of India have resolved a land dispute amicably, with SBI agreeing to alternative land proposals made by the state. The resolution comes after a five-acre parcel in Raidurg became a point of contention, leading to court action and threats from the state. The bank will proceed with the proposal after board approval.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/telangana-government-sbi-reach-amicable-solution-to-land-row/articleshow/132045873.cms"
+        },
+        {
+          "title": "Supreme Court takes 14 years on criminal case, 2 convicts die waiting",
+          "summary": "The Supreme Court has taken 14 years to hear a criminal case, resulting in the death of two convicts while waiting for a verdict. The delay highlights the issue of justice delayed being justice denied, a concern repeatedly raised by the Supreme Court. The case underscores the need for efficient and timely justice in India's judicial system.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/supreme-court-takes-14-years-on-criminal-case-2-convicts-die-waiting/articleshow/132044102.cms"
+        },
+        {
+          "title": "Government Orders All Ministries to Remove Stray Dogs From Their Campuses, Sets June 30 Deadline",
+          "summary": "The Indian government has ordered all ministries to remove stray dogs from their campuses, including schools and hospitals, by June 30, following a Supreme Court ruling on safety. The move aims to ensure public safety and prevent potential hazards. The government has set a deadline for compliance, emphasizing the importance of addressing the issue.",
+          "source": "Republic World",
+          "url": "https://www.republicworld.com/india/government-orders-all-ministries-to-remove-stray-dogs-from-their-campuses-sets-june-30-deadline-2026-06-27-130183"
+        },
+        {
+          "title": "We visited 10 Delhi neighbourhoods after SC's 'right to walk' ruling. Here's what we found",
+          "summary": "After the Supreme Court affirmed the right to walk, an investigation found that footpaths in 10 Delhi neighborhoods were often blocked, broken, or narrowed. The findings prompted the mayor to promise action, highlighting the need for improved pedestrian infrastructure in the city. The report underscores the challenges in implementing the Supreme Court's ruling on the right to walk.",
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/lifestyle/society/story/we-visited-10-delhi-neighbourhoods-after-scs-right-to-walk-ruling-heres-what-we-found-2934938-2026-06-27"
+        },
+        {
+          "title": "The right to walk: A call for a new legal framework in India",
+          "summary": "The Supreme Court's judgment declaring the right to walk on safe footpaths a fundamental right marks a significant moment in Indian jurisprudence. The ruling highlights the need for a new legal framework to recognize and protect pedestrians' rights, as the current Motor Vehicles Act, 1988, has limitations in addressing pedestrian safety. The judgment has implications for urban planning and infrastructure development in India.",
+          "source": "Daily Excelsior",
+          "url": "https://www.dailyexcelsior.com/the-right-to-walk-a-call-for-a-new-legal-framework-in-india/"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-06-28T13:23:23.547142+00:00",
     "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The ongoing war in West Asia continues to have far-reaching implications, with Iran's inflation surging to 88.6% and Bangladesh receiving $1.1 billion in emergency aid from the World Bank to cope with economic challenges. In India, the economy is expected to slow down to 6.6% growth in FY27 due to energy stress and a sub-par monsoon, while the startup ecosystem has seen a strong funding comeback, with venture funding crossing the $1 billion mark in a week. Meanwhile, the Supreme Court has taken significant steps to address issues such as delayed justice and pedestrians' rights, ruling that homebuyers can seek relief for delays in possession of their flats and affirming the right to walk on safe footpaths as a fundamental right.",
     "categories": {
@@ -3253,122 +3393,6 @@
           "summary": "A police encounter in India refers to a situation where police engage with suspects, often resulting in the death of the accused. The process involves guidelines set by the Supreme Court, and police can open fire in specific circumstances. The topic of encounter killings is controversial and has been subject to public debate.",
           "source": "NewsX",
           "url": "https://www.newsx.com/india/encounter-killings-decoded-what-is-a-police-encounter-who-orders-it-and-when-can-police-open-fire-inside-indias-most-controversial-law-and-order-tool-explained-238108/"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-06-21T19:21:08.898209+00:00",
-    "brief": "Tensions in West Asia continue to impact India, with the US-Israel war on Iran sparking concerns over environmental damage and the Islamic State launching a digital war on India to disrupt its ties with Afghanistan. Meanwhile, the Reserve Bank of India's Monetary Policy Committee has adopted a cautious approach, choosing not to make any pre-emptive changes in interest rates due to uncertainty around the West Asia conflict, but a significant drop in oil prices since the June MPC meeting may provide the committee with the opportunity to normalize policy. The Indian government has also taken steps to promote economic growth, including a ban on 16 fixed-dose combination medicines due to safety concerns and the approval of a $1.5 billion financing package from the World Bank to accelerate structural reforms and stimulate private sector-led job creation.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "‘US-Israel war on Iran was unnecessary - its military emissions damage everyone on Earth’",
-          "summary": "A professor of international relations has spoken out about the US-Israel war on Iran, stating that it was unnecessary and has caused environmental damage. The war's impact on global emissions is a concern for everyone on Earth. This highlights the geopolitical tensions and environmental consequences of military conflicts.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/us-israel-war-on-iran-was-unnecessary-its-military-emissions-damage-everyone-on-earth/articleshow/131885086.cms"
-        },
-        {
-          "title": "Afghan outfit ISKP launches digital war on India, seeks to derail New Delhi",
-          "summary": "The Islamic State has launched an anti-India propaganda campaign, targeting New Delhi-Kabul ties. This digital war aims to disrupt the relationship between India and Afghanistan. The move is a significant development in the geopolitical landscape of the region.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/afghan-outfit-iskp-launches-digital-war-on-india-seeks-to-derail-new-delhi-kabul-ties-1/"
-        },
-        {
-          "title": "Vice President CP Radhakrishnan to participate in International Yoga Day in Ladakh",
-          "summary": "Vice President CP Radhakrishnan will participate in International Yoga Day celebrations in Ladakh, engaging in various programs and interacting with local self-help groups. The visit highlights India's focus on promoting yoga and wellness globally. It also underscores the country's strategic interests in the Ladakh region.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/india/vice-president-cp-radhakrishnan-to-participate-in-international-yoga-day-in-ladakh/articleshow/131869895.cms"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "MPC members favour caution over pre-emptive rate move amid West Asia uncertainty, show RBI minutes",
-          "summary": "The Reserve Bank of India's Monetary Policy Committee (MPC) has adopted a cautious approach, choosing not to make any pre-emptive changes in interest rates due to uncertainty around the West Asia conflict and supply chain disruptions. This decision reflects the committee's wait-and-watch stance. The MPC's cautious approach is driven by the need to assess the impact of global events on India's economy.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3937936-mpc-members-favour-caution-over-pre-emptive-rate-move-amid-west-asia-uncertainty-show-rbi-minutes"
-        },
-        {
-          "title": "Oil Prices Slump 16% Since June Meeting, Giving MPC Headroom for Policy Normalisation: ICICI Research Report",
-          "summary": "A significant drop in oil prices since the June MPC meeting has improved India's inflation outlook, according to an ICICI Research report. This decrease in oil prices may provide the MPC with the opportunity to normalize policy. The report suggests that the MPC may reconsider its policy stance in light of the changed economic conditions.",
-          "source": "Republic World",
-          "url": "https://www.republicworld.com/business/oil-prices-slump-16-since-june-meeting-giving-mpc-headroom-for-policy-normalisation-icici-research-report-2026-06-20-129160"
-        },
-        {
-          "title": "Lower oil prices open door for MPC to time policy normalisation: ICICI Research",
-          "summary": "Falling oil prices and easing geopolitical tensions have improved India's inflation outlook, giving the Monetary Policy Committee room to decide on policy normalization timing. The report notes that domestic growth remains resilient, although export and rainfall risks persist. The MPC may lower inflation forecasts if oil prices remain subdued, potentially reducing near-term rate hike odds.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/lower-oil-prices-open-door-for-mpc-to-time-policy-normalisation-icici-research/articleshow/131871079.cms"
-        },
-        {
-          "title": "From missions to markets: India’s space economy takes shape",
-          "summary": "India's space sector is entering a new phase, with states, startups, and investors stepping in after policy reforms opened the industry to private players. The focus is shifting from building capabilities to creating commercially viable businesses that can compete on a global stage. This development is expected to drive growth in the space economy.",
-          "source": "Firstpost",
-          "url": "https://www.firstpost.com/tech/indias-space-economy-is-taking-off-and-states-want-a-bigger-share-of-the-opportunity-14024223.html"
-        },
-        {
-          "title": "RBI MPC minutes: Policy misstep fears drove rate pause amid West Asia uncertainty",
-          "summary": "The Reserve Bank of India's Monetary Policy Committee has opted for a cautious stance, holding the repo rate steady due to significant geopolitical and weather-related uncertainties. The committee is prioritizing data dependency before considering any policy rate adjustments, emphasizing vigilance against generalized price increases. This approach reflects the MPC's commitment to careful decision-making in uncertain times.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-mpc-minutes-policy-misstep-fears-drove-rate-pause-amid-west-asia-uncertainty/articleshow/131861187.cms"
-        }
-      ],
-      "Business": [
-        {
-          "title": "World Bank clears $1.5 billion package to boost India's structural reforms, private sector jobs",
-          "summary": "The World Bank has approved a $1.5 billion financing package for India to accelerate structural reforms and stimulate private sector-led job creation, aiming to create millions of job opportunities for young people. This initiative supports economic growth by fostering entrepreneurship and simplifying business processes. The funding reflects India's progress in governance and inclusive labor empowerment.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/india/world-bank-clears-1-5-billion-package-to-boost-indias-structural-reforms-private-sector-jobs/articleshow/131866304.cms"
-        },
-        {
-          "title": "India Should Address Structural Gaps To Attract Global Funds for Startup Ecosystem",
-          "summary": "India needs to address structural gaps, including tax reforms, growth funding, and stronger exits, to attract global investors to its startup ecosystem. This will help draw global funds and support the growth of startups in the country. By addressing these gaps, India can create a more favorable environment for startups to thrive.",
-          "source": "Deccan Chronicle",
-          "url": "https://www.deccanchronicle.com/business/india-should-address-structural-gaps-to-attract-global-funds-for-startup-ecosystem-1964760"
-        },
-        {
-          "title": "Karo Sambhav raises Rs 56 crore from Rainmatter to expand critical mineral recovery from e-waste",
-          "summary": "Karo Sambhav, a circular economy startup, has secured Rs 56 crore from Rainmatter to boost its infrastructure for recovering critical minerals and valuable materials from electronic waste. The company aims to scale its recycling operations and focus on extracting precious and high-value components from end-of-life products. This move supports India's manufacturing future and reduces import dependence.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/tech/funding/karo-sambhav-raises-rs-56-crore-from-rainmatter-to-expand-critical-mineral-recovery-from-e-waste/articleshow/131835309.cms"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Painkillers, muscle relaxants among 16 more FDCs banned",
-          "summary": "The Indian health ministry has banned 16 fixed dose combinations of medicines due to safety concerns, following a Supreme Court review. This move aims to promote rational prescribing and protect public health. The banned combinations include painkillers and muscle relaxants.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/painkillers-muscle-relaxants-among-16-more-fdcs-banned-101781982145476.html"
-        },
-        {
-          "title": "Encounter Killings Decoded: What Is A Police ‘Encounter’, Who Orders It, And When Can Police Open Fire?",
-          "summary": "The article explains the concept of police encounters in India, including who authorizes them and the legal limits on police firing. It also discusses Supreme Court guidelines and why encounters are a topic of public debate. The explanation aims to provide clarity on a controversial law-and-order tool.",
-          "source": "NewsX",
-          "url": "https://www.newsx.com/india/encounter-killings-decoded-what-is-a-police-encounter-who-orders-it-and-when-can-police-open-fire-inside-indias-most-controversial-law-and-order-tool-explained-238108/"
-        },
-        {
-          "title": "Centre Bans 16 Fixed-Dose Combination Drugs After Safety Review, Cites Lack Of Medical Justification",
-          "summary": "The Centre has banned 16 fixed-dose combination medicines in India after a scientific review found them to be medically unjustified. The move aims to promote rational prescribing and protect public health by removing unsupported drug combinations from the market. The ban was issued under the Drugs and Cosmetics Act.",
-          "source": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/business/centre-bans-16-fixed-dose-combination-drugs-after-safety-review-cites-lack-of-medical-justification"
-        },
-        {
-          "title": "Trafficked or not, Supreme Court upholds woman’s consent to rehabilitation in Prajwala verdict",
-          "summary": "The Supreme Court's Prajwala verdict has redefined sex trafficking law in India, emphasizing the importance of an adult woman's consent to rehabilitation. The judgment separates trafficking from voluntary sex work and upholds dignity under Articles 21 and 23. It also questions detention-based 'rescue' models under the ITPA.",
-          "source": "The News Minute",
-          "url": "https://www.thenewsminute.com/news/trafficked-or-not-supreme-court-upholds-womans-consent-to-rehabilitation-in-prajwala-verdict"
-        },
-        {
-          "title": "Govt bans 16 major drug combinations over safety issues, expert panel points to ‘irrational’ formula",
-          "summary": "The Ministry of Health has banned 16 Fixed Dose Combinations in India due to safety issues and lack of therapeutic value. The move follows a Supreme Court review and aims to ensure patient safety and rational drug use. An expert panel pointed out that the banned combinations had 'irrational' formulas.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/india-news/govt-bans-16-major-drug-combinations-over-safety-issues-expert-panel-points-to-irrational-formula/4272273/"
-        },
-        {
-          "title": "16 fixed dose combination medicines banned in India; antibiotics and skin creams among affected",
-          "summary": "The Ministry of Health has banned 16 fixed dose combination medicines in India, including antibiotics and skin creams, due to safety concerns. The decision follows directions from the Supreme Court, which mandated a comprehensive review of Fixed Dose Combinations available in the country.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/top-headlines/16-fixed-dose-combination-medicines-banned-in-india-antibiotics-and-skin-creams-among-affected/"
         }
       ]
     }
