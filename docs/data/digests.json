@@ -1,5 +1,133 @@
 [
   {
+    "generated_at": "2026-06-29T15:35:49.267352+00:00",
+    "brief": "Crude oil prices have risen to over $70 per barrel due to supply fears amid the escalating US-Iran war, which could have significant implications for the global economy. In India, the government is considering a subsidy to help MSME exporters mitigate the impact of the EU's Carbon Border Adjustment Mechanism, while the economy is expected to slow down to 6.6% growth in FY27 due to energy stress and a sub-par monsoon. Meanwhile, the Indian startup ecosystem has seen a strong funding comeback, with venture funding crossing $1 billion, driven largely by significant fundraising rounds such as CRED's.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Crude oil prices rise amid escalating US-Iran war, supply fears; Brent above $70 per barrel",
+          "summary": "The escalating US-Iran war has led to a rise in crude oil prices, with Brent crude gaining 0.36% to trade at $72.25 a barrel and US benchmark West Texas Intermediate crude futures rising 0.71% to $69.72 a barrel. This increase in oil prices is due to supply fears. The rise in oil prices can have significant implications for the global economy.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/market/commodities/crude-oil-prices-rise-amid-escalating-us-iran-war-supply-fears-brent-above-70-per-barrel-11782695660401.html"
+        },
+        {
+          "title": "The Nord Stream Conspiracy: An international war story in blockbuster prose",
+          "summary": "The book 'The Nord Stream Conspiracy' by Bojan Pancevski investigates the planning, execution, and fallout of the 2022 pipeline sabotage. The sabotage has significant implications for international relations and global energy security. The book provides an in-depth look at the incident and its consequences.",
+          "source": "Business Standard",
+          "url": "https://www.business-standard.com/book/the-nord-stream-conspiracy-an-international-war-story-in-blockbuster-prose-126062800818_1.html"
+        },
+        {
+          "title": "Centre Eyes Subsidy To Ease EU Carbon Border Tax Burden On MSME Exporters: Report",
+          "summary": "The Indian government is considering a subsidy to help MSME exporters mitigate the impact of the EU's Carbon Border Adjustment Mechanism (CBAM). The CBAM is expected to decline imports from India, particularly in the iron and steel sector. The subsidy aims to ease the burden on MSME exporters and support their competitiveness in the global market.",
+          "source": "NDTV Profit",
+          "url": "https://www.ndtvprofit.com/economy/centre-eyes-subsidy-to-ease-eu-carbon-border-tax-burden-on-msme-exporters-report-11698708"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Weekly economy wrap: Core sector slowdown, US trade talks shape policy week",
+          "summary": "India's policy week was marked by US trade talks, weak core output, stronger FDI, coal-import substitution, and a faster disinvestment push. This highlights the complexities of India's economic landscape and the need for policymakers to balance various factors. The developments will likely impact the country's economic growth and trade relationships.",
+          "source": "Business Standard",
+          "url": "https://www.business-standard.com/economy/news/weekly-economy-wrap-core-sector-us-trade-talks-fdi-disinvestment-126062800183_1.html"
+        },
+        {
+          "title": "Explained: How India’s transition from WPI to PPI will strengthen inflation measurement",
+          "summary": "India is transitioning from the Wholesale Price Index (WPI) to the Producer Price Index (PPI) to strengthen inflation measurement. This change is expected to improve the accuracy of inflation data, which will inform policy-making decisions. The shift will have implications for monetary policy and the overall economy.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/explained-how-indias-transition-from-wpi-to-ppi-will-strengthen-inflation-measurement-what-it-means-for-policy-making/articleshow/132030869.cms"
+        },
+        {
+          "title": "RBI opens term money market to AIFIs, housing finance companies",
+          "summary": "The Reserve Bank of India has opened the term money market to All India Financial Institutions and housing finance companies, allowing them to borrow and lend. This move aims to deepen market participation, improve liquidity, and strengthen monetary policy transmission. The increased access to the term money market will help link short-term and long-term interest rates.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-opens-term-money-market-to-aifis-housing-finance-companies/articleshow/132005366.cms"
+        },
+        {
+          "title": "MSMEs key to India’s developed nation ambition: KDEM Chairman",
+          "summary": "Micro, small, and medium enterprises (MSMEs) are crucial to India's goal of becoming a developed nation by 2047. However, the sector requires stronger policy support, easier access to capital, infrastructure, and talent to achieve this goal. The development of MSMEs will play a pivotal role in driving India's economic growth and development.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/news/msmes-key-to-indias-developed-nation-ambition-kdem-chairman/article71146464.ece"
+        },
+        {
+          "title": "India's FY27 Growth Likely to Slow Down to 6.6% on Energy Stress, Sub-par Monsoon",
+          "summary": "S&P Global Ratings projects India's GDP growth to slow down to 6.6% in FY27 due to energy stress, a sub-par monsoon, and weaker global demand. The report also warns of higher inflation and rising fuel and fertiliser costs, which may lead to a RBI policy rate hike in the second half of the fiscal. This slowdown will have implications for India's economic growth and policy decisions.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/news/indias-fy27-growth-likely-to-slow-down-to-66-on-energy-stress-sub-par-monsoon-sp"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Where are the unicorns of 2021",
+          "summary": "In 2021, 39 Indian startups achieved unicorn status, but now face a changed landscape with global uncertainties and investor caution. Some are adapting their strategies or pursuing public listings, while others continue to secure significant investments. This reflects the evolving dynamics of the startup ecosystem.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/startups/where-are-the-unicorns-of-2021/articleshow/132045249.cms"
+        },
+        {
+          "title": "Why Equirus is avoiding loss-making startups in its ₹1,500 crore fund",
+          "summary": "Equirus is launching a new fund that will avoid investing in loss-making startups, reflecting a shift in the Indian startup funding market towards more selective investments. This comes as early-stage capital holds up better than late-stage funding. The fund size is ₹1,500 crore.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/companies/news/why-equirus-is-avoiding-loss-making-startups-in-its-1-500-crore-fund-11782469777507.html"
+        },
+        {
+          "title": "India startup funding tops $1 billion as CRED mega",
+          "summary": "India's startup ecosystem saw a strong funding comeback, with venture funding crossing $1 billion, driven largely by CRED's significant fundraising round. This indicates a rebound in the startup funding market. The funding surge was seen during the week ended June 25.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-tops-1-billion-dollars-as-cred-mega-round-powers-sharp-weekly-rebound-19933195.htm"
+        },
+        {
+          "title": "India's startup pipeline narrows despite rise in unicorns and IPOs in H1",
+          "summary": "Despite a rise in unicorns and IPOs, India's startup pipeline has narrowed, with technology startups raising $7.2 billion across 652 equity funding rounds between January 1 and June 24. This data is according to Tracxn, indicating a shift in the startup ecosystem.",
+          "source": "The New Indian Express",
+          "url": "https://www.newindianexpress.com/business/2026/Jun/25/indias-startup-pipeline-narrows-despite-rise-in-unicorns-and-ipos-in-h1"
+        },
+        {
+          "title": "India tech funding rises 12 pc to $7.2 billion in H1 2026: Report",
+          "summary": "India's technology startup ecosystem attracted $7.2 billion in funding during the first half of 2026, a 12% rise. This indicates growth in the tech funding market, with the ecosystem continuing to attract significant investments.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/technology/india-tech-funding-rises-12-pc-to-72-billion-in-h1-2026-report-1/"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Law must act as shield for innocent, not as a sword for the vindictive: Supreme Court",
+          "summary": "The Supreme Court has emphasized that the law should protect the innocent and not be used as a tool for revenge, highlighting the social stigma and harm caused by criminal proceedings. This ruling aims to prevent misuse of the law and ensure that individuals are not wrongly accused. The court's statement is significant in the context of India's justice system.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/law-must-act-as-shield-for-innocent-not-as-a-sword-for-the-vindictive-supreme-court/articleshow/132058548.cms"
+        },
+        {
+          "title": "People Have A Fundamental Right To Clean Water",
+          "summary": "The Bombay High Court has reaffirmed that access to clean water is a fundamental right under Article 21 of the Indian Constitution. The court criticized the Maharashtra government for failing to ensure water supply, citing the public trust doctrine and the need to address rising pollution and water stress. This ruling has implications for the government's responsibility to provide clean water to its citizens.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/analysis/people-have-a-fundamental-right-to-clean-water"
+        },
+        {
+          "title": "Supreme Court Backs Homebuyers Rights, Says Compensation Can Be Claimed Even After Taking Flat Possession",
+          "summary": "The Supreme Court has ruled that homebuyers can claim compensation for delayed delivery even after taking possession of their flats. This verdict is a significant relief for homebuyers and sets an important precedent for similar disputes. The court's decision aims to protect the rights of homebuyers and hold developers accountable for delays.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/business/supreme-court-backs-homebuyers-rights-says-compensation-can-be-claimed-even-after-taking-flat-possession"
+        },
+        {
+          "title": "Telangana government, SBI reach amicable solution to land row",
+          "summary": "The Telangana government and the State Bank of India have resolved a land dispute amicably, with SBI agreeing to alternative land proposals made by the state. The dispute had previously led to court action and threats from the state, but the parties have now reached a mutually acceptable solution. The resolution is expected to be finalized after board approval.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/telangana-government-sbi-reach-amicable-solution-to-land-row/articleshow/132045873.cms"
+        },
+        {
+          "title": "Supreme Court takes 14 years on criminal case, 2 convicts die waiting",
+          "summary": "The Supreme Court has taken 14 years to hear a criminal case, resulting in the death of two convicts who were waiting for the verdict. The delay has raised concerns about the efficiency of the justice system and the principle that 'justice delayed is justice denied'. The case highlights the need for the court to prioritize and expedite hearings to prevent such delays.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/supreme-court-takes-14-years-on-criminal-case-2-convicts-die-waiting/articleshow/132044102.cms"
+        },
+        {
+          "title": "Government Orders All Ministries to Remove Stray Dogs From Their Campuses, Sets June 30 Deadline",
+          "summary": "The Indian government has ordered all ministries to remove stray dogs from their campuses, including schools and hospitals, by June 30, following a Supreme Court ruling on safety. The move aims to prevent accidents and ensure public safety. The government has set a deadline for the removal of stray dogs, and ministries are expected to comply with the order.",
+          "source": "Republic World",
+          "url": "https://www.republicworld.com/india/government-orders-all-ministries-to-remove-stray-dogs-from-their-campuses-sets-june-30-deadline-2026-06-27-130183"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-06-29T10:29:52.951916+00:00",
     "brief": "Today's brief highlights key developments across geopolitics, economy, business, and national affairs. The Indian government is considering a subsidy to mitigate the impact of the EU's carbon border tax on MSME exporters, while the economy is expected to slow down to 6.6% in FY27 due to energy stress and a sub-par monsoon. Meanwhile, the startup ecosystem has seen a strong funding comeback, with venture funding crossing $1 billion, driven largely by CRED's significant fundraising round. These developments underscore the complex interplay between global trade regulations, national economic policies, and the evolving dynamics of the startup ecosystem.",
     "categories": {
@@ -3359,116 +3487,6 @@
         {
           "title": "From skincare creams to fever formulations: Why 16 drug combinations, including paracetamol mix, are banned in India",
           "summary": "The Indian government has banned 16 drug combinations, including a paracetamol mix, following a review of Fixed-Dose Combinations (FDCs) as directed by the Supreme Court. The ban aims to ensure public health and safety by removing potentially harmful drug combinations from the market. This move is expected to have a significant impact on the pharmaceutical industry in India.",
-          "source": "THE WEEK",
-          "url": "https://www.theweek.in/news/health/2026/06/21/from-skincare-creams-to-fever-formulations-why-16-drug-combinations-including-paracetamol-mix-are-banned-in-india.html"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-06-22T16:43:21.173337+00:00",
-    "brief": "Major developments across the globe are having significant implications for India, with the Trump administration's talks with Iran potentially leading to a broader reset in the Middle East, while South Africa is seeking to strengthen its economic ties with India amidst a rough patch in its relations with the US. Meanwhile, in India, the Reserve Bank of India's Monetary Policy Committee has adopted a cautious approach to interest rates due to uncertainty surrounding the West Asia conflict, and a significant drop in oil prices since the June MPC meeting has improved India's inflation outlook, giving the MPC room to consider policy normalization. These global and domestic factors are likely to have a profound impact on India's economy and geopolitical landscape.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "War reconstruction needs in Middle East: FM",
-          "summary": "South Korea has established a task force to identify country-specific post-war reconstruction needs in the Middle East. This move aims to provide cooperation and support to countries in the region. The task force will help Seoul to play a significant role in the reconstruction efforts.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/south-korea-identifying-country-specific-post-war-reconstruction-needs-in-middle-east-fm/"
-        },
-        {
-          "title": "Trump administration sees Iran talks as path to broader Middle East reset",
-          "summary": "The Trump administration views its new diplomacy with Iran as a step towards a broader reset in the Middle East. The talks are seen as an effort to address various issues in the region. This development could have significant implications for the geopolitical landscape of the Middle East.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/trump-administration-sees-iran-talks-as-path-to-broader-middle-east-reset/"
-        },
-        {
-          "title": "South Africa eyes stronger economic relations with India as US ties sour",
-          "summary": "South Africa is seeking to strengthen its economic ties with India amidst a rough patch in its relations with the US. This move is driven by the country's desire to diversify its economic partnerships. The development could lead to increased trade and investment between South Africa and India.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/south-africa-eyes-stronger-economic-relations-with-india-as-us-ties-sour-2/"
-        },
-        {
-          "title": "PM's Kolkata Yoga Event Venue Was Once Used As Airstrip During World War 2",
-          "summary": "The venue of the 12th International Day of Yoga celebrations in Kolkata, led by Prime Minister Narendra Modi, has a historic past. The Red Road was once used as a fighter airstrip during World War II. This highlights the significant transformation of the venue over time.",
-          "source": "NDTV.com",
-          "url": "https://www.ndtv.com/feature/international-day-of-yoga-2026-from-wwii-fighter-airstrip-to-yoga-day-stage-the-untold-story-of-kolkatas-red-road-11665559"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "The benefits and risks of RBI’s policy on foreign currency NRI deposits",
-          "summary": "The Indian government is considering a policy to encourage Non-Resident Indians (NRIs) to make foreign currency deposits in Indian banks to support the rupee. This move has implications for India's external debt management and could impact the country's economy. The policy aims to shore up the rupee, but it also carries risks that need to be considered.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/economy/rbi-foreign-currency-nri-deposits-rupee-defence-risks-explained-11782041864329.html"
-        },
-        {
-          "title": "MPC members favour caution over pre-emptive rate move amid West Asia uncertainty, show RBI minutes",
-          "summary": "The Reserve Bank of India's Monetary Policy Committee (MPC) has adopted a cautious approach to interest rates due to uncertainty surrounding the West Asia conflict, supply chain disruptions, and monsoon risks. Most MPC members saw little justification for a pre-emptive change in interest rates at the June policy review. This decision reflects the committee's wait-and-watch approach to monetary policy.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3937936-mpc-members-favour-caution-over-pre-emptive-rate-move-amid-west-asia-uncertainty-show-rbi-minutes"
-        },
-        {
-          "title": "Oil Prices Slump 16% Since June Meeting, Giving MPC Headroom for Policy Normalisation: ICICI Research Report",
-          "summary": "A significant drop in oil prices since the June MPC meeting has improved India's inflation outlook, according to an ICICI Research report. This decline in oil prices gives the MPC room to consider policy normalization. The improved inflation outlook could lead to changes in the MPC's policy decisions in the near future.",
-          "source": "Republic World",
-          "url": "https://www.republicworld.com/business/oil-prices-slump-16-since-june-meeting-giving-mpc-headroom-for-policy-normalisation-icici-research-report-2026-06-20-129160"
-        },
-        {
-          "title": "Lower oil prices open door for MPC to time policy normalisation: ICICI Research",
-          "summary": "Falling oil prices and easing geopolitical tensions have improved India's inflation outlook, providing the MPC with an opportunity to decide on the timing of policy normalization. While concerns about food and fuel prices remain, underlying inflation is stable, and domestic growth shows resilience. The MPC may reconsider its inflation forecasts if oil prices remain low, potentially reducing the likelihood of near-term rate hikes.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/lower-oil-prices-open-door-for-mpc-to-time-policy-normalisation-icici-research/articleshow/131871079.cms"
-        }
-      ],
-      "Business": [
-        {
-          "title": "West Asia conflict tightens the tap on India's startup funding options",
-          "summary": "The escalating tensions in West Asia have led to a 43% decrease in startup funding in India since March, as investors have become more cautious. This decrease in funding can impact the growth and development of startups in India. The situation highlights the vulnerability of India's startup ecosystem to global geopolitical events.",
-          "source": "Business Standard",
-          "url": "https://www.business-standard.com/markets/news/west-asia-crisis-pulls-startup-funding-down-43-yoy-since-march-126062100439_1.html"
-        },
-        {
-          "title": "ADB to maintain private sector funding pace in India, eyes $1 billion support in 2026",
-          "summary": "The Asian Development Bank (ADB) plans to maintain its private sector funding pace in India and aims to provide $1 billion in support by 2026. India is the largest market for ADB's private sector operations, indicating the country's significance in the bank's investment strategy. This funding can contribute to the growth of India's private sector.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/adb-to-maintain-private-sector-funding-pace-in-india-eyes-1-billion-support-in-2026/articleshow/131889694.cms"
-        },
-        {
-          "title": "World Bank clears $1.5 billion package to boost India's structural reforms, private sector jobs",
-          "summary": "The World Bank has approved a $1.5 billion financing package to support India's structural reforms and stimulate private sector-led job creation. This initiative aims to foster entrepreneurship, simplify business processes, and create millions of job opportunities for young people. The funding reflects India's progress in governance and inclusive labor empowerment.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/india/world-bank-clears-1-5-billion-package-to-boost-indias-structural-reforms-private-sector-jobs/articleshow/131866304.cms"
-        },
-        {
-          "title": "India Should Address Structural Gaps To Attract Global Funds for Startup Ecosystem",
-          "summary": "India needs to address structural gaps, such as tax reforms, growth funding, and stronger exits, to attract global funds for its startup ecosystem. These reforms are crucial for drawing global investors and supporting the growth of Indian startups. By addressing these gaps, India can create a more favorable environment for startups to thrive.",
-          "source": "Deccan Chronicle",
-          "url": "https://www.deccanchronicle.com/business/india-should-address-structural-gaps-to-attract-global-funds-for-startup-ecosystem-1964760"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Centre reappoints Tushar Mehta as Solicitor General of India",
-          "summary": "The Appointments Committee of the Cabinet has reappointed Tushar Mehta as the Solicitor General of India, along with the reappointment of five Additional Solicitor Generals for the Supreme Court. This move is significant as it affects the country's legal representation. The reappointments are expected to have an impact on the country's legal landscape.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/delhi/centre-reappoints-tushar-mehta-as-solicitor-general-of-india/"
-        },
-        {
-          "title": "Students With Disabilities In Higher Education: A Grim Scenario",
-          "summary": "The Supreme Court's National Task Force has found that students with disabilities face significant barriers in higher education institutions across India, with enrolment at just 0.2%. The task force has identified inaccessible campuses, lack of support systems, and entrenched stereotypes as major obstacles. This highlights the need for greater inclusivity in higher education.",
-          "source": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/analysis/students-with-disabilities-in-higher-education-a-grim-scenario"
-        },
-        {
-          "title": "Supreme Court Clearing A Path For Pedestrians",
-          "summary": "The Supreme Court has emphasized the importance of pedestrian safety, asserting the right to safe and obstruction-free footpaths. The court has criticized policies that prioritize vehicles over pedestrians and urged audits to promote inclusive and safer mobility infrastructure. This move aims to shift urban planning towards more pedestrian-friendly and sustainable cities.",
-          "source": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/analysis/supreme-court-clearing-a-path-for-pedestrians"
-        },
-        {
-          "title": "From skincare creams to fever formulations: Why 16 drug combinations, including paracetamol mix, are banned in India",
-          "summary": "The Indian government has banned 16 drug combinations, including a paracetamol mix, following a review of Fixed-Dose Combinations (FDCs) as directed by the Supreme Court. This move aims to ensure public health and safety by removing potentially harmful drug combinations from the market. The ban is expected to have a significant impact on the pharmaceutical industry.",
           "source": "THE WEEK",
           "url": "https://www.theweek.in/news/health/2026/06/21/from-skincare-creams-to-fever-formulations-why-16-drug-combinations-including-paracetamol-mix-are-banned-in-india.html"
         }
