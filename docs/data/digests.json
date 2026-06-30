@@ -1,5 +1,127 @@
 [
   {
+    "generated_at": "2026-06-30T02:43:35.806860+00:00",
+    "brief": "Tensions between Iran and the US-Israel alliance continue to escalate, with Iran's Supreme Leader directing the judiciary to sue the US and Israel over alleged war crimes, while crude oil prices have risen amid supply fears, exceeding $70 per barrel. Meanwhile, in India, the economy is showing signs of resilience, with the government successfully navigating the recent West Asia crisis, and the retail lending market is expected to unlock a $1 trillion opportunity driven by digital lending and RBI policy support. Additionally, Indian banks are set to leverage new foreign-currency deposits from non-resident Indians to replace costly funding, which is expected to support the rupee and direct funds towards infrastructure, data centers, and real estate.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Khamenei Urges Judiciary To Sue US, Israel Over Alleged 'War Crimes'",
+          "summary": "Iran's Supreme Leader Ayatollah Ali Khamenei has directed the judiciary to sue the US and Israel over alleged war crimes, citing public comments from American and Israeli officials as evidence. This move could lead to legal claims in domestic and international courts. The development highlights the escalating tensions between Iran and the US-Israel alliance.",
+          "source": "NDTV Profit",
+          "url": "https://www.ndtvprofit.com/world/khamenei-directs-judiciary-to-sue-us-israel-over-alleged-war-crimes-11701646"
+        },
+        {
+          "title": "Cultural Heritage Under Fire: The Impact of Conflict in Iran",
+          "summary": "Recent Israeli airstrikes in Iran have damaged cultural heritage sites, including UNESCO-listed monuments, sparking international concern. Experts and UNESCO are assessing the damage and emphasizing the need for better protection of these sites. The conflict in Iran is not only a geopolitical issue but also a threat to the country's cultural heritage.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/entertainment/3942150-cultural-heritage-under-fire-the-impact-of-conflict-in-iran"
+        },
+        {
+          "title": "Bangladesh: BNP targets Jamaat over 1971 Liberation War stance, demands apology",
+          "summary": "The ruling Bangladesh Nationalist Party (BNP) has criticized the radical Islamist party Jamaat-e-Islami over its stance on the 1971 Liberation War, demanding an apology. This development highlights the ongoing political tensions in Bangladesh and the sensitive issue of the country's liberation war. The BNP's move may have implications for the country's political landscape.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/bangladesh-bnp-targets-jamaat-over-1971-liberation-war-stance-demands-apology/"
+        },
+        {
+          "title": "Crude oil prices rise amid escalating US-Iran war, supply fears; Brent above $70 per barrel",
+          "summary": "The escalating US-Iran war has led to a rise in crude oil prices, with Brent crude gaining to trade above $70 per barrel. The conflict has sparked supply fears, contributing to the increase in oil prices. This development has significant implications for the global energy market and economy.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/market/commodities/crude-oil-prices-rise-amid-escalating-us-iran-war-supply-fears-brent-above-70-per-barrel-11782695660401.html"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "India’s $1 trillion retail lending boom",
+          "summary": "India's retail lending market is expected to unlock a $1 trillion opportunity driven by digital lending, low mortgage penetration, rising incomes, and RBI policy support. This growth is anticipated to offer a multi-decade credit growth runway. The sector's expansion could significantly impact the country's economy.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/business/industry-indias-1-trillion-retail-lending-boom-why-11-mortgage-penetration-offers-a-multi-decade-credit-growth-runway-4279135/"
+        },
+        {
+          "title": "Why the West Asia conflict became 'neither a 1991 moment, nor a 2013 one' for India",
+          "summary": "According to Chief Economic Advisor V Anantha Nageswaran, India's economy successfully navigated the recent West Asia crisis due to a calibrated policy response, diversified energy sourcing, and targeted support measures. However, deeper structural challenges remain. The country's ability to manage the crisis is seen as a positive sign for its economic resilience.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/economy/why-the-westasia-conflict-became-neither-a-1991-moment-nor-a-2013-one-for-india-cea-explains-19934175.htm"
+        },
+        {
+          "title": "NRI money could ease banks' funding crunch before powering India's capex",
+          "summary": "Indian banks are set to leverage new foreign-currency deposits from non-resident Indians (NRIs) to replace costly funding, as enabled by a recent RBI policy. This move aims to attract overseas capital, support the rupee, and direct funds towards infrastructure, data centers, and real estate, easing pressure from a widening gap between loan and deposit growth. The influx of NRI money is expected to support India's capital expenditure.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/nri/invest/nri-money-could-ease-banks-funding-crunch-before-powering-indias-capex-axis-bank-ceo/articleshow/132064271.cms"
+        },
+        {
+          "title": "A rare win-win-win for NRIs, banks and India",
+          "summary": "The Reserve Bank of India's initiatives, particularly on Foreign Currency Non-Resident (FCNR) deposits, have demonstrated innovation and agility in managing economic challenges. These initiatives are expected to benefit NRIs, banks, and India by attracting overseas capital, supporting the rupee, and providing investment opportunities. The moves are seen as a positive development for the country's economic resilience.",
+          "source": "Malayala Manorama",
+          "url": "https://www.onmanorama.com/news/economix/2026/06/29/fcnr-ecb-rare-win-win-win-for-nris-banks-and-india.html"
+        },
+        {
+          "title": "Indian economy: The confluence case",
+          "summary": "The RBI's targeted foreign currency liquidity programme and a near-halving of crude oil prices have altered India's external balance trajectory, monetary policy optionality, and corporate earnings outlook. These changes are expected to have a positive impact on the country's economy. The combination of these factors has created a unique situation for India's economic growth.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/prime/economy-and-policy/indian-economy-the-confluence-case/primearticleshow/132053783.cms"
+        },
+        {
+          "title": "Weekly economy wrap: Core sector slowdown, US trade talks shape policy week",
+          "summary": "India's policy week was marked by US trade talks, weak core output, stronger FDI, coal-import substitution, and a faster disinvestment push. These developments are expected to shape the country's economic policies and growth. The week's events highlight the challenges and opportunities facing India's economy.",
+          "source": "Business Standard",
+          "url": "https://www.business-standard.com/economy/news/weekly-economy-wrap-core-sector-us-trade-talks-fdi-disinvestment-126062800183_1.html"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Central Bank of India opens its IFSC banking unit at GIFT City",
+          "summary": "The Central Bank of India has launched its IFSC banking unit at GIFT City to cater to corporate foreign currency funding needs. This move is expected to boost the bank's presence in the international financial services sector. The unit will provide a range of services, including foreign currency loans and deposits.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/money-and-banking/central-bank-of-india-opens-its-ifsc-banking-unit-at-gift-city/article71161937.ece"
+        },
+        {
+          "title": "IIFCL plans $1 billion overseas loan, also eyes $400 million ADB funding to back infrastructure push",
+          "summary": "India Infrastructure Finance Company Ltd (IIFCL) plans to raise $1 billion from overseas investors to support the country's infrastructure development. The company is also exploring a $400 million funding option from the Asian Development Bank (ADB). This funding will help IIFCL to finance various infrastructure projects in India.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/iifcl-plans-1-billion-overseas-loan-also-eyes-400-million-adb-funding-to-back-infrastructure-push/articleshow/132065387.cms"
+        },
+        {
+          "title": "Where are the unicorns of 2021",
+          "summary": "In 2021, 39 Indian startups achieved unicorn status, but now they face a changed landscape with global uncertainties and investor caution. Some of these companies are adapting their strategies, while others are pursuing public listings. The evolving dynamics of the startup ecosystem have forced these unicorns to navigate new challenges.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/startups/where-are-the-unicorns-of-2021/articleshow/132045249.cms"
+        },
+        {
+          "title": "Why Equirus is avoiding loss-making startups in its ₹1,500 crore fund",
+          "summary": "Equirus has launched a new ₹1,500 crore fund that will focus on investing in profitable startups. The fund's strategy is to avoid loss-making startups, reflecting the changing landscape of India's startup funding market. This approach indicates a shift towards more selective and cautious investing in the Indian startup ecosystem.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/companies/news/why-equirus-is-avoiding-loss-making-startups-in-its-1-500-crore-fund-11782469777507.html"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "BJP seeks cancellation of Kannur Corporation councillors' oath over 'Allah' reference",
+          "summary": "The BJP has challenged the oaths of 19 councillors in Kannur Corporation, alleging violations of statutory form due to the inclusion of 'Allah' in their oaths. This controversy highlights the debate over the use of religious references in oath-taking ceremonies. The Kerala High Court's ruling on the matter will have implications for local government elections and the Representation of the People Act.",
+          "source": "Malayala Manorama",
+          "url": "https://www.onmanorama.com/news/kerala/2026/06/29/bjp-seeks-cancellation-of-kannur-councillors-oath-over-allah-reference.html"
+        },
+        {
+          "title": "'Heavens are not going to fall': SC refuses urgent hearing on plea seeking CBI probe into Ayodhya Ram Mandir donation theft row",
+          "summary": "The Supreme Court has refused an urgent hearing on a petition seeking a CBI probe into the alleged theft of donations at the Ram Janmabhoomi Temple in Ayodhya. The court's decision indicates that it does not consider the matter to be of utmost urgency. The petition will be heard in due course, and the court will decide on the merits of the case.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/heavens-are-not-going-to-fall-sc-refuses-urgent-hearing-on-plea-seeking-cbi-probe-into-ayodhya-ram-mandir-donation-theft-row/articleshow/132063901.cms"
+        },
+        {
+          "title": "Law must act as shield for innocent, not as a sword for the vindictive: Supreme Court",
+          "summary": "The Supreme Court has emphasized that the law should protect the innocent and not be used as a tool for vindictiveness. The court highlighted the social stigma and irreparable harm caused by criminal proceedings to an individual's reputation and liberty. This statement underscores the importance of ensuring that the legal system is fair and just.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/law-must-act-as-shield-for-innocent-not-as-a-sword-for-the-vindictive-supreme-court/articleshow/132058548.cms"
+        },
+        {
+          "title": "People Have A Fundamental Right To Clean Water",
+          "summary": "The Bombay High Court has reaffirmed that access to clean water is a fundamental right under Article 21 of the Constitution. The court criticized the Maharashtra government for failing to ensure water supply, citing the public trust doctrine and the need for stronger implementation to address rising pollution and urban water stress. This ruling has implications for the government's responsibility to provide clean water to its citizens.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/analysis/people-have-a-fundamental-right-to-clean-water"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-06-29T19:48:42.496802+00:00",
     "brief": "Crude oil prices have risen above $70 per barrel due to escalating US-Iran tensions, which may impact the global economy and inflation. Meanwhile, in India, the government is considering a subsidy to help MSME exporters mitigate the effects of the EU's Carbon Border Adjustment Mechanism, and the RBI has opened the term money market to All India Financial Institutions and housing finance companies to deepen market participation. Additionally, India's startup ecosystem has seen a strong funding comeback, with venture funding crossing the $1 billion mark in a week, driven largely by significant investments in technology startups.",
     "categories": {
@@ -3385,116 +3507,6 @@
           "summary": "The Centre has reappointed Tushar Mehta as the Solicitor General of India, a key position in the country's legal system. The Appointments Committee of the Cabinet has also cleared the reappointments of five Additional Solicitor Generals for the Supreme Court. This move may have implications for the country's legal landscape and the functioning of the Supreme Court.",
           "source": "The Tribune",
           "url": "https://www.tribuneindia.com/news/delhi/centre-reappoints-tushar-mehta-as-solicitor-general-of-india/"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-06-23T02:38:01.013860+00:00",
-    "brief": "Global events are having a significant impact on India's economy and businesses, with the ongoing conflict in West Asia affecting the country's aviation industry and startup funding options. The US-Iran truce, however, is seen as a positive development for India's cultural diplomacy and global influence, with the country's maitrata doctrine benefiting from the improved relations. Meanwhile, the Reserve Bank of India is exercising caution in its monetary policy decisions, choosing not to hike interest rates due to uncertainty surrounding inflation and global economic conditions, a move that is being closely watched by investors and economists.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Geopolitical jolt: How airspace closures and global conflict are hurting Indian airlines",
-          "summary": "The closure of Pakistan's airspace and conflicts in West Asia have forced Indian airlines like IndiGo and Air India to cut routes and suspend destinations, resulting in a loss of international market share. This has significant implications for India's aviation industry and economy. The geopolitical tensions are affecting the airline industry's growth and profitability.",
-          "source": "Firstpost",
-          "url": "https://www.firstpost.com/business/geopolitical-jolt-how-airspace-closures-and-global-conflict-are-hurting-indian-airlines-14025035.html"
-        },
-        {
-          "title": "How India's maitrata doctrine benefits from the US-Iran truce",
-          "summary": "India's maitrata doctrine, which emphasizes cultural diplomacy and dialogue, is benefiting from the truce between the US and Iran. By combining cultural diplomacy with geopolitical dialogue, India is cementing its global role and increasing its influence. This approach is helping India navigate complex international relationships and promote its interests.",
-          "source": "ThePrint",
-          "url": "https://theprint.in/opinion/forthwrite/how-indias-maitrata-doctrine-benefits-from-the-us-iran-truce/2966506/"
-        },
-        {
-          "title": "war reconstruction needs in Middle East: FM",
-          "summary": "South Korea has established a task force to identify country-specific post-war reconstruction needs in the Middle East. This move is part of Seoul's efforts to play a role in regional reconstruction and cooperation. The task force will help South Korea provide targeted support to countries in the Middle East.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/south-korea-identifying-country-specific-post-war-reconstruction-needs-in-middle-east-fm/"
-        },
-        {
-          "title": "Trump administration sees Iran talks as path to broader Middle East reset",
-          "summary": "The Trump administration views its diplomatic efforts with Iran as a step towards a broader reset in the Middle East. The US aims to use the talks with Iran as a foundation for addressing other regional issues and promoting stability. This approach reflects the administration's efforts to reorient its Middle East policy and find new paths to conflict resolution.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/trump-administration-sees-iran-talks-as-path-to-broader-middle-east-reset/"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Talks Of RBI Rate Hike Unwarranted Amid Highest Policy Cautiousness Since 2016 & Severe Monsoon Deficit: SBI Report",
-          "summary": "The Reserve Bank of India may not hike interest rates due to high uncertainty surrounding inflation, monsoon progress, and global economic conditions. A report by the SBI suggests that policymakers should exercise caution. This decision could impact the Indian economy and monetary policy.",
-          "source": "Republic World",
-          "url": "https://www.republicworld.com/business/talks-of-rate-hike-unwarranted-amid-elevated-uncertainty-monsoon-concerns-sbi-report-2026-06-22-129433"
-        },
-        {
-          "title": "Warsh Fed era heralds a new trial for Asian currencies",
-          "summary": "The new Federal Reserve chief's hawkish stance on inflation has led to a stronger dollar, posing challenges for Asian economies reliant on exports. This may force countries like Japan, Indonesia, and India to intervene in currency markets and raise borrowing costs. The shift in Fed policy is being closely watched by investors worldwide.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/warsh-fed-era-heralds-a-new-trial-for-asian-currencies/articleshow/131906116.cms"
-        },
-        {
-          "title": "The benefits and risks of RBI’s policy on foreign currency NRI deposits",
-          "summary": "The Indian government is considering a policy to encourage NRIs to make foreign currency deposits in Indian banks to support the rupee. This move has implications for India's external debt management and could have both benefits and risks. The policy aims to shore up the rupee and manage external debt.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/economy/rbi-foreign-currency-nri-deposits-rupee-defence-risks-explained-11782041864329.html"
-        },
-        {
-          "title": "MPC members favour caution over pre-emptive rate move amid West Asia uncertainty, show RBI minutes",
-          "summary": "The Reserve Bank of India's Monetary Policy Committee members have favored a cautious approach to interest rates due to uncertainty surrounding the West Asia conflict, supply chain disruptions, and monsoon risks. The committee saw little justification for a pre-emptive change in interest rates. This decision reflects the RBI's wait-and-watch approach to monetary policy.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3937936-mpc-members-favour-caution-over-pre-emptive-rate-move-amid-west-asia-uncertainty-show-rbi-minutes"
-        }
-      ],
-      "Business": [
-        {
-          "title": "World Bank approves USD 1.5 bn loan to support India's reforms, job creation",
-          "summary": "The World Bank has approved a $1.5 billion loan to support India's structural reforms and job creation, aiming to simplify business regulations and improve access to capital. This initiative is expected to create employment opportunities for millions of young Indians and boost the nation's economic resilience. The funding aligns with the government's long-term development vision.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/finance/world-bank-approves-15-billion-loan-to-drive-job-creation-and-economic-reforms-in-india/articleshow/131909557.cms"
-        },
-        {
-          "title": "West Asia conflict tightens the tap on India's startup funding options",
-          "summary": "The escalating tensions in West Asia have made investors more cautious, resulting in a 43% decrease in startup funding in India since March. This decline in funding may impact the growth and development of Indian startups. The conflict has led to increased investor caution, affecting the startup ecosystem in India.",
-          "source": "Business Standard",
-          "url": "https://www.business-standard.com/markets/news/west-asia-crisis-pulls-startup-funding-down-43-yoy-since-march-126062100439_1.html"
-        },
-        {
-          "title": "ADB to maintain private sector funding pace in India, eyes $1 billion support in 2026",
-          "summary": "The Asian Development Bank (ADB) plans to maintain its private sector funding pace in India, with a goal of providing $1 billion in support by 2026. India remains the largest market for ADB's private sector operations, and the bank expects to continue its funding efforts in the country. This funding is expected to support the growth of India's private sector.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/adb-to-maintain-private-sector-funding-pace-in-india-eyes-1-billion-support-in-2026/articleshow/131889694.cms"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "How India’s roads evolved into the world’s second-largest network",
-          "summary": "India's road network has evolved significantly from the Nagpur Plan to the Bharatmala Pariyojana and PM GatiShakti, becoming the world's second-largest network. The Supreme Court has also recognised safe walking on footpaths as a fundamental right. This development highlights the country's focus on improving its infrastructure.",
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/how-indias-roads-evolved-into-the-worlds-second-largest-network-10752178/"
-        },
-        {
-          "title": "Jindal Poly Films row reaches SC again as minority investors seek revival of class action suit",
-          "summary": "Minority shareholders of Jindal Poly Films have approached the Supreme Court to revive India's first corporate class action suit, arguing that their representation is essential for a fair adjudication of the case. The dispute was previously sent to arbitration, but the shareholders claim it cannot be settled without their proper representation. This case highlights the importance of protecting public investors' rights.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/jindal-poly-films-row-reaches-sc-again-as-minority-investors-seek-revival-of-class-action-suit/articleshow/131912103.cms"
-        },
-        {
-          "title": "HC refuses to interfere with Delhi govt notice on CAG audit of BSES Rajdhani, BSES Yamuna",
-          "summary": "The Delhi High Court has refused to interfere with the Delhi government's proposal to entrust the audit of BSES Rajdhani Power Ltd and BSES Yamuna Power Ltd to the Comptroller and Auditor General of India (CAG). This decision allows the CAG audit to proceed, which may help ensure transparency and accountability in the power companies' operations.",
-          "source": "ThePrint",
-          "url": "https://theprint.in/india/hc-refuses-to-interfere-with-delhi-govt-notice-on-cag-audit-of-bses-rajdhani-bses-yamuna/2966686/"
-        },
-        {
-          "title": "Centre reappoints Tushar Mehta as Solicitor General of India",
-          "summary": "The Centre has reappointed Tushar Mehta as the Solicitor General of India, and also cleared the reappointments of five Additional Solicitor Generals (ASGs) for the Supreme Court. This decision reflects the government's confidence in the legal team's ability to represent the country's interests in the courts.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/delhi/centre-reappoints-tushar-mehta-as-solicitor-general-of-india/"
-        },
-        {
-          "title": "Students With Disabilities In Higher Education: A Grim Scenario",
-          "summary": "The Supreme Court's National Task Force on student mental health has highlighted the widespread exclusion of students with disabilities in higher education institutions across India. Despite efforts to improve accessibility, enrolment of students with disabilities remains low, at just 0.2%, due to barriers such as inaccessible campuses and lack of support systems.",
-          "source": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/analysis/students-with-disabilities-in-higher-education-a-grim-scenario"
         }
       ]
     }
