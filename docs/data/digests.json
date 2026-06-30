@@ -1,5 +1,115 @@
 [
   {
+    "generated_at": "2026-06-30T14:04:52.166056+00:00",
+    "brief": "Tensions between Iran and the US continue to escalate, with Iran's President signaling a reciprocal commitment to an accord and its leader urging the judiciary to sue the US and Israel over alleged war crimes. Meanwhile, in India, the economy is poised for growth, with the RBI's latest policy expected to attract significant overseas deposits from NRIs, potentially unlocking a $1 trillion retail lending opportunity. Additionally, developments in the business sector, such as the launch of an IFSC banking unit at GIFT City and plans to raise overseas funding for infrastructure development, are also expected to support India's economic growth.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Iran's President Pezeshkian Signals Reciprocal Commitment to Accord, Vows Fearless Defence Against Threats",
+          "summary": "Iran's President has stated that the country will fulfill its obligations under an accord if the American side also honors the agreement. He emphasized the importance of rationality and human dignity in decision-making. This statement comes amidst ongoing tensions between Iran and the US.",
+          "source": "scanx.trade",
+          "url": "https://scanx.trade/stock-market-news/global/iran-s-president-pezeshkian-signals-reciprocal-commitment-to-accord-vows-fearless-defence-against-threats/44311743"
+        },
+        {
+          "title": "Khamenei Urges Judiciary To Sue US, Israel Over Alleged 'War Crimes'",
+          "summary": "Iran's leader has directed the judiciary to sue the US and Israel over alleged war crimes, citing public comments from American and Israeli officials as evidence. This move could lead to legal claims in domestic and international courts. The development reflects escalating tensions between Iran and the two countries.",
+          "source": "NDTV Profit",
+          "url": "https://www.ndtvprofit.com/world/khamenei-directs-judiciary-to-sue-us-israel-over-alleged-war-crimes-11701646"
+        },
+        {
+          "title": "Cultural Heritage Under Fire: The Impact of Conflict in Iran",
+          "summary": "Recent airstrikes in Iran have damaged cultural heritage sites, including UNESCO-listed monuments. Experts and UNESCO are assessing the damage and emphasizing the need for better protection of these sites. The conflict in Iran is having a significant impact on the country's cultural heritage.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/entertainment/3942150-cultural-heritage-under-fire-the-impact-of-conflict-in-iran"
+        },
+        {
+          "title": "Bangladesh: BNP targets Jamaat over 1971 Liberation War stance, demands apology",
+          "summary": "The ruling Bangladesh Nationalist Party has criticized the radical Islamist party Jamaat-e-Islami over its stance on the 1971 Liberation War. The BNP is demanding an apology from Jamaat, reflecting ongoing political tensions in Bangladesh. This development is significant for the country's political landscape.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/bangladesh-bnp-targets-jamaat-over-1971-liberation-war-stance-demands-apology/"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "NRI money could unlock India's next capex cycle after easing banks' funding crunch: Axis Bank CEO",
+          "summary": "According to Axis Bank CEO Amitabh Chaudhry, the RBI's latest policy could attract $50-100 billion in overseas deposits from NRIs, which could first lower banks' funding costs and then finance infrastructure and other investments. This could unlock India's next investment cycle. The move is expected to support the rupee and ease pressure from a widening gap between loan and deposit growth.",
+          "source": "Firstpost",
+          "url": "https://www.firstpost.com/business/nri-money-india-capex-axis-bank-rbi-dollar-inflows-indian-diaspora-bank-funding-amitabh-chaudhry-14027612.html"
+        },
+        {
+          "title": "India’s $1 trillion retail lending boom: Why 11% mortgage penetration offers a multi-decade credit growth runway",
+          "summary": "India's retail lending market is expected to unlock a $1 trillion opportunity, driven by digital lending, low mortgage penetration, rising incomes, and RBI policy support. The growth is expected to be driven by a multi-decade credit growth runway, with mortgage penetration currently at 11%. This could lead to significant opportunities for lenders and borrowers alike.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/business/industry-indias-1-trillion-retail-lending-boom-why-11-mortgage-penetration-offers-a-multi-decade-credit-growth-runway-4279135/"
+        },
+        {
+          "title": "Why the West Asia conflict became 'neither a 1991 moment, nor a 2013 one' for India: CEA explains",
+          "summary": "According to Chief Economic Advisor V Anantha Nageswaran, India's economy successfully navigated the recent West Asia crisis due to a calibrated policy response, diversified energy sourcing, and targeted support measures. However, deeper structural challenges remain, and the economy needs to be cautious. The CEA's comments highlight the importance of policy responses in managing economic challenges.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/economy/why-the-westasia-conflict-became-neither-a-1991-moment-nor-a-2013-one-for-india-cea-explains-19934175.htm"
+        },
+        {
+          "title": "Indian economy: The confluence case",
+          "summary": "The RBI's targeted foreign currency liquidity programme and a near-halving of crude oil prices have altered India's external balance trajectory, monetary policy optionality, and corporate earnings outlook. This confluence of factors is expected to have a positive impact on the Indian economy, providing a boost to growth and stability. The RBI's initiatives have demonstrated innovation and agility in managing economic challenges.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/prime/economy-and-policy/indian-economy-the-confluence-case/primearticleshow/132053783.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Central Bank of India opens its IFSC banking unit at GIFT City",
+          "summary": "The Central Bank of India has launched an IFSC banking unit at GIFT City to cater to corporate foreign currency funding needs. This move aims to provide specialized banking services to companies operating in the international financial hub. The unit will facilitate foreign currency transactions and support the growth of Indian businesses.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/money-and-banking/central-bank-of-india-opens-its-ifsc-banking-unit-at-gift-city/article71161937.ece"
+        },
+        {
+          "title": "IIFCL plans $1 billion overseas loan, also eyes $400 million ADB funding to back infrastructure push",
+          "summary": "India Infrastructure Finance Company Ltd (IIFCL) is planning to raise $1 billion from overseas investors to support the country's infrastructure development. The company is also seeking $400 million in funding from the Asian Development Bank (ADB) to back its infrastructure push. This funding will help IIFCL finance various infrastructure projects in India.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/iifcl-plans-1-billion-overseas-loan-also-eyes-400-million-adb-funding-to-back-infrastructure-push/articleshow/132065387.cms"
+        },
+        {
+          "title": "Where are the unicorns of 2021",
+          "summary": "In 2021, 39 Indian startups achieved unicorn status, but now they face a changed landscape with global uncertainties and investor caution. Some of these companies, like Cred, continue to secure significant investments, while others are adapting their strategies or pursuing public listings. The evolving dynamics of the startup ecosystem are forcing these unicorns to navigate new challenges.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/startups/where-are-the-unicorns-of-2021/articleshow/132045249.cms"
+        },
+        {
+          "title": "Why Equirus is avoiding loss-making startups in its ₹1,500 crore fund",
+          "summary": "Equirus has launched a new ₹1,500 crore fund that will focus on investing in profitable startups, avoiding loss-making companies. This approach reflects the changing landscape of India's startup funding market, which has become more selective. The fund will prioritize startups with strong financials and growth potential.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/companies/news/why-equirus-is-avoiding-loss-making-startups-in-its-1-500-crore-fund-11782469777507.html"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "The women behind India’s economy-and the price of invisible work",
+          "summary": "A recent Supreme Court judgment has recognized the economic value of homemakers' work, which could influence policymaking in the future. This judgment acknowledges the significant contribution of unpaid work by homemakers to the economy. Although it may not be included in GDP calculations, it can have a positive impact on policy decisions.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/economy/india-homemakers-unpaid-work-economy-11782733248170.html"
+        },
+        {
+          "title": "Rule Of Law Is Bedrock Of Democracy, Says CJI Surya Kant In Stockholm",
+          "summary": "Chief Justice of India Surya Kant emphasized the importance of the rule of law in protecting citizens from arbitrary government actions. He also clarified that the Supreme Court does not function as a super-executive, highlighting the need for judicial restraint. This statement underscores the significance of the rule of law in a democratic system.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/cji-surya-kant-rule-of-law-judicial-restraint-super-executive-sweden-article-154801896"
+        },
+        {
+          "title": "HC order on ethanol allocation will hit national policy, SC told",
+          "summary": "The Supreme Court has agreed to hear a plea regarding the Karnataka High Court's order on ethanol allocation, which may impact the national policy on the matter. The oil marketing company that filed the plea claims that the high court's order will affect the national policy. The Supreme Court's decision will be crucial in resolving this issue.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/hc-order-on-ethanol-allocation-will-hit-national-policy-sc-told/articleshow/132079268.cms"
+        },
+        {
+          "title": "BJP seeks cancellation of Kannur Corporation councillors' oath over 'Allah' reference",
+          "summary": "The BJP has challenged the oaths of 19 councillors in the Kannur Corporation, alleging that they violated the statutory form by referencing 'Allah' during their oath-taking ceremony. This controversy highlights the debate surrounding the use of religious references in oath-taking ceremonies and its implications on the validity of such oaths.",
+          "source": "Malayala Manorama",
+          "url": "https://www.onmanorama.com/news/kerala/2026/06/29/bjp-seeks-cancellation-of-kannur-councillors-oath-over-allah-reference.html"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-06-30T09:23:06.607601+00:00",
     "brief": "Tensions between Iran and the US continue to escalate, with Iran's President and leader making statements on reciprocal commitment to an accord and potential legal action against the US and Israel. Meanwhile, in India, the economy is navigating a complex landscape, with the Chief Economic Advisor noting that the country successfully weathered the recent West Asia crisis, and the Reserve Bank of India introducing initiatives to attract overseas capital and support the rupee. Additionally, India's retail lending market is expected to experience significant growth, driven by digital lending and low mortgage penetration, with potential implications for the country's economic trajectory.",
     "categories": {
@@ -3403,116 +3513,6 @@
           "summary": "A plea has been filed in the Supreme Court seeking an FIR and a CBI-led investigation into alleged irregularities in the collection of donations for the Ayodhya Ram Temple. The petitioners have raised concerns about potential embezzlement of funds, which could have significant implications for the temple's construction and the trust responsible for its management.",
           "source": "Times Now",
           "url": "https://www.timesnownews.com/india/ayodhya-ram-mandir-donation-row-plea-filed-in-sc-seeks-fir-cbi-led-probe-into-alleged-embezzlement-of-funds-article-154731746"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-06-23T14:34:56.431373+00:00",
-    "brief": "Global oil trade and shipping may be impacted by Iran's announcement that it will administer the Strait of Hormuz under international law following talks with the US. This development, combined with the closure of Pakistan's airspace and conflict in West Asia, is also affecting Indian airlines and the country's aviation industry. Meanwhile, the Indian economy is closely watching the Reserve Bank of India's monetary policy decisions, with the possibility of a growth rate exceeding 7% if oil prices fall further, and the World Bank has approved a $1.5 billion loan to support India's structural reforms and job creation.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "US Iran War Live Updates: Iran says Strait of Hormuz to be administered by Tehran after talks with US",
-          "summary": "Iran has announced that it will administer the Strait of Hormuz under international law following talks with the US, which could impact global oil trade and shipping. The discussions also made progress on issues like Lebanon, oil sanctions waivers, and frozen Iranian funds. This development could have significant implications for global geopolitics and trade.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/newsblogs/us-iran-war-live-updates-trump-iran-peace-deal-netanyahu-lebanon-hezbollah-ceasefire-strait-of-hormuz-nuclear-talks-jd-vance-abbas-araghchi-latest-news-updates/liveblog/131922961.cms"
-        },
-        {
-          "title": "Geopolitical jolt: How airspace closures and global conflict are hurting Indian airlines",
-          "summary": "The closure of Pakistan's airspace and conflict in West Asia have forced Indian airlines like IndiGo and Air India to cut routes, suspend destinations, and lose international market share to foreign carriers. This has significant implications for India's aviation industry and economy. The geopolitical tensions are disrupting air travel and trade, affecting Indian airlines' operations and profitability.",
-          "source": "Firstpost",
-          "url": "https://www.firstpost.com/business/geopolitical-jolt-how-airspace-closures-and-global-conflict-are-hurting-indian-airlines-14025035.html"
-        },
-        {
-          "title": "G7 Summit: Trump, Meloni And The Question Of The Photo Op",
-          "summary": "The G7 Summit has highlighted how political performance, media attention, and personal branding are increasingly influencing international diplomacy and global leadership narratives. The reported exchange between Donald Trump and Giorgia Meloni at the summit is a case in point, showcasing the importance of image and perception in global politics. This trend has significant implications for how world leaders interact and shape global agendas.",
-          "source": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/analysis/g7-summit-trump-meloni-and-the-question-of-the-photo-op"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "RBI MPC: Growth rate could top 7% if oil prices fall further",
-          "summary": "The Reserve Bank of India's Monetary Policy Committee (MPC) has projected a growth rate of 6.6% for FY27, but this could increase to over 7% if oil prices fall further. The economy expanded at 7.7% in the January-March quarter, exceeding earlier estimates. The MPC will closely monitor incoming data to assess the impact of inflation.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-mpc-growth-rate-could-top-7-if-oil-prices-fall-further/articleshow/131922542.cms"
-        },
-        {
-          "title": "Talks Of RBI Rate Hike Unwarranted Amid Highest Policy Cautiousness Since 2016 & Severe Monsoon Deficit: SBI Report",
-          "summary": "According to a report by the SBI, discussions around a possible interest rate hike by the Reserve Bank of India are unwarranted due to elevated uncertainty surrounding inflation, monsoon progress, and global economic conditions. The report suggests that policymakers should exercise caution before making any decisions. This uncertainty is affecting the RBI's monetary policy decisions.",
-          "source": "Republic World",
-          "url": "https://www.republicworld.com/business/talks-of-rate-hike-unwarranted-amid-elevated-uncertainty-monsoon-concerns-sbi-report-2026-06-22-129433"
-        },
-        {
-          "title": "Warsh Fed era heralds a new trial for Asian currencies",
-          "summary": "The new Federal Reserve chief Kevin Warsh's hawkish stance on inflation has surprised markets, signaling a stronger dollar and posing a challenge for Asian economies reliant on exports. This may force nations like Japan, Indonesia, and India to intervene in currency markets and raise borrowing costs. The dollar's strength is a global concern, with emerging markets like Turkey also facing currency pressures.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/warsh-fed-era-heralds-a-new-trial-for-asian-currencies/articleshow/131906116.cms"
-        },
-        {
-          "title": "The benefits and risks of RBI’s policy on foreign currency NRI deposits",
-          "summary": "The government is looking at NRIs to make foreign currency deposits in Indian banks to shore up the rupee, which has implications for India’s external debt management. This policy has both benefits and risks, and its impact on the economy needs to be carefully considered. The RBI's policy on foreign currency NRI deposits is a significant development in India's economic landscape.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/economy/rbi-foreign-currency-nri-deposits-rupee-defence-risks-explained-11782041864329.html"
-        }
-      ],
-      "Business": [
-        {
-          "title": "World Bank approves USD 1.5 bn loan to support India's reforms, job creation",
-          "summary": "The World Bank has approved a $1.5 billion loan to support India's structural reforms and job creation, aiming to simplify business regulations and improve access to capital. This initiative is expected to create employment for millions of young Indians and bolster the nation's economic resilience. The funding aligns with the government's long-term development vision.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/finance/world-bank-approves-15-billion-loan-to-drive-job-creation-and-economic-reforms-in-india/articleshow/131909557.cms"
-        },
-        {
-          "title": "West Asia conflict tightens the tap on India's startup funding options",
-          "summary": "The escalating tensions in West Asia have made investors more cautious, resulting in a 43% decrease in India's startup funding since March. This decline in funding may impact the growth and development of Indian startups. The conflict has led to increased investor caution, affecting the startup ecosystem.",
-          "source": "Business Standard",
-          "url": "https://www.business-standard.com/markets/news/west-asia-crisis-pulls-startup-funding-down-43-yoy-since-march-126062100439_1.html"
-        },
-        {
-          "title": "ADB to maintain private sector funding pace in India, eyes $1 billion support in 2026",
-          "summary": "The Asian Development Bank (ADB) plans to maintain its private sector funding pace in India, aiming to provide $1 billion in support by 2026. India remains the largest market for ADB's private sector operations, and the bank expects to continue its funding efforts in the country. This support is expected to contribute to India's economic growth and development.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/adb-to-maintain-private-sector-funding-pace-in-india-eyes-1-billion-support-in-2026/articleshow/131889694.cms"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Ayodhya Ram Mandir Donation Row: Plea Filed In SC Seeks FIR, CBI-Led Probe Into Alleged Embezzlement Of Funds",
-          "summary": "A plea has been filed in the Supreme Court seeking an FIR and a CBI-led probe into alleged irregularities in the collection of funds for the Ram Temple in Ayodhya. The petitioners have raised concerns about embezzlement of funds, which could impact the trust of donors. The court's decision will be crucial in ensuring transparency and accountability in the fund collection process.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/india/ayodhya-ram-mandir-donation-row-plea-filed-in-sc-seeks-fir-cbi-led-probe-into-alleged-embezzlement-of-funds-article-154731746"
-        },
-        {
-          "title": "Collegium recommendation review will open ‘pandora’s box’: SC",
-          "summary": "The Supreme Court has denied a petition seeking reconsideration of a judge's elevation, citing concerns that it could set a troubling precedent. The court's decision highlights the importance of maintaining the integrity of the collegium system, which is responsible for appointing judges to higher courts. This ruling will have implications for the functioning of the judiciary and the selection of judges.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/collegium-recommendation-review-will-open-pandora-s-box-sc-101782157879305.html"
-        },
-        {
-          "title": "“Must people of India move court for water”",
-          "summary": "The Bombay High Court has criticized the state government for its handling of issues related to malnutrition and maternal deaths in tribal areas. The court's remarks highlight the need for the government to take proactive steps to address these issues, rather than relying on court interventions. This case underscores the importance of ensuring access to basic necessities like water and healthcare for all citizens.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/cities/mumbai-news/must-people-of-india-move-court-for-water-101782156741277.html"
-        },
-        {
-          "title": "SC: Collegium's selection process is not open to judicial scrutiny, RTI",
-          "summary": "The Supreme Court has ruled that the selection process of judges by the collegium is not subject to judicial scrutiny or disclosure under the Right to Information (RTI) Act. This decision emphasizes the importance of maintaining confidentiality in the selection process to ensure the independence and integrity of the judiciary. The ruling will have implications for transparency and accountability in the judicial appointment process.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/sc-collegiums-selection-process-is-not-open-to-judicial-scrutiny-rti/articleshow/131920285.cms"
-        },
-        {
-          "title": "Madras HC seeks stray dog management reports from Tamil Nadu, Puducherry govt",
-          "summary": "The Madras High Court has directed the governments of Tamil Nadu and Puducherry to submit reports on their stray dog management efforts. The court's move aims to address the issue of stray dogs and ensure public safety, highlighting the need for effective animal control measures. This case demonstrates the role of courts in promoting governance and accountability in public services.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/madras-hc-seeks-stray-dog-management-reports-from-tamil-nadu-puducherry-govt-101782142574674.html"
-        },
-        {
-          "title": "How India’s roads evolved into the world’s second-largest network",
-          "summary": "India's road network has undergone significant development, transforming into the world's second-largest network. The Supreme Court has recognized safe walking on footpaths as a fundamental right, emphasizing the importance of pedestrian infrastructure. The evolution of India's roads, from the Nagpur Plan to the Bharatmala Pariyojana and PM GatiShakti, reflects the country's efforts to improve connectivity and transportation.",
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/how-indias-roads-evolved-into-the-worlds-second-largest-network-10752178/"
         }
       ]
     }
