@@ -1,5 +1,139 @@
 [
   {
+    "generated_at": "2026-07-01T14:19:22.062864+00:00",
+    "brief": "India's global influence continues to grow, backed by its diplomacy, defence, and development efforts, with PM Modi reaffirming the country's commitment to resolving issues through dialogue and diplomacy. Meanwhile, in the economic sphere, the Reserve Bank of India has intervened significantly in the currency market to shield the rupee, and Indian companies are increasingly opting for dollar debt due to recent policy changes. On the national front, the Supreme Court has made significant decisions, including denying bail to Asaram and ordering a status quo on ethanol supply allocation, which will impact India's energy strategy and goal to increase ethanol blending in petrol.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "PM Modi Expresses Approval of Recent Agreement, Reaffirms India's Commitment to Dialogue and Diplomacy",
+          "summary": "PM Modi has expressed approval of a recent agreement and reaffirmed India's commitment to resolving issues through dialogue and diplomacy. This stance was reiterated during talks with Iran's President, highlighting India's peaceful approach to international affairs. The discussions underscore India's emphasis on diplomatic engagement.",
+          "source": "scanx.trade",
+          "url": "https://scanx.trade/stock-market-news/global/pm-modi-expresses-approval-of-recent-agreement-reaffirms-india-s-commitment-to-dialogue-and-diplomacy/44395371"
+        },
+        {
+          "title": "Cricket Diplomacy: India and Nepal's Bonds Strengthened on the Field",
+          "summary": "The Indian Embassy in Kathmandu hosted a cricket tournament, strengthening cultural ties between India and Nepal. The event promoted people-to-people connections and supported young Nepali female cricketers. This initiative highlights the role of sports in fostering diplomatic relationships.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/sports-games/3943219-cricket-diplomacy-india-and-nepals-bonds-strengthened-on-the-field"
+        },
+        {
+          "title": "India’s global influence backed by diplomacy, defence and development: Report",
+          "summary": "A report suggests that India's growing global influence is backed by its diplomacy, defence, and development efforts. This indicates India's emergence as a significant voice on the international stage. The country's multifaceted approach is contributing to its increasing global influence.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/indias-global-influence-backed-by-diplomacy-defence-and-development-report/"
+        },
+        {
+          "title": "Pak warns world over Indus Waters Treaty at global conference",
+          "summary": "Pakistan has warned the world about the potential consequences of the Indus Waters Treaty failing, citing concerns for global security. The warning was issued at an international conference, despite India putting the treaty in abeyance due to terrorist attacks. The situation highlights the geopolitical tensions surrounding the treaty.",
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/world/story/pakustan-news-iwt-news-indus-water-treaty-global-conference-islamabad-warnings-ishaq-dar-bilawal-bhutto-zardari-2937675-2026-06-30"
+        },
+        {
+          "title": "High-Stakes Diplomacy: Kushner and Witkoff in Doha",
+          "summary": "US envoy Steve Witkoff and Presidential adviser Jared Kushner are meeting with Qatari mediators in Doha to facilitate US-Iran negotiations. The talks underscore Qatar's crucial role in international diplomacy, particularly in the Middle East. The high-stakes diplomacy aims to resolve ongoing tensions between the US and Iran.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3942941-high-stakes-diplomacy-kushner-and-witkoff-in-doha"
+        },
+        {
+          "title": "Strait of Hormuz: Strategic chokepoint in shadow of geopolitics",
+          "summary": "The Strait of Hormuz is a critical chokepoint for global oil and gas trade, with about one-fifth of global oil consumption flowing through it. The strait is at the center of disputes in negotiations to end the Middle East war, despite a preliminary deal between the US and Iran. The situation highlights the strategic importance of the Strait of Hormuz in geopolitics.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/strait-of-hormuz-strategic-chokepoint-in-shadow-of-geopolitics/articleshow/132090311.cms"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Rupee's defence takes RBI dollar shorts to a record high",
+          "summary": "The Reserve Bank of India has intervened significantly in the currency market to shield the rupee from hitting new lows, resulting in a record high net short forward position. This indicates the central bank's efforts to stabilize the currency amidst global tensions. The RBI now faces a decision on whether to reduce its forward position or bolster reserves.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupees-defence-takes-rbi-dollar-shorts-to-a-record-high/articleshow/132103620.cms"
+        },
+        {
+          "title": "India Inc eyes more dollar debt as RBI policy support kicks in",
+          "summary": "Indian companies are increasingly opting for dollar debt due to recent policy changes by the RBI that have lowered hedging costs and eased rules. This shift is driven by the central bank's moves to support the economy. As a result, local firms are aggressively swapping out rupee loans for offshore funds.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/market/bonds/rbi-ecb-guidelines-external-commercial-borrowings-11782813258132.html"
+        },
+        {
+          "title": "Easing oil prices, supply chains to soften external pressures on India: Finance ministry",
+          "summary": "According to the finance ministry, India's economy remains resilient despite global uncertainties, with easing oil prices and improving supply chains offering some relief. However, the ministry also highlights potential risks to growth and inflation, such as monsoon vagaries and geopolitical shifts. Foreign investors are returning to sovereign debt, indicating confidence in the Indian economy.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/easing-oil-prices-supply-chains-to-soften-external-pressures-on-india-finance-ministry/articleshow/132100894.cms"
+        },
+        {
+          "title": "Indian economy remains exposed to energy price shocks: RBI report",
+          "summary": "The RBI has warned that India's economy remains vulnerable to energy price shocks and geopolitical tensions, despite strong fundamentals. The nation faces potential exchange rate volatility due to rising oil prices and supply chain issues. Recent policy measures have eased pressure on the rupee and bond yields, but attracting capital remains a focus amidst global uncertainties.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/indian-economy-remains-exposed-to-energy-price-shocks-rbi-report/articleshow/132095310.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "SEBI bars Darjeeling Industriies promoters, alleges circular funding and stock manipulation scheme",
+          "summary": "The Securities and Exchange Board of India (SEBI) has barred the promoters of Darjeeling Industries due to allegations of circular funding and stock manipulation. This move aims to protect investors and maintain market integrity. SEBI's action highlights its efforts to regulate and monitor India's securities market.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/business/sebi-bars-darjeeling-industriies-promoters-alleges-circular-funding-and-stock-manipulation-scheme/"
+        },
+        {
+          "title": "Healthy cookware startup The Indus Valley raises $17 million from Gaja Capital",
+          "summary": "The Indus Valley, a healthy cookware startup, has secured $17 million in funding from Gaja Capital. The investment will be used to enhance product development and expand distribution in India. This funding round demonstrates the growing interest in health-focused consumer products in the Indian market.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/markets/healthy-cookware-startup-the-indus-valley-raises-17-million-from-gaja-capital/article71164971.ece"
+        },
+        {
+          "title": "Quick food delivery startup Swish in funding talks with Bertelsmann India Investments",
+          "summary": "Swish, a quick food delivery startup, is in talks with Bertelsmann India Investments for a potential funding round of $20-50 million. The company has shown significant growth, with over 630,000 monthly orders and an annual revenue of over Rs 165 crore. This funding round could further accelerate Swish's expansion in the Indian food delivery market.",
+          "source": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/business/startup/quick-food-delivery-startup-swish-in-funding-talks-with-bertelsmann-india-investments-months-after-previous-raise-13961822.html"
+        },
+        {
+          "title": "Central Bank of India opens its IFSC banking unit at GIFT City",
+          "summary": "Central Bank of India has launched its IFSC banking unit at GIFT City to cater to corporate foreign currency funding needs. This move aims to provide specialized banking services to companies operating in India and abroad. The IFSC banking unit will facilitate international transactions and trade finance for Indian businesses.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/money-and-banking/central-bank-of-india-opens-its-ifsc-banking-unit-at-gift-city/article71161937.ece"
+        },
+        {
+          "title": "Marwari Catalysts Portfolio Continues to Attract Investor Interest",
+          "summary": "Marwari Catalysts, a family office, has seen significant investor interest in its portfolio companies, with multiple startups announcing funding rounds in the last quarter. This demonstrates the growing confidence of investors in ventures emerging from Tier-II and Tier-III India. Marwari Catalysts' integrated approach to venture creation and investment has contributed to its success.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/marwari-catalysts-portfolio-continues-to-attract-investor-interest-strengthening-its-position-as-an-emerging-family-office/"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "SC denies suspension of Pocso sentence, bail to Asaram",
+          "summary": "The Supreme Court has denied bail to Asaram, who was convicted of assaulting a minor, unless there is a grave health risk. This decision is significant as it upholds the conviction under the Protection of Children from Sexual Offences (POCSO) Act. The court will review Asaram's challenge to his conviction.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/sc-denies-suspension-of-pocso-sentence-bail-to-asaram-101782845975882.html"
+        },
+        {
+          "title": "SC orders status quo on ethanol supply allocation",
+          "summary": "The Supreme Court has halted changes to ethanol allocation for the Ethanol Supply Year 2025-26, which could impact India's ethanol-blending program and energy strategy. This decision will maintain the current allocation status until further review. The move is crucial for India's energy sector and its goal to increase ethanol blending in petrol.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/sc-orders-status-quo-on-ethanol-supply-allocation-101782845913698.html"
+        },
+        {
+          "title": "Finally, government sets up National Road Safety Board, Nitin Gokarn to head it",
+          "summary": "The government has established the National Road Safety Board, headed by Nitin Gokarn, following a Supreme Court directive. The board aims to improve road safety in India, which has one of the highest numbers of road accidents globally. This move is expected to lead to significant improvements in road safety policies and regulations.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/finally-government-sets-up-national-road-safety-board-nitin-gokarn-to-head-it/articleshow/132101150.cms"
+        },
+        {
+          "title": "Beyond The Soap Opera: Why India Is Still Debating Marital Rape Law",
+          "summary": "A petition seeking the criminalization of marital rape has been pending in the Supreme Court for several years, with the Central government opposing the move. The debate surrounding marital rape law in India continues, highlighting the need for a clearer stance on the issue. The outcome of this case will have significant implications for women's rights and the legal framework in India.",
+          "source": "NDTV.com",
+          "url": "https://www.ndtv.com/india-news/beyond-the-soap-opera-why-india-is-still-debating-marital-rape-law-11708565"
+        },
+        {
+          "title": "Ethanol Blending Still an ‘Experiment’, Centre Tells Supreme Court as BPCL Challenges Karnataka HC Order",
+          "summary": "The Centre has informed the Supreme Court that India's 20% ethanol blending in petrol is still an ongoing experiment, with its full impact expected to be clearer by next year. The government is defending its E20 policy and future 30% blending target. This development is crucial for India's energy sector and its efforts to reduce dependence on fossil fuels.",
+          "source": "Outlook India",
+          "url": "https://www.outlookindia.com/national/ethanol-blending-still-an-experiment-impact-to-be-clearer-by-next-year-govt-tells-sc"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-01T09:34:43.649980+00:00",
     "brief": "Today's brief highlights key developments across geopolitics, economy, and national affairs, with India's diplomatic efforts and economic resilience taking center stage. PM Modi's approval of a recent agreement and reaffirmation of India's commitment to dialogue and diplomacy underscore the country's approach to international affairs, while easing oil prices and improving supply chains are expected to soften external pressures on the Indian economy. Meanwhile, the government's establishment of the National Road Safety Board and the Supreme Court's order on ethanol allocation for the 2025-26 supply year demonstrate efforts to address domestic issues, including road safety and sustainable energy.",
     "categories": {
@@ -3463,122 +3597,6 @@
           "summary": "India and the US have held key ministerial talks to advance an interim trade deal. The talks come amid a US Supreme Court ruling invalidating reciprocal tariffs. The two countries are negotiating to enhance bilateral trade and economic cooperation.",
           "source": "The Financial Express",
           "url": "https://www.financialexpress.com/business/news/us-flags-resolve-for-fair-deal-as-goyal-greer-meet-on-bta/4274740/"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-06-24T14:13:32.340475+00:00",
-    "brief": "Tensions between the US and Iran continue to escalate, with the US rejecting Iran's proposal to impose tolls on the Strait of Hormuz, a key waterway for global shipping and trade. This development has significant implications for international relations and the global economy, particularly as the Reserve Bank of India projects a growth rate of 6.6% for FY27, which could be impacted by fluctuations in oil prices. Meanwhile, the global economic landscape is also being shaped by the legacy of former Federal Reserve chairman Alan Greenspan, who passed away at 100, and the new Federal Reserve chief Kevin Warsh's hawkish stance on inflation, which is posing a challenge for Asian economies reliant on exports.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Violation of international law: Hormuz row deepens as Rubio rejects Iranian tolls on key waterway",
-          "summary": "The US has rejected Iran's proposal to impose tolls on the Strait of Hormuz, citing international law. This development has deepened the row between the two countries, with early cracks emerging in post-war negotiations. The Strait of Hormuz is a key waterway and a major shipping route.",
-          "source": "Firstpost",
-          "url": "https://www.firstpost.com/world/violation-of-international-law-hormuz-row-deepens-as-rubio-rejects-iranian-tolls-on-key-waterway-14025568.html"
-        },
-        {
-          "title": "Rubio says US will not accept Iranian tolls on Hormuz",
-          "summary": "US Secretary of State Marco Rubio has stated that the US will not permit Iran to impose tolls on the Strait of Hormuz, an international waterway. This comes as Iran and Oman announced they would study administration and costs for the route, asserting sovereignty. The UN is also set to evacuate over 11,000 sailors stranded by the conflict.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/rubio-says-us-will-not-accept-iranian-tolls-on-hormuz/articleshow/131945912.cms"
-        },
-        {
-          "title": "Iran’s lesson to the Global South on standing up to Donald Trump",
-          "summary": "The recent war has cemented Iran's status as a major regional power, with lasting consequences for Middle Eastern geopolitics. Iran's ability to stand up to the US has sent a message to the Global South about the importance of asserting sovereignty. This development is likely to have significant implications for international relations in the region.",
-          "source": "Scroll.in",
-          "url": "https://scroll.in/article/1093762/irans-lesson-to-the-global-south-on-standing-up-to-donald-trump"
-        },
-        {
-          "title": "‘Never trust Americans’: Iran draws red line at Strait of Hormuz, warning Trump it will ‘never’ relinquish control",
-          "summary": "Iran's Parliament Speaker has stated that the Strait of Hormuz will never return to pre-war operation and Iran will manage the passage under international laws. This development has significant implications for global shipping and trade, as the Strait of Hormuz is a critical waterway. Talks between Iran and the US have resulted in frozen fund releases and sanctions relief progress.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/world-news/never-trust-americans-iran-draws-red-line-at-strait-of-hormuz-warning-trump-it-will-never-relinquish-control/4274261/"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Alan Greenspan Dies at 100: Legacy of Economic Influence and Controversy",
-          "summary": "Alan Greenspan, the former Federal Reserve chairman, has passed away at 100, leaving behind a legacy of economic influence and controversy. His tenure shaped the US economy and sparked debates about his monetary policies. His legacy continues to have a lasting impact on economic policy.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/alan-greenspan-us-fed-maestro-dies-at-100/articleshow/131927402.cms"
-        },
-        {
-          "title": "RBI MPC: Growth rate could top 7% if oil prices fall further",
-          "summary": "The Reserve Bank of India's Monetary Policy Committee (MPC) has projected a growth rate of 6.6% for FY27, but this could increase to over 7% if oil prices fall further. The economy expanded at 7.7% in the January-March quarter, exceeding earlier estimates. The MPC will closely monitor incoming data to assess the impact of inflation.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-mpc-growth-rate-could-top-7-if-oil-prices-fall-further/articleshow/131922542.cms"
-        },
-        {
-          "title": "Talks Of RBI Rate Hike Unwarranted Amid Highest Policy Cautiousness Since 2016 & Severe Monsoon Deficit: SBI Report",
-          "summary": "A report by the SBI states that discussions around a possible interest rate hike by the Reserve Bank of India are unwarranted due to elevated uncertainty surrounding inflation, monsoon progress, and global economic conditions. The RBI is exercising caution in its policy decisions. The report highlights the need for careful consideration of various factors before making any changes to interest rates.",
-          "source": "Republic World",
-          "url": "https://www.republicworld.com/business/talks-of-rate-hike-unwarranted-amid-elevated-uncertainty-monsoon-concerns-sbi-report-2026-06-22-129433"
-        },
-        {
-          "title": "Warsh Fed era heralds a new trial for Asian currencies",
-          "summary": "The new Federal Reserve chief, Kevin Warsh, has taken a hawkish stance on inflation, signaling a stronger dollar and posing a challenge for Asian economies reliant on exports. This has forced nations like Japan, Indonesia, and India to intervene in currency markets and raise borrowing costs. The dollar's strength is a global concern, with emerging markets like Turkey also facing currency pressures.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/warsh-fed-era-heralds-a-new-trial-for-asian-currencies/articleshow/131906116.cms"
-        }
-      ],
-      "Business": [
-        {
-          "title": "Akasa Air plans IPO in next 2-4 years",
-          "summary": "Akasa Air is planning to go public with an initial public offering (IPO) in the next 2-4 years as it expands its fleet and routes, and improves its earnings. The airline is targeting growth across India and Southeast Asia. This move is expected to provide a significant boost to the company's funding and expansion plans.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/market/akasa-air-plans-ipo-in-next-2-4-years-share-sale-is-a-question-of-when-cfo-19930755.htm"
-        },
-        {
-          "title": "World Bank approves $1.5 billion loan to support India's reforms",
-          "summary": "The World Bank has approved a $1.5 billion loan to support India's reforms and job creation efforts. The funding will help simplify business regulations, enhance trade, and improve access to capital, creating employment opportunities for millions of young Indians. This initiative aligns with the government's long-term development vision.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/finance/world-bank-approves-15-billion-loan-to-drive-job-creation-and-economic-reforms-in-india/articleshow/131909557.cms"
-        },
-        {
-          "title": "West Asia conflict impacts India's startup funding",
-          "summary": "The escalating tensions in West Asia have made investors more cautious, resulting in a 43% decrease in startup funding in India since March. This has tightened the funding options for Indian startups, making it challenging for them to secure investments. The conflict has led to a decline in investor confidence, affecting the Indian startup ecosystem.",
-          "source": "Business Standard",
-          "url": "https://www.business-standard.com/markets/news/west-asia-crisis-pulls-startup-funding-down-43-yoy-since-march-126062100439_1.html"
-        },
-        {
-          "title": "ADB to maintain private sector funding pace in India",
-          "summary": "The Asian Development Bank (ADB) plans to maintain its private sector funding pace in India, with a target of providing $1 billion in support by 2026. India remains the largest market for ADB's private sector operations, and the bank expects to continue supporting the country's growth. This funding will help Indian businesses access capital and drive economic development.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/adb-to-maintain-private-sector-funding-pace-in-india-eyes-1-billion-support-in-2026/articleshow/131889694.cms"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Tamil Nadu govt moves SC against HC order on lighting Karthigai Deepam on Madurai hill",
-          "summary": "The Tamil Nadu government has filed a petition in the Supreme Court against a High Court order related to lighting Karthigai Deepam on a hill in Madurai. This move comes after the new government led by Chief Minister Vijay assumed office. The case is related to a contentious issue involving religious practices.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/tamil-nadu-govt-moves-sc-against-hc-order-on-lighting-karthigai-deepam-on-madurai-hill-101782262821265.html"
-        },
-        {
-          "title": "SC declines urgent hearing in ration denial linked to SIR",
-          "summary": "The Supreme Court has declined an urgent hearing on a plea related to the denial of ration benefits in West Bengal due to electoral roll exclusions. The court has directed the plea to be heard by the Calcutta High Court instead. The issue is related to welfare benefits and electoral roll exclusions.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/sc-declines-urgent-hearing-in-ration-denial-linked-to-sir-101782241366257.html"
-        },
-        {
-          "title": "US flags resolve for ‘fair deal’ as Goyal, Greer meet on BTA",
-          "summary": "India and the US have held ministerial talks to advance an interim trade deal, with the US expressing its resolve for a fair deal. The talks come amid a US Supreme Court ruling invalidating reciprocal tariffs. The negotiations aim to enhance bilateral trade and economic cooperation between the two countries.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/business/news/us-flags-resolve-for-fair-deal-as-goyal-greer-meet-on-bta/4274740/"
-        },
-        {
-          "title": "India 'proactively monitoring' Telegram over concerns about illegal content, government report shows",
-          "summary": "The Indian government is proactively monitoring Telegram due to concerns about the spread of illegal content, including child abuse material and financial scams, on the platform. A government report has highlighted the use of Telegram for such activities and the challenges posed by its privacy features. The move comes amid a temporary ban and ongoing global investigations into illegal content on the platform.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/india/india-proactively-monitoring-telegram-over-concerns-about-illegal-content-government-report-shows/articleshow/131934851.cms"
-        },
-        {
-          "title": "Zubeen Garg death case: Supreme Court issues notice on bail plea; Event organiser challenges HC order",
-          "summary": "The Supreme Court has issued a notice on a bail petition related to the death of Zubeen Garg, with the event organiser challenging a High Court order. The case has entered a new phase with the Supreme Court's intervention. The details of the case and the bail petition are being considered by the court.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/zubeen-garg-death-case-supreme-court-issues-notice-on-bail-plea-event-organiser-challenges-hc-order/articleshow/131933841.cms"
         }
       ]
     }
