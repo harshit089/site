@@ -1,5 +1,139 @@
 [
   {
+    "generated_at": "2026-07-01T02:49:34.446478+00:00",
+    "brief": "Tensions between India and Pakistan have escalated with Pakistan warning of global instability if the Indus Waters Treaty fails, while India has put the treaty in abeyance after a terrorist attack. Meanwhile, the US and Iran are engaged in high-stakes diplomacy, with Qatar playing a crucial role in facilitating negotiations, and the Strait of Hormuz remains a key point of contention. Amidst these geopolitical developments, the Indian economy remains vulnerable to energy price shocks and geopolitical tensions, with the RBI highlighting the need for caution and the potential for foreign investment, such as NRI deposits, to unlock the country's next investment cycle.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Pak warns world over Indus Waters Treaty at global conference",
+          "summary": "Pakistan has warned the world that if the Indus Waters Treaty fails, no global order will remain secure. This warning comes as India has put the treaty in abeyance after a terrorist attack. The treaty is crucial for water sharing between India and Pakistan.",
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/world/story/pakustan-news-iwt-news-indus-water-treaty-global-conference-islamabad-warnings-ishaq-dar-bilawal-bhutto-zardari-2937675-2026-06-30"
+        },
+        {
+          "title": "High-Stakes Diplomacy: Kushner and Witkoff in Doha",
+          "summary": "US envoy Steve Witkoff and Presidential adviser Jared Kushner are meeting with Qatari mediators to facilitate US-Iran negotiations. Qatar is playing a crucial diplomatic role in international affairs. The talks aim to resolve ongoing tensions between the US and Iran.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3942941-high-stakes-diplomacy-kushner-and-witkoff-in-doha"
+        },
+        {
+          "title": "Strait of Hormuz: Strategic chokepoint in shadow of geopolitics",
+          "summary": "The Strait of Hormuz is a key chokepoint for global oil trade, with one-fifth of global oil consumption flowing through it. The strait is at the center of disputes in negotiations to end the Middle East war. The US and Iran have signed a preliminary deal, but the strait remains a crucial point of contention.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/strait-of-hormuz-strategic-chokepoint-in-shadow-of-geopolitics/articleshow/132090311.cms"
+        },
+        {
+          "title": "Beyond Disaster Relief: How China's Aid Could Shape Venezuela's Recovery and Bilateral Relations",
+          "summary": "China has provided $100 million in emergency aid to earthquake-hit Venezuela, reinforcing their strategic partnership. The aid highlights the importance of disaster response, transparent aid distribution, and international cooperation. It also creates opportunities for future reconstruction and development partnerships.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/other/3942111-beyond-disaster-relief-how-chinas-aid-could-shape-venezuelas-recovery-and-bilateral-relations"
+        },
+        {
+          "title": "Khanna Critiques Trump, Calls for Rebuilding Global Relationships",
+          "summary": "Congressman Ro Khanna has criticized President Trump's foreign policy, saying it has deteriorated US-India relations and undermined global stability. Khanna emphasized the need to rebuild America's international relationships, contrasting Trump's approach with FDR's legacy. He believes this is necessary for future generations.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/international/3942684-khanna-critiques-trump-calls-for-rebuilding-global-relationships"
+        },
+        {
+          "title": "Iran's President Pezeshkian Signals Reciprocal Commitment to Accord, Vows Fearless Defence Against Threats",
+          "summary": "Iran's President Pezeshkian has signaled a commitment to an accord, but only if the American side honors the agreement. He emphasized the importance of rationality and human dignity in decision-making, and vowed to defend Iran against threats. This statement comes amid ongoing tensions between Iran and the US.",
+          "source": "scanx.trade",
+          "url": "https://scanx.trade/stock-market-news/global/iran-s-president-pezeshkian-signals-reciprocal-commitment-to-accord-vows-fearless-defence-against-threats/44311743"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Indian economy remains exposed to energy price shocks: RBI report",
+          "summary": "The Indian economy is vulnerable to energy price shocks and geopolitical tensions, despite strong fundamentals, according to an RBI report. Rising oil prices and supply chain issues may lead to exchange rate volatility. Recent policy measures have eased pressure on the rupee and bond yields, but attracting capital remains a focus amidst global uncertainties.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/indian-economy-remains-exposed-to-energy-price-shocks-rbi-report/articleshow/132095310.cms"
+        },
+        {
+          "title": "What's holding back small enterprises? And what can be done about India’s low-growth MSME sector",
+          "summary": "Small enterprises in India have a large share of the workforce but contribute below par to the economy. Many lack the means to scale operations and productivity, and policy changes could help address this issue. Improving regulation, funding, and capital access could support the growth of the MSME sector.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/opinion/online-views/small-businesses-enterprises-india-msme-sector-productivity-regulation-funding-capital-11782750821016.html"
+        },
+        {
+          "title": "'US-India relationship at lowest point in 30 years,' says Democrat Congressman Ro Khanna",
+          "summary": "Democrat Congressman Ro Khanna stated that the US-India relationship is at a 30-year low, citing President Trump's unilateral foreign policy as a major factor. This has harmed India's economy and damaged US credibility, leading to a loss of trust. The relationship has been impacted by trade disputes and other factors.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/us-india-relationship-at-lowest-point-in-30-years-says-democrat-congressman-ro-khanna/articleshow/132082511.cms"
+        },
+        {
+          "title": "NRI money could unlock India's next capex cycle after easing banks' funding crunch: Axis Bank CEO",
+          "summary": "According to Axis Bank CEO Amitabh Chaudhry, fresh NRI deposits enabled by the RBI's latest policy could help lower banks' funding costs and finance infrastructure and data centers. This could attract between $50 billion and $100 billion in overseas deposits and unlock India's next investment cycle.",
+          "source": "Firstpost",
+          "url": "https://www.firstpost.com/business/nri-money-india-capex-axis-bank-rbi-dollar-inflows-indian-diaspora-bank-funding-amitabh-chaudhry-14027612.html"
+        },
+        {
+          "title": "India’s $1 trillion retail lending boom: Why 11% mortgage penetration offers a multi-decade credit growth runway",
+          "summary": "India's retail lending market has the potential to unlock a $1 trillion opportunity, driven by digital lending, low mortgage penetration, rising incomes, and RBI policy support. The current 11% mortgage penetration rate offers a long-term credit growth opportunity.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/business/industry-indias-1-trillion-retail-lending-boom-why-11-mortgage-penetration-offers-a-multi-decade-credit-growth-runway-4279135/"
+        },
+        {
+          "title": "Why the West Asia conflict became 'neither a 1991 moment, nor a 2013 one' for India: CEA explains",
+          "summary": "Chief Economic Advisor V Anantha Nageswaran stated that India's calibrated policy response, diversified energy sourcing, and targeted support measures helped the economy navigate the recent West Asia crisis. However, deeper structural challenges remain, and the country must be cautious amidst global uncertainties.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/economy/why-the-westasia-conflict-became-neither-a-1991-moment-nor-a-2013-one-for-india-cea-explains-19934175.htm"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Healthy cookware startup The Indus Valley raises $17 million from Gaja Capital",
+          "summary": "The Indus Valley, a healthy cookware startup, has secured $17 million in funding from Gaja Capital to enhance product development and expand distribution in India. This investment will help the company grow its presence in the Indian market. The funding is a significant milestone for the startup.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/markets/healthy-cookware-startup-the-indus-valley-raises-17-million-from-gaja-capital/article71164971.ece"
+        },
+        {
+          "title": "Quick food delivery startup Swish in funding talks with Bertelsmann India Investments months after previous raise",
+          "summary": "Swish, a quick food delivery startup, is in talks with Bertelsmann India Investments to raise $20 million, with the potential to expand to $40-50 million. The company has seen significant growth, with over 630,000 monthly orders and an annual revenue of over Rs 165 crore. This funding will help Swish further expand its operations.",
+          "source": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/business/startup/quick-food-delivery-startup-swish-in-funding-talks-with-bertelsmann-india-investments-months-after-previous-raise-13961822.html"
+        },
+        {
+          "title": "Central Bank of India opens its IFSC banking unit at GIFT City",
+          "summary": "Central Bank of India has launched its IFSC banking unit at GIFT City to cater to the foreign currency funding needs of corporates. This move will help the bank expand its services and provide more options to its corporate clients. The IFSC banking unit will facilitate international transactions and trade.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/money-and-banking/central-bank-of-india-opens-its-ifsc-banking-unit-at-gift-city/article71161937.ece"
+        },
+        {
+          "title": "IIFCL plans $1 billion overseas loan, also eyes $400 million ADB funding to back infrastructure push",
+          "summary": "India Infrastructure Finance Company Ltd (IIFCL) plans to raise $1 billion from overseas investors to support the country's infrastructure development. The company is also exploring a $400 million funding option from the Asian Development Bank (ADB). This funding will help IIFCL finance various infrastructure projects in India.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/iifcl-plans-1-billion-overseas-loan-also-eyes-400-million-adb-funding-to-back-infrastructure-push/articleshow/132065387.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Beyond The Soap Opera: Why India Is Still Debating Marital Rape Law",
+          "summary": "The Supreme Court is yet to hear a petition seeking criminalization of marital rape, with the Central government opposing the petition. The debate on marital rape law continues in India, highlighting the need for a clearer stance on the issue. This ongoing discussion reflects the complexities of addressing sensitive social issues through legislation.",
+          "source": "NDTV.com",
+          "url": "https://www.ndtv.com/india-news/beyond-the-soap-opera-why-india-is-still-debating-marital-rape-law-11708565"
+        },
+        {
+          "title": "Supreme Court Orders Status Quo On Ethanol Allocation For Supply Year 2025-26, Stays Karnataka HC Direction",
+          "summary": "The Supreme Court has ordered a status quo on ethanol allocation for the 2025-26 supply year, staying a Karnataka High Court directive. This decision aims to protect India's ethanol blending program from disruption. The move ensures that existing procurement and supply contracts remain undisturbed until the next hearing.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/business/supreme-court-orders-status-quo-on-ethanol-allocation-for-supply-year-202526-stays-karnataka-hc-direction"
+        },
+        {
+          "title": "Ethanol Blending Still an ‘Experiment’, Centre Tells Supreme Court as BPCL Challenges Karnataka HC Order",
+          "summary": "The Centre has informed the Supreme Court that India's 20% ethanol blending in petrol is still an ongoing experiment. The full impact of this experiment is expected to be clearer by next year. The government is defending its E20 policy and future 30% blending target amidst challenges to a Karnataka High Court order on ethanol allocation.",
+          "source": "Outlook India",
+          "url": "https://www.outlookindia.com/national/ethanol-blending-still-an-experiment-impact-to-be-clearer-by-next-year-govt-tells-sc"
+        },
+        {
+          "title": "20% ethanol blending still an experiment, results by next year: Centre tells Supreme Court",
+          "summary": "The Centre has told the Supreme Court that India's 20% ethanol blending program is still an experiment. The government expects the results of this experiment to be clear by next year. This statement was made in response to challenges to a Karnataka High Court order on ethanol allocation.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/20-ethanol-blending-still-an-experiment-results-by-next-year-centre-tells-sc/articleshow/132094242.cms"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-06-30T19:46:19.902313+00:00",
     "brief": "Today's brief highlights key developments across geopolitics, economy, and national affairs, with a focus on international relationships, economic growth, and social issues. Congressman Ro Khanna's critique of President Trump's foreign policy and its impact on US-India relations is mirrored in the economic sphere, where the US-India relationship is at a 30-year low, affecting trade and investment. Meanwhile, India's economy is poised for growth, with the potential for a $1 trillion retail lending boom and initiatives such as NRI deposits and infrastructure financing, which could support the country's development and navigate global challenges.",
     "categories": {
@@ -3425,110 +3559,6 @@
         {
           "title": "India, US begin high-level trade talks as two nations rework deal amid tariff changes",
           "summary": "India and the US have begun high-level trade talks to rework a framework agreement announced earlier this year. The talks are necessary due to changes in tariff commitments following a US Supreme Court ruling. The negotiations aim to establish a new trade deal that benefits both countries and promotes economic cooperation.",
-          "source": "The Hindu Business Line",
-          "url": "https://www.thehindubusinessline.com/economy/india-us-begin-high-level-trade-talks-as-two-nations-rework-deal-amid-tariff-changes/article71136631.ece"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-06-24T02:38:42.155663+00:00",
-    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. Iran's stance against the US, particularly its control over the Strait of Hormuz, has major implications for global trade and security, while also inspiring other countries in the Global South to stand up to major world powers. Meanwhile, in the economy, the legacy of former Federal Reserve chairman Alan Greenspan continues to shape US economic policy, and the Reserve Bank of India's Monetary Policy Committee is closely monitoring inflation and growth rates, with potential implications for interest rates and trade agreements, including the ongoing high-level trade talks between India and the US.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Iran’s lesson to the Global South on standing up to Donald Trump",
-          "summary": "Iran's stance against the US has cemented its position as a major regional power, with significant implications for Middle Eastern geopolitics. This development could inspire other countries in the Global South to stand up to major world powers. The situation highlights the complex dynamics at play in international relations.",
-          "source": "Scroll.in",
-          "url": "https://scroll.in/article/1093762/irans-lesson-to-the-global-south-on-standing-up-to-donald-trump"
-        },
-        {
-          "title": "‘Never trust Americans’: Iran draws red line at Strait of Hormuz, warning Trump it will ‘never’ relinquish control",
-          "summary": "Iran's Parliament Speaker has stated that the Strait of Hormuz will remain under Iran's control, following international laws, and will not return to its pre-war status. This declaration is a significant development in the geopolitical tensions between Iran and the US. The situation has implications for global trade and security.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/world-news/never-trust-americans-iran-draws-red-line-at-strait-of-hormuz-warning-trump-it-will-never-relinquish-control/4274261/"
-        },
-        {
-          "title": "‘Hormuz will never return to pre-war status’: Iran Speaker after US talks",
-          "summary": "Iran's Parliament Speaker has reaffirmed that the Strait of Hormuz will remain under Iran's control, in line with international rules, and will not revert to its pre-war status. This statement is a clear indication of Iran's stance on the issue, following talks with the US. The development has significant implications for regional and global geopolitics.",
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/shorts/world/strait-of-hormuz-iran-war-united-states-talks-parliament-speaker-mohammad-bagher-ghalibaf-10752928/"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Alan Greenspan Dies at 100: Legacy of Economic Influence and Controversy",
-          "summary": "Alan Greenspan, the former Federal Reserve chairman, has passed away at 100, leaving behind a legacy of significant economic influence and controversy. His monetary policies during his tenure shaped the US economy and sparked debates about their impact on the financial crisis. His legacy continues to have a lasting impact on economic policy.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/alan-greenspan-us-fed-maestro-dies-at-100/articleshow/131927402.cms"
-        },
-        {
-          "title": "RBI MPC: Growth rate could top 7% if oil prices fall further",
-          "summary": "The Reserve Bank of India's Monetary Policy Committee (MPC) has projected a growth rate of 6.6% for FY27, but notes that it could exceed 7% if oil prices fall further. The economy expanded at 7.7% in the January-March quarter, exceeding earlier estimates. The MPC will closely monitor incoming data to assess the impact of inflation.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-mpc-growth-rate-could-top-7-if-oil-prices-fall-further/articleshow/131922542.cms"
-        },
-        {
-          "title": "Talks Of RBI Rate Hike Unwarranted Amid Highest Policy Cautiousness Since 2016 & Severe Monsoon Deficit: SBI Report",
-          "summary": "A report by the SBI states that discussions around a possible interest rate hike by the Reserve Bank of India are unwarranted due to elevated uncertainty surrounding inflation, monsoon progress, and global economic conditions. The report suggests that policymakers are being cautious in their decision-making. The RBI is currently grappling with multiple challenges, including a severe monsoon deficit.",
-          "source": "Republic World",
-          "url": "https://www.republicworld.com/business/talks-of-rate-hike-unwarranted-amid-elevated-uncertainty-monsoon-concerns-sbi-report-2026-06-22-129433"
-        },
-        {
-          "title": "Warsh Fed era heralds a new trial for Asian currencies",
-          "summary": "The new Federal Reserve chief, Kevin Warsh, has taken a hawkish stance on inflation, signaling a stronger dollar and posing a challenge for Asian economies reliant on exports. This has forced nations like Japan, Indonesia, and India to intervene in currency markets and raise borrowing costs. The dollar's strength is a global concern, with emerging markets like Turkey also facing currency pressures.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/warsh-fed-era-heralds-a-new-trial-for-asian-currencies/articleshow/131906116.cms"
-        }
-      ],
-      "Business": [
-        {
-          "title": "Akasa Air plans IPO in next 2-4 years",
-          "summary": "Akasa Air is planning to go public in the next 2-4 years as it expands its fleet and routes, with improving earnings and new funding. The airline aims to grow across India and Southeast Asia. This move is seen as a significant step for the airline's growth and expansion plans.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/market/akasa-air-plans-ipo-in-next-2-4-years-share-sale-is-a-question-of-when-cfo-19930755.htm"
-        },
-        {
-          "title": "World Bank approves $1.5 billion loan to support India's reforms",
-          "summary": "The World Bank has approved a $1.5 billion loan to support India's reforms and job creation. The funding will help simplify business regulations, enhance trade, and improve access to capital, creating employment opportunities for millions of young Indians. This initiative aligns with the government's long-term development vision.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/finance/world-bank-approves-15-billion-loan-to-drive-job-creation-and-economic-reforms-in-india/articleshow/131909557.cms"
-        },
-        {
-          "title": "West Asia conflict affects India's startup funding",
-          "summary": "The escalating tensions in West Asia have made investors more cautious, resulting in a 43% decrease in startup funding in India since March. This has tightened the funding options for Indian startups. The conflict has led to a more risk-averse approach among investors, impacting the startup ecosystem.",
-          "source": "Business Standard",
-          "url": "https://www.business-standard.com/markets/news/west-asia-crisis-pulls-startup-funding-down-43-yoy-since-march-126062100439_1.html"
-        },
-        {
-          "title": "ADB to maintain private sector funding pace in India",
-          "summary": "The Asian Development Bank (ADB) plans to maintain its private sector funding pace in India, with a target of providing $1 billion in support in 2026. India remains the largest market for ADB's private sector operations. The bank aims to continue supporting the growth of the private sector in India.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/adb-to-maintain-private-sector-funding-pace-in-india-eyes-1-billion-support-in-2026/articleshow/131889694.cms"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "India 'proactively monitoring' Telegram over concerns about illegal content, government report shows",
-          "summary": "The Indian government is closely monitoring Telegram due to concerns about the spread of illegal content, including child abuse material and financial scams, on the platform. This move follows a temporary ban and ongoing global investigations into Telegram's handling of such content. The government has received hundreds of thousands of cyber fraud complaints, prompting this scrutiny.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/india/india-proactively-monitoring-telegram-over-concerns-about-illegal-content-government-report-shows/articleshow/131934851.cms"
-        },
-        {
-          "title": "Supreme Court Halts Early Release of 1993 Kolkata Blast Convict",
-          "summary": "The Supreme Court has stayed the premature release of a convict in the 1993 Kolkata Bowbazar blast case, citing the severity of the crime and its impact on victims. This decision highlights the court's emphasis on ensuring justice for victims of serious crimes. The case is significant due to its impact on the legal framework surrounding the release of convicts in serious cases.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/test-article-sc-stays-delhi-hc-order-for-premature-release-of-1993-kolkata-bowbazaar-blast-case/articleshow/131932486.cms"
-        },
-        {
-          "title": "Karnataka's Active Mobility Bill: A Step Towards Safer Streets for Pedestrians",
-          "summary": "The Active Mobility Bill in Karnataka aims to ensure safer streets for pedestrians and cyclists, following a Supreme Court ruling on walking rights. The bill's enactment is seen as a crucial step towards promoting pedestrian-friendly infrastructure and reducing accidents. This development is significant for urban planning and road safety in India.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/with-sc-push-for-walkers-rights-it-may-be-time-for-karnataka-to-table-active-mobility-bill/articleshow/131931176.cms"
-        },
-        {
-          "title": "India, US begin high-level trade talks as two nations rework deal amid tariff changes",
-          "summary": "India and the US have initiated high-level trade talks to rework their bilateral trade agreement, following changes in US tariffs and a Supreme Court ruling. The talks aim to recalibrate the trade framework, including tariff commitments, energy purchases, and market access for goods from both countries. This development is crucial for one of the world's most important economic partnerships.",
           "source": "The Hindu Business Line",
           "url": "https://www.thehindubusinessline.com/economy/india-us-begin-high-level-trade-talks-as-two-nations-rework-deal-amid-tariff-changes/article71136631.ece"
         }
