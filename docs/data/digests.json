@@ -1,5 +1,145 @@
 [
   {
+    "generated_at": "2026-07-01T19:44:14.058359+00:00",
+    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The UK's £298 billion defence budget and Iran's stance on nuclear rights are key geopolitical updates, while India's growing global influence and tensions with Pakistan over the Indus Waters Treaty also make headlines. On the economic front, the RBI's efforts to stabilize the rupee and India Inc's increasing preference for dollar debt are notable, with the finance ministry emphasizing the need for proactive policy measures to address growth and inflation risks. Meanwhile, the Supreme Court's decisions on ethanol supply allocation and marital rape law are crucial for India's energy strategy and women's rights, respectively.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Drones, AI and nuclear submarines: Inside UK’s £298 billion plan to make Britain war-ready",
+          "summary": "The UK has unveiled a £298 billion defence budget to enhance its military capabilities, including the use of drones, AI, and nuclear submarines. This investment aims to make Britain war-ready and strengthen its position on the global stage. The plan is part of the UK's Defence Investment Plan, backed by Prime Minister Keir Starmer.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/drones-ai-and-nuclear-submarines-inside-uks-298-billion-plan-to-make-britain-war-ready/articleshow/132106949.cms"
+        },
+        {
+          "title": "Iran's Ghalibaf says nuclear rights are 'non-negotiable'",
+          "summary": "Iran's Ghalibaf has stated that the country's nuclear rights are non-negotiable and warned of resuming war if the US does not fulfill its commitments. Iran's nuclear program is under the supervision of the International Atomic Energy Agency (IAEA) and is within the framework of the Nuclear Non-Proliferation Treaty (NPT). This statement highlights the ongoing tensions between Iran and the US regarding nuclear negotiations.",
+          "source": "Firstpost",
+          "url": "https://www.firstpost.com/world/irans-ghalibaf-says-nuclear-rights-are-non-negotiable-warns-of-resuming-war-if-us-doesnt-fulfil-commitments-14027903.html"
+        },
+        {
+          "title": "India’s global influence backed by diplomacy, defence and development: Report",
+          "summary": "A report highlights India's growing global influence, which is backed by its diplomacy, defence, and development efforts. India is emerging as a significant voice on the global stage, with its influence becoming increasingly evident. The report suggests that India's multifaceted approach is contributing to its rising global stature.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/indias-global-influence-backed-by-diplomacy-defence-and-development-report/"
+        },
+        {
+          "title": "Pak warns world over Indus Waters Treaty at global conference",
+          "summary": "Pakistan has warned the world that if the Indus Waters Treaty fails, no global order will remain secure. The warning was issued at an international conference on Indus Waters, which was held despite India putting the treaty in abeyance after a terrorist attack. The conference highlights the ongoing tensions between India and Pakistan regarding the treaty.",
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/world/story/pakustan-news-iwt-news-indus-water-treaty-global-conference-islamabad-warnings-ishaq-dar-bilawal-bhutto-zardari-2937675-2026-06-30"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "The Cost of Climate Volatility: India's Hidden Economic Losses",
+          "summary": "Climate volatility is imposing significant economic costs on India, affecting labour productivity, MSMEs, and public finances. Extreme weather events are also complicating RBI policy and straining the economy. This hidden cost is essentially an invisible tax on long-term growth.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/industry/the-cost-of-climate-volatility-indias-hidden-economic-losses"
+        },
+        {
+          "title": "Rupee's defence takes RBI dollar shorts to a record high",
+          "summary": "The RBI has intervened significantly in the currency market to shield the rupee from hitting new lows, resulting in a record high net short forward position. The central bank now faces a decision on whether to reduce its forward position or bolster reserves. This move indicates the RBI's efforts to stabilize the rupee amid global tensions.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupees-defence-takes-rbi-dollar-shorts-to-a-record-high/articleshow/132103620.cms"
+        },
+        {
+          "title": "India Inc eyes more dollar debt as RBI policy support kicks in",
+          "summary": "Indian companies are increasingly opting for dollar debt over rupee loans due to recent RBI policy changes that lower hedging costs and ease rules. This shift is driven by the central bank's moves to support the economy. Local firms are now aggressively seeking offshore funds.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/market/bonds/rbi-ecb-guidelines-external-commercial-borrowings-11782813258132.html"
+        },
+        {
+          "title": "Easing oil prices, supply chains to soften external pressures on India: Finance ministry",
+          "summary": "The Indian economy remains resilient despite global uncertainties, with easing oil prices and improving supply chains offering relief. However, the finance ministry notes that monsoon vagaries and geopolitical shifts pose risks to growth and inflation. The ministry is emphasizing proactive policy measures to address these challenges.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/easing-oil-prices-supply-chains-to-soften-external-pressures-on-india-finance-ministry/articleshow/132100894.cms"
+        },
+        {
+          "title": "Let's gilt trip those foreign investors",
+          "summary": "Goldman Sachs has highlighted Indian government bonds as a prime investment opportunity for foreign investors, citing favorable policy changes and a strong economic recovery. The Indian government and RBI's tax reforms and improved market access are attracting significant overseas interest in the bond market. This offers global institutions a compelling avenue for diversification and attractive yields.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/opinion/et-editorial/lets-gilt-trip-those-foreign-investors/articleshow/132099608.cms"
+        },
+        {
+          "title": "Life insurers pay more on surrenders than maturity benefits, raising ALM concerns: RBI",
+          "summary": "The Indian life insurance sector is facing challenges with high surrender payouts and weak policy persistence, according to an RBI report. The general insurance industry is also struggling with rising claims and profitability pressures. These issues are raising concerns about asset-liability management in the insurance sector.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/business/industry-life-insurers-pay-more-on-surrenders-than-maturity-benefits-raising-alm-concerns-rbi-4280321/"
+        }
+      ],
+      "Business": [
+        {
+          "title": "SEBI bars Darjeeling Industries promoters, alleges circular funding and stock manipulation scheme",
+          "summary": "The Securities and Exchange Board of India (SEBI) has barred the promoters of Darjeeling Industries due to allegations of circular funding and stock manipulation. This move aims to protect investors and maintain fair market practices. The action taken by SEBI highlights its efforts to regulate and oversee the Indian stock market.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/business/sebi-bars-darjeeling-industriies-promoters-alleges-circular-funding-and-stock-manipulation-scheme/"
+        },
+        {
+          "title": "Healthy cookware startup The Indus Valley raises $17 million from Gaja Capital",
+          "summary": "The Indus Valley, a healthy cookware startup, has secured $17 million in funding from Gaja Capital. The investment will be used to enhance product development and expand the distribution of healthy cookware in India. This funding round indicates growing interest in the health and wellness sector.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/markets/healthy-cookware-startup-the-indus-valley-raises-17-million-from-gaja-capital/article71164971.ece"
+        },
+        {
+          "title": "Quick food delivery startup Swish in funding talks with Bertelsmann India Investments",
+          "summary": "Swish, a quick food delivery startup, is in talks with Bertelsmann India Investments for a potential funding round of $20-50 million. The startup has shown significant growth, with an annual recurring revenue of over Rs 165 crore and more than 630,000 monthly orders. This funding round could further accelerate the company's expansion plans.",
+          "source": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/business/startup/quick-food-delivery-startup-swish-in-funding-talks-with-bertelsmann-india-investments-months-after-previous-raise-13961822.html"
+        },
+        {
+          "title": "Central Bank of India opens its IFSC banking unit at GIFT City",
+          "summary": "The Central Bank of India has launched its IFSC banking unit at GIFT City to cater to the foreign currency funding needs of corporates. This move is expected to enhance the bank's capabilities in handling international transactions and provide specialized banking services to its clients. The IFSC banking unit will operate from the GIFT City, a dedicated financial hub in India.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/money-and-banking/central-bank-of-india-opens-its-ifsc-banking-unit-at-gift-city/article71161937.ece"
+        },
+        {
+          "title": "Marwari Catalysts Portfolio Continues to Attract Investor Interest",
+          "summary": "Marwari Catalysts, a family office, has seen its portfolio companies attract significant investor interest, with multiple startups announcing funding rounds in the last quarter. This development highlights the growing importance of family offices in India's startup ecosystem, providing patient capital and strategic support to founders. Marwari Catalysts' integrated approach to venture creation and investment has contributed to its success.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/marwari-catalysts-portfolio-continues-to-attract-investor-interest-strengthening-its-position-as-an-emerging-family-office/"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Raja Raghuvanshi's family to approach Supreme Court after bail to Sonam upheld",
+          "summary": "The Meghalaya High Court has granted bail to Sonam Raghuvanshi due to police errors in her arrest, and her family plans to appeal to the Supreme Court. This case highlights issues with police procedures and the importance of proper arrest protocols. The outcome may have implications for similar cases in the future.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/raja-raghuvanshis-family-to-approach-supreme-court-after-bail-to-sonam-upheld-101782881934370.html"
+        },
+        {
+          "title": "Fact Check: 20% ethanol blending not an ‘ongoing experiment’?",
+          "summary": "The Centre has issued a clarification on ethanol blending, stating it is not an experiment, following reports that were deemed false. The Supreme Court had earlier paused a Karnataka High Court ruling on enhancing ethanol allocation. This development is significant for India's energy strategy and ethanol-blending program.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/business/news/fact-check-20-ethanol-blendingnbspnot-an-ongoing-experiment-centre-issues-clarification-following-false-reports/4280502/"
+        },
+        {
+          "title": "SC denies suspension of Pocso sentence, bail to Asaram",
+          "summary": "The Supreme Court has denied bail to Asaram, who was convicted of assaulting a minor, unless there is a grave health risk. The court will review his challenge to the conviction. This decision highlights the judiciary's stance on crimes against minors and the application of the Pocso Act.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/sc-denies-suspension-of-pocso-sentence-bail-to-asaram-101782845975882.html"
+        },
+        {
+          "title": "SC orders status quo on ethanol supply allocation",
+          "summary": "The Supreme Court has ordered a status quo on changes to ethanol supply allocation for the 2025-26 period, amid a dispute that could impact India's ethanol-blending program. This move is crucial for the country's energy strategy and will be closely watched by stakeholders.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/sc-orders-status-quo-on-ethanol-supply-allocation-101782845913698.html"
+        },
+        {
+          "title": "Finally, government sets up National Road Safety Board, Nitin Gokarn to head it",
+          "summary": "The government has established the National Road Safety Board, with Nitin Gokarn as its head, following a Supreme Court deadline. The board's creation is a significant step towards improving road safety in India, which has one of the highest numbers of road accidents globally.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/finally-government-sets-up-national-road-safety-board-nitin-gokarn-to-head-it/articleshow/132101150.cms"
+        },
+        {
+          "title": "Beyond The Soap Opera: Why India Is Still Debating Marital Rape Law",
+          "summary": "A petition seeking the criminalization of marital rape has been pending in the Supreme Court for several years, with the Central government opposing it. The debate on marital rape law is ongoing in India, with implications for women's rights and the legal framework surrounding marriage and consent.",
+          "source": "NDTV.com",
+          "url": "https://www.ndtv.com/india-news/beyond-the-soap-opera-why-india-is-still-debating-marital-rape-law-11708565"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-01T14:19:22.062864+00:00",
     "brief": "India's global influence continues to grow, backed by its diplomacy, defence, and development efforts, with PM Modi reaffirming the country's commitment to resolving issues through dialogue and diplomacy. Meanwhile, in the economic sphere, the Reserve Bank of India has intervened significantly in the currency market to shield the rupee, and Indian companies are increasingly opting for dollar debt due to recent policy changes. On the national front, the Supreme Court has made significant decisions, including denying bail to Asaram and ordering a status quo on ethanol supply allocation, which will impact India's energy strategy and goal to increase ethanol blending in petrol.",
     "categories": {
@@ -3481,122 +3621,6 @@
           "summary": "The Supreme Court has declined an urgent hearing on a plea related to the denial of ration benefits in West Bengal due to exclusions from the electoral roll. The court has directed the plea to be heard by the Calcutta High Court instead. The case involves a dispute over welfare benefits and electoral roll exclusions.",
           "source": "Hindustan Times",
           "url": "https://www.hindustantimes.com/india-news/sc-declines-urgent-hearing-in-ration-denial-linked-to-sir-101782241366257.html"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-06-24T19:29:18.517207+00:00",
-    "brief": "Tensions are escalating globally, with North Korea warning of a potential nuclear war and announcing plans to expand its naval capabilities, while the US and Iran are at odds over tolls on ships passing through the Strait of Hormuz. Meanwhile, in the economic sphere, the Reserve Bank of India is cautiously monitoring growth and inflation, and the new Federal Reserve chief's hawkish stance on inflation is posing a challenge for Asian economies. These developments are having a ripple effect on various sectors, including business, where startup funding in India has decreased due to the West Asia conflict, and the World Bank has approved a $1.5 billion loan to support India's reforms and job creation.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "North Korea bets big on navy with newest destroyer; Kim issues 'brink of nuclear war' warning",
-          "summary": "North Korean leader Kim Jong Un has announced plans to build two warships similar to the 5,000-ton destroyer Choe Hyon over the next five years, and warned of a potential nuclear war. This development highlights North Korea's efforts to strengthen its naval capabilities. The move is likely to have implications for regional security and international relations.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/defence/international/north-korea-bets-big-on-navy-with-first-destroyer-kim-issues-brink-of-nuclear-war-warning/articleshow/131956672.cms"
-        },
-        {
-          "title": "Why Russia is suddenly building giant shelters for bombers that once sat in the open",
-          "summary": "Russia has started constructing large protective shelters for its strategic bombers at Engels Air Base, as seen in satellite images. This move suggests that Russia is taking steps to enhance the security and protection of its military assets. The construction of these shelters may be a response to changing geopolitical circumstances.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/defence/international/why-russia-is-suddenly-building-giant-shelters-for-bombers-that-once-sat-in-the-open/articleshow/131956011.cms"
-        },
-        {
-          "title": "US Senate passes resolution to curb Trump's war powers on Iran",
-          "summary": "The US Senate has passed a resolution aimed at limiting President Donald Trump's ability to take military action against Iran without congressional approval. This move reflects ongoing debates about the balance of power between the executive and legislative branches in the US. The resolution may have implications for US foreign policy and relations with Iran.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/us-senate-passes-resolution-to-curb-trumps-war-powers-on-iran/"
-        },
-        {
-          "title": "'Violation of international law': Hormuz row deepens as Rubio rejects Iranian tolls on key waterway",
-          "summary": "The US has rejected Iran's proposal to impose tolls on ships passing through the Strait of Hormuz, citing international law. This dispute highlights ongoing tensions between the US and Iran, as well as the importance of the Strait of Hormuz as a key shipping route. The issue may have implications for global trade and regional security.",
-          "source": "Firstpost",
-          "url": "https://www.firstpost.com/world/violation-of-international-law-hormuz-row-deepens-as-rubio-rejects-iranian-tolls-on-key-waterway-14025568.html"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Alan Greenspan Dies at 100: Legacy of Economic Influence and Controversy",
-          "summary": "Alan Greenspan, the former Federal Reserve chairman, has passed away at 100, leaving behind a legacy of economic influence and controversy. His tenure shaped the US economy and sparked debates about his monetary policies. His legacy continues to impact economic policy, making his life's work relevant to understanding global economic trends.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/alan-greenspan-us-fed-maestro-dies-at-100/articleshow/131927402.cms"
-        },
-        {
-          "title": "RBI MPC: Growth rate could top 7% if oil prices fall further",
-          "summary": "The Reserve Bank of India's Monetary Policy Committee (MPC) has projected a growth rate of 6.6% for FY27, but notes that it could exceed 7% if oil prices fall further. The economy expanded at 7.7% in the January-March quarter, exceeding earlier estimates. The MPC will closely monitor incoming data to assess the impact of inflation and other factors on growth.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-mpc-growth-rate-could-top-7-if-oil-prices-fall-further/articleshow/131922542.cms"
-        },
-        {
-          "title": "Talks Of RBI Rate Hike Unwarranted Amid Highest Policy Cautiousness Since 2016 & Severe Monsoon Deficit: SBI Report",
-          "summary": "A report by the SBI suggests that discussions around a possible interest rate hike by the RBI are unwarranted due to elevated uncertainty surrounding inflation, monsoon progress, and global economic conditions. The report notes that policymakers are exercising caution, and a rate hike may not be necessary at this stage. The RBI's decision will depend on various factors, including inflation and economic growth.",
-          "source": "Republic World",
-          "url": "https://www.republicworld.com/business/talks-of-rate-hike-unwarranted-amid-elevated-uncertainty-monsoon-concerns-sbi-report-2026-06-22-129433"
-        },
-        {
-          "title": "Warsh Fed era heralds a new trial for Asian currencies",
-          "summary": "The new Federal Reserve chief, Kevin Warsh, has taken a hawkish stance on inflation, signaling a stronger dollar and posing a challenge for Asian economies reliant on exports. This has forced nations like Japan, Indonesia, and India to intervene in currency markets and raise borrowing costs. The dollar's strength is a global concern, and investors are watching closely as the Fed's policy shifts reverberate worldwide.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/warsh-fed-era-heralds-a-new-trial-for-asian-currencies/articleshow/131906116.cms"
-        }
-      ],
-      "Business": [
-        {
-          "title": "Akasa Air plans IPO in next 2-4 years",
-          "summary": "Akasa Air is planning to go public in the next 2-4 years as it expands its fleet and routes, with improving earnings and new funding. The airline aims to grow across India and Southeast Asia. This development indicates the airline's ambitious growth plans and potential for expansion in the aviation sector.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/market/akasa-air-plans-ipo-in-next-2-4-years-share-sale-is-a-question-of-when-cfo-19930755.htm"
-        },
-        {
-          "title": "World Bank approves $1.5 billion loan to support India's reforms",
-          "summary": "The World Bank has approved a $1.5 billion loan to support India's reforms and job creation. The funding will help simplify business regulations, enhance trade, and improve access to capital, creating employment opportunities for millions of young Indians. This initiative aligns with the government's long-term development vision.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/finance/world-bank-approves-15-billion-loan-to-drive-job-creation-and-economic-reforms-in-india/articleshow/131909557.cms"
-        },
-        {
-          "title": "West Asia conflict impacts India's startup funding",
-          "summary": "The escalating tensions in West Asia have made investors more cautious, resulting in a 43% decrease in startup funding in India since March. This development highlights the impact of global events on India's startup ecosystem and the need for founders to be prepared for changing market conditions.",
-          "source": "Business Standard",
-          "url": "https://www.business-standard.com/markets/news/west-asia-crisis-pulls-startup-funding-down-43-yoy-since-march-126062100439_1.html"
-        },
-        {
-          "title": "ADB to maintain private sector funding pace in India",
-          "summary": "The Asian Development Bank (ADB) plans to maintain its private sector funding pace in India, with a target of providing $1 billion in support in 2026. India remains the largest market for ADB's private sector operations, indicating the country's significance in the regional economy.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/adb-to-maintain-private-sector-funding-pace-in-india-eyes-1-billion-support-in-2026/articleshow/131889694.cms"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "SC stays release of 1993 Kolkata blast convict release, says act akin to terrorism",
-          "summary": "The Supreme Court has stayed the release of Rashid Khan, a convict in the 1993 Kolkata blast case, who was sentenced to life imprisonment. The court's decision comes after the Delhi High Court had ordered his release. The apex court has equated the act with terrorism.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/sc-stays-93-kolkata-blast-convict-release-says-act-akin-to-terrorism/articleshow/131953462.cms"
-        },
-        {
-          "title": "Tamil Nadu govt moves SC against HC order on lighting Karthigai Deepam on Madurai hill",
-          "summary": "The Tamil Nadu government has approached the Supreme Court against a High Court order allowing the lighting of Karthigai Deepam near a dargah in Madurai. The move revives a contentious legal dispute. The state government filed a Special Leave Petition before the apex court.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/tamil-nadu-govt-moves-sc-against-hc-order-on-lighting-karthigai-deepam-on-madurai-hill-101782262821265.html"
-        },
-        {
-          "title": "SC declines urgent hearing in ration denial linked to SIR",
-          "summary": "The Supreme Court has declined an urgent hearing on a plea related to the denial of ration benefits in West Bengal due to electoral roll exclusions. The court has directed the matter to the Calcutta High Court instead. The plea is related to the exclusion of people from welfare benefits.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/sc-declines-urgent-hearing-in-ration-denial-linked-to-sir-101782241366257.html"
-        },
-        {
-          "title": "India 'proactively monitoring' Telegram over concerns about illegal content, government report shows",
-          "summary": "The Indian government is closely monitoring Telegram due to concerns about the spread of illegal content on the platform. A government report has highlighted the use of Telegram for child abuse material and financial scams. The scrutiny comes amid a temporary ban and ongoing global investigations into illegal content on the platform.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/india/india-proactively-monitoring-telegram-over-concerns-about-illegal-content-government-report-shows/articleshow/131934851.cms"
-        },
-        {
-          "title": "US flags resolve for ‘fair deal’ as Goyal, Greer meet on BTA",
-          "summary": "India and the US have held key ministerial talks to advance an interim trade deal. The talks come amid a US Supreme Court ruling invalidating reciprocal tariffs. The two countries are negotiating to enhance bilateral trade and economic cooperation.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/business/news/us-flags-resolve-for-fair-deal-as-goyal-greer-meet-on-bta/4274740/"
         }
       ]
     }
