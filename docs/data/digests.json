@@ -1,5 +1,139 @@
 [
   {
+    "generated_at": "2026-07-02T13:44:17.102896+00:00",
+    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. Iran's restricted access to international inspectors and its push for a strategic partnership with China signal escalating tensions in the Middle East, while the US and Iran engage in indirect talks to prevent military escalation. In India, the Reserve Bank of India's efforts to shield the rupee from global tensions and the government's commitment to its E20 fuel programme are notable, as the country navigates economic and environmental challenges. Meanwhile, Indian companies are increasingly taking on dollar debt and the startup ecosystem is poised for growth, with a focus on DeepTech and AI ventures, amidst regulatory changes and potential impacts on venture capital funding.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Iran Restricts Inspector Access to Two Sites, Ghalibaf Denies Broader Entry Claims",
+          "summary": "Iran has restricted international inspector access to only two sites, the Bushehr Power Plant and the Tehran Reactor, with no further access permitted. Iran's Parliament Speaker Ghalibaf has also announced a visit to China to elevate Tehran-Beijing relations to a strategic partnership. This move signals a significant diplomatic push by Iran amidst ongoing tensions with the US.",
+          "source": "scanx.trade",
+          "url": "https://scanx.trade/stock-market-news/global/iran-restricts-inspector-access-to-two-sites-ghalibaf-denies-broader-entry-claims/44492324"
+        },
+        {
+          "title": "US-Iran Peace Deal Live: Strait of Hormuz to remain 'Warlike Operations Area' until July 9",
+          "summary": "The US and Iran are holding indirect talks in Qatar to prevent another military escalation in the Middle East. The discussions focus on restoring commercial shipping through the Strait of Hormuz, securing a ceasefire, and implementing a 14-point interim accord. The talks also aim to address Iran's nuclear program and the release of frozen assets.",
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/world/story/us-iran-peace-talks-qatar-live-updates-donald-trump-mojtaba-khamenei-agreement-lebanon-framework-strait-of-hormuz-middle-east-tensions-2938737-2026-07-02"
+        },
+        {
+          "title": "Indian diplomat DB Venkatesh Varma chairs UNSG advisory body on disarmament",
+          "summary": "Indian diplomat DB Venkatesh Varma has become the first Indian to chair the UN Secretary-General's Advisory Board on Disarmament Matters. This leadership role highlights India's growing influence in global security dialogues, particularly amidst ongoing international conflicts. The board convened in New York, with Varma leading discussions on disarmament.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/indian-diplomat-db-venkatesh-varma-chairs-unsg-advisory-body-on-disarmament/articleshow/132123925.cms"
+        },
+        {
+          "title": "'Iran's nuclear rights are non-negotiable': Iran's Parliament Speaker Ghalibaf says key commitments under MoU need to be fulfilled",
+          "summary": "Iran's Parliament Speaker Ghalibaf has stated that Iran's nuclear rights are non-negotiable and that the country will not proceed with further talks until key commitments are met. These commitments include ending the war in Lebanon and ensuring passage through the Strait of Hormuz. Ghalibaf emphasized Iran's adherence to the NPT and IAEA supervision.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/irans-nuclear-rights-are-non-negotiable-irans-parliament-speaker-ghalibaf-says-key-commitments-under-mou-need-to-be-fulfilled/articleshow/132121637.cms"
+        },
+        {
+          "title": "China using 'two-faced diplomacy' in Central Africa: Report",
+          "summary": "A report has accused China of using 'two-faced diplomacy' in Central Africa, where Beijing publicly speaks about peace and economic cooperation while aggressively positioning its military. This approach has raised concerns about China's intentions in the region. The report highlights the complexities of China's diplomatic efforts in Central Africa.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/china-using-two-faced-diplomacy-in-central-africa-report/"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "RBI Kicks Off 74th Manufacturing Sector Survey: A Key Tool for Economic Analysis",
+          "summary": "The Reserve Bank of India has launched its 74th survey for the manufacturing sector, which collects operational data to aid monetary policy. The survey will capture order volumes, inventory details, and capacity use, and is open to wide industry participation. This data will be crucial for understanding the current state of the manufacturing sector and informing economic decisions.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3943710-rbi-kicks-off-74th-manufacturing-sector-survey-a-key-tool-for-economic-analysis"
+        },
+        {
+          "title": "Nomura, HSBC split on RBI rate outlook as weak monsoon fuels inflation risks",
+          "summary": "Economists from Nomura and HSBC have differing views on the RBI's next policy move due to the impact of a weak monsoon on India's economy. A weak monsoon could lead to higher food inflation, affecting GDP growth and the rupee. The RBI's decision will be crucial in managing these risks and maintaining economic stability.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/economy/nomura-hsbc-rbi-rate-outlook-weak-monsoon-food-inflation-sonal-varma-pranjul-bhandari-19936402.htm"
+        },
+        {
+          "title": "Rupee's defence takes RBI dollar shorts to a record high",
+          "summary": "The Reserve Bank of India's net short forward position in the currency market has reached a record high, indicating significant interventions to shield the rupee from global tensions. The central bank faces a decision on whether to reduce its forward position or bolster reserves, which will impact the rupee's value and the economy. The rupee has recovered from its record low due to capital inflows and policy measures.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupees-defence-takes-rbi-dollar-shorts-to-a-record-high/articleshow/132103620.cms"
+        },
+        {
+          "title": "India Inc eyes more dollar debt as RBI policy support kicks in",
+          "summary": "Indian companies are increasingly taking on dollar debt due to recent policy changes by the RBI, which have lowered hedging costs and eased rules. This shift from rupee loans to offshore funds is driven by the central bank's moves to support the economy. The change in borrowing patterns could have significant implications for India's external debt and the rupee.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/market/bonds/rbi-ecb-guidelines-external-commercial-borrowings-11782813258132.html"
+        },
+        {
+          "title": "Easing oil prices, supply chains to soften external pressures on India: Finance ministry",
+          "summary": "The Indian economy remains resilient despite global uncertainties, with easing oil prices and improving supply chains offering some relief. However, risks such as monsoon vagaries and geopolitical shifts in West Asia still pose a threat to growth and inflation. The finance ministry is emphasizing the need for proactive policy measures, including building national buffer stocks and reorienting farm policies.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/easing-oil-prices-supply-chains-to-soften-external-pressures-on-india-finance-ministry/articleshow/132100894.cms"
+        },
+        {
+          "title": "Let's gilt trip those foreign investors",
+          "summary": "Goldman Sachs has highlighted Indian government bonds as a prime investment opportunity for foreign investors, citing favorable policy changes and a strong economic recovery. The Indian bond market is attracting significant overseas interest due to its robust domestic consumption, strategic capital expenditure, and attractive yields. This could provide a compelling avenue for diversification and investment for global institutions.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/opinion/et-editorial/lets-gilt-trip-those-foreign-investors/articleshow/132099608.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Debt's the way for Indian IT acquisition funding",
+          "summary": "Indian IT companies are increasingly using debt financing for acquisitions, as seen in Persistent Systems' $1.5-billion bridge financing from Barclays for its proposed acquisition of German IT firm Nagarro. This trend highlights the growing importance of debt financing in the Indian IT sector. The use of debt financing allows companies to pursue larger acquisitions and expand their operations.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/debts-the-way-for-indian-it-acquisition-funding/articleshow/132124337.cms"
+        },
+        {
+          "title": "Intel exec Raja Koduri's OXMIQ raises $35 million to build licensable AI chip architecture",
+          "summary": "OXMIQ, a startup founded by former Intel executive Raja Koduri, has raised $35 million in Series A funding to develop licensable AI chip architecture. The company aims to reduce the high cost of AI compute, particularly for emerging markets like India and Southeast Asia, by allowing businesses and governments to create custom AI processors. This move could foster wider AI adoption in these regions.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/oxmiq-raises-35-million-to-license-ai-chip-designs-as-sovereign-ai-demand-grows/articleshow/132117037.cms"
+        },
+        {
+          "title": "Stricter digital rules could cost Indian startups Rs 91,500 crore in annual VC funding: Oxford Economics",
+          "summary": "A study by Oxford Economics suggests that stricter digital regulations in India could result in a significant decline in venture capital funding for startups, with potential losses of Rs 91,500 crore annually. This could also lead to a reduction in the number of startups and startup jobs in the country. The study highlights the potential impact of regulatory changes on the Indian startup ecosystem.",
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/technology/tech-news-technology/digital-rules-indian-startups-oxford-economics-report-key-findings-10766560/"
+        },
+        {
+          "title": "Renfra Energy India Files DRHP With SEBI For ₹430 Crore IPO",
+          "summary": "Renfra Energy India has filed a draft red herring prospectus with the Securities and Exchange Board of India for an initial public offering of ₹430 crore. The company plans to use the proceeds to repay debt, fund working capital, and support expansion plans. The IPO is expected to help the company grow its renewable energy business.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/business/renfra-energy-india-files-drhp-with-sebi-for-430-crore-ipo-plans-debt-repayment-expansion-funding"
+        },
+        {
+          "title": "Avendus Wealth-Hurun India Under 30 List 2026 Unveiled; DeepTech & HardTech Dominate India’s Startup Landscape",
+          "summary": "The Avendus Wealth-Hurun India Under 30 List 2026 highlights the growing importance of DeepTech and AI ventures in India's startup ecosystem. The list features 102 young Indian entrepreneurs with a combined valuation of ₹2.9 lakh crore, demonstrating the potential of the country's startup sector. Bengaluru leads the startup hubs, and most founders are first-generation entrepreneurs.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/mumbai/avendus-wealthhurun-india-under-30-list-2026-unveiled-deeptech-hardtech-dominate-indias-startup-landscape"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Tamil Nadu govt moves SC against Madras HC order banning cow slaughter",
+          "summary": "The Tamil Nadu government has approached the Supreme Court to challenge a Madras High Court order that imposed a blanket ban on cow slaughter in the state. The move is significant as it highlights the ongoing debate around cow protection laws in India. The Supreme Court's decision will have implications for the state's laws and policies related to animal slaughter.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-govt-moves-sc-against-madras-hc-order-banning-cow-slaughter/articleshow/132126875.cms"
+        },
+        {
+          "title": "No default bail if chargesheet filed but not provided to accused: Supreme Court",
+          "summary": "The Supreme Court has ruled that an accused person cannot claim default bail if the chargesheet has been filed in court but not provided to them. This decision clarifies the procedure for default bail and has implications for the criminal justice system in India. The ruling aims to prevent misuse of the default bail provision.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/no-default-bail-if-chargesheet-filed-but-not-provided-to-accused-supreme-court/articleshow/132124303.cms"
+        },
+        {
+          "title": "Supreme Court lays down ITR norms for fixing accident damages",
+          "summary": "The Supreme Court has laid down guidelines for using income tax returns (ITR) to determine the income of individuals in cases of accident damages. The court noted that the income of salaried and self-employed individuals should be assessed differently. This decision will help in calculating fair compensation for accident victims.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/supreme-court-lays-down-itr-norms-for-fixing-accident-damages/articleshow/132123964.cms"
+        },
+        {
+          "title": "AG Rejects Reports That Centre Described E20 Fuel Programme As An ‘Experiment’",
+          "summary": "The Attorney General has denied reports that the Centre described its E20 fuel programme as an 'experiment' before the Supreme Court. The programme aims to blend 20% ethanol with petrol to reduce emissions. The clarification is significant as it underscores the government's commitment to the programme and its potential impact on the environment and energy sector.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/business/ag-rejects-reports-that-centre-described-e20-fuel-programme-as-an-experiment"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-02T08:45:30.846455+00:00",
     "brief": "Today's brief highlights key developments in geopolitics, economy, and national affairs. The US and Iran are engaged in indirect talks in Qatar to prevent military escalation and restore commercial shipping through the Strait of Hormuz, while India is gaining prominence in global security dialogues with DB Venkatesh Varma chairing the UN Secretary-General's Advisory Board on Disarmament Matters. Meanwhile, the Indian economy remains resilient despite global uncertainties, with easing oil prices and improving supply chains offering some relief, and the Reserve Bank of India has launched its 74th manufacturing sector survey to aid in monetary policy decisions. Additionally, the startup ecosystem in India is witnessing significant growth, with the Avendus Wealth-Hurun India Under 30 List 2026 highlighting the dominance of DeepTech and AI ventures.",
     "categories": {
@@ -3517,134 +3651,6 @@
           "summary": "Recent trade talks between India and the US have concluded without a breakthrough. The talks were affected by the US Supreme Court's reversal on reciprocal tariffs, leading India to reassess the deal. The outcome of these talks has significant implications for trade relations between the two countries and India's economic policies.",
           "source": "The Financial Express",
           "url": "https://www.financialexpress.com/policy/economy/india-us-trade-talks-produce-no-breakthrough/4275640/"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-06-25T14:11:07.742030+00:00",
-    "brief": "Global crude oil prices have decreased as a result of the US-Iran peace deal, which has eased supply concerns and led to a reduction in tensions in the region. Meanwhile, in India, economic growth is expected to slow down to 6.6% in FY27 due to energy stress and weaker global demand, according to S&P Global Ratings, although the Reserve Bank of India's Monetary Policy Committee notes that growth could exceed 7% if oil prices fall further. Additionally, the World Bank has approved a $1.5 billion loan to support India's economic reforms and job creation efforts, which may help bolster the nation's economic resilience amidst global uncertainties.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Crude slips toward $70 as tankers return to Hormuz after US-Iran reach peace deal",
-          "summary": "Crude oil prices have decreased as tanker movement through the Strait of Hormuz has picked up, easing earlier supply concerns after a US-Iran peace deal. This development is significant for global oil markets and may impact prices. The peace deal has led to a reduction in tensions in the region.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/international-business/crude-slips-toward-70-as-tankers-return-to-hormuz-after-us-iran-reach-peace-deal-oil-price-on-june-25/articleshow/131980091.cms"
-        },
-        {
-          "title": "Uncertain Blame: The Mystery of the Iranian School Strike",
-          "summary": "A strike on an Iranian girls' school has resulted in a high number of casualties, with conflicting reports on who is responsible. The incident has drawn international condemnation and is currently under investigation. The uncertainty surrounding the attack has raised questions about accountability and the ongoing conflict in the region.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/politics/3940361-uncertain-blame-the-mystery-of-the-iranian-school-strike"
-        },
-        {
-          "title": "Trump's $87.6 Billion Request: Funding Iran Conflict & Ebola Fight",
-          "summary": "The Trump administration has requested $87.6 billion in funding from Congress, primarily for the Iran conflict and the Ebola outbreak in Africa. The funding includes military purposes, Global Health Security against Ebola, and international humanitarian aid. This request highlights the significant financial resources required to address these global challenges.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/law-order/3940347-trumps-876-billion-request-funding-iran-conflict-ebola-fight"
-        },
-        {
-          "title": "Public dispute, contradictory statements over nuclear inspection reveals rift in US-Iran deal",
-          "summary": "A public dispute has emerged over nuclear inspections, revealing a rift in the US-Iran deal. The disagreement is part of a broader range of issues, including Israel's war with Iranian-backed Hezbollah militants and the spending of unfrozen funds. This development highlights the complexities and challenges in implementing the deal.",
-          "source": "Telegraph India",
-          "url": "https://www.telegraphindia.com/world/public-dispute-contradictory-statements-over-nuclear-inspections-reveals-rifts-in-us-iran-deal/cid/2167082"
-        },
-        {
-          "title": "Iran's Big Concessions: A Win for Trump?",
-          "summary": "US President Donald Trump has announced that Iran is making significant concessions in ongoing discussions, which he sees as a major victory for the US. The President's comments suggest potential developments in international relations, but the details and implications of these concessions are not yet clear. This development may have significant implications for global geopolitics.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/politics/3940282-irans-big-concessions-a-win-for-trump"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "India's FY27 Growth Likely to Slow Down to 6.6% on Energy Stress, Sub",
-          "summary": "S&P Global Ratings has projected India's GDP growth to slow down to 6.6% in FY27 due to energy stress, a sub-par monsoon, and weaker global demand. This slowdown is expected to lead to higher inflation and a potential RBI policy rate hike in the second half of the fiscal year. The forecast is a decrease from the 7.7% growth in FY26.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/news/indias-fy27-growth-likely-to-slow-down-to-66-on-energy-stress-sub-par-monsoon-sp"
-        },
-        {
-          "title": "Alan Greenspan Dies at 100: Legacy of Economic Influence and Controversy",
-          "summary": "Alan Greenspan, the former Federal Reserve chairman, has passed away at the age of 100, leaving behind a legacy of economic influence and controversy. His tenure shaped the US economy and sparked debates about his monetary policies, which contributed to the financial crisis. Greenspan's legacy continues to have a lasting impact on economic policy.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/alan-greenspan-us-fed-maestro-dies-at-100/articleshow/131927402.cms"
-        },
-        {
-          "title": "RBI MPC: Growth rate could top 7% if oil prices fall further",
-          "summary": "The Reserve Bank of India's Monetary Policy Committee (MPC) has projected FY27 growth at 6.6%, but notes that the growth rate could exceed 7% if oil prices fall further. The MPC will closely monitor incoming data and assess the impact of inflation on the economy. The economy expanded at 7.7% in the January-March quarter, exceeding earlier estimates.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-mpc-growth-rate-could-top-7-if-oil-prices-fall-further/articleshow/131919901.cms"
-        }
-      ],
-      "Business": [
-        {
-          "title": "SaffronStays raises $ 3.5 million in a funding round led by Infinity Ventures",
-          "summary": "SaffronStays, a holiday home brand, has raised $3.5 million to expand into new leisure destinations and enhance technology. The company aims to build five regional business units generating ₹100 crore annually. This investment will help SaffronStays improve guest experiences and increase its presence in India's growing managed holiday-home market.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/services/hotels-/-restaurants/saffronstays-secures-35-million-funding-to-revolutionize-indias-holiday-home-market/articleshow/131965217.cms"
-        },
-        {
-          "title": "AI Startup Funding: Investors Tighten Due Diligence As India's AI Boom Accelerates",
-          "summary": "As India's AI industry grows, investors are becoming more cautious and tightening their due diligence processes. This shift is significant for AI startups seeking funding, as they must now meet more stringent requirements. The increased scrutiny may impact the pace of funding for AI startups in India.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/business-economy/industry/ai-startup-funding-investors-tighten-due-diligence-as-indias-ai-boom-accelerates-article-154742669"
-        },
-        {
-          "title": "4 years; share sale is a 'question of when': CFO",
-          "summary": "Akasa Air is planning an initial public offering (IPO) within the next 2-4 years, as it expands its fleet and routes. The airline aims to improve its earnings and secure new funding to support its growth across India and Southeast Asia. The IPO will be a significant milestone for the company, marking a major step in its development.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/market/akasa-air-plans-ipo-in-next-2-4-years-share-sale-is-a-question-of-when-cfo-19930755.htm"
-        },
-        {
-          "title": "World Bank approves USD 1.5 bn loan to support India's reforms, job creation",
-          "summary": "The World Bank has approved a $1.5 billion loan to support India's economic reforms and job creation efforts. The funding will help simplify business regulations, enhance trade, and improve access to capital, ultimately creating employment opportunities for millions of young Indians. This initiative aligns with the government's long-term development vision and aims to bolster the nation's economic resilience.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/finance/world-bank-approves-15-billion-loan-to-drive-job-creation-and-economic-reforms-in-india/articleshow/131909557.cms"
-        },
-        {
-          "title": "FoundrCFOs Launches FoundrRaise to Help Indian Startups Prepare, Discover, and Raise Capital",
-          "summary": "FoundrCFOs has launched FoundrRaise, a platform designed to help Indian startups prepare for and secure funding. The platform addresses common issues that prevent startups from securing funding, such as incomplete data rooms and unclear cap tables. By improving financial preparedness, FoundrRaise aims to increase the chances of Indian startups successfully raising capital.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/foundrcfos-launches-foundrraise-to-help-indian-startups-prepare-discover-and-raise-capital/"
-        },
-        {
-          "title": "West Asia conflict tightens the tap on India's startup funding options",
-          "summary": "The escalating tensions in West Asia have led to a 43% decrease in startup funding in India since March. Investors have become more cautious, making it challenging for Indian startups to secure funding. This trend may continue until the geopolitical situation stabilizes, affecting the growth and development of India's startup ecosystem.",
-          "source": "Business Standard",
-          "url": "https://www.business-standard.com/markets/news/west-asia-crisis-pulls-startup-funding-down-43-yoy-since-march-126062100439_1.html"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Private colleges will shut if asked to charge fee at government rates: SC",
-          "summary": "The Supreme Court has stated that private medical colleges cannot be forced to charge fees at the same rate as government colleges, as this could lead to their closure. This ruling highlights the issue of fee regulation in private medical colleges. The court's decision may have implications for the accessibility and affordability of medical education in India.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/private-colleges-will-shut-if-asked-to-charge-fee-at-government-rates-sc/articleshow/131980134.cms"
-        },
-        {
-          "title": "India-US trade talks produce no breakthrough",
-          "summary": "Recent trade talks between India and the US have concluded without a breakthrough, with New Delhi reassessing the deal due to the US Supreme Court's reversal on reciprocal tariffs. The lack of progress in trade talks may impact the economic relationship between the two countries. India's trade policies and negotiations with other countries are crucial for its economic growth.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/policy/economy/india-us-trade-talks-produce-no-breakthrough/4275640/"
-        },
-        {
-          "title": "Move to transfer 152 super-specialty seats to all India quota: ‘How can deserving candidates afford private hospitals,’ wonders Supreme Court",
-          "summary": "The Supreme Court has expressed concern over the affordability of private hospitals for deserving candidates, while considering a plea to transfer super-specialty seats to the all-India quota. The court's remarks highlight the issue of accessibility and affordability of medical education, particularly in private hospitals. This may lead to changes in the allocation of medical seats in India.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/city/chennai/move-to-transfer-152-super-specialty-seats-to-all-india-quota-how-can-deserving-candidates-afford-private-hospitals-wonders-supreme-court/articleshow/131972283.cms"
-        },
-        {
-          "title": "US supreme court ruling raises travel risks for some green card holders",
-          "summary": "A recent US Supreme Court ruling may have implications for US green card holders traveling to India, potentially affecting their immigration status. The ruling highlights the complexities of immigration laws and their impact on individuals. This development may be relevant for Indians living in the US or those planning to travel to the US.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/international-business/us-supreme-court-ruling-raises-travel-risks-for-some-green-card-holders/articleshow/131965260.cms"
-        },
-        {
-          "title": "India’s footpaths have a long way to go to become walkable: SC ruling highlights ground realities",
-          "summary": "The Supreme Court has affirmed that footpaths are a fundamental right, highlighting the poor state of pedestrian infrastructure in India. The court's ruling emphasizes the need for improved safety and accessibility on Indian roads. This development may lead to increased focus on urban planning and infrastructure development in India.",
-          "source": "The Hindu Business Line",
-          "url": "https://www.thehindubusinessline.com/data-stories/data-focus/indias-footpaths-have-a-long-way-to-go-to-become-walkable-sc-ruling-highlights-ground-realities/article71141598.ece"
         }
       ]
     }
