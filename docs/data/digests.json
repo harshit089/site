@@ -1,5 +1,151 @@
 [
   {
+    "generated_at": "2026-07-03T02:14:39.382025+00:00",
+    "brief": "Today's brief highlights key developments across geopolitics, economy, and national affairs, with India's growing influence in international relations and its efforts to balance innovation and stability in the digital financial ecosystem being notable trends. The country's diplomatic shifts, including its BrahMos diplomacy in Southeast Asia and potential engagements with Syria and Hezbollah, are significant, while its economic landscape is being shaped by the impact of a weak monsoon on inflation risks and the RBI's interventions to shield the rupee. Meanwhile, the Supreme Court's warnings against the unchecked use of artificial intelligence in judicial proceedings underscore the need for regulation and human oversight in the justice system.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "How Indian Intelligence Navigated Cold War Tides in Seychelles",
+          "summary": "India's security mission to Seychelles in 1987 was a significant event in the country's history, showcasing its rising influence during the Cold War era. The mission was aimed at countering mercenary threats and navigating complex geopolitical dynamics. This event highlights India's growing role in international affairs during that time.",
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/opinion/columns/seychelles-1987-security-mission-vappala-balachandran-cold-war-indian-ocean-10768284/"
+        },
+        {
+          "title": "Diplomatic Shifts: Syria and Hezbollah's Possible Engagement",
+          "summary": "Syria's Foreign Minister has hinted at possible engagements with Hezbollah, marking a significant shift in the country's diplomatic stance. This development comes amid evolving geopolitical dynamics in the region, with Syria navigating complex alliances after its civil war. The move could have implications for the region's balance of power.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3944124-diplomatic-shifts-syria-and-hezbollahs-possible-engagement"
+        },
+        {
+          "title": "Oil prices down but firms still processing crude bought amid war, says Minister Puri",
+          "summary": "India's Oil Minister Hardeep Puri has stated that despite a decline in international oil prices, oil marketing companies are still processing crude oil bought at higher prices during the war in West Asia. This has resulted in significant losses for the companies. The situation highlights the impact of geopolitical events on India's energy sector.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/news/india/oil-prices-down-but-firms-still-processing-crude-bought-amid-war-says-minister-puri-heres-how-much-loss-omcs-faced-11782990289350.html"
+        },
+        {
+          "title": "India’s BrahMos diplomacy in Southeast Asia",
+          "summary": "India is using its BrahMos missile system as a tool for diplomacy in Southeast Asia, strengthening its relationships with countries in the region. This approach highlights India's growing military and diplomatic influence in the area. The BrahMos system is a key component of India's defense exports and strategic partnerships.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/ht-insight/governance/indias-brahmos-diplomacy-in-southeast-asia-101782980521535.html"
+        },
+        {
+          "title": "PDP chief to pay final tribute to Ayatollah Khamenei after receiving invitation from Iran",
+          "summary": "The president of the Peoples Democratic Party, Mehbooba Mufti, has been invited to attend the funeral of Iran's slain supreme leader Ayatollah Ali Khamenei. This development highlights the connections between Indian political leaders and Iran, as well as the significance of Ayatollah Khamenei's death in the geopolitical landscape. The visit could have implications for India-Iran relations.",
+          "source": "ThePrint",
+          "url": "https://theprint.in/india/pdp-chief-to-pay-final-tribute-to-ayatollah-khamenei-after-receiving-invitation-from-iran/2975360/"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Balancing Innovation and Stability: India's Progress on Digital Rupee Discussed",
+          "summary": "The Parliamentary Standing Committee on Finance reviewed India's Central Bank Digital Currency progress with RBI officials and ICAI representatives, focusing on regulatory challenges and taxation issues. This discussion is crucial for India's digital financial ecosystem. The meeting aimed to find a balance between innovation and stability in the digital currency landscape.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3944082-balancing-innovation-and-stability-indias-progress-on-digital-rupee-discussed"
+        },
+        {
+          "title": "RBI Kicks Off 74th Manufacturing Sector Survey: A Key Tool for Economic Analysis",
+          "summary": "The Reserve Bank of India launched its 74th survey for the manufacturing sector, covering April-June 2026, to collect operational data for monetary policy. The survey will capture order volumes, inventory details, and capacity use, aiding economic analysis. This initiative will help the RBI make informed decisions about the economy.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3943710-rbi-kicks-off-74th-manufacturing-sector-survey-a-key-tool-for-economic-analysis"
+        },
+        {
+          "title": "Nomura, HSBC split on RBI rate outlook as weak monsoon fuels inflation risks",
+          "summary": "Economists from Nomura and HSBC have differing views on the RBI's next policy move due to the impact of a weak monsoon on India's economy. They assess the effects on GDP growth, food inflation, and the rupee. The weak monsoon poses significant risks to India's economic growth and inflation.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/economy/nomura-hsbc-rbi-rate-outlook-weak-monsoon-food-inflation-sonal-varma-pranjul-bhandari-19936402.htm"
+        },
+        {
+          "title": "Rupee's defence takes RBI dollar shorts to a record high",
+          "summary": "The RBI's net short forward position in the currency market reached a record $106.6 billion in May, indicating significant interventions to shield the rupee. The central bank faces a decision on whether to reduce its forward position or bolster reserves. This move aims to stabilize the rupee amidst global tensions.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupees-defence-takes-rbi-dollar-shorts-to-a-record-high/articleshow/132103620.cms"
+        },
+        {
+          "title": "India Inc eyes more dollar debt as RBI policy support kicks in",
+          "summary": "Indian companies are opting for dollar debt over rupee loans due to the RBI's moves to lower hedging costs and ease rules. This shift is driven by central bank policies in February and June. The change in borrowing patterns may have significant implications for India's economy.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/market/bonds/rbi-ecb-guidelines-external-commercial-borrowings-11782813258132.html"
+        },
+        {
+          "title": "Easing oil prices, supply chains to soften external pressures on India: Finance ministry",
+          "summary": "The finance ministry believes that easing oil prices and improving supply chains will alleviate external pressures on India's economy. However, the ministry also notes that monsoon vagaries and geopolitical shifts pose risks to growth and inflation. The government is taking proactive measures to address these challenges.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/easing-oil-prices-supply-chains-to-soften-external-pressures-on-india-finance-ministry/articleshow/132100894.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Arvog Raises Rs 50 Crore Through NCD Issuance from Franklin Templeton",
+          "summary": "Finkurve Financial Services Limited, a tech-first gold loan NBFC, has raised Rs 50 crore through a Non-Convertible Debenture issuance from Franklin Templeton to support its growth and business expansion. The funding will be executed in two tranches, with the first tranche of Rs 24 crore already completed. This investment will help the company accelerate its next phase of growth.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/finkurve-financial-services-limited-arvog-raises-rs-50-crore-through-ncd-issuance-from-franklin-templeton-to-accelerate-growth-and-business-expansion/"
+        },
+        {
+          "title": "Moody’s report suggests India’s private credit market could double by FY30",
+          "summary": "According to a Moody's report, India's private credit market is expected to reach $50 billion by FY30, driven by increasing corporate funding needs and limitations faced by traditional banks. Real estate, infrastructure, and promoter financing are key growth areas, attracting diverse investors seeking attractive returns. This expansion is likely to provide alternative capital sources for businesses.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/moodys-report-suggests-indias-private-credit-market-could-double-by-fy30/articleshow/132134175.cms"
+        },
+        {
+          "title": "RBI’s bank funding nod for M&A may squeeze private credit returns in India",
+          "summary": "The Reserve Bank of India has allowed local lenders to finance up to 75% of the transaction value in corporate takeovers, which may boost the country's deal market but could also squeeze private credit returns in India. This move is expected to impact the private credit market, as banks may become more competitive in financing mergers and acquisitions. Moody's has warned that this could lead to reduced returns for private credit investors.",
+          "source": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/business/rbi-s-bank-funding-nod-for-m-a-may-squeeze-private-credit-returns-in-india-says-moody-s-13964033.html"
+        },
+        {
+          "title": "Debt's the way for Indian IT acquisition funding",
+          "summary": "Indian IT companies are increasingly using debt to finance their acquisitions, as seen in Persistent Systems' $1.5-billion bridge financing from Barclays for its proposed acquisition of German IT firm Nagarro. This trend suggests that debt is becoming a preferred option for Indian IT companies to fund their acquisitions, rather than relying on equity or other forms of financing.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/debts-the-way-for-indian-it-acquisition-funding/articleshow/132124337.cms"
+        },
+        {
+          "title": "OXMIQ raises $35 million to build licensable AI chip architecture",
+          "summary": "OXMIQ, a startup founded by former Intel executive Raja Koduri, has raised $35 million in Series A funding to develop and license its AI chip architecture, OxCore. The company aims to democratize AI chip development by allowing businesses and governments to create custom AI processors, reducing the high cost of AI compute and fostering wider AI adoption, particularly in emerging markets like India and Southeast Asia.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/oxmiq-raises-35-million-to-license-ai-chip-designs-as-sovereign-ai-demand-grows/articleshow/132117037.cms"
+        },
+        {
+          "title": "Limelight Lab Grown Diamonds Raises INR 275 Crore",
+          "summary": "Limelight Diamonds, a leading lab-grown diamond jewellery brand in India, has raised INR 275 crore in a strategic funding round led by its core promoters, the Bhathwari Group, and key strategic partners from the jewellery industry. The funding will be used to strengthen vertical integration and accelerate retail expansion across India, reinforcing the company's long-term vision and growth trajectory.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/limelight-lab-grown-diamonds-raises-inr-275-crore-to-strengthen-vertical-integration-and-accelerate-retail-expansion-across-india/"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Supreme Court Sets Aside NCLT, NCLAT Orders Over AI-Generated Fake Citations; Asks BCI To Frame Norms",
+          "summary": "The Supreme Court has set aside orders from the NCLT and NCLAT due to their reliance on AI-generated fake judicial precedents. The Court has directed the Bar Council of India to create guidelines for the use of AI in legal proceedings. This move aims to ensure the accuracy and reliability of legal citations in Indian courts.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/india/supreme-court-sets-aside-nclt-nclat-orders-over-ai-generated-fake-citations-asks-bci-to-frame-norms"
+        },
+        {
+          "title": "'Catastrophic, invisible': Supreme Court flags use of AI in legal process as 'misconduct'",
+          "summary": "The Supreme Court has flagged the use of AI in legal processes as misconduct, stating that producing fake materials amounts to misconduct by advocates. The Court's ruling emphasizes the need for verifying all legal citations to maintain the integrity of the justice system. This decision highlights the risks associated with unchecked AI use in legal proceedings.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/supreme-court-catastrophic-invisible-top-flags-use-of-ai-in-legal-process-as-misconduct-judges-advocates-ruling-citation-101782985843032.html"
+        },
+        {
+          "title": "'Methyl Isocyanate of law': SC slams AI 'hallucinations', quashes NCLT verdict",
+          "summary": "The Supreme Court has declared zero tolerance for AI-generated fake judgments used as legal precedents, setting aside an NCLT verdict. The Court has directed the Bar Council of India to form a committee to address this issue and prescribe disciplinary actions for lawyers submitting unverified AI material. This move aims to maintain human oversight in AI-assisted adjudication and prevent contamination of the justice system.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/methyl-isocyanate-of-law-sc-slams-ai-hallucinations-quashes-nclt-verdict/articleshow/132136615.cms"
+        },
+        {
+          "title": "Supreme Court quashes Essel insolvency order over tribunal's use of fake, AI-generated precedents",
+          "summary": "The Supreme Court has quashed an insolvency order due to the tribunal's use of fake, AI-generated precedents. The Court has remanded the case back to the NCLT for a fresh review and directed the Bar Council of India to probe AI misuse. This decision highlights the need for fact-based reviews and the regulation of AI use in judicial proceedings.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/news/india/supreme-court-ai-fake-citations-essel-infraprojects-judgment-11782980306774.html"
+        },
+        {
+          "title": "Supreme Court warns against unchecked AI use in courts after NCLT cites fake cases",
+          "summary": "The Supreme Court has warned against the unchecked use of artificial intelligence in judicial proceedings after the NCLT cited fake cases. The Court's warning emphasizes the need to regulate AI use in courts to prevent the contamination of the justice system. This decision aims to ensure the accuracy and reliability of legal proceedings in India.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/supreme-court-warns-against-unchecked-ai-use-in-courts-after-nclt-cites-fake-cases/articleshow/132132555.cms"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-02T19:15:02.785616+00:00",
     "brief": "Today's brief highlights key developments across geopolitics, economy, and national affairs. India's diplomatic ties with Iran are in focus as PDP chief Mehbooba Mufti travels to pay respects to the late Ayatollah Khamenei, while Iran restricts inspector access to its nuclear sites, underscoring tensions in the region. Meanwhile, the Reserve Bank of India has launched its 74th manufacturing sector survey to inform monetary policy, and the rupee's defense has led to a record high in the RBI's dollar shorts, as the central bank navigates global tensions and a weak monsoon that poses inflation risks. These developments have significant implications for India's economic growth, regional stability, and global security.",
     "categories": {
@@ -3529,128 +3675,6 @@
           "summary": "The Supreme Court has rejected a student's plea for reduced fees at a private medical college, citing the differences between private and government institutions. The court suggested that students who are unable to pay can apply for scholarships instead. This decision has implications for students seeking fee reductions in private educational institutions.",
           "source": "Hindustan Times",
           "url": "https://www.hindustantimes.com/india-news/if-you-are-unable-to-pay-get-scholarship-sc-rejects-fee-cut-plea-101782329137279.html"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-06-26T02:43:12.202301+00:00",
-    "brief": "Global oil prices have fallen to pre-war levels, which could ease inflation risks and reduce India's import bill, but the impact on domestic fuel prices remains to be seen. Meanwhile, the US and Iran are engaged in high-level negotiations to transform a fragile ceasefire into a lasting peace agreement, which could reshape the future of the Middle East. In India, the economy is expected to slow down to 6.6% growth in FY27 due to energy stress and weaker global demand, but the technology startup ecosystem is showing resilience, with funding rising 12% to $7.2 billion in the first half of 2026.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Oil falls to pre-war levels, no change in petrol and diesel prices",
-          "summary": "Global oil prices have fallen to their lowest levels since before the Iran conflict, which could ease inflation risks and reduce India's import bill. This drop in oil prices may improve the government's fiscal position. However, there has been no change in petrol and diesel prices in India.",
-          "source": "ThePrint",
-          "url": "https://theprint.in/economy/oil-falls-to-pre-war-levels-no-change-in-petrol-and-diesel-prices/2969789/"
-        },
-        {
-          "title": "'If you ran in New Delhi, you'd win a million votes': Italian PM Giorgia Meloni recalls 2023 India visit",
-          "summary": "Italian Prime Minister Giorgia Meloni has shared anecdotes from her 2023 India visit, highlighting the importance of personal connections in diplomacy. She recalled a joke about winning a million votes in New Delhi and shared stories of gifts and shared moments with leaders. These interactions can forge strong international relationships.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/india/if-you-ran-in-new-delhi-youd-win-a-million-votes-italian-pm-giorgia-meloni-recalls-2023-india-visit/articleshow/131989837.cms"
-        },
-        {
-          "title": "Iran US Israel war Live Updates: Iran Rejects New Strait Of Hormuz Shipping Route, Warns Commercial Vessels",
-          "summary": "The US and Iran are engaged in high-level negotiations in Switzerland to transform a fragile ceasefire into a lasting peace agreement. The talks cover issues like Iran's nuclear program, sanctions relief, and regional security. The outcome of these negotiations could reshape the future of the Middle East.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-updates-president-trump-pezeshkian-netanyahu-peace-deal-israel-iran-news-liveblog-154753523"
-        },
-        {
-          "title": "Missiles, drones, damaged bases and depleted stockpiles: Trump faces massive Iran war bill",
-          "summary": "The US military operations against Iran could strain the Pentagon's operating budget and affect its ability to conduct future operations. The costs include missiles, drones, damaged bases, and depleted stockpiles. This could have significant implications for the US military's ability to respond to future threats.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/defence/international/missiles-drones-damaged-bases-and-depleted-stockpiles-trump-faces-massive-iran-war-bill/articleshow/131983051.cms"
-        },
-        {
-          "title": "World court judges sue Trump administration over sanctions",
-          "summary": "The Trump administration imposed sanctions on several judges at the International Criminal Court in retaliation for the court's decisions on war crimes cases. The judges have sued the Trump administration over these sanctions, which is an unprecedented move. This case highlights the tensions between the US and the International Criminal Court.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/world/world-court-judges-sue-trump-administration-over-sanctions-19931987.htm"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "MSMEs key to India’s developed nation ambition: KDEM Chairman",
-          "summary": "Micro, small and medium enterprises (MSMEs) are crucial for India to achieve developed nation status by 2047, but they require stronger policy support, easier access to capital, infrastructure, and talent. The sector's growth is essential for India's economic development. According to BV Naidu, Chairman of Karnataka Digital Economy Mission, MSMEs need these factors to thrive.",
-          "source": "The Hindu Business Line",
-          "url": "https://www.thehindubusinessline.com/news/msmes-key-to-indias-developed-nation-ambition-kdem-chairman/article71146464.ece"
-        },
-        {
-          "title": "India's FY27 Growth Likely to Slow Down to 6.6% on Energy Stress, Sub",
-          "summary": "S&P Global Ratings has projected India's GDP growth to slow down to 6.6% in FY27 due to energy stress, a sub-par monsoon, and weaker global demand. This slowdown may lead to higher inflation and a potential RBI policy rate hike in the second half of the fiscal year. The report highlights the challenges facing India's economy in the current fiscal year.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/news/indias-fy27-growth-likely-to-slow-down-to-66-on-energy-stress-sub-par-monsoon-sp"
-        },
-        {
-          "title": "Alan Greenspan Dies at 100: Legacy of Economic Influence and Controversy",
-          "summary": "Alan Greenspan, the former Federal Reserve chairman, has passed away at the age of 100, leaving behind a legacy of economic influence and controversy. His tenure shaped the US economy and sparked debates about his monetary policies, which contributed to the financial crisis. Greenspan's legacy continues to have a lasting impact on economic policy.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/alan-greenspan-us-fed-maestro-dies-at-100/articleshow/131927402.cms"
-        }
-      ],
-      "Business": [
-        {
-          "title": "India tech funding rises 12 pc to $7.2 billion in H1 2026: Report",
-          "summary": "India's technology startup ecosystem attracted $7.2 billion in funding during the first half of 2026, a 12% increase. This growth indicates a strong and resilient tech industry in the country. The funding will likely support innovation and expansion in the sector.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/technology/india-tech-funding-rises-12-pc-to-72-billion-in-h1-2026-report-1/"
-        },
-        {
-          "title": "Steamhouse raises ₹50 crore in pre-IPO funding from Madhusudhan Kela-backed funds, Niveshaay",
-          "summary": "Steamhouse India has raised ₹50 crore in pre-IPO funding to expand its operations and reduce debt. The funding is a significant step for the company as it prepares for its public offering. The investment will help Steamhouse achieve its growth objectives.",
-          "source": "The Hindu Business Line",
-          "url": "https://www.thehindubusinessline.com/markets/steamhouse-raises-50-crore-in-pre-ipo-funding-from-madhusudhan-kela-backed-funds-niveshaay/article71144985.ece"
-        },
-        {
-          "title": "SaffronStays raises $ 3.5 million in a funding round led by Infinity Ventures",
-          "summary": "SaffronStays, a holiday home brand, has secured $3.5 million in funding to expand into new leisure destinations and enhance its technology. The company aims to build five regional business units generating ₹100 crore annually, focusing on profitability and customer satisfaction. This investment will help SaffronStays grow in India's managed holiday-home market.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/services/hotels-/-restaurants/saffronstays-secures-35-million-funding-to-revolutionize-indias-holiday-home-market/articleshow/131965217.cms"
-        },
-        {
-          "title": "AI Startup Funding: Investors Tighten Due Diligence As India's AI Boom Accelerates",
-          "summary": "As India's AI industry experiences rapid growth, investors are becoming more cautious and tightening their due diligence processes. This shift reflects the increasing importance of careful evaluation in AI startup funding. The trend may impact the way AI startups secure investments in the future.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/business-economy/industry/ai-startup-funding-investors-tighten-due-diligence-as-indias-ai-boom-accelerates-article-154742669"
-        },
-        {
-          "title": "4 years; share sale is a 'question of when': CFO",
-          "summary": "Akasa Air is planning an initial public offering (IPO) in the next 2-4 years, as the company expands its fleet and routes. The airline aims to improve its earnings and achieve growth across India and Southeast Asia. The IPO will be a significant milestone for Akasa Air, and the company's CFO believes it is a matter of when, not if, the share sale will happen.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/market/akasa-air-plans-ipo-in-next-2-4-years-share-sale-is-a-question-of-when-cfo-19930755.htm"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Trade deal with US hinges on competitive edge for India: Piyush Goyal",
-          "summary": "India's Commerce Minister Piyush Goyal has stated that the India-US interim trade deal cannot be implemented until the US provides a framework that gives India a distinct tariff advantage over global competitors. This comes after a recent US Supreme Court ruling. The deal's fate now depends on the US's ability to provide such a framework.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/policy/economy/trade-deal-with-us-hinges-on-competitive-edge-for-india-piyush-goyal/4276514/"
-        },
-        {
-          "title": "A Ray of Hope for Lakhs of Occupants of PSU: Bombay High Court Grants Protection to Jam Mill Occupants; Supreme Court Constitution Bench to Take the Final Call",
-          "summary": "The Bombay High Court has granted protection to occupants of a PSU, giving them hope for a resolution. The case will now be taken up by a Supreme Court Constitution Bench, which will make a final decision. This development could impact lakhs of occupants of public sector units.",
-          "source": "Republic World",
-          "url": "https://www.republicworld.com/initiatives/a-ray-of-hope-for-lakhs-of-occupants-of-psu-bombay-high-court-grants-protection-to-jam-mill-occupants-supreme-court-constitution-bench-to-take-the-final-call-2026-06-25-129902"
-        },
-        {
-          "title": "Ram Mandir embezzlement row: SC declines urgent hearing on probe plea; asks petitioner to return on June 29",
-          "summary": "The Supreme Court has refused an urgent hearing on a petition seeking a court-monitored investigation into the Ram Mandir embezzlement row. The petitioner has been asked to return on June 29, indicating that the court will consider the matter at a later date. The case involves allegations of financial irregularities in the construction of the Ram Mandir.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/ram-mandir-embezzlement-row-sc-declines-urgent-hearing-on-probe-plea-asks-petitioner-to-return-on-june-29/articleshow/131985530.cms"
-        },
-        {
-          "title": "‘If you are unable to pay, get scholarship’: SC rejects fee cut plea",
-          "summary": "The Supreme Court has rejected a student's plea for reduced fees at a private medical college, stating that private institutions are different from government ones. The court suggested that students who are unable to pay can apply for scholarships instead. This decision highlights the differences between private and government educational institutions.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/if-you-are-unable-to-pay-get-scholarship-sc-rejects-fee-cut-plea-101782329137279.html"
-        },
-        {
-          "title": "Prefer in-service government doctors in rural hospitals for super specialty seats: Supreme Court",
-          "summary": "The Supreme Court has directed that in-service government doctors working in rural hospitals should be given preference for admission to super specialty medical courses. This move aims to serve the cause of public health by incentivizing doctors to work in remote areas. The decision is expected to improve healthcare services in rural India.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/prefer-in-service-government-doctors-in-rural-hospitals-for-super-specialty-seats-supreme-court-101782328957822.html"
         }
       ]
     }
