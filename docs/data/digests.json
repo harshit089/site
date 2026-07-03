@@ -1,5 +1,145 @@
 [
   {
+    "generated_at": "2026-07-03T13:49:16.464624+00:00",
+    "brief": "India's diplomatic efforts are gaining momentum, with Prime Minister Sanae Takaichi expressing intentions to strengthen Japan-India relations and India's BrahMos diplomacy making inroads in Southeast Asia. Meanwhile, the country's economy is navigating challenges, including a weak monsoon that poses inflation risks, with economists from Nomura and HSBC differing on the RBI's next policy move. On the domestic front, the Supreme Court has made significant rulings, including nullifying a tribunal's judgment based on fake AI-generated material and emphasizing the importance of transparency in electoral processes, highlighting the need for accuracy and reliability in judicial proceedings.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "India relations to even greater heights: PM Takaichi",
+          "summary": "Japanese Prime Minister Sanae Takaichi expressed her intention to strengthen Japan-India relations, indicating a potential boost in bilateral ties between the two nations. This development could have significant implications for trade, security, and cultural exchanges. The statement highlights the growing importance of the Japan-India relationship in the Asia-Pacific region.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/we-will-elevate-japan-india-relations-to-even-greater-heights-pm-takaichi/"
+        },
+        {
+          "title": "West African Nations Break Ties with ICC",
+          "summary": "Burkina Faso, Mali, and Niger have initiated a process to withdraw from the International Criminal Court, marking a significant shift in their judicial affiliations. This move raises questions about regional justice and international relations, particularly in addressing war crimes and other international offenses. The decision may have implications for global governance and human rights.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/law-order/3944281-west-african-nations-break-ties-with-icc"
+        },
+        {
+          "title": "How Indian Intelligence Navigated Cold War Tides in Seychelles",
+          "summary": "A former Indian security official recounts the 1987 Indian security mission to Seychelles, highlighting the intersection of Cold War geopolitics, mercenary threats, and India's rising influence in the region. The mission demonstrates India's growing role in international security and its ability to navigate complex geopolitical situations. This historical context provides insight into India's evolving foreign policy and security strategy.",
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/opinion/columns/seychelles-1987-security-mission-vappala-balachandran-cold-war-indian-ocean-10768284/"
+        },
+        {
+          "title": "Diplomatic Shifts: Syria and Hezbollah's Possible Engagement",
+          "summary": "Syria's Foreign Minister has hinted at potential engagements with Hezbollah, indicating a possible shift in the region's geopolitical dynamics. This development comes amid evolving alliances and complex international pressures following Syria's civil war. The move may have implications for regional stability and the balance of power in the Middle East.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3944124-diplomatic-shifts-syria-and-hezbollahs-possible-engagement"
+        },
+        {
+          "title": "India’s BrahMos diplomacy in Southeast Asia",
+          "summary": "India's export of the BrahMos missile to Southeast Asian countries is seen as a significant aspect of its diplomatic efforts in the region. This move highlights India's growing defense cooperation with countries in the region and its attempts to counterbalance other major powers. The BrahMos diplomacy is an important component of India's Act East policy and its efforts to strengthen ties with Southeast Asian nations.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/ht-insight/governance/indias-brahmos-diplomacy-in-southeast-asia-101782980521535.html"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Balancing Innovation and Stability: India's Progress on Digital Rupee Discussed",
+          "summary": "The Parliamentary Standing Committee on Finance reviewed India's Central Bank Digital Currency progress with RBI officials and ICAI representatives, focusing on regulatory challenges and taxation issues. This discussion aims to bolster India's digital financial ecosystem. The meeting is a step towards understanding the potential of digital currency in India.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3944082-balancing-innovation-and-stability-indias-progress-on-digital-rupee-discussed"
+        },
+        {
+          "title": "RBI Kicks Off 74th Manufacturing Sector Survey: A Key Tool for Economic Analysis",
+          "summary": "The Reserve Bank of India launched its 74th survey for the manufacturing sector to collect operational data, which will aid in monetary policy decisions. The survey covers order volumes, inventory details, and capacity use, and is open for wide industry participation. This initiative will help in understanding the current state of the manufacturing sector in India.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3943710-rbi-kicks-off-74th-manufacturing-sector-survey-a-key-tool-for-economic-analysis"
+        },
+        {
+          "title": "Nomura, HSBC split on RBI rate outlook as weak monsoon fuels inflation risks",
+          "summary": "Economists from Nomura and HSBC have differing views on the RBI's next policy move due to the impact of a weak monsoon on India's economy. They assess the effects on GDP growth, food inflation, and the rupee, highlighting the uncertainty surrounding the RBI's rate outlook. The weak monsoon poses significant risks to India's economic growth and inflation.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/economy/nomura-hsbc-rbi-rate-outlook-weak-monsoon-food-inflation-sonal-varma-pranjul-bhandari-19936402.htm"
+        },
+        {
+          "title": "Rupee's defence takes RBI dollar shorts to a record high",
+          "summary": "The Reserve Bank of India's net short forward position in the currency market reached a record high of $106.6 billion in May, indicating significant interventions to protect the rupee. The central bank faces a decision on whether to reduce its forward position or bolster reserves, as the rupee has recovered from its record low due to capital inflows and policy measures.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupees-defence-takes-rbi-dollar-shorts-to-a-record-high/articleshow/132103620.cms"
+        },
+        {
+          "title": "India Inc eyes more dollar debt as RBI policy support kicks in",
+          "summary": "Indian companies are increasingly opting for dollar debt due to the RBI's policy support, which has lowered hedging costs and eased rules. This move is driven by central bank decisions in February and June, allowing local firms to swap out rupee loans for offshore funds. The shift towards dollar debt is expected to continue.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/market/bonds/rbi-ecb-guidelines-external-commercial-borrowings-11782813258132.html"
+        },
+        {
+          "title": "Easing oil prices, supply chains to soften external pressures on India: Finance ministry",
+          "summary": "The finance ministry believes that easing oil prices and improving supply chains will alleviate external pressures on India's economy, despite global uncertainties. However, the ministry also highlights the risks posed by monsoon vagaries and geopolitical shifts in West Asia. The government is focusing on building national buffer stocks and reorienting farm policies to mitigate these risks.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/easing-oil-prices-supply-chains-to-soften-external-pressures-on-india-finance-ministry/articleshow/132100894.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "India's private credit market primed for sustained growth",
+          "summary": "India's private credit market is expected to reach $50 billion by 2030, driven by corporate funding needs and limitations in traditional banking. Real estate and infrastructure sectors are leading this growth, with promoter financing also playing a key role. New RBI regulations may introduce greater competition in this market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/indias-private-credit-market-primed-for-sustained-growth/articleshow/132146330.cms"
+        },
+        {
+          "title": "PlayBlue raises $2.7 million in seed funding to expand omnichannel sports retail business",
+          "summary": "Sports retail startup PlayBlue has raised $2.7 million in seed funding to launch its omnichannel platform and expand its business. The company aims to capture India's growing sports participation by offering a wide range of brands. PlayBlue plans to expand significantly in the next five years, targeting substantial revenue and a large user community.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/services/retail/playblue-raises-2-7-million-in-seed-funding-to-expand-omnichannel-sports-retail-business/articleshow/132140939.cms"
+        },
+        {
+          "title": "Arvog Raises Rs 50 Crore Through NCD Issuance from Franklin Templeton to Accelerate Growth and Business Expansion",
+          "summary": "Finkurve Financial Services Limited, a tech-first gold loan NBFC, has raised Rs 50 crore through a Non-Convertible Debenture issuance from Franklin Templeton. The funding will support the company's next phase of growth and business expansion, with the first tranche of Rs 24 crore already completed.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/finkurve-financial-services-limited-arvog-raises-rs-50-crore-through-ncd-issuance-from-franklin-templeton-to-accelerate-growth-and-business-expansion/"
+        },
+        {
+          "title": "Moody’s report suggests India’s private credit market could double by FY30",
+          "summary": "India's private credit market is expected to double by FY30, reaching $50 billion, driven by corporate funding needs and limitations in traditional banking. Real estate, infrastructure, and promoter financing are key growth areas, attracting diverse investors seeking attractive returns for managing significant risks.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/moodys-report-suggests-indias-private-credit-market-could-double-by-fy30/articleshow/132134175.cms"
+        },
+        {
+          "title": "RBI’s bank funding nod for M&A may squeeze private credit returns in India, says Moody’s",
+          "summary": "The Reserve Bank of India's recent decision to allow local lenders to finance up to 75% of the transaction value in corporate takeovers may boost the country's deal market but could also squeeze private credit returns in India. This move is expected to introduce greater competition in the private credit market.",
+          "source": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/business/rbi-s-bank-funding-nod-for-m-a-may-squeeze-private-credit-returns-in-india-says-moody-s-13964033.html"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "SC Strikes Down Tribunal Judgment Based on Fake, Hallucinated AI Material",
+          "summary": "The Supreme Court has nullified a tribunal's ruling in an insolvency case involving Essel Infraprojects, as it was based on fake AI-generated precedents. This is a significant development, as it highlights the potential risks of relying on artificial intelligence in legal proceedings. The court's decision emphasizes the need for accuracy and authenticity in judicial decisions.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/supreme-court-strikes-down-tribunal-judgment-based-on-fake-hallucinated-ai-material-article-154868664"
+        },
+        {
+          "title": "Big fish being shielded in Ram Temple donation case, claim Congress & AAP",
+          "summary": "The Congress and AAP have alleged that some individuals are being shielded in a case related to donations for the Ram Temple, and have demanded a high-level investigation monitored by the Supreme Court. This development highlights the ongoing controversy surrounding the temple's construction and the need for transparency in such matters. The opposition parties are seeking a thorough probe into the allegations.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/big-fish-being-shielded-in-ram-temple-donation-case-claim-congress-aap/articleshow/132150139.cms"
+        },
+        {
+          "title": "HC stays state cabinet decision to withdraw 52 criminal cases",
+          "summary": "The Karnataka High Court has stayed the state cabinet's decision to withdraw prosecution in 52 criminal cases, citing concerns over political favouritism and appeasement. This decision highlights the importance of judicial oversight in ensuring that the government's actions are fair and just. The court's intervention will prevent the withdrawal of cases until further review.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/hc-stays-state-cabinet-decision-to-withdraw-52-criminal-cases-101783019073678.html"
+        },
+        {
+          "title": "False poll affidavit an offence against society, probe crucial: Supreme Court",
+          "summary": "The Supreme Court has emphasized that filing a false affidavit during elections is a serious offence that affects society as a whole, and that a thorough investigation is necessary in such cases. This ruling highlights the importance of transparency and honesty in electoral processes. The court's decision will have implications for candidates and political parties in future elections.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/false-poll-affidavit-an-offence-against-society-probe-crucial-supreme-court-101783018953750.html"
+        },
+        {
+          "title": "SC nixes rulings by NCLT, NCLAT based on fake AI citations",
+          "summary": "The Supreme Court has quashed orders passed by the National Company Law Tribunal (NCLT) and the National Company Law Appellate Tribunal (NCLAT) due to their reliance on fake AI-generated citations. This decision underscores the need for accuracy and reliability in judicial proceedings, particularly in the context of emerging technologies like artificial intelligence.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/sc-nixes-rulings-by-nclt-nclat-based-on-fake-ai-citations/articleshow/132147770.cms"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-03T08:53:43.135950+00:00",
     "brief": "Today's brief highlights key developments across geopolitics, economy, and national affairs. Japan's Prime Minister Sanae Takaichi has expressed intentions to elevate Japan-India relations, while India is leveraging its BrahMos missile system as a diplomatic tool in Southeast Asia, underscoring the country's growing strategic influence. On the economic front, the Reserve Bank of India is navigating monetary policy decisions amidst a weak monsoon's impact on inflation risks, with the rupee's defense and dollar debt also being closely watched. Meanwhile, the Supreme Court has made significant rulings on the use of artificial intelligence in legal proceedings, emphasizing the need for authenticity and accuracy to maintain the integrity of the justice system.",
     "categories": {
@@ -3565,134 +3705,6 @@
           "summary": "The Bombay High Court has granted protection to occupants of a PSU, providing a ray of hope for lakhs of occupants. The Public Sector Tenants Action Committee has approached the Supreme Court, seeking the constitution of a larger Constitution Bench to take the final call. The development is significant for the occupants of PSUs who have been facing uncertainty.",
           "source": "Republic World",
           "url": "https://www.republicworld.com/initiatives/a-ray-of-hope-for-lakhs-of-occupants-of-psu-bombay-high-court-grants-protection-to-jam-mill-occupants-supreme-court-constitution-bench-to-take-the-final-call-2026-06-25-129902"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-06-26T14:10:33.171413+00:00",
-    "brief": "Tensions in the Strait of Hormuz continue to escalate, with the International Maritime Organization halting operations and a UN evacuation plan on hold, affecting global oil flows and international trade. Meanwhile, in India, economic growth is expected to slow down to 6.6% in FY27 due to energy stress and weaker global demand, according to S&P Global Ratings. Additionally, India's startup pipeline is narrowing despite a rise in unicorns and IPOs, with investors tightening their due diligence for AI startups as the country's AI boom accelerates, indicating a shift in the startup ecosystem towards more established companies.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Tensions Surge in the Strait: IMO Halts Operations Amid New Attacks",
-          "summary": "The International Maritime Organization has paused its operations in the Strait of Hormuz due to an attack on a vessel, amid rising tensions and concerns about Iran's control over the channel. This move affects global oil flows and challenges an emerging deal to end the Iran war. The situation is being closely monitored as it has significant implications for international trade and security.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/law-order/3941049-tensions-surge-in-the-strait-imo-halts-operations-amid-new-attacks"
-        },
-        {
-          "title": "UN Pauses Hormuz Evacuation Plan After Cargo Ship Struck Near Oman",
-          "summary": "The UN's International Maritime Organization has paused its plan to evacuate over 11,000 stranded sailors in the Strait of Hormuz after Iran objected and a cargo ship was struck near Oman. The situation is critical, with around 600 ships still stranded and at least 14 sailors killed since the Iran war began. The evacuation plan is on hold, leaving the sailors in a precarious situation.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/world/un-pauses-hormuz-evacuation-plan-after-cargo-ship-struck-near-oman-article-154760161"
-        },
-        {
-          "title": "US Senator Warner calls Iran conflict a 'war of choice'",
-          "summary": "US Senator Mark Warner has criticized President Donald Trump's handling of the conflict with Iran, calling it a 'war of choice'. This statement reflects the ongoing debate and criticism within the US about the country's involvement in the conflict. The senator's comments highlight the complexities and challenges of the situation, with implications for US foreign policy and international relations.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/us-senator-warner-calls-iran-conflict-a-war-of-choice/"
-        },
-        {
-          "title": "The week that was in international affairs: US-Iran talks, Ukraine-Poland kerfuffle, Ukraine targets Russian-occupied Crimea",
-          "summary": "The past week saw significant developments in international affairs, including US-Iran talks to end their war, a kerfuffle between Ukraine and Poland, and Ukraine targeting Russian-occupied Crimea. These events reflect the complex and dynamic nature of global politics, with multiple conflicts and tensions ongoing. Understanding these developments is crucial for grasping the current state of international relations.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/the-week-that-was-in-international-affairs-us-iran-talks-ukraine-poland-kerfuffle-ukraine-targets-russian-occupied-crimea/articleshow/132000614.cms"
-        },
-        {
-          "title": "India, Saudi Arabia discuss growing bilateral relations",
-          "summary": "India's outgoing Ambassador to Saudi Arabia, Suhel Khan, met with Riyadh's Governor Faisal bin Bandar bin Abdulaziz to discuss growing bilateral relations between the two countries. This meeting highlights the strengthening ties between India and Saudi Arabia, with implications for trade, security, and regional cooperation. The discussion is significant for understanding the evolving dynamics of India's relationships with key countries in the Middle East.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/india-saudi-arabia-discuss-growing-bilateral-relations/"
-        },
-        {
-          "title": "India, Japan discuss strengthening bilateral relations",
-          "summary": "India's Ambassador to Japan, Nagma Malik, met with Senate President Sekiguchi Masakazu to discuss strengthening bilateral relations between India and Japan. This meeting reflects the ongoing efforts to enhance cooperation between the two countries, with implications for trade, investment, and regional security. The discussion is significant for understanding the evolving dynamics of India's relationships with key countries in East Asia.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/india-japan-discuss-strengthening-bilateral-relations/"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "RBI opens term money market to AIFIs, housing finance companies",
-          "summary": "The Reserve Bank of India has allowed All India Financial Institutions and housing finance companies to participate in the term money market, enabling them to borrow and lend. This move aims to increase market participation, improve liquidity, and strengthen monetary policy transmission. It also includes a significant increase in prudential borrowing limits for primary dealers.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-opens-term-money-market-to-aifis-housing-finance-companies/articleshow/132005366.cms"
-        },
-        {
-          "title": "MSMEs key to India’s developed nation ambition: KDEM Chairman",
-          "summary": "Micro, small and medium enterprises are crucial for India to achieve its goal of becoming a developed nation by 2047. However, the sector requires stronger policy support, easier access to capital, infrastructure, and talent to fulfill this role. The Chairman of Karnataka Digital Economy Mission emphasized the importance of MSMEs in India's development.",
-          "source": "The Hindu Business Line",
-          "url": "https://www.thehindubusinessline.com/news/msmes-key-to-indias-developed-nation-ambition-kdem-chairman/article71146464.ece"
-        },
-        {
-          "title": "India's FY27 Growth Likely to Slow Down to 6.6% on Energy Stress, Sub",
-          "summary": "S&P Global Ratings has projected India's GDP growth to slow down to 6.6% in FY27 due to energy stress, a sub-par monsoon, and weaker global demand. The report also warns of higher inflation and a potential RBI policy rate hike in the second half of the fiscal year. This forecast indicates a decline from the 7.7% growth rate in FY26.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/news/indias-fy27-growth-likely-to-slow-down-to-66-on-energy-stress-sub-par-monsoon-sp"
-        },
-        {
-          "title": "S&P Global Projects 110-Bps Drop In India's Economic Growth Amid Inflation Fears",
-          "summary": "S&P Global expects India's economic growth to drop by 110 basis points due to inflation concerns. The agency believes the RBI will start raising the repo rate from October, marking the beginning of monetary policy tightening in the second half of the financial year. This move is in response to expected higher inflation rates.",
-          "source": "NDTV Profit",
-          "url": "https://www.ndtvprofit.com/economy/s-p-global-projects-110-bps-drop-in-indias-economic-growth-amid-inflation-fears-11680797"
-        }
-      ],
-      "Business": [
-        {
-          "title": "India's startup pipeline narrows despite rise in unicorns and IPOs in H1",
-          "summary": "India's technology startups raised $7.2 billion across 652 equity funding rounds in the first half of 2026, indicating a rise in funding despite a narrowing startup pipeline. This trend suggests a shift in the startup ecosystem, with a focus on established companies. The funding amount is significant, but the number of deals has decreased.",
-          "source": "The New Indian Express",
-          "url": "https://www.newindianexpress.com/business/2026/Jun/25/indias-startup-pipeline-narrows-despite-rise-in-unicorns-and-ipos-in-h1"
-        },
-        {
-          "title": "Steamhouse raises ₹50 crore in pre-IPO funding from Madhusudhan Kela-backed funds, Niveshaay",
-          "summary": "Steamhouse India has raised ₹50 crore in pre-IPO funding to expand its operations and reduce debt ahead of its public offering. This funding round is significant as it indicates investor confidence in the company's growth prospects. The funds will be used to drive business expansion and prepare for the IPO.",
-          "source": "The Hindu Business Line",
-          "url": "https://www.thehindubusinessline.com/markets/steamhouse-raises-50-crore-in-pre-ipo-funding-from-madhusudhan-kela-backed-funds-niveshaay/article71144985.ece"
-        },
-        {
-          "title": "SaffronStays raises $ 3.5 million in a funding round led by Infinity Ventures",
-          "summary": "SaffronStays, a holiday home brand, has secured $3.5 million in funding to expand into new leisure destinations, enhance technology, and improve guest experiences. The company aims to build five regional business units generating ₹100 crore annually, focusing on profitability and customer satisfaction. This funding will help SaffronStays to revolutionize India's managed holiday-home market.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/services/hotels-/-restaurants/saffronstays-secures-35-million-funding-to-revolutionize-indias-holiday-home-market/articleshow/131965217.cms"
-        },
-        {
-          "title": "AI Startup Funding: Investors Tighten Due Diligence As India's AI Boom Accelerates",
-          "summary": "As India's AI boom accelerates, investors are tightening their due diligence for AI startups, indicating a more cautious approach to funding. This shift in investor behavior may impact the growth of AI startups in the country. The increased scrutiny is likely to lead to more sustainable and viable AI startups in the long run.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/business-economy/industry/ai-startup-funding-investors-tighten-due-diligence-as-indias-ai-boom-accelerates-article-154742669"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "70-year case, older than its judges, finally decided",
-          "summary": "A 70-year-old land dispute case in India has been finally decided by the Supreme Court, marking the end of a long-standing legal battle that has spanned the tenures of all past Prime Ministers. The case is significant due to its longevity and the fact that it has been ongoing for longer than the judges who decided it have been alive. This decision brings closure to a case that has been ongoing for decades.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/70-year-case-older-than-its-judges-finally-decided/articleshow/132005684.cms"
-        },
-        {
-          "title": "What's Holding Up India-US Trade Deal? Piyush Goyal Explains",
-          "summary": "The India-US trade deal is being held up due to a recent US Supreme Court ruling that deemed certain tariffs illegal, rendering several US trade pacts unenforceable. Commerce Minister Piyush Goyal has explained that the deal cannot move forward until the US provides a framework that ensures India has a competitive edge over other countries. The US is transitioning to a new tariff structure under Section 301 of the US Trade Act of 1974.",
-          "source": "Outlook India",
-          "url": "https://www.outlookindia.com/national/whats-holding-up-india-us-trade-deal-piyush-goyal-explains"
-        },
-        {
-          "title": "Trade deal with US hinges on competitive edge for India: Piyush Goyal",
-          "summary": "According to Commerce Minister Piyush Goyal, the India-US interim trade deal is contingent upon the US providing a framework that gives India a distinct tariff advantage over global competitors. This is in response to a recent US Supreme Court ruling that affected the enforceability of several US trade pacts. Goyal's statement highlights the importance of a competitive edge for India in the trade deal.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/policy/economy/trade-deal-with-us-hinges-on-competitive-edge-for-india-piyush-goyal/4276514/"
-        },
-        {
-          "title": "A Ray of Hope for Lakhs of Occupants of PSU: Bombay High Court Grants Protection to Jam Mill Occupants; Supreme Court Constitution Bench to Take the Final Call",
-          "summary": "The Bombay High Court has granted protection to the occupants of a PSU, providing a ray of hope for lakhs of occupants. The Public Sector Tenants Action Committee has approached the Supreme Court, seeking the constitution of a larger Constitution Bench to take the final call on the matter. This development is significant for the occupants of PSUs who are seeking protection and resolution.",
-          "source": "Republic World",
-          "url": "https://www.republicworld.com/initiatives/a-ray-of-hope-for-lakhs-of-occupants-of-psu-bombay-high-court-grants-protection-to-jam-mill-occupants-supreme-court-constitution-bench-to-take-the-final-call-2026-06-25-129902"
-        },
-        {
-          "title": "Ram Mandir embezzlement row: SC declines urgent hearing on probe plea; asks petitioner to return on June 29",
-          "summary": "The Supreme Court has declined an urgent hearing on a petition seeking a court-monitored investigation into the Ram Mandir embezzlement row. The court has asked the petitioner to return on June 29, indicating that the matter will be heard at a later date. This development is significant as it relates to allegations of embezzlement in the construction of the Ram Mandir.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/ram-mandir-embezzlement-row-sc-declines-urgent-hearing-on-probe-plea-asks-petitioner-to-return-on-june-29/articleshow/131985530.cms"
         }
       ]
     }
