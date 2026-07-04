@@ -1,5 +1,127 @@
 [
   {
+    "generated_at": "2026-07-04T02:12:51.564333+00:00",
+    "brief": "Germany's summons of the Chinese ambassador over reports of China training Russian soldiers has heightened geopolitical tensions, while China's new ethnic unity law has sparked global concerns about its potential impact on Taiwan's sovereignty. Meanwhile, in India, the government is working to balance innovation and stability in the digital currency space, with the RBI reviewing progress on the Central Bank Digital Currency and launching its 74th manufacturing sector survey to aid monetary policy. As India navigates global uncertainties, the finance ministry believes easing oil prices and improving supply chains will offer some relief, and the country's private credit market is poised for significant expansion, driven by increasing corporate funding needs and limitations faced by traditional banks.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Germany Summons Chinese Ambassador Over Russian Training Reports",
+          "summary": "Germany has summoned the Chinese ambassador to clarify reports of China training Russian soldiers, which could have significant implications for international relations. The move comes amid heightened geopolitical tensions. The German government seeks to understand the extent of China's involvement in the alleged training.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3944867-germany-summons-chinese-ambassador-over-russian-training-reports"
+        },
+        {
+          "title": "China's Ethnic Unity Law Sparks Global Concerns",
+          "summary": "China's new ethnic unity law has sparked global concerns as it allows prosecution beyond its borders, raising questions about overreach and its potential impact on Taiwan's sovereignty. The law aims to forge a national identity among ethnic minorities. The US, EU, and Taiwan have criticized the law.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/law-order/3944682-chinas-ethnic-unity-law-sparks-global-concerns"
+        },
+        {
+          "title": "Can Europe survive without the US? Inside its $900 billion",
+          "summary": "Europe has relied on the US for security since the Cold War, while reducing its military spending. However, with changing global dynamics, Europe is now investing $900 billion in its military overhaul. This move raises questions about Europe's ability to survive without US support.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/can-europe-survive-without-the-us-inside-its-900-billion-military-overhaul-defence-reset/articleshow/132157311.cms"
+        },
+        {
+          "title": "India relations to even greater heights: PM Takaichi",
+          "summary": "Japanese Prime Minister Sanae Takaichi has expressed her intention to elevate Japan-India relations to new heights. She made this statement during a meeting with Indian Prime Minister Narendra Modi. This move is expected to strengthen bilateral ties between the two countries.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/we-will-elevate-japan-india-relations-to-even-greater-heights-pm-takaichi/"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Balancing Innovation and Stability: India's Progress on Digital Rupee Discussed",
+          "summary": "The Parliamentary Standing Committee on Finance met with RBI officials to review India's Central Bank Digital Currency progress, focusing on regulatory challenges and taxation issues. This discussion aims to bolster India's digital financial ecosystem. The meeting highlights the government's efforts to balance innovation and stability in the digital currency space.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3944082-balancing-innovation-and-stability-indias-progress-on-digital-rupee-discussed"
+        },
+        {
+          "title": "RBI Kicks Off 74th Manufacturing Sector Survey: A Key Tool for Economic Analysis",
+          "summary": "The Reserve Bank of India launched its 74th survey for the manufacturing sector, collecting operational data to aid monetary policy. The survey captures order volumes, inventory details, and capacity use, and is a key tool for economic analysis. This initiative will help the RBI make informed decisions about the economy.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3943710-rbi-kicks-off-74th-manufacturing-sector-survey-a-key-tool-for-economic-analysis"
+        },
+        {
+          "title": "Nomura, HSBC split on RBI rate outlook as weak monsoon fuels inflation risks",
+          "summary": "Economists from Nomura and HSBC have differing views on the RBI's next policy move due to the impact of a weak monsoon on India's economy. They assess the effects on GDP growth, food inflation, and the rupee. The weak monsoon poses inflation risks, making the RBI's next move crucial.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/economy/nomura-hsbc-rbi-rate-outlook-weak-monsoon-food-inflation-sonal-varma-pranjul-bhandari-19936402.htm"
+        },
+        {
+          "title": "Rupee's defence takes RBI dollar shorts to a record high",
+          "summary": "The RBI's net short forward position in the currency market surged to a record $106.6 billion in May, indicating significant interventions to shield the rupee. The central bank faces a decision on whether to reduce its forward position or bolster reserves. This move aims to stabilize the rupee amid global tensions.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupees-defence-takes-rbi-dollar-shorts-to-a-record-high/articleshow/132103620.cms"
+        },
+        {
+          "title": "India Inc eyes more dollar debt as RBI policy support kicks in",
+          "summary": "Indian firms are aggressively swapping out rupee loans for offshore funds due to the RBI's moves to lower hedging costs and ease rules. This shift is driven by central bank policies in February and June. The change in policy support is making dollar debt more attractive to local firms.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/market/bonds/rbi-ecb-guidelines-external-commercial-borrowings-11782813258132.html"
+        },
+        {
+          "title": "Easing oil prices, supply chains to soften external pressures on India: Finance ministry",
+          "summary": "The finance ministry believes that easing oil prices and improving supply chains will offer some relief to India's economy despite global uncertainties. However, monsoon vagaries and geopolitical shifts pose risks to growth and inflation. The ministry emphasizes the need for proactive policy measures to build resilience.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/easing-oil-prices-supply-chains-to-soften-external-pressures-on-india-finance-ministry/articleshow/132100894.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Up Ecosystem on Foreign Capital, Family Offices May Now Have to Keep it Rolling",
+          "summary": "India's family offices are emerging as key sources of patient capital for funding start-ups and innovation, playing a crucial role in the country's next phase of entrepreneurial growth. This development is significant as it indicates a shift towards domestic funding sources. Family offices are expected to support the growth of start-ups and entrepreneurial ventures in India.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/magazine/india-built-a-start-up-ecosystem-on-foreign-capital-family-offices-may-now-have-to-keep-it-rolling"
+        },
+        {
+          "title": "India's private credit market primed for sustained growth",
+          "summary": "India's private credit market is poised for significant expansion, projected to reach $50 billion by 2030, driven by increasing corporate funding needs and limitations faced by traditional banks. The real estate and infrastructure sectors are leading this growth, with promoter financing also playing a crucial role. This alternative capital source is gaining traction and is expected to introduce greater competition in the market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/indias-private-credit-market-primed-for-sustained-growth/articleshow/132146330.cms"
+        },
+        {
+          "title": "PlayBlue raises $2.7 million in seed funding to expand omnichannel sports retail business",
+          "summary": "Sports retail startup PlayBlue has secured $2.7 million in seed funding to launch its omnichannel platform and expand its business. The company aims to capture India's growing sports participation by offering a wide range of brands and plans to expand significantly in the next five years. This funding will help PlayBlue to launch its flagship stores in major cities and target substantial revenue and a large user community.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/services/retail/playblue-raises-2-7-million-in-seed-funding-to-expand-omnichannel-sports-retail-business/articleshow/132140939.cms"
+        },
+        {
+          "title": "Arvog Raises Rs 50 Crore Through NCD Issuance from Franklin Templeton to Accelerate Growth and Business Expansion",
+          "summary": "Finkurve Financial Services Limited, a tech-first gold loan NBFC, has raised Rs 50 crore through a Non-Convertible Debenture issuance from Franklin Templeton. The funding will be used to support the company's next phase of growth and business expansion. This investment will help the company to accelerate its growth plans and expand its business operations.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/finkurve-financial-services-limited-arvog-raises-rs-50-crore-through-ncd-issuance-from-franklin-templeton-to-accelerate-growth-and-business-expansion/"
+        },
+        {
+          "title": "Moody’s report suggests India’s private credit market could double by FY30",
+          "summary": "According to a Moody's report, India's private credit market is set for robust expansion, projected to reach $50 billion by FY30. The market is driven by escalating corporate funding needs and limitations faced by traditional banks, making it a preferred option for businesses. Real estate, infrastructure, and promoter financing are key growth areas, attracting diverse investors seeking attractive returns for managing significant risks.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/moodys-report-suggests-indias-private-credit-market-could-double-by-fy30/articleshow/132134175.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Why Pune Fort Murder Was Mentioned During Supreme Court Hearing in Meghalaya Honeymoon Murder Case",
+          "summary": "The Supreme Court refused to stay Sonam Raghuvanshi's bail in the Meghalaya Honeymoon murder case, citing procedural grounds. The court's decision was influenced by the heinous nature of the crime, but also considered a balanced approach. This case highlights the complexities of India's judicial system.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/why-pune-fort-murder-was-mentioned-during-supreme-court-hearing-in-meghalaya-honeymoon-murder-case-article-154904210"
+        },
+        {
+          "title": "Plea in Supreme Court seeks an end to ‘coaching Raj’, dummy school nexus",
+          "summary": "A petition in the Supreme Court seeks to dismantle India's coaching nexus and align entrance exams with state school curricula for equal education. This move aims to promote fair access to education and reduce the influence of coaching centers. The outcome of this petition could have significant implications for India's education system.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/plea-in-supreme-court-seeks-an-end-to-coaching-raj-dummy-school-nexus/article71178071.ece"
+        },
+        {
+          "title": "Honeymoon murder case: Why SC refused to cancel Sonam Raghuvanshi's bail order",
+          "summary": "The Supreme Court refused to overturn the Meghalaya high court's judgment granting bail to Sonam Raghuvanshi, accused in the honeymoon murder case. The court's decision was based on procedural grounds, highlighting the importance of following legal procedures in criminal cases. This case underscores the complexities of India's judicial system and the need for balanced decision-making.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/honeymoon-murder-case-why-sc-refused-to-cancel-sonam-raghuvanshis-bail-order/articleshow/132155032.cms"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-03T19:08:25.313647+00:00",
     "brief": "Today's brief highlights key developments across geopolitics, economy, and national affairs. Indian Naval Officers paid respects to fallen soldiers at Singapore's Kranji War Memorial, underscoring strong ties between India and Singapore, while Japanese Prime Minister Sanae Takaichi expressed intentions to strengthen Japan-India relations. Meanwhile, the Indian economy is navigating the impact of global conflicts on the energy sector, with oil marketing companies facing significant losses despite decreased international oil prices. The Reserve Bank of India is also taking steps to stabilize the rupee, with a record high net short forward position in the currency market, as the country's private credit market is expected to reach $50 billion by 2030, driven by increasing corporate funding needs.",
     "categories": {
@@ -3611,134 +3733,6 @@
         {
           "title": "70-year-old land dispute finally decided by Supreme Court",
           "summary": "A 70-year-old land dispute has been finally decided by the Supreme Court, marking the end of a long-standing legal battle. The case is significant as it highlights the complexities and challenges of India's legal system. The development may have implications for similar long-pending cases and the country's judicial system.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/70-year-case-older-than-its-judges-finally-decided/articleshow/132005684.cms"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-06-27T02:35:06.337376+00:00",
-    "brief": "Tensions between the US and Iran have eased, leading to a potential return to normal operations in international aviation, with Air India considering restoring some international flights and Qatar's crude oil re-entering the Asian market. Meanwhile, in the economic sphere, India's GDP growth is expected to slow down to 6.6% in FY27 due to energy stress, a sub-par monsoon, and weaker global demand, according to S&P Global Ratings. These developments are likely to have a ripple effect on various sectors, including trade and business, with the US exploring the use of Section 301 investigations to restore tariffs on Indian imports, which could impact the India-US trade deal and global commerce.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Air India weighs restoring part of international flights as Iran tensions ease",
-          "summary": "Air India is considering restoring some international flights as tensions between the US and Iran have eased, following a memorandum of understanding to halt conflict. This development is expected to lead to a gradual return to normal operations in international aviation. The easing of tensions may also impact fuel prices and overall air travel.",
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/india/story/air-india-international-flights-may-return-as-middle-east-stabilises-and-fuel-prices-fall-2935121-2026-06-26"
-        },
-        {
-          "title": "India, UAE underscore growing depth of defence relations",
-          "summary": "India and the UAE have emphasized the growing depth of their defence relations, highlighting the strengthening ties between the two nations. The UAE's Land Forces' Deputy Commander, Brigadier General Staff Mohamed Khamees Mohamed, has been involved in discussions to further solidify these relations. This development showcases the expanding cooperation between India and the UAE in the defence sector.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/india-uae-underscore-growing-depth-of-defence-relations-1/"
-        },
-        {
-          "title": "'To make enemies feel constant uneasiness & fear': North Korea leader Kim Jong Un observes major weapons tests",
-          "summary": "North Korean leader Kim Jong Un has overseen a series of significant artillery and missile tests, marking the 76th anniversary of the Korean War. The tests are seen as a demonstration of North Korea's military capabilities, aiming to instill fear and uneasiness in its enemies. This move highlights the ongoing tensions and military activities in the region.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/defence/international/to-make-enemies-feel-constant-uneasiness-fear-north-korea-leader-kim-jong-un-observes-major-weapons-tests/articleshow/132009838.cms"
-        },
-        {
-          "title": "Qatar crude enters Asian market again as Hormuz gets back to business",
-          "summary": "Qatar's crude oil has re-entered the Asian market, indicating a return to business as usual in the Strait of Hormuz. This development follows a period of disrupted supplies due to the conflict in the region. The resumption of oil supplies through the Strait of Hormuz is a significant step towards stabilizing the global energy market.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/international-business/qatar-crude-enters-asian-market-again-as-hormuz-gets-back-to-business/articleshow/132009861.cms"
-        },
-        {
-          "title": "UN halts escort of ships through Hormuz after vessel comes under attack",
-          "summary": "The United Nations International Maritime Organization has paused its operation to escort ships through the Strait of Hormuz after a vessel reported an attack. This incident has raised concerns about the stability of the region and the preliminary deal to end the Iran war. The attack highlights the ongoing risks and challenges in the Strait of Hormuz.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/world/un-halts-escort-of-ships-through-hormuz-after-vessel-comes-under-attack/"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "RBI opens term money market to AIFIs, housing finance companies",
-          "summary": "The Reserve Bank of India has allowed All India Financial Institutions and housing finance companies to participate in the term money market, enabling them to borrow and lend. This move aims to increase market participation, improve liquidity, and strengthen monetary policy transmission. It also increases prudential borrowing limits for primary dealers.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-opens-term-money-market-to-aifis-housing-finance-companies/articleshow/132005366.cms"
-        },
-        {
-          "title": "MSMEs key to India’s developed nation ambition: KDEM Chairman",
-          "summary": "Micro, small and medium enterprises (MSMEs) are crucial for India to achieve its goal of becoming a developed nation by 2047. However, the sector requires stronger policy support, easier access to capital, infrastructure, and talent. The Chairman of Karnataka Digital Economy Mission emphasized the importance of MSMEs in driving India's economic growth.",
-          "source": "The Hindu Business Line",
-          "url": "https://www.thehindubusinessline.com/news/msmes-key-to-indias-developed-nation-ambition-kdem-chairman/article71146464.ece"
-        },
-        {
-          "title": "India's FY27 Growth Likely to Slow Down to 6.6% on Energy Stress, Sub",
-          "summary": "S&P Global Ratings has projected India's GDP growth to slow down to 6.6% in FY27, citing energy stress, a sub-par monsoon, and weaker global demand. The report also warns of higher inflation and a likely RBI policy rate hike in the second half of the fiscal. This forecast indicates a potential slowdown in India's economic growth.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/news/indias-fy27-growth-likely-to-slow-down-to-66-on-energy-stress-sub-par-monsoon-sp"
-        },
-        {
-          "title": "S&P Global Projects 110-Bps Drop In India's Economic Growth Amid Inflation Fears",
-          "summary": "S&P Global expects India's economic growth to slow down due to rising inflation, which may prompt the RBI to raise the repo rate from October. This would mark the start of monetary policy tightening in the second half of the financial year. The forecast indicates a 110-bps drop in India's economic growth.",
-          "source": "NDTV Profit",
-          "url": "https://www.ndtvprofit.com/economy/s-p-global-projects-110-bps-drop-in-indias-economic-growth-amid-inflation-fears-11680797"
-        }
-      ],
-      "Business": [
-        {
-          "title": "India's startup pipeline narrows despite rise in unicorns and IPOs in H1",
-          "summary": "Despite an increase in unicorns and IPOs, India's startup pipeline has narrowed, with technology startups raising $7.2 billion across 652 equity funding rounds in the first half of 2026. This indicates a potential slowdown in the growth of new startups. The funding amount is significant, but the narrowing pipeline raises concerns about the future of the startup ecosystem.",
-          "source": "The New Indian Express",
-          "url": "https://www.newindianexpress.com/business/2026/Jun/25/indias-startup-pipeline-narrows-despite-rise-in-unicorns-and-ipos-in-h1"
-        },
-        {
-          "title": "Steamhouse raises ₹50 crore in pre-IPO funding from Madhusudhan Kela-backed funds, Niveshaay",
-          "summary": "Steamhouse India has raised ₹50 crore in pre-IPO funding to expand its operations and reduce debt ahead of its public offering. This funding round is significant as it indicates investor confidence in the company's growth potential. The funds will be used to drive expansion and improve the company's financial health.",
-          "source": "The Hindu Business Line",
-          "url": "https://www.thehindubusinessline.com/markets/steamhouse-raises-50-crore-in-pre-ipo-funding-from-madhusudhan-kela-backed-funds-niveshaay/article71144985.ece"
-        },
-        {
-          "title": "SaffronStays raises $ 3.5 million in a funding round led by Infinity Ventures",
-          "summary": "SaffronStays, a holiday home brand, has secured $3.5 million in funding to expand into new leisure destinations, enhance technology, and improve guest experiences. The company aims to build five regional business units generating ₹100 crore annually, focusing on profitability and customer satisfaction. This funding round will help the company drive growth and expansion in India's growing managed holiday-home market.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/services/hotels-/-restaurants/saffronstays-secures-35-million-funding-to-revolutionize-indias-holiday-home-market/articleshow/131965217.cms"
-        },
-        {
-          "title": "AI Startup Funding: Investors Tighten Due Diligence As India's AI Boom Accelerates",
-          "summary": "As India's AI boom accelerates, investors are tightening their due diligence for AI startup funding. This indicates a more cautious approach to investing in AI startups, with a focus on careful evaluation and scrutiny. The AI boom in India is expected to continue, with investors seeking to capitalize on the growth potential of AI startups.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/business-economy/industry/ai-startup-funding-investors-tighten-due-diligence-as-indias-ai-boom-accelerates-article-154742669"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Actress Jacqueline Fernandez withdraws plea from Supreme Court in money laundering case",
-          "summary": "Actress Jacqueline Fernandez has withdrawn her plea from the Supreme Court in a money laundering case allegedly involving Sukash Chandrashekhar. This development is part of an ongoing case that has been in the news. The case involves allegations of money laundering and has been making headlines due to the involvement of a prominent actress.",
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/india-today-insight/story/from-the-india-today-archives-2022-sukash-chandrashekhar-king-of-con-2935050-2026-06-26"
-        },
-        {
-          "title": "US explores Section 301 to restore tariffs on Indian imports",
-          "summary": "The US is exploring the use of Section 301 investigations to restore higher tariffs on Indian imports after a Supreme Court ruling struck down earlier duties. This move could impact the India-US trade deal and global commerce. The development is significant for trade relations between the two countries.",
-          "source": "Outlook India",
-          "url": "https://www.outlookindia.com/international/trump-administration-seeks-section-301-loophole-to-restore-tariffs"
-        },
-        {
-          "title": "New NCERT textbook describes judiciary as impartial and independent",
-          "summary": "A new NCERT textbook has described the judiciary as an impartial and independent institution, months after a controversy over a chapter on judicial corruption. The textbook's description is significant as it reflects the institution's role in the country's governance. The development comes after a row over a chapter on judicial corruption.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/impartial-and-independent-new-ncert-textbook-lauds-judiciary-months-after-judicial-corruption-chapter-row/articleshow/132016122.cms"
-        },
-        {
-          "title": "Supreme Court declares right to walk on footpath as fundamental right",
-          "summary": "The Supreme Court has declared that the right to walk on a demarcated footpath is a fundamental right, placing the pedestrian at the center of road infrastructure. This ruling is significant for urban planning and pedestrian safety in India. The court's decision highlights the importance of pedestrian rights in the country.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/toi-plus/politics/why-indias-footpath-problem-is-now-a-fundamental-rights-issue/articleshow/132011045.cms"
-        },
-        {
-          "title": "US may reinstate tariffs on Indian imports through Section 301 investigations",
-          "summary": "The US may reinstate higher tariffs on Indian imports through Section 301 investigations after a Supreme Court ruling struck down the earlier tariff regime. This move could impact India-US trade talks and global commerce. The development is significant for trade relations between the two countries and the global economy.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/economy-and-policy/trumps-tariffs-could-return-through-a-new-legal-route-heres-how"
-        },
-        {
-          "title": "70-year land dispute case finally decided by Supreme Court",
-          "summary": "A 70-year-old land dispute case has been finally decided by a Supreme Court bench, marking the end of a long-standing legal battle. The case is significant due to its longevity, having dragged on through the tenures of all past Prime Ministers. The court's decision brings closure to a decades-old dispute.",
           "source": "Times of India",
           "url": "https://timesofindia.indiatimes.com/india/70-year-case-older-than-its-judges-finally-decided/articleshow/132005684.cms"
         }
