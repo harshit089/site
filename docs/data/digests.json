@@ -1,5 +1,133 @@
 [
   {
+    "generated_at": "2026-07-05T08:45:02.808258+00:00",
+    "brief": "Today's brief highlights key developments across geopolitics, economy, and national affairs. The geopolitical landscape is marked by Iran's vow to take legal action against the US and Israel, while also bidding farewell to its supreme leader Ali Khamenei, whose death may impact the country's leadership and international relations. Meanwhile, in India, the economy is witnessing significant trends, including the RBI's efforts to support the economy through policy moves, which have led to Indian companies opting for dollar debt, and the launch of the 74th manufacturing sector survey to aid monetary policy decisions. Additionally, the business sector is seeing growth in private credit, with India's family offices emerging as key sources of patient capital for start-ups and entrepreneurial growth.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "I don't think it is possible: Keir Starmer says next PM cannot spend less time on diplomacy",
+          "summary": "Outgoing UK Prime Minister Keir Starmer has defended the time he spent on international affairs, stating that the next PM cannot afford to spend less time on diplomacy. This highlights the importance of diplomacy in a leader's role. Starmer's comments come as he prepares to leave office, emphasizing the need for a balance between domestic and international focus.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/world/uk/i-dont-think-it-is-possible-keir-starmer-says-next-pm-cannot-spend-less-time-on-diplomacy/articleshow/132178287.cms"
+        },
+        {
+          "title": "ISI's new war on India targets PM Modi with deepfakes and disinformation",
+          "summary": "India's national security planners have detected a new campaign by Pakistan's Inter Services Intelligence (ISI) targeting Prime Minister Narendra Modi with deepfakes and disinformation. This is a significant development in the geopolitical landscape, highlighting the use of emerging technologies in information warfare. The campaign underscores the ongoing tensions between India and Pakistan.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/isis-new-war-on-india-targets-pm-modi-with-deepfakes-and-disinformation-1/"
+        },
+        {
+          "title": "Iran vows legal action against US, Israel over war, seeks global accountability",
+          "summary": "Iran has announced plans to take legal action against the US and Israel over their military campaign, which Tehran claims is a breach of international law. The Iranian government will use diplomatic and legal mechanisms to seek accountability. This development highlights the escalating tensions in the Middle East and the role of international law in geopolitical conflicts.",
+          "source": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/world/iran-vows-legal-action-against-us-israel-over-war-seeks-global-accountability-article-13965772.html"
+        },
+        {
+          "title": "Iran bids farewell to Khamenei; burial on July 9, Mojtaba's attendance uncertain",
+          "summary": "Iran is mourning the death of its supreme leader, Ali Khamenei, with week-long ceremonies and a grand burial procession. The event has significant geopolitical implications, as it may impact the country's leadership and international relations. The attendance of Khamenei's son, Mojtaba, who is seen as a potential successor, is uncertain, adding to the speculation about Iran's future.",
+          "source": "Malayala Manorama",
+          "url": "https://www.onmanorama.com/news/world/2026/07/03/iran-bids-farewell-to-khamenei-burial-on-july-9-mojtaba-s-attendance-uncertain.html"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Experts Shed Light on E20 Fuel: Dispelling Myths and Highlighting Benefits",
+          "summary": "Energy industry experts have clarified misconceptions about India's E20 ethanol-blended petrol mandate, highlighting its minimal impact on vehicle mileage and emphasizing its economic and environmental benefits. The experts also addressed concerns over older vehicle compatibility. This development is significant as India moves towards a more sustainable fuel economy.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3945312-experts-shed-light-on-e20-fuel-dispelling-myths-and-highlighting-benefits"
+        },
+        {
+          "title": "Balancing Innovation and Stability: India's Progress on Digital Rupee Discussed",
+          "summary": "The Parliamentary Standing Committee on Finance met with RBI officials to review India's Central Bank Digital Currency progress and discuss regulatory challenges, taxation issues, and potential policy interventions. This meeting is crucial for shaping India's digital financial ecosystem. The discussion aims to strike a balance between innovation and stability in the sector.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3944082-balancing-innovation-and-stability-indias-progress-on-digital-rupee-discussed"
+        },
+        {
+          "title": "RBI Kicks Off 74th Manufacturing Sector Survey: A Key Tool for Economic Analysis",
+          "summary": "The Reserve Bank of India has launched its 74th survey for the manufacturing sector, covering April-June 2026, to collect operational data that will aid monetary policy decisions. The survey captures order volumes, inventory details, and capacity use, and is open to wide industry participation. This initiative is a key tool for economic analysis and will help the RBI make informed decisions.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3943710-rbi-kicks-off-74th-manufacturing-sector-survey-a-key-tool-for-economic-analysis"
+        },
+        {
+          "title": "Nomura, HSBC split on RBI rate outlook as weak monsoon fuels inflation risks",
+          "summary": "Economists from Nomura and HSBC have differing views on the RBI's next policy move due to the impact of a weak monsoon on India's economy. They assess the effects on GDP growth, food inflation, the rupee, and balance of payments. This split in opinion highlights the uncertainty surrounding the RBI's rate outlook and the challenges posed by a weak monsoon.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/economy/nomura-hsbc-rbi-rate-outlook-weak-monsoon-food-inflation-sonal-varma-pranjul-bhandari-19936402.htm"
+        },
+        {
+          "title": "Rupee's defence takes RBI dollar shorts to a record high",
+          "summary": "The Reserve Bank of India's net short forward position in the currency market has surged to a record $106.6 billion in May, indicating significant interventions to shield the rupee from hitting new lows. The central bank now faces a decision on whether to reduce its forward position or bolster reserves, as the rupee has recovered from its record low due to capital inflows and policy measures.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupees-defence-takes-rbi-dollar-shorts-to-a-record-high/articleshow/132103620.cms"
+        },
+        {
+          "title": "India Inc eyes more dollar debt as RBI policy support kicks in",
+          "summary": "Indian companies are increasingly opting for dollar debt due to the RBI's recent policy moves, which have lowered hedging costs and eased rules. This shift is driven by the central bank's efforts to support the economy, and companies are aggressively swapping out rupee loans for offshore funds. This trend is significant for India's external borrowing landscape.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/market/bonds/rbi-ecb-guidelines-external-commercial-borrowings-11782813258132.html"
+        }
+      ],
+      "Business": [
+        {
+          "title": "India's banks are handing out more loans, but deposits aren't keeping up",
+          "summary": "Indian banks have seen a surge in lending, outpacing deposit growth and widening the funding gap, with the loan-to-deposit ratio reaching a decade-high. This trend is driven by demand from corporate and retail sectors, raising concerns about funding sustainability. The varied strategies of lenders have resulted in some deposits declining while others have maintained a balance.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-banks-are-handing-out-more-loans-but-deposits-arent-keeping-up/articleshow/132177579.cms"
+        },
+        {
+          "title": "Almost half of UDAN routes have become non-operational",
+          "summary": "Nearly half of India's UDAN regional flight routes are no longer operational due to viability gap support, infrastructure delays, and airline distress. The government has launched a revamped phase with higher subsidies and airport funding. This development affects the country's flagship connectivity scheme, which aims to improve regional air connectivity.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/news/almost-half-of-udan-routes-have-become-non-operational-says-report"
+        },
+        {
+          "title": "Inspira seals Rs 1,800-crore private credit for Burger King buy in India",
+          "summary": "Inspira Global has secured ₹1,800 crore in private credit to acquire a controlling stake in India's Burger King operator. The company has already raised ₹1,050 crore via NCDs and expects to raise the remaining ₹800 crore this month. This significant funding marks a major move into the quick-service restaurant sector.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/inspira-seals-rs-1800-crore-private-credit-for-burger-king-buy-in-india/articleshow/132174770.cms"
+        },
+        {
+          "title": "India's family offices emerge as key sources of patient capital",
+          "summary": "India's family offices are becoming a crucial source of patient capital for funding start-ups, innovation, and entrepreneurial growth. They are expected to play a significant role in sustaining the country's start-up ecosystem, which was initially built on foreign capital. Family offices can provide long-term funding, which is essential for the growth of start-ups.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/magazine/india-built-a-start-up-ecosystem-on-foreign-capital-family-offices-may-now-have-to-keep-it-rolling"
+        },
+        {
+          "title": "India's private credit market primed for sustained growth",
+          "summary": "India's private credit market is expected to reach $50 billion by 2030, driven by increasing corporate funding needs and limitations faced by traditional banks. The real estate and infrastructure sectors are leading this growth, with promoter financing also playing a crucial role. New RBI regulations allowing bank acquisition financing may introduce greater competition in the market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/indias-private-credit-market-primed-for-sustained-growth/articleshow/132146330.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "RJD MP Moves Supreme Court Seeking CBI Probe, Forensic Audit Of Ram Janmabhoomi Trust Finances",
+          "summary": "RJD MP Sudhakar Singh has moved the Supreme Court seeking a CBI probe into the financial affairs of the Shri Ram Janmabhoomi Teerth Kshetra Trust over alleged donation misappropriation. The petition also seeks a forensic audit and an oversight committee to ensure transparency. This matter is significant as it raises questions about the trust's financial management and transparency.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/india/rjd-mp-moves-supreme-court-seeking-cbi-probe-forensic-audit-of-ram-janmabhoomi-trust-finances"
+        },
+        {
+          "title": "Delhi Gymkhana Club challenges Centre's eviction proceedings in HC, plea listed for July 6",
+          "summary": "The Delhi Gymkhana Club has moved the Delhi High Court against the government's decision to initiate eviction proceedings. The club's plea is listed for hearing on July 6. This case is notable as it involves a dispute between a prestigious club and the government over the use of land.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/delhi-gymkhana-club-challenges-centres-eviction-proceedings-in-hc-plea-listed-for-july-6/articleshow/132182882.cms"
+        },
+        {
+          "title": "DMK moves SC in Karur stampede case, raises concerns on probe",
+          "summary": "The DMK has moved the Supreme Court seeking to be impleaded as a party in the Karur stampede case, citing concerns about the fairness and independence of the CBI investigation. The party's intervention is aimed at ensuring a thorough and unbiased probe. This development is significant as it highlights the ongoing investigation into the stampede and the DMK's efforts to ensure accountability.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/dmkmoves-sc-in-karur-stampede-case-raises-concerns-on-probe-101783108207612.html"
+        },
+        {
+          "title": "SC critical of HC order but refuses to stay Sonam bail",
+          "summary": "The Supreme Court has expressed criticism of a Meghalaya High Court order granting bail to Sonam Raghu on technical grounds. However, the apex court has refused to stay the bail order. This case is notable as it involves a dispute over the grant of bail and the Supreme Court's scrutiny of lower court decisions.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/sc-critical-of-hc-order-but-refuses-to-stay-sonam-bail/articleshow/132170160.cms"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-05T02:28:46.828886+00:00",
     "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The passing of Iran's supreme leader Ali Khamenei has sparked a week-long mourning period, while India's national security planners are on high alert due to the ISI's use of deepfakes and disinformation to target Prime Minister Modi. Meanwhile, India's economy is navigating the challenges of a weak monsoon, with the RBI intervening to shield the rupee and Indian firms opting for dollar debt over rupee loans, as the central bank's policies aim to stabilize the economy amidst global tensions.",
     "categories": {
@@ -3649,146 +3777,6 @@
           "summary": "Adhir Ranjan Chowdhury has filed a PIL in the Supreme Court against the deletion of 2.7 million names from West Bengal's voter list, citing concerns over welfare and judicial delays. The petition seeks to address the issue of voter list deletions and its impact on citizens. The case highlights the importance of accurate voter lists and the need for efficient judicial processes.",
           "source": "Hindustan Times",
           "url": "https://www.hindustantimes.com/india-news/adhir-moves-sc-over-bengal-sir-deletions-101782497799156.html"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-06-28T08:44:29.207628+00:00",
-    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The ongoing war in the Middle East has led to a surge in Iran's inflation rate to 88.6%, while the World Bank has granted Bangladesh $1.1 billion in emergency aid to cope with economic challenges. In India, the economy is expected to slow down to 6.6% growth in FY27 due to energy stress and a sub-par monsoon, according to S&P Global Ratings, which may lead to a hike in the RBI policy rate. Meanwhile, the Indian startup ecosystem has seen a strong funding comeback, with venture funding crossing the $1 billion mark in a week, driven largely by CRED's significant fundraising round.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Iran's inflation surges to 88.6% as war deepens economic crisis",
-          "summary": "Iran's annual inflation rate has surged to 88.6% in June, the highest in recent months, due to the intensification of the Middle East war, which has put pressure on the country's already struggling economy. This crisis could have significant implications for the global economy. The situation is being closely monitored by international observers.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/international-business/irans-inflation-surges-to-88-6-as-war-deepens-economic-crisis/articleshow/132037963.cms"
-        },
-        {
-          "title": "Defence deal with China risks creating long-term dependency for Bangladesh",
-          "summary": "A defence deal between Bangladesh and China may create long-term dependency for Bangladesh, according to a report. The deal could provide opportunities for Bangladesh, but it also carries risks that need to be considered. This development is significant for the geopolitical dynamics in the region.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/defence-deal-with-china-risks-creating-long-term-dependency-for-bangladesh-report/"
-        },
-        {
-          "title": "Indian envoy to Shanghai discusses New Delhi-Beijing ties with Chinese scholars",
-          "summary": "India's Consul General in Shanghai, Pratik Mathur, has held discussions with Chinese scholars to bolster India-China relations and explore avenues for cooperation in trade, technology, and tourism. The talks also focused on resuming people-to-people exchanges, including the Kailash Mansarovar Yatra. This meeting is significant for improving bilateral relations between the two countries.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/india/indian-envoy-to-shanghai-discusses-new-delhi-beijing-ties-with-chinese-scholars/articleshow/132037628.cms"
-        },
-        {
-          "title": "World Bank grants Bangladesh $1.1 billion emergency aid as West Asia war strains economy",
-          "summary": "The World Bank has granted Bangladesh $1.1 billion in emergency aid to help the country cope with the economic challenges posed by the West Asia war. Bangladesh is also seeking additional financing from the International Monetary Fund (IMF) to shore up its foreign exchange reserves. This aid is crucial for Bangladesh's economic stability.",
-          "source": "Telegraph India",
-          "url": "https://www.telegraphindia.com/world/world-bank-grants-bangladesh-1-1-billion-emergency-aid-as-west-asia-war-strains-economy/cid/2167510"
-        },
-        {
-          "title": "Zelenskyy's new war plan: Ukraine launches 40-day campaign",
-          "summary": "Ukraine has launched a 40-day campaign to intensify pressure on Russia through a sustained wave of long-range drone strikes targeting strategic infrastructure. This new war plan is a significant development in the ongoing conflict between Ukraine and Russia. The campaign's outcome could have major implications for the geopolitical landscape.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/defence/international/zelenskyys-new-war-plan-ukraine-launches-40-day-deep-strike-campaign-inside-russia/articleshow/132030610.cms"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Explained: How India’s transition from WPI to PPI will strengthen inflation measurement",
-          "summary": "India is transitioning from the Wholesale Price Index (WPI) to the Producer Price Index (PPI) to strengthen inflation measurement, which will have implications for policy making. This change aims to improve the accuracy of inflation data, allowing for more informed decision-making. The shift is expected to enhance the effectiveness of monetary policy.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/explained-how-indias-transition-from-wpi-to-ppi-will-strengthen-inflation-measurement-what-it-means-for-policy-making/articleshow/132030869.cms"
-        },
-        {
-          "title": "RBI opens term money market to AIFIs, housing finance companies",
-          "summary": "The Reserve Bank of India has opened the term money market to All India Financial Institutions and housing finance companies, enabling them to borrow and lend. This move aims to increase market participation, improve liquidity, and strengthen monetary policy transmission by linking short-term and long-term interest rates. The change also includes increased prudential borrowing limits for primary dealers.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-opens-term-money-market-to-aifis-housing-finance-companies/articleshow/132005366.cms"
-        },
-        {
-          "title": "MSMEs key to India’s developed nation ambition: KDEM Chairman",
-          "summary": "Micro, small, and medium enterprises (MSMEs) are crucial for India's goal of becoming a developed nation by 2047, according to the Chairman of Karnataka Digital Economy Mission. To achieve this, the sector requires stronger policy support, easier access to capital, infrastructure, and talent. MSMEs are expected to play a pivotal role in driving India's economic growth.",
-          "source": "The Hindu Business Line",
-          "url": "https://www.thehindubusinessline.com/news/msmes-key-to-indias-developed-nation-ambition-kdem-chairman/article71146464.ece"
-        },
-        {
-          "title": "India's FY27 Growth Likely to Slow Down to 6.6% on Energy Stress, Sub-par Monsoon",
-          "summary": "S&P Global Ratings has projected India's GDP growth to slow down to 6.6% in FY27, citing energy stress, a sub-par monsoon, and weaker global demand. The report also warns of higher inflation and rising fuel and fertiliser costs, which may lead to a RBI policy rate hike in the second half of the fiscal. This slowdown is expected to have implications for India's economic growth.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/news/indias-fy27-growth-likely-to-slow-down-to-66-on-energy-stress-sub-par-monsoon-sp"
-        },
-        {
-          "title": "S&P Global Projects 110-Bps Drop In India's Economic Growth Amid Inflation Fears",
-          "summary": "S&P Global has projected a 110-bps drop in India's economic growth due to inflation concerns, which may lead to monetary policy tightening in the second half of the financial year. The RBI is expected to begin raising the repo rate from October, aiming to control inflation. This move is expected to have implications for India's economic growth and interest rates.",
-          "source": "NDTV Profit",
-          "url": "https://www.ndtvprofit.com/economy/s-p-global-projects-110-bps-drop-in-indias-economic-growth-amid-inflation-fears-11680797"
-        }
-      ],
-      "Business": [
-        {
-          "title": "Why Equirus is avoiding loss-making startups in its ₹1,500 crore fund",
-          "summary": "Equirus is launching a new ₹1,500 crore fund that will avoid investing in loss-making startups, reflecting a more selective approach in India's startup funding market. This shift is significant as the market becomes more cautious, with early-stage capital holding up better than late-stage funding. The fund's focus will be on profitable or near-profitable startups.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/companies/news/why-equirus-is-avoiding-loss-making-startups-in-its-1-500-crore-fund-11782469777507.html"
-        },
-        {
-          "title": "India startup funding tops $1 billion as CRED mega",
-          "summary": "India's startup ecosystem saw a strong funding comeback, with venture funding crossing the $1 billion mark in a week, driven largely by CRED's significant fundraising round. This rebound indicates a positive trend in the startup funding market. The funding surge is a notable development in the Indian startup space.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-tops-1-billion-dollars-as-cred-mega-round-powers-sharp-weekly-rebound-19933195.htm"
-        },
-        {
-          "title": "India's startup pipeline narrows despite rise in unicorns and IPOs in H1",
-          "summary": "Despite an increase in unicorns and IPOs, India's startup pipeline has narrowed, with technology startups raising $7.2 billion across 652 equity funding rounds in the first half of the year. This trend suggests a shift in the startup ecosystem, with a focus on established players. The funding amount is notable, but the narrowing pipeline may indicate a more competitive market.",
-          "source": "The New Indian Express",
-          "url": "https://www.newindianexpress.com/business/2026/Jun/25/indias-startup-pipeline-narrows-despite-rise-in-unicorns-and-ipos-in-h1"
-        },
-        {
-          "title": "India tech funding rises 12 pc to $7.2 billion in H1 2026: Report",
-          "summary": "India's technology startup ecosystem attracted $7.2 billion in funding during the first half of 2026, a 12% increase from the previous year. This growth indicates a positive trend in the tech funding space. The report highlights the resilience of the Indian startup ecosystem despite global economic uncertainties.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/technology/india-tech-funding-rises-12-pc-to-72-billion-in-h1-2026-report-1/"
-        },
-        {
-          "title": "Steamhouse raises ₹50 crore in pre-IPO funding from Madhusudhan Kela-backed funds, Niveshaay",
-          "summary": "Steamhouse India has raised ₹50 crore in pre-IPO funding from investors, including Madhusudhan Kela-backed funds and Niveshaay, to expand operations and reduce debt ahead of its public offering. This funding round is significant as it indicates investor confidence in the company's growth prospects. The pre-IPO funding will help Steamhouse prepare for its upcoming public listing.",
-          "source": "The Hindu Business Line",
-          "url": "https://www.thehindubusinessline.com/markets/steamhouse-raises-50-crore-in-pre-ipo-funding-from-madhusudhan-kela-backed-funds-niveshaay/article71144985.ece"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Government Orders All Ministries to Remove Stray Dogs From Their Campuses, Sets June 30 Deadline",
-          "summary": "The Indian government has ordered all ministries to remove stray dogs from their campuses by June 30, following a Supreme Court ruling on safety. This move aims to ensure public safety in areas such as schools and hospitals. The deadline is set for June 30, 2026.",
-          "source": "Republic World",
-          "url": "https://www.republicworld.com/india/government-orders-all-ministries-to-remove-stray-dogs-from-their-campuses-sets-june-30-deadline-2026-06-27-130183"
-        },
-        {
-          "title": "We visited 10 Delhi neighbourhoods after SC's 'right to walk' ruling. Here's what we found",
-          "summary": "After the Supreme Court affirmed the right to walk, an investigation found that footpaths in Delhi are often blocked, broken, or narrowed. The mayor has promised to take action to address these issues. The Supreme Court's ruling has highlighted the need for safe and accessible pedestrian infrastructure.",
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/lifestyle/society/story/we-visited-10-delhi-neighbourhoods-after-scs-right-to-walk-ruling-heres-what-we-found-2934938-2026-06-27"
-        },
-        {
-          "title": "The right to walk: A call for a new legal framework in India",
-          "summary": "The Supreme Court's judgment declaring the right to walk on safe footpaths a fundamental right has sparked calls for a new legal framework in India. The current Motor Vehicles Act, 1988, does not recognize pedestrian rights, highlighting the need for updated legislation. This development has significant implications for Indian jurisprudence.",
-          "source": "Daily Excelsior",
-          "url": "https://www.dailyexcelsior.com/the-right-to-walk-a-call-for-a-new-legal-framework-in-india/"
-        },
-        {
-          "title": "Homebuyers can seek relief for delay after possession: Supreme Court",
-          "summary": "The Supreme Court has ruled that homebuyers can seek relief for delays in possession of their flats, even after taking possession. This decision allows homebuyers to raise complaints against real estate companies for deficiency in services. The ruling provides protection for homebuyers and holds developers accountable for delays.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/homebuyers-can-seek-relief-for-delay-after-possession-supreme-court/articleshow/132026736.cms"
-        },
-        {
-          "title": "Adhir moves SC over Bengal SIR deletions",
-          "summary": "Adhir Ranjan Chowdhury has filed a PIL in the Supreme Court against the deletion of 2.7 million names from West Bengal's voter list, citing concerns over welfare and judicial delays. The petition seeks to address the issue of voter list deletions and its impact on citizens. The Supreme Court's response will have implications for electoral processes in India.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/adhir-moves-sc-over-bengal-sir-deletions-101782497799156.html"
-        },
-        {
-          "title": "BJP saving big fish, Supreme Court must monitor probe: Congress",
-          "summary": "The Congress party has demanded a Supreme Court-monitored investigation into the Ayodhya donation case, alleging that the BJP is protecting key individuals involved. The party has rejected the UP police probe, citing concerns over impartiality. The demand for a Supreme Court-monitored probe highlights the need for transparency and accountability in the investigation.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/bjp-saving-big-fish-supreme-court-must-monitor-probe-congress/articleshow/132024796.cms"
         }
       ]
     }
