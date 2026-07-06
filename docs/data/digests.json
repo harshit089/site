@@ -1,5 +1,127 @@
 [
   {
+    "generated_at": "2026-07-06T19:46:51.169369+00:00",
+    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. In geopolitics, Israeli Prime Minister Netanyahu has claimed support from India, while crucial diplomatic talks are set to take place at the NATO summit, which may impact global politics. Meanwhile, in India, the economy is witnessing notable developments, including the launch of the RBI's 74th manufacturing sector survey and a surge in the rupee's defence, with the central bank's net short forward position reaching a record high. Additionally, India's private credit market is poised for sustained growth, with family offices emerging as key sources of patient capital for start-ups, underscoring the country's evolving economic landscape.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Israel's Netanyahu claims support from India, counters US Vice President Vance",
+          "summary": "Israeli Prime Minister Netanyahu has claimed that India supports him, countering US Vice President Vance's statement. This highlights the complex relationships between countries and their alliances. India's support for Israel is significant in the context of global geopolitics.",
+          "source": "Malayala Manorama",
+          "url": "https://www.onmanorama.com/news/world/2026/07/06/have-support-from-india-netanyahu-counters-vance.html"
+        },
+        {
+          "title": "High-Stakes Diplomatic Talks at NATO Summit",
+          "summary": "The NATO summit in Turkey will host crucial meetings between US President Trump and Ukrainian President Zelenskiy, as well as Syrian President Ahmed al-Sharaa. These talks are significant amid ongoing geopolitical tensions and highlight the importance of international relations. The outcomes of these meetings may impact global politics.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3945499-high-stakes-diplomatic-talks-at-nato-summit"
+        },
+        {
+          "title": "US Congressional hearing examines CIA's use of universities, hospitals, prisons",
+          "summary": "A US Congressional hearing has scrutinized the CIA's Cold War-era MKULTRA programme, which involved the use of universities, hospitals, and prisons. This examination highlights concerns about human rights and the ethics of government agencies. The hearing may lead to further investigations and reforms.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/us-congressional-hearing-examines-cias-use-of-universities-hospitals-prisons/"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Experts Shed Light on E20 Fuel: Dispelling Myths and Highlighting Benefits",
+          "summary": "Energy industry experts have clarified misconceptions about India's E20 ethanol-blended petrol mandate, highlighting its minimal impact on mileage and addressing concerns over older vehicle compatibility. The policy is expected to have economic and environmental benefits. This development is significant for India's fuel economy and vehicle safety.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3945312-experts-shed-light-on-e20-fuel-dispelling-myths-and-highlighting-benefits"
+        },
+        {
+          "title": "Balancing Innovation and Stability: India's Progress on Digital Rupee Discussed",
+          "summary": "The Parliamentary Standing Committee on Finance met with RBI officials to review India's Central Bank Digital Currency progress and the broader digital asset landscape. The meeting focused on regulatory challenges, taxation issues, and potential policy interventions to bolster India's digital financial ecosystem. This discussion is crucial for India's digital financial growth.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3944082-balancing-innovation-and-stability-indias-progress-on-digital-rupee-discussed"
+        },
+        {
+          "title": "RBI Kicks Off 74th Manufacturing Sector Survey: A Key Tool for Economic Analysis",
+          "summary": "The Reserve Bank of India has launched its 74th Order Books, Inventories, and Capacity Utilisation Survey for the manufacturing sector, covering April-June 2026. This survey collects operational data to aid monetary policy and captures order volumes, inventory details, and capacity use. The survey is a key tool for economic analysis and decision-making.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3943710-rbi-kicks-off-74th-manufacturing-sector-survey-a-key-tool-for-economic-analysis"
+        },
+        {
+          "title": "Nomura, HSBC split on RBI rate outlook as weak monsoon fuels inflation risks",
+          "summary": "Economists from Nomura and HSBC have differing outlooks on the RBI's next policy move due to the impact of a weak monsoon on India's economy. They share their views on GDP growth, food inflation, the rupee, and balance of payments. This split in opinion reflects the uncertainty surrounding India's economic prospects.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/economy/nomura-hsbc-rbi-rate-outlook-weak-monsoon-food-inflation-sonal-varma-pranjul-bhandari-19936402.htm"
+        },
+        {
+          "title": "Rupee's defence takes RBI dollar shorts to a record high",
+          "summary": "The Reserve Bank of India's net short forward position in the currency market has surged to a record $106.6 billion in May, indicating significant interventions to shield the rupee from hitting new lows. The central bank faces a decision on whether to reduce its forward position or bolster reserves, which will impact India's currency market and economy.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupees-defence-takes-rbi-dollar-shorts-to-a-record-high/articleshow/132103620.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "India's banks are handing out more loans, but deposits aren't keeping up",
+          "summary": "Indian banks have seen a surge in lending, outpacing deposit growth and widening the funding gap. This trend, driven by demand from corporate and retail sectors, has pushed the loan-to-deposit ratio to a decade-high, raising concerns about funding sustainability. The varied strategies of lenders amidst intense competition are also reflected in this trend.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-banks-are-handing-out-more-loans-but-deposits-arent-keeping-up/articleshow/132177579.cms"
+        },
+        {
+          "title": "Almost half of UDAN routes have become non-operational, says report",
+          "summary": "Nearly half of India's UDAN regional flight routes have become non-operational due to viability gap support, infrastructure delays, and airline distress. The government has launched a revamped phase with higher subsidies and airport funding. This development may impact the country's flagship connectivity scheme.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/news/almost-half-of-udan-routes-have-become-non-operational-says-report"
+        },
+        {
+          "title": "Inspira seals Rs 1,800-crore private credit for Burger King buy in India",
+          "summary": "Inspira Global has secured ₹1,800 crore in private credit to acquire a controlling stake in India's Burger King operator. The company has already raised ₹1,050 crore via NCDs, with the remaining ₹800 crore anticipated this month. This significant funding signals a major move into the quick-service restaurant sector.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/inspira-seals-rs-1800-crore-private-credit-for-burger-king-buy-in-india/articleshow/132174770.cms"
+        },
+        {
+          "title": "India's family offices emerge as key sources of patient capital for start-ups",
+          "summary": "India's family offices are emerging as one of the key sources of patient capital for funding start-ups, innovation, and the country's next phase of entrepreneurial growth. They are playing a crucial role in supporting the growth of start-ups and innovation in the country. This development is significant for the Indian start-up ecosystem.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/magazine/india-built-a-start-up-ecosystem-on-foreign-capital-family-offices-may-now-have-to-keep-it-rolling"
+        },
+        {
+          "title": "India's private credit market primed for sustained growth",
+          "summary": "India's private credit market is poised for significant expansion, projected to reach $50 billion by 2030, fueled by increasing corporate funding needs and limitations faced by traditional banks. The real estate and infrastructure sectors are leading this growth, with promoter financing also playing a crucial role. New RBI regulations may introduce greater competition in this market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/indias-private-credit-market-primed-for-sustained-growth/articleshow/132146330.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Karur stampede case: SC to hear plea alleging TVK ministers 'influencing' witnesses",
+          "summary": "The Supreme Court has agreed to hear a plea alleging that some accused in the Karur stampede case are trying to influence witnesses. The case is significant as it raises concerns about the fairness of the investigation and the potential for political interference. The court's decision will be crucial in ensuring justice is served.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/karur-stampede-case-sc-to-hear-plea-alleging-tvk-ministers-influencing-witnesses/articleshow/132208503.cms"
+        },
+        {
+          "title": "Mumbai To Get India’s First City-Wide Master Pedestrian Network Plan, BMC Tells Supreme Court",
+          "summary": "The Brihanmumbai Municipal Corporation (BMC) is preparing a city-wide master pedestrian network plan for Mumbai, which aims to create a continuous and accessible footpath network. The plan will use advanced technologies like GIS, LiDAR, and drone mapping to identify missing links and improve connectivity with public transport. This initiative is significant as it prioritizes pedestrian safety and accessibility in urban planning.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/mumbai/mumbai-to-get-indias-first-city-wide-master-pedestrian-network-plan-bmc-tells-supreme-court"
+        },
+        {
+          "title": "Supreme Court Sounds Alarm On Overdependence On AI For Analyses On Legal Matters",
+          "summary": "The Supreme Court has warned against the overreliance on artificial intelligence (AI) in legal reasoning, citing instances where fake precedents generated by AI influenced court orders. The court has directed the Bar Council of India to frame guidelines to prevent the misuse of AI in courts. This decision highlights the need for caution when using AI in legal analyses and the importance of ensuring the integrity of the judicial process.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/analysis/supreme-court-sounds-alarm-on-overdependence-on-ai-for-analyses-on-legal-matters"
+        },
+        {
+          "title": "Inaccurate to say passport is only travel document, says former Supreme Court judge Madan Lokur",
+          "summary": "Former Supreme Court judge Madan Lokur has stated that it is inaccurate to say that a passport is only a travel document, emphasizing that holding an Indian passport implies citizenship. This clarification is significant as it highlights the importance of understanding the legal implications of holding a passport and the rights associated with citizenship.",
+          "source": "Scroll.in",
+          "url": "https://scroll.in/latest/1094063/inaccurate-to-say-passport-is-only-travel-document-says-former-supreme-court-judge-madan-lokur"
+        },
+        {
+          "title": "Supreme Court: After Supreme Court judgment, who will reclaim our footpaths?",
+          "summary": "A recent Supreme Court judgment has highlighted the issue of pedestrian safety and the need to reclaim footpaths from encroachments. The article raises questions about who will take responsibility for ensuring that footpaths are safe and accessible for pedestrians. This issue is significant as it affects the daily lives of citizens and requires a collective effort to address.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/the-right-to-walk-after-supreme-court-judgement-who-will-reclaim-our-footpaths/articleshow/132194074.cms"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-06T15:18:31.265659+00:00",
     "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. In geopolitics, the NATO summit is set to host crucial meetings between US President Donald Trump and Ukrainian President Volodymyr Zelenskiy, while outgoing British Prime Minister Keir Starmer emphasizes the importance of diplomacy in modern governance. Meanwhile, in the economy, India's energy sector is poised for a shift with the introduction of E20 fuel, and the Reserve Bank of India is taking steps to bolster the country's digital financial ecosystem, including the launch of its Central Bank Digital Currency and a survey of the manufacturing sector. These developments are intertwined, as geopolitical tensions and diplomatic efforts can have far-reaching implications for global economies and national affairs.",
     "categories": {
@@ -3637,128 +3759,6 @@
           "summary": "The Bombay High Court has reaffirmed that access to clean water is a fundamental right under Article 21 of the Constitution. The court criticized the Maharashtra government for failing to ensure water supply, citing the public trust doctrine and the need for stronger implementation to address rising pollution and urban water stress. This ruling has implications for the government's responsibility to provide clean water to its citizens.",
           "source": "Free Press Journal",
           "url": "https://www.freepressjournal.in/analysis/people-have-a-fundamental-right-to-clean-water"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-06-29T19:48:42.496802+00:00",
-    "brief": "Crude oil prices have risen above $70 per barrel due to escalating US-Iran tensions, which may impact the global economy and inflation. Meanwhile, in India, the government is considering a subsidy to help MSME exporters mitigate the effects of the EU's Carbon Border Adjustment Mechanism, and the RBI has opened the term money market to All India Financial Institutions and housing finance companies to deepen market participation. Additionally, India's startup ecosystem has seen a strong funding comeback, with venture funding crossing the $1 billion mark in a week, driven largely by significant investments in technology startups.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Crude oil prices rise amid escalating US-Iran war, supply fears; Brent above $70 per barrel",
-          "summary": "The escalating US-Iran war has led to a rise in crude oil prices, with Brent crude gaining 0.36% to trade at $72.25 a barrel and US benchmark West Texas Intermediate crude futures rising 0.71% to $69.72 a barrel. This increase is due to supply fears, and it may have implications for the global economy. The rise in oil prices can impact inflation, trade, and economic growth.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/market/commodities/crude-oil-prices-rise-amid-escalating-us-iran-war-supply-fears-brent-above-70-per-barrel-11782695660401.html"
-        },
-        {
-          "title": "The Nord Stream Conspiracy: An international war story in blockbuster prose",
-          "summary": "The book 'The Nord Stream Conspiracy' by Bojan Pancevski investigates the planning, execution, and fallout of the 2022 pipeline sabotage. The sabotage has significant implications for international relations, energy security, and global politics. The book provides an in-depth look at the events surrounding the sabotage and its impact on the global landscape.",
-          "source": "Business Standard",
-          "url": "https://www.business-standard.com/book/the-nord-stream-conspiracy-an-international-war-story-in-blockbuster-prose-126062800818_1.html"
-        },
-        {
-          "title": "Centre Eyes Subsidy To Ease EU Carbon Border Tax Burden On MSME Exporters: Report",
-          "summary": "The Indian government is considering a subsidy to help MSME exporters mitigate the impact of the EU's Carbon Border Adjustment Mechanism (CBAM). The CBAM is a tax on imports from countries with less stringent climate policies, and it may disproportionately affect Indian exporters, particularly in the iron and steel sector. The subsidy aims to ease the burden on MSME exporters and help them remain competitive in the global market.",
-          "source": "NDTV Profit",
-          "url": "https://www.ndtvprofit.com/economy/centre-eyes-subsidy-to-ease-eu-carbon-border-tax-burden-on-msme-exporters-report-11698708"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "NRI money could ease banks' funding crunch before powering India's capex: Axis Bank CEO",
-          "summary": "Axis Bank CEO Amitabh Chaudhry says Indian banks will leverage new foreign-currency deposits from NRIs to replace costly funding, which will be used to support infrastructure, data centers, and real estate. This move is expected to ease pressure from a widening gap between loan and deposit growth. The influx of funds will also help support the rupee.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/nri/invest/nri-money-could-ease-banks-funding-crunch-before-powering-indias-capex-axis-bank-ceo/articleshow/132064271.cms"
-        },
-        {
-          "title": "Weekly economy wrap: Core sector slowdown, US trade talks shape policy week",
-          "summary": "India's policy week was marked by US trade talks, a slowdown in core sector output, and stronger foreign direct investment. The government also pushed for coal-import substitution and faster disinvestment. These developments are expected to shape the country's economic policy.",
-          "source": "Business Standard",
-          "url": "https://www.business-standard.com/economy/news/weekly-economy-wrap-core-sector-us-trade-talks-fdi-disinvestment-126062800183_1.html"
-        },
-        {
-          "title": "Explained: How India’s transition from WPI to PPI will strengthen inflation measurement - what it means for policy making",
-          "summary": "India is transitioning from the Wholesale Price Index (WPI) to the Producer Price Index (PPI) to measure inflation. This change is expected to strengthen inflation measurement and improve policy making. The new index will provide a more accurate picture of price changes in the economy.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/explained-how-indias-transition-from-wpi-to-ppi-will-strengthen-inflation-measurement-what-it-means-for-policy-making/articleshow/132030869.cms"
-        },
-        {
-          "title": "RBI opens term money market to AIFIs, housing finance companies",
-          "summary": "The Reserve Bank of India has opened the term money market to All India Financial Institutions and housing finance companies, allowing them to borrow and lend. This move aims to deepen market participation, improve liquidity, and strengthen monetary policy transmission by linking short-term and long-term interest rates.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-opens-term-money-market-to-aifis-housing-finance-companies/articleshow/132005366.cms"
-        }
-      ],
-      "Business": [
-        {
-          "title": "IIFCL plans $1 billion overseas loan, also eyes $400 million ADB funding to back infrastructure push",
-          "summary": "India Infrastructure Finance Company Ltd (IIFCL) is planning to raise $1 billion from overseas investors to support the country's infrastructure development. This move is part of the government's efforts to boost infrastructure growth. The funding will help IIFCL to finance various infrastructure projects in India.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/iifcl-plans-1-billion-overseas-loan-also-eyes-400-million-adb-funding-to-back-infrastructure-push/articleshow/132065387.cms"
-        },
-        {
-          "title": "Where are the unicorns of 2021",
-          "summary": "In 2021, 39 Indian startups achieved unicorn status, but now they are navigating a changed landscape with global uncertainties and investor caution. Some of these startups are securing significant investments, while others are adapting their strategies or pursuing public listings. This reflects the evolving dynamics of the startup ecosystem in India.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/tech/startups/where-are-the-unicorns-of-2021/articleshow/132045249.cms"
-        },
-        {
-          "title": "Why Equirus is avoiding loss-making startups in its ₹1,500 crore fund",
-          "summary": "Equirus is launching a new fund of ₹1,500 crore, but it will avoid investing in loss-making startups. This approach reflects the changing startup funding market in India, which has become more selective. The fund will focus on investing in startups with strong growth potential and financial discipline.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/companies/news/why-equirus-is-avoiding-loss-making-startups-in-its-1-500-crore-fund-11782469777507.html"
-        },
-        {
-          "title": "India startup funding tops $1 billion as CRED mega",
-          "summary": "India's startup ecosystem has seen a strong funding comeback, with venture funding crossing the $1 billion mark in a week. This was driven largely by CRED's significant fundraising round. The surge in funding reflects the growing interest of investors in the Indian startup space.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-tops-1-billion-dollars-as-cred-mega-round-powers-sharp-weekly-rebound-19933195.htm"
-        },
-        {
-          "title": "India's startup pipeline narrows despite rise in unicorns and IPOs in H1",
-          "summary": "Despite a rise in unicorns and IPOs, India's startup pipeline has narrowed in the first half of 2026. Technology startups raised $7.2 billion across 652 equity funding rounds during this period. This trend reflects the evolving nature of the startup ecosystem in India, with a focus on consolidation and growth.",
-          "source": "The New Indian Express",
-          "url": "https://www.newindianexpress.com/business/2026/Jun/25/indias-startup-pipeline-narrows-despite-rise-in-unicorns-and-ipos-in-h1"
-        },
-        {
-          "title": "India tech funding rises 12 pc to $7.2 billion in H1 2026: Report",
-          "summary": "India's technology startup ecosystem attracted $7.2 billion in funding during the first half of 2026, a 12% increase from the previous year. This growth reflects the strong demand for technology solutions in India and the growing interest of investors in the sector. The funding will help startups to scale up their operations and expand their services.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/business/india-tech-funding-rises-12-pc-to-72-billion-in-h1-2026-report/"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "BJP seeks cancellation of Kannur Corporation councillors' oath over 'Allah' reference",
-          "summary": "The BJP has challenged the oaths of 19 councillors in Kannur Corporation, alleging they violated statutory forms by referencing 'Allah' during their oath-taking ceremony. This controversy highlights the complexities of oath-taking in a diverse country like India. The Kerala High Court's ruling will be crucial in resolving this issue.",
-          "source": "Malayala Manorama",
-          "url": "https://www.onmanorama.com/news/kerala/2026/06/29/bjp-seeks-cancellation-of-kannur-councillors-oath-over-allah-reference.html"
-        },
-        {
-          "title": "'Heavens are not going to fall': SC refuses urgent hearing on plea seeking CBI probe into Ayodhya Ram Mandir donation theft row",
-          "summary": "The Supreme Court has refused an urgent hearing on a petition seeking a CBI probe into the alleged theft of donations at the Ayodhya Ram Mandir. The court's decision indicates that it does not consider the matter urgent, and a regular hearing will be scheduled. This case has sparked controversy and demands for a thorough investigation.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/heavens-are-not-going-to-fall-sc-refuses-urgent-hearing-on-plea-seeking-cbi-probe-into-ayodhya-ram-mandir-donation-theft-row/articleshow/132063901.cms"
-        },
-        {
-          "title": "Law must act as shield for innocent, not as a sword for the vindictive: Supreme Court",
-          "summary": "The Supreme Court has emphasized that the law should protect the innocent and not be used to harass or victimize individuals. The court highlighted the social stigma and harm caused by criminal proceedings, stressing the need for careful consideration in such cases. This statement underscores the importance of upholding justice and protecting individual rights.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/law-must-act-as-shield-for-innocent-not-as-a-sword-for-the-vindictive-supreme-court/articleshow/132058548.cms"
-        },
-        {
-          "title": "People Have A Fundamental Right To Clean Water",
-          "summary": "The Bombay High Court has reaffirmed that access to clean water is a fundamental right under Article 21 of the Constitution. The court criticized the Maharashtra government for failing to ensure adequate water supply, citing the public trust doctrine and the need for stronger implementation to address rising pollution and water stress. This ruling emphasizes the importance of access to clean water as a basic human right.",
-          "source": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/analysis/people-have-a-fundamental-right-to-clean-water"
-        },
-        {
-          "title": "Supreme Court Backs Homebuyers Rights, Says Compensation Can Be Claimed Even After Taking Flat Possession",
-          "summary": "The Supreme Court has ruled that homebuyers can claim compensation for delayed delivery even after taking possession of their flats. This verdict is a significant relief for homebuyers and sets an important precedent for similar disputes across India. The court's decision aims to protect the rights of homebuyers and promote fairness in the real estate sector.",
-          "source": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/business/supreme-court-backs-homebuyers-rights-says-compensation-can-be-claimed-even-after-taking-flat-possession"
         }
       ]
     }
