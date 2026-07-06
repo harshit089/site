@@ -1,5 +1,145 @@
 [
   {
+    "generated_at": "2026-07-06T10:03:10.453341+00:00",
+    "brief": "Today's brief highlights key developments across geopolitics, economy, and national affairs, with a focus on diplomatic efforts, economic growth, and domestic policy. The NATO summit has brought international relations to the forefront, with the US President meeting with Ukrainian and Syrian leaders to address global issues, while in the UK, outgoing Prime Minister Keir Starmer has emphasized the importance of diplomacy in maintaining international standing. Meanwhile, in India, the economy is witnessing significant shifts, with the RBI launching its 74th manufacturing sector survey and experts shedding light on the benefits of E20 fuel, as the country navigates its digital financial ecosystem and balances innovation with stability.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "High-Stakes Diplomatic Talks at NATO Summit",
+          "summary": "US President Donald Trump is scheduled to meet with Ukrainian President Volodymyr Zelenskiy and Syrian President Ahmed al-Sharaa at the NATO summit in Turkey, highlighting the importance of international relations amid ongoing geopolitical tensions. These talks signify the need for diplomatic efforts to address global issues. The meetings are crucial for maintaining international cooperation and stability.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3945499-high-stakes-diplomatic-talks-at-nato-summit"
+        },
+        {
+          "title": "US Congressional hearing examines CIA's use of universities, hospitals, prisons",
+          "summary": "A US Congressional hearing has renewed scrutiny of the CIA's Cold War-era MKULTRA programme, which involved the use of universities, hospitals, and prisons. The hearing aims to examine the extent of the CIA's involvement in these institutions and the implications for human rights and national security. This development highlights the ongoing debate about the balance between national security and individual rights.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/us-congressional-hearing-examines-cias-use-of-universities-hospitals-prisons/"
+        },
+        {
+          "title": "'I don't think it is possible': Keir Starmer says next PM cannot spend less time on diplomacy",
+          "summary": "Outgoing UK Prime Minister Keir Starmer has defended the time he devoted to international affairs during his tenure, stating that the next PM cannot afford to spend less time on diplomacy. Starmer emphasized the importance of diplomacy in addressing global issues and maintaining the UK's international standing. His comments highlight the challenges of balancing domestic and international priorities.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/world/uk/i-dont-think-it-is-possible-keir-starmer-says-next-pm-cannot-spend-less-time-on-diplomacy/articleshow/132178287.cms"
+        },
+        {
+          "title": "Keir Starmer's Legacy: Balancing Act of Diplomacy and Domestic Focus",
+          "summary": "Outgoing UK Prime Minister Keir Starmer has emphasized the need for a balanced approach to international and domestic policies, citing the restored global standing of the UK during his tenure. Starmer's potential successor, Andy Burnham, aims to prioritize domestic issues, highlighting the ongoing debate about the balance between international engagement and domestic focus. This development highlights the challenges of leadership in navigating complex geopolitical and domestic landscapes.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3945172-keir-starmers-legacy-balancing-act-of-diplomacy-and-domestic-focus"
+        },
+        {
+          "title": "ISI's new war on India targets PM Modi with deepfakes and disinformation",
+          "summary": "India's national security planners have identified a new campaign by the Inter Services Intelligence (ISI) targeting Prime Minister Narendra Modi with deepfakes and disinformation. This development highlights the evolving nature of geopolitical threats and the need for governments to address the spread of misinformation. The use of deepfakes and disinformation poses significant challenges for national security and diplomacy.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/isis-new-war-on-india-targets-pm-modi-with-deepfakes-and-disinformation-1/"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Experts Shed Light on E20 Fuel: Dispelling Myths and Highlighting Benefits",
+          "summary": "Energy industry experts have clarified misconceptions about India's E20 ethanol-blended petrol mandate, highlighting its minimal impact on vehicle mileage and its economic and environmental benefits. The experts also addressed concerns over older vehicle compatibility. This development is significant for India's fuel economy and vehicle safety debates.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3945312-experts-shed-light-on-e20-fuel-dispelling-myths-and-highlighting-benefits"
+        },
+        {
+          "title": "Balancing Innovation and Stability: India's Progress on Digital Rupee Discussed",
+          "summary": "The Parliamentary Standing Committee on Finance met with RBI officials to review India's Central Bank Digital Currency progress and discuss regulatory challenges, taxation issues, and policy interventions. This meeting is crucial for shaping India's digital financial ecosystem. The discussion aims to balance innovation and stability in the country's digital currency landscape.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3944082-balancing-innovation-and-stability-indias-progress-on-digital-rupee-discussed"
+        },
+        {
+          "title": "RBI Kicks Off 74th Manufacturing Sector Survey: A Key Tool for Economic Analysis",
+          "summary": "The Reserve Bank of India has launched its 74th survey for the manufacturing sector, covering April-June 2026, to collect operational data for monetary policy. The survey will capture order volumes, inventory details, and capacity use, aiding economic analysis. This initiative is a key tool for understanding the manufacturing sector's performance and its impact on the economy.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3943710-rbi-kicks-off-74th-manufacturing-sector-survey-a-key-tool-for-economic-analysis"
+        },
+        {
+          "title": "Nomura, HSBC split on RBI rate outlook as weak monsoon fuels inflation risks",
+          "summary": "Economists from Nomura and HSBC have differing views on the RBI's next policy move due to a weak monsoon, which may fuel inflation risks. They assess the impact on India's economy, including GDP growth, food inflation, and the rupee. This split in outlook reflects the uncertainty surrounding the RBI's future actions.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/economy/nomura-hsbc-rbi-rate-outlook-weak-monsoon-food-inflation-sonal-varma-pranjul-bhandari-19936402.htm"
+        },
+        {
+          "title": "Rupee's defence takes RBI dollar shorts to a record high",
+          "summary": "The Reserve Bank of India's net short forward position in the currency market has surged to a record $106.6 billion in May, indicating significant interventions to shield the rupee. The central bank faces a decision on whether to reduce its forward position or bolster reserves, as the rupee has recovered from its record low due to capital inflows and policy measures.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupees-defence-takes-rbi-dollar-shorts-to-a-record-high/articleshow/132103620.cms"
+        },
+        {
+          "title": "India Inc eyes more dollar debt as RBI policy support kicks in",
+          "summary": "Indian firms are increasingly opting for dollar debt due to the RBI's moves to lower hedging costs and ease rules. This shift is driven by central bank policies in February and June, which have made offshore funds more attractive than rupee loans. As a result, local firms are aggressively swapping out rupee loans for external commercial borrowings.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/market/bonds/rbi-ecb-guidelines-external-commercial-borrowings-11782813258132.html"
+        }
+      ],
+      "Business": [
+        {
+          "title": "India's banks are handing out more loans, but deposits aren't keeping up",
+          "summary": "Indian banks have seen a surge in lending, outpacing deposit growth and widening the funding gap, with the loan-to-deposit ratio reaching a decade-high. This trend is driven by demand from corporate and retail sectors, raising concerns about funding sustainability. The varied strategies of lenders have resulted in some deposits declining while others have maintained a balance.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-banks-are-handing-out-more-loans-but-deposits-arent-keeping-up/articleshow/132177579.cms"
+        },
+        {
+          "title": "Operational, Says Report – Outlook Business",
+          "summary": "Almost half of India's UDAN regional flight routes have become non-operational, despite the government launching a revamped phase with higher subsidies and airport funding. The non-operational routes are due to viability gap support, infrastructure delays, and airline distress, which are reshaping the country's flagship connectivity scheme. This development affects the country's regional air connectivity.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/news/almost-half-of-udan-routes-have-become-non-operational-says-report"
+        },
+        {
+          "title": "Inspira seals Rs 1,800-crore private credit for Burger King buy in India",
+          "summary": "Inspira Global has secured ₹1,800 crore in private credit to acquire a controlling stake in India's Burger King operator. The funding is a significant move into the quick-service restaurant sector, with ₹1,050 crore already raised via NCDs and the remaining ₹800 crore expected to be raised this month. This deal highlights the growing interest in India's food business sector.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/inspira-seals-rs-1800-crore-private-credit-for-burger-king-buy-in-india/articleshow/132174770.cms"
+        },
+        {
+          "title": "Up Ecosystem on Foreign Capital, Family Offices May Now Have to Keep it Rolling – Outlook Business",
+          "summary": "India's family offices are emerging as key sources of patient capital for funding start-ups, innovation, and the country's next phase of entrepreneurial growth. This development is crucial as India's start-up ecosystem has been largely dependent on foreign capital. Family offices are now expected to play a significant role in sustaining the ecosystem.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/magazine/india-built-a-start-up-ecosystem-on-foreign-capital-family-offices-may-now-have-to-keep-it-rolling"
+        },
+        {
+          "title": "India's private credit market primed for sustained growth",
+          "summary": "India's private credit market is expected to reach $50 billion by 2030, driven by increasing corporate funding needs and limitations faced by traditional banks. The real estate and infrastructure sectors are leading this growth, with promoter financing also playing a crucial role. New RBI regulations allowing bank acquisition financing may introduce greater competition in the market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/indias-private-credit-market-primed-for-sustained-growth/articleshow/132146330.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Mumbai To Get India’s First City-Wide Master Pedestrian Network Plan, BMC Tells Supreme Court",
+          "summary": "The BMC is creating India's first city-wide master pedestrian network plan for Mumbai, aiming to create a continuous and accessible footpath network and improve connectivity with public transport. This plan uses advanced technologies like GIS, LiDAR, and drone mapping. The Supreme Court will hear the matter next on September 3.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/mumbai/mumbai-to-get-indias-first-city-wide-master-pedestrian-network-plan-bmc-tells-supreme-court"
+        },
+        {
+          "title": "Supreme Court Sounds Alarm On Overdependence On AI For Analyses On Legal Matters",
+          "summary": "The Supreme Court has warned against overreliance on artificial intelligence in legal reasoning, citing instances where fake precedents generated by AI influenced court orders. The court has directed the Bar Council of India to frame guidelines and disciplinary measures to prevent misuse of AI in courts. This move aims to ensure the integrity of the legal process.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/analysis/supreme-court-sounds-alarm-on-overdependence-on-ai-for-analyses-on-legal-matters"
+        },
+        {
+          "title": "Inaccurate to say passport is only travel document, says former Supreme Court judge Madan Lokur",
+          "summary": "Former Supreme Court judge Madan Lokur has stated that it is inaccurate to say a passport is only a travel document, suggesting that it is also a proof of citizenship. He emphasized the need to clarify the legal position that a person holding an Indian passport is a citizen of India. This clarification is important for understanding the rights and privileges associated with Indian citizenship.",
+          "source": "Scroll.in",
+          "url": "https://scroll.in/latest/1094063/inaccurate-to-say-passport-is-only-travel-document-says-former-supreme-court-judge-madan-lokur"
+        },
+        {
+          "title": "The right to walk: After Supreme Court judgement, who will reclaim our footpaths?",
+          "summary": "A recent Supreme Court judgment has highlighted the importance of pedestrian infrastructure, following the death of a child who was killed by a tanker while walking to school due to the absence of a footpath. The judgment emphasizes the need for reclaiming footpaths and ensuring the right to walk safely. This issue is crucial for urban planning and pedestrian safety in India.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/the-right-to-walk-after-supreme-court-judgement-who-will-reclaim-our-footpaths/articleshow/132194074.cms"
+        },
+        {
+          "title": "Shri Krishna Janmabhoomi-Shahi Idgah dispute: Hindu side attends Lok Adalat, proposes relocation of mosque",
+          "summary": "A special Lok Adalat was held in Mathura as part of the Supreme Court's efforts to resolve the Shri Krishna Janmabhoomi-Shahi Idgah dispute amicably. The Hindu side attended the Lok Adalat and proposed the relocation of the mosque. This development is part of the ongoing efforts to find a peaceful resolution to the dispute.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/shri-krishna-janmabhoomi-shahi-idgah-dispute-hindu-side-attends-lok-adalat-proposes-relocation-of-mosque/articleshow/132191018.cms"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-06T02:33:09.242652+00:00",
     "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The CIA's Cold War-era MKULTRA programme has come under scrutiny in a US Congressional hearing, while outgoing UK Prime Minister Keir Starmer has emphasized the importance of balancing domestic and international priorities. In India, the RBI has launched its 74th manufacturing sector survey, and experts have clarified misconceptions about the E20 ethanol-blended petrol mandate, highlighting its economic and environmental benefits. Additionally, India's private credit market is expected to reach $50 billion by 2030, driven by increasing corporate funding needs, and the rupee's defence has taken the RBI's dollar shorts to a record high, indicating significant interventions to shield the currency from hitting new lows.",
     "categories": {
@@ -3605,146 +3745,6 @@
         {
           "title": "Government Orders All Ministries to Remove Stray Dogs From Their Campuses, Sets June 30 Deadline",
           "summary": "The Indian government has ordered all ministries to remove stray dogs from their campuses, including schools and hospitals, by June 30, following a Supreme Court ruling on safety. The move aims to prevent accidents and ensure public safety. The government has set a deadline for the removal of stray dogs, and ministries are expected to comply with the order.",
-          "source": "Republic World",
-          "url": "https://www.republicworld.com/india/government-orders-all-ministries-to-remove-stray-dogs-from-their-campuses-sets-june-30-deadline-2026-06-27-130183"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-06-29T10:29:52.951916+00:00",
-    "brief": "Today's brief highlights key developments across geopolitics, economy, business, and national affairs. The Indian government is considering a subsidy to mitigate the impact of the EU's carbon border tax on MSME exporters, while the economy is expected to slow down to 6.6% in FY27 due to energy stress and a sub-par monsoon. Meanwhile, the startup ecosystem has seen a strong funding comeback, with venture funding crossing $1 billion, driven largely by CRED's significant fundraising round. These developments underscore the complex interplay between global trade regulations, national economic policies, and the evolving dynamics of the startup ecosystem.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "The Nord Stream Conspiracy",
-          "summary": "The Nord Stream Conspiracy book by Bojan Pancevski investigates the 2022 pipeline sabotage, providing an in-depth look at the planning, execution, and fallout of the incident. This event has significant implications for international relations and global energy security. The book offers a detailed account of the sabotage and its consequences.",
-          "source": "Business Standard",
-          "url": "https://www.business-standard.com/book/the-nord-stream-conspiracy-an-international-war-story-in-blockbuster-prose-126062800818_1.html"
-        },
-        {
-          "title": "Centre Eyes Subsidy To Ease EU Carbon Border Tax Burden On MSME Exporters",
-          "summary": "The Indian government is considering a subsidy to help MSME exporters mitigate the impact of the EU's carbon border tax. A working paper by ICRIER found that the tax would lead to a decline in Indian imports, particularly affecting the iron and steel sector. This move aims to support Indian exporters in the face of increasing global trade regulations.",
-          "source": "NDTV Profit",
-          "url": "https://www.ndtvprofit.com/economy/centre-eyes-subsidy-to-ease-eu-carbon-border-tax-burden-on-msme-exporters-report-11698708"
-        },
-        {
-          "title": "Israel-Lebanon deal stops fighting, but raises concerns over judicial recourse",
-          "summary": "The recent ceasefire agreement between Israel and Lebanon has stopped the fighting, but legal experts warn that the deal may block victims of Israeli war crimes from seeking accountability. This could have implications for future efforts to grant the International Criminal Court jurisdiction in Lebanon. The agreement raises concerns over the lack of judicial recourse for victims.",
-          "source": "Firstpost",
-          "url": "https://www.firstpost.com/world/while-israel-lebanon-deal-stops-fighting-legal-experts-warned-beirut-of-a-bigger-issue-lack-of-judicial-recourse-14026958.html"
-        },
-        {
-          "title": "How An Indian Explosives Firm Became Caught In Sudan's Bloody Civil War",
-          "summary": "An Indian explosives manufacturer has been linked to Sudan's civil war, alongside Sudanese military-linked companies and international recruitment networks. The company's involvement has raised concerns about the proliferation of Indian companies in conflict zones. This incident highlights the complexities of international business and geopolitics.",
-          "source": "NDTV.com",
-          "url": "https://www.ndtv.com/world-news/sbl-energy-sudan-civil-war-us-sanctions-alok-choudhari-how-an-indian-explosives-firm-became-caught-in-sudans-bloody-civil-war-11696854"
-        },
-        {
-          "title": "Pakistan hikes petroleum levy on petrol, diesel",
-          "summary": "Pakistan's government has increased the petroleum levy on petrol and diesel, while keeping retail prices unchanged. This move aims to boost government revenue, taking advantage of falling international oil prices. The decision reflects the complex interplay between global energy markets and national economic policies.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/pakistan-hikes-petroleum-levy-on-petrol-diesel-keeps-retail-prices-unchanged/articleshow/132045336.cms"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Weekly economy wrap: Core sector slowdown, US trade talks shape policy week",
-          "summary": "India's policy week was marked by US trade talks, weak core output, stronger FDI, coal-import substitution, and a faster disinvestment push. This indicates a mix of challenges and opportunities for the Indian economy. The developments will likely shape the country's economic policies in the coming weeks.",
-          "source": "Business Standard",
-          "url": "https://www.business-standard.com/economy/news/weekly-economy-wrap-core-sector-us-trade-talks-fdi-disinvestment-126062800183_1.html"
-        },
-        {
-          "title": "Explained: How India’s transition from WPI to PPI will strengthen inflation measurement",
-          "summary": "India is transitioning from Wholesale Price Index (WPI) to Producer Price Index (PPI) to strengthen inflation measurement. This change is expected to improve policy making by providing a more accurate picture of inflation. The shift will help in better decision-making and economic planning.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/explained-how-indias-transition-from-wpi-to-ppi-will-strengthen-inflation-measurement-what-it-means-for-policy-making/articleshow/132030869.cms"
-        },
-        {
-          "title": "RBI opens term money market to AIFIs, housing finance companies",
-          "summary": "The Reserve Bank of India has opened the term money market to All India Financial Institutions and housing finance companies. This move aims to deepen market participation, improve liquidity, and strengthen monetary policy transmission by linking short-term and long-term interest rates. It will allow these institutions to borrow and lend, increasing their participation in the market.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-opens-term-money-market-to-aifis-housing-finance-companies/articleshow/132005366.cms"
-        },
-        {
-          "title": "MSMEs key to India’s developed nation ambition: KDEM Chairman",
-          "summary": "Micro, small, and medium enterprises (MSMEs) are crucial for India to achieve developed nation status by 2047. The sector requires stronger policy support, easier access to capital, infrastructure, and talent to play a pivotal role in the country's development. The Chairman of Karnataka Digital Economy Mission emphasized the importance of MSMEs in India's growth.",
-          "source": "The Hindu Business Line",
-          "url": "https://www.thehindubusinessline.com/news/msmes-key-to-indias-developed-nation-ambition-kdem-chairman/article71146464.ece"
-        },
-        {
-          "title": "India's FY27 Growth Likely to Slow Down to 6.6% on Energy Stress, Sub-par Monsoon",
-          "summary": "S&P Global Ratings projects India's GDP growth to slow down to 6.6% in FY27 due to energy stress, a sub-par monsoon, and weaker global demand. The report also warns of higher inflation and rising fuel and fertiliser costs, which may lead to a RBI policy rate hike in the second half of the fiscal. This slowdown could have significant implications for the Indian economy.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/news/indias-fy27-growth-likely-to-slow-down-to-66-on-energy-stress-sub-par-monsoon-sp"
-        }
-      ],
-      "Business": [
-        {
-          "title": "Where are the unicorns of 2021",
-          "summary": "In 2021, 39 Indian startups achieved unicorn status, but they now face a changed landscape with global uncertainties and investor caution. Some are securing significant investments, while others are adapting strategies or pursuing public listings. This reflects the evolving dynamics of the startup ecosystem.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/tech/startups/where-are-the-unicorns-of-2021/articleshow/132045249.cms"
-        },
-        {
-          "title": "Why Equirus is avoiding loss-making startups in its ₹1,500 crore fund",
-          "summary": "Equirus is launching a new fund that will avoid investing in loss-making startups, reflecting a more selective approach in India's startup funding market. This comes as early-stage capital holds up better than late-stage funding. The fund launch indicates a shift in investor preferences.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/companies/news/why-equirus-is-avoiding-loss-making-startups-in-its-1-500-crore-fund-11782469777507.html"
-        },
-        {
-          "title": "India startup funding tops $1 billion as CRED mega",
-          "summary": "India's startup ecosystem saw a strong funding comeback, with venture funding crossing $1 billion, driven largely by CRED's significant fundraising round. This indicates a rebound in the startup funding market. The funding surge is a positive sign for the Indian startup ecosystem.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-tops-1-billion-dollars-as-cred-mega-round-powers-sharp-weekly-rebound-19933195.htm"
-        },
-        {
-          "title": "India's startup pipeline narrows despite rise in unicorns and IPOs in H1",
-          "summary": "Despite a rise in unicorns and IPOs, India's startup pipeline has narrowed, with technology startups raising $7.2 billion across 652 equity funding rounds in the first half of the year. This indicates a potential slowdown in the startup ecosystem. The funding amount is significant, but the narrowing pipeline is a concern.",
-          "source": "The New Indian Express",
-          "url": "https://www.newindianexpress.com/business/2026/Jun/25/indias-startup-pipeline-narrows-despite-rise-in-unicorns-and-ipos-in-h1"
-        },
-        {
-          "title": "India tech funding rises 12 pc to $7.2 billion in H1 2026: Report",
-          "summary": "India's technology startup ecosystem attracted $7.2 billion in funding during the first half of 2026, a 12% increase. This indicates a growing interest in Indian tech startups. The funding amount is a significant milestone for the Indian startup ecosystem.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/technology/india-tech-funding-rises-12-pc-to-72-billion-in-h1-2026-report-1/"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Law must act as shield for innocent, not as a sword for the vindictive: Supreme Court",
-          "summary": "The Supreme Court has emphasized that the law should protect the innocent and not be used as a means of revenge, highlighting the harm caused by criminal proceedings to an individual's reputation and liberty. This statement underscores the importance of ensuring that the legal system is fair and just. The court's remarks come in the context of the social stigma and irreparable harm caused by criminal proceedings.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/law-must-act-as-shield-for-innocent-not-as-a-sword-for-the-vindictive-supreme-court/articleshow/132058548.cms"
-        },
-        {
-          "title": "People Have A Fundamental Right To Clean Water",
-          "summary": "The Bombay High Court has reaffirmed that access to clean water is a fundamental right under Article 21 of the Indian Constitution. The court criticized the Maharashtra government for failing to ensure water supply, citing the public trust doctrine and the need to address rising pollution and water stress. This ruling emphasizes the importance of providing clean water to citizens as a basic human right.",
-          "source": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/analysis/people-have-a-fundamental-right-to-clean-water"
-        },
-        {
-          "title": "Supreme Court Backs Homebuyers Rights, Says Compensation Can Be Claimed Even After Taking Flat Possession",
-          "summary": "The Supreme Court has ruled that homebuyers can claim compensation for delayed delivery even after taking possession of their flats. This verdict is a significant relief for homebuyers and sets an important precedent for similar disputes. The court's decision highlights the need for developers to fulfill their obligations and provide timely delivery of projects.",
-          "source": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/business/supreme-court-backs-homebuyers-rights-says-compensation-can-be-claimed-even-after-taking-flat-possession"
-        },
-        {
-          "title": "Telangana government, SBI reach amicable solution to land row",
-          "summary": "The Telangana government and the State Bank of India have resolved a land dispute amicably, with the bank agreeing to alternative land proposals made by the state. This resolution comes after a five-acre parcel of land became a point of contention, leading to court action and threats from the state. The agreement aims to bring a swift conclusion to the matter.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/india/telangana-government-sbi-reach-amicable-solution-to-land-row/articleshow/132045873.cms"
-        },
-        {
-          "title": "Supreme Court takes 14 years on criminal case, 2 convicts die waiting",
-          "summary": "The Supreme Court has taken 14 years to hear a criminal case, resulting in the death of two convicts while waiting for the verdict. This case highlights the issue of delayed justice in India, with the court acknowledging that 'justice delayed is justice denied'. The incident underscores the need for the judiciary to expedite hearings and deliver timely verdicts.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/supreme-court-takes-14-years-on-criminal-case-2-convicts-die-waiting/articleshow/132044102.cms"
-        },
-        {
-          "title": "Government Orders All Ministries to Remove Stray Dogs From Their Campuses, Sets June 30 Deadline",
-          "summary": "The Indian government has ordered all ministries to remove stray dogs from their campuses, including schools, hospitals, and public areas, by June 30, 2026. This directive follows a Supreme Court ruling on safety concerns. The government aims to address the issue of stray dogs in public spaces and ensure a safer environment for citizens.",
           "source": "Republic World",
           "url": "https://www.republicworld.com/india/government-orders-all-ministries-to-remove-stray-dogs-from-their-campuses-sets-june-30-deadline-2026-06-27-130183"
         }
