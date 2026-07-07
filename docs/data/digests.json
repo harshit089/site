@@ -1,5 +1,145 @@
 [
   {
+    "generated_at": "2026-07-07T14:14:54.114490+00:00",
+    "brief": "Today's brief highlights key developments across geopolitics, economy, and national affairs. In geopolitics, US President Donald Trump's statement that Russian President Vladimir Putin wants the Ukraine war to end may indicate a potential shift in Russia's stance, while French President Emmanuel Macron's historic visit to post-Assad Syria marks a significant step in the country's efforts to rebuild international ties. Meanwhile, in the Indian economy, a patchy monsoon is expected to lift inflation and hurt the rural economy, prompting the Reserve Bank of India to maintain a moderately tight monetary policy stance, with economists differing on the RBI's next rate move amidst weak monsoon concerns.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Trump says Putin wants Ukraine war to end",
+          "summary": "US President Donald Trump stated that he believes Russian President Vladimir Putin wants the Ukraine war to end. This statement comes as the conflict continues to escalate. The development is significant as it may indicate a potential shift in Russia's stance on the war.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/trump-says-putin-wants-ukraine-war-to-end/"
+        },
+        {
+          "title": "Macron's Historic Visit to Post-Assad Syria",
+          "summary": "French President Emmanuel Macron visited Damascus, marking the first EU head of state's visit since the overthrow of Bashar al-Assad. The visit highlights Syria's transformation under its new leadership and its efforts to rebuild international ties. This development may have significant implications for the region's geopolitics.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3946029-macrons-historic-visit-to-post-assad-syria"
+        },
+        {
+          "title": "Balen Shah administration must impart new momentum to Nepal",
+          "summary": "The Balen Shah administration is expected to bring new momentum to Nepal-India relations, with Kathmandu acknowledging India's emergence as a rising global power. The development is crucial as it may impact the bilateral ties between the two nations. India has continued to be a significant player in the region.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/balen-shah-administration-must-impart-new-momentum-to-nepal-india-relations-report/"
+        },
+        {
+          "title": "Pakistan's Strategic Diplomacy: Mediation in Libya",
+          "summary": "Pakistan is engaging in diplomatic mediation between Libya's rival eastern and western powers, with the support of Saudi Arabia. The effort aims to create a stable transitional power-sharing government in Libya. This development may strengthen Pakistan's international diplomatic profile and impact the region's geopolitics.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/law-order/3945911-pakistans-strategic-diplomacy-mediation-in-libya"
+        },
+        {
+          "title": "More than 300 children killed or injured in Sudan war in 6 months, UNICEF says",
+          "summary": "The Sudan war has claimed over 300 young lives or left them injured in just six months, primarily due to drone attacks, according to UNICEF. The war has devastated regions like Kordofan and Darfur, with civilian infrastructure increasingly targeted. International bodies are voicing concerns over escalating violence and potential atrocities.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/more-than-300-children-killed-or-injured-in-sudan-war-in-6-months-unicef-says/articleshow/132213898.cms"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Patchy monsoon could lift inflation, hurt rural economy: S&P",
+          "summary": "A patchy monsoon in India could lead to higher food and energy prices, pushing inflation to 5.1% in FY27, which may prompt the Reserve Bank of India to maintain a moderately tight monetary policy stance. This could have a negative impact on the rural economy. The RBI's stance will be crucial in managing inflation and supporting economic growth.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/news/india/patchy-monsoon-could-lift-inflation-hurt-rural-economy-sp-11783338214778.html"
+        },
+        {
+          "title": "Experts Shed Light on E20 Fuel: Dispelling Myths and Highlighting Benefits",
+          "summary": "Energy industry experts have clarified misconceptions about India's E20 ethanol-blended petrol mandate, highlighting its minimal impact on vehicle mileage and addressing concerns over older vehicle compatibility. The policy is expected to have economic and environmental benefits. The experts' views can help inform policy decisions and public understanding of the issue.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3945312-experts-shed-light-on-e20-fuel-dispelling-myths-and-highlighting-benefits"
+        },
+        {
+          "title": "Balancing Innovation and Stability: India's Progress on Digital Rupee Discussed",
+          "summary": "The Parliamentary Standing Committee on Finance has reviewed India's progress on its Central Bank Digital Currency, discussing regulatory challenges, taxation issues, and potential policy interventions. The committee's discussions can help shape India's digital financial ecosystem and inform policy decisions on the digital rupee. The digital rupee has the potential to transform India's financial landscape.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3944082-balancing-innovation-and-stability-indias-progress-on-digital-rupee-discussed"
+        },
+        {
+          "title": "RBI Kicks Off 74th Manufacturing Sector Survey: A Key Tool for Economic Analysis",
+          "summary": "The Reserve Bank of India has launched its 74th Order Books, Inventories, and Capacity Utilisation Survey for the manufacturing sector, covering April-June 2026. The survey will collect operational data to aid monetary policy decisions. The data collected will provide insights into the manufacturing sector's performance and help the RBI make informed policy decisions.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3943710-rbi-kicks-off-74th-manufacturing-sector-survey-a-key-tool-for-economic-analysis"
+        },
+        {
+          "title": "Nomura, HSBC split on RBI rate outlook as weak monsoon fuels inflation risks",
+          "summary": "Economists from Nomura and HSBC have differing views on the Reserve Bank of India's next policy move, citing the impact of a weak monsoon on India's economy. The weak monsoon could lead to higher food inflation, affecting the RBI's decision on interest rates. The differing views highlight the uncertainty surrounding the Indian economy and the challenges facing policymakers.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/economy/nomura-hsbc-rbi-rate-outlook-weak-monsoon-food-inflation-sonal-varma-pranjul-bhandari-19936402.htm"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
+          "summary": "Neuberg Diagnostics is planning an initial public offering in fiscal year 2028 to raise approximately ₹3,500-4,000 crore. The company aims to use the funds for acquisitions and expansion, targeting pan-India growth and new diagnostic technologies. This move is expected to make Neuberg the second-largest player in the diagnostics market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
+        },
+        {
+          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
+          "summary": "Indian companies raised a record ₹2.53 lakh crore through commercial papers in June, driven by attractive pricing and seasonal needs. This surge is a result of companies shifting from costlier bank loans to cheaper short-term market funding, supported by ample investor demand and a stable liquidity environment. The Reserve Bank of India's liquidity infusions also contributed to the favorable conditions.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
+        },
+        {
+          "title": "India's banks are handing out more loans, but deposits aren't keeping up",
+          "summary": "Indian banks have seen a surge in lending, outpacing deposit growth and widening the funding gap. This trend, driven by robust demand from corporate and retail sectors, has pushed the loan-to-deposit ratio to a decade-high, raising concerns about funding sustainability. The varied strategies of lenders have resulted in some seeing deposits decline, while others have maintained a balance.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-banks-are-handing-out-more-loans-but-deposits-arent-keeping-up/articleshow/132177579.cms"
+        },
+        {
+          "title": "Operational, Says Report – Outlook Business",
+          "summary": "Nearly half of India's UDAN regional flight routes have become non-operational, despite the government launching a revamped phase with higher subsidies and airport funding. The viability gap support, infrastructure delays, and airline distress are affecting the country's flagship connectivity scheme. This development may impact the government's efforts to improve regional air connectivity.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/news/almost-half-of-udan-routes-have-become-non-operational-says-report"
+        },
+        {
+          "title": "Inspira seals Rs 1,800-crore private credit for Burger King buy in India",
+          "summary": "Inspira Global has secured ₹1,800 crore in private credit to acquire a controlling stake in India's Burger King operator. The company has already raised ₹1,050 crore via NCDs, with the remaining ₹800 crore expected to be raised this month. This significant funding marks a major move into the quick-service restaurant sector.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/inspira-seals-rs-1800-crore-private-credit-for-burger-king-buy-in-india/articleshow/132174770.cms"
+        },
+        {
+          "title": "Up Ecosystem on Foreign Capital, Family Offices May Now Have to Keep it Rolling – Outlook Business",
+          "summary": "India's family offices are emerging as key sources of patient capital for funding start-ups, innovation, and entrepreneurial growth. As foreign capital becomes less available, family offices may need to play a more significant role in supporting the country's start-up ecosystem. This shift could have a significant impact on the growth and development of Indian start-ups.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/magazine/india-built-a-start-up-ecosystem-on-foreign-capital-family-offices-may-now-have-to-keep-it-rolling"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "CCI moves SC against NCLAT order quashing penalty on Grasim",
+          "summary": "The Competition Commission of India (CCI) has appealed to the Supreme Court against a tribunal's decision to quash a ₹300-crore penalty on Grasim Industries for alleged monopolistic behavior. The CCI is seeking to restore its original decision against the company. This case highlights the regulator's efforts to enforce competition laws in India.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/cci-moves-sc-against-nclat-order-quashing-penalty-on-grasim/articleshow/132225353.cms"
+        },
+        {
+          "title": "Top court cautions against bypassing judicial hierarchy in sensitive cases",
+          "summary": "The Supreme Court has cautioned against the tendency to bypass the judicial hierarchy and directly approach the top court in sensitive cases. The court emphasized the importance of trusting the judicial hierarchy and allowing lower courts to discharge their functions. This statement highlights the need for a structured approach to seeking justice in India.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/top-court-cautions-against-bypassing-judicial-hierarchy-in-sensitive-cases-101783365223450.html"
+        },
+        {
+          "title": "Congress MLA opposes inclusion of non-Muslim members in MP Waqf Board, to move Supreme Court",
+          "summary": "A Congress MLA is opposing the inclusion of non-Muslim members in the Madhya Pradesh Waqf Board and plans to move the Supreme Court on the matter. The issue is already being examined by the Supreme Court, which will decide on the matter. This case highlights the ongoing debates around the composition of religious boards in India.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/congress-mla-opposes-inclusion-of-non-muslim-members-in-mp-waqf-board-to-move-supreme-court-101783337051798.html"
+        },
+        {
+          "title": "Dropped your case? You don’t get a second shot: Supreme Court on abuse of process",
+          "summary": "The Supreme Court has ruled that litigants cannot abuse the judicial process by dropping a case and then seeking a second chance. The court emphasized the importance of litigation diligence and strategy. This ruling highlights the court's efforts to prevent misuse of the legal system in India.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/legal/news/dropped-your-case-you-dont-get-a-second-shot-supreme-court-on-abuse-of-process/articleshow/132206503.cms"
+        },
+        {
+          "title": "Delhi High Court gives two weeks to WFI to decide show-cause notice to Vinesh Phogat",
+          "summary": "The Delhi High Court has given the Wrestling Federation of India (WFI) two weeks to decide on a show-cause notice issued to wrestler Vinesh Phogat. The notice concerns indiscipline and alleged anti-doping rule violations. The court's decision highlights the ongoing issues in Indian sports governance and the role of courts in resolving disputes.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/delhi-high-court-gives-two-weeks-to-wfi-to-decide-show-cause-notice-to-vinesh-phogat/articleshow/132212580.cms"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-07T09:30:25.721934+00:00",
     "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. In geopolitics, US President Donald Trump's statement that Russian President Vladimir Putin wants the Ukraine war to end could signal a potential shift in Russia's stance, while French President Emmanuel Macron's historic visit to post-Assad Syria marks a significant step in rebuilding international ties. Meanwhile, in India, a patchy monsoon is expected to lift inflation and hurt the rural economy, prompting the Reserve Bank of India to maintain a moderately tight monetary policy stance, amidst concerns over the country's economic growth and funding sustainability.",
     "categories": {
@@ -3667,116 +3807,6 @@
           "summary": "A study by ESAF has contributed to the Supreme Court's recognition of the economic value of unpaid domestic work in India. The study's findings have shaped the Court's jurisprudence, including a landmark verdict on June 11, 2026. This development marks a significant step towards acknowledging the importance of unpaid work in the country's economy.",
           "source": "The New Indian Express",
           "url": "https://www.newindianexpress.com/states/kerala/2026/Jun/30/how-esaf-helped-sc-value-indias-invisible-labour"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-06-30T14:04:52.166056+00:00",
-    "brief": "Tensions between Iran and the US continue to escalate, with Iran's President signaling a reciprocal commitment to an accord and its leader urging the judiciary to sue the US and Israel over alleged war crimes. Meanwhile, in India, the economy is poised for growth, with the RBI's latest policy expected to attract significant overseas deposits from NRIs, potentially unlocking a $1 trillion retail lending opportunity. Additionally, developments in the business sector, such as the launch of an IFSC banking unit at GIFT City and plans to raise overseas funding for infrastructure development, are also expected to support India's economic growth.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Iran's President Pezeshkian Signals Reciprocal Commitment to Accord, Vows Fearless Defence Against Threats",
-          "summary": "Iran's President has stated that the country will fulfill its obligations under an accord if the American side also honors the agreement. He emphasized the importance of rationality and human dignity in decision-making. This statement comes amidst ongoing tensions between Iran and the US.",
-          "source": "scanx.trade",
-          "url": "https://scanx.trade/stock-market-news/global/iran-s-president-pezeshkian-signals-reciprocal-commitment-to-accord-vows-fearless-defence-against-threats/44311743"
-        },
-        {
-          "title": "Khamenei Urges Judiciary To Sue US, Israel Over Alleged 'War Crimes'",
-          "summary": "Iran's leader has directed the judiciary to sue the US and Israel over alleged war crimes, citing public comments from American and Israeli officials as evidence. This move could lead to legal claims in domestic and international courts. The development reflects escalating tensions between Iran and the two countries.",
-          "source": "NDTV Profit",
-          "url": "https://www.ndtvprofit.com/world/khamenei-directs-judiciary-to-sue-us-israel-over-alleged-war-crimes-11701646"
-        },
-        {
-          "title": "Cultural Heritage Under Fire: The Impact of Conflict in Iran",
-          "summary": "Recent airstrikes in Iran have damaged cultural heritage sites, including UNESCO-listed monuments. Experts and UNESCO are assessing the damage and emphasizing the need for better protection of these sites. The conflict in Iran is having a significant impact on the country's cultural heritage.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/entertainment/3942150-cultural-heritage-under-fire-the-impact-of-conflict-in-iran"
-        },
-        {
-          "title": "Bangladesh: BNP targets Jamaat over 1971 Liberation War stance, demands apology",
-          "summary": "The ruling Bangladesh Nationalist Party has criticized the radical Islamist party Jamaat-e-Islami over its stance on the 1971 Liberation War. The BNP is demanding an apology from Jamaat, reflecting ongoing political tensions in Bangladesh. This development is significant for the country's political landscape.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/bangladesh-bnp-targets-jamaat-over-1971-liberation-war-stance-demands-apology/"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "NRI money could unlock India's next capex cycle after easing banks' funding crunch: Axis Bank CEO",
-          "summary": "According to Axis Bank CEO Amitabh Chaudhry, the RBI's latest policy could attract $50-100 billion in overseas deposits from NRIs, which could first lower banks' funding costs and then finance infrastructure and other investments. This could unlock India's next investment cycle. The move is expected to support the rupee and ease pressure from a widening gap between loan and deposit growth.",
-          "source": "Firstpost",
-          "url": "https://www.firstpost.com/business/nri-money-india-capex-axis-bank-rbi-dollar-inflows-indian-diaspora-bank-funding-amitabh-chaudhry-14027612.html"
-        },
-        {
-          "title": "India’s $1 trillion retail lending boom: Why 11% mortgage penetration offers a multi-decade credit growth runway",
-          "summary": "India's retail lending market is expected to unlock a $1 trillion opportunity, driven by digital lending, low mortgage penetration, rising incomes, and RBI policy support. The growth is expected to be driven by a multi-decade credit growth runway, with mortgage penetration currently at 11%. This could lead to significant opportunities for lenders and borrowers alike.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/business/industry-indias-1-trillion-retail-lending-boom-why-11-mortgage-penetration-offers-a-multi-decade-credit-growth-runway-4279135/"
-        },
-        {
-          "title": "Why the West Asia conflict became 'neither a 1991 moment, nor a 2013 one' for India: CEA explains",
-          "summary": "According to Chief Economic Advisor V Anantha Nageswaran, India's economy successfully navigated the recent West Asia crisis due to a calibrated policy response, diversified energy sourcing, and targeted support measures. However, deeper structural challenges remain, and the economy needs to be cautious. The CEA's comments highlight the importance of policy responses in managing economic challenges.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/economy/why-the-westasia-conflict-became-neither-a-1991-moment-nor-a-2013-one-for-india-cea-explains-19934175.htm"
-        },
-        {
-          "title": "Indian economy: The confluence case",
-          "summary": "The RBI's targeted foreign currency liquidity programme and a near-halving of crude oil prices have altered India's external balance trajectory, monetary policy optionality, and corporate earnings outlook. This confluence of factors is expected to have a positive impact on the Indian economy, providing a boost to growth and stability. The RBI's initiatives have demonstrated innovation and agility in managing economic challenges.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/prime/economy-and-policy/indian-economy-the-confluence-case/primearticleshow/132053783.cms"
-        }
-      ],
-      "Business": [
-        {
-          "title": "Central Bank of India opens its IFSC banking unit at GIFT City",
-          "summary": "The Central Bank of India has launched an IFSC banking unit at GIFT City to cater to corporate foreign currency funding needs. This move aims to provide specialized banking services to companies operating in the international financial hub. The unit will facilitate foreign currency transactions and support the growth of Indian businesses.",
-          "source": "The Hindu Business Line",
-          "url": "https://www.thehindubusinessline.com/money-and-banking/central-bank-of-india-opens-its-ifsc-banking-unit-at-gift-city/article71161937.ece"
-        },
-        {
-          "title": "IIFCL plans $1 billion overseas loan, also eyes $400 million ADB funding to back infrastructure push",
-          "summary": "India Infrastructure Finance Company Ltd (IIFCL) is planning to raise $1 billion from overseas investors to support the country's infrastructure development. The company is also seeking $400 million in funding from the Asian Development Bank (ADB) to back its infrastructure push. This funding will help IIFCL finance various infrastructure projects in India.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/iifcl-plans-1-billion-overseas-loan-also-eyes-400-million-adb-funding-to-back-infrastructure-push/articleshow/132065387.cms"
-        },
-        {
-          "title": "Where are the unicorns of 2021",
-          "summary": "In 2021, 39 Indian startups achieved unicorn status, but now they face a changed landscape with global uncertainties and investor caution. Some of these companies, like Cred, continue to secure significant investments, while others are adapting their strategies or pursuing public listings. The evolving dynamics of the startup ecosystem are forcing these unicorns to navigate new challenges.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/tech/startups/where-are-the-unicorns-of-2021/articleshow/132045249.cms"
-        },
-        {
-          "title": "Why Equirus is avoiding loss-making startups in its ₹1,500 crore fund",
-          "summary": "Equirus has launched a new ₹1,500 crore fund that will focus on investing in profitable startups, avoiding loss-making companies. This approach reflects the changing landscape of India's startup funding market, which has become more selective. The fund will prioritize startups with strong financials and growth potential.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/companies/news/why-equirus-is-avoiding-loss-making-startups-in-its-1-500-crore-fund-11782469777507.html"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "The women behind India’s economy-and the price of invisible work",
-          "summary": "A recent Supreme Court judgment has recognized the economic value of homemakers' work, which could influence policymaking in the future. This judgment acknowledges the significant contribution of unpaid work by homemakers to the economy. Although it may not be included in GDP calculations, it can have a positive impact on policy decisions.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/economy/india-homemakers-unpaid-work-economy-11782733248170.html"
-        },
-        {
-          "title": "Rule Of Law Is Bedrock Of Democracy, Says CJI Surya Kant In Stockholm",
-          "summary": "Chief Justice of India Surya Kant emphasized the importance of the rule of law in protecting citizens from arbitrary government actions. He also clarified that the Supreme Court does not function as a super-executive, highlighting the need for judicial restraint. This statement underscores the significance of the rule of law in a democratic system.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/india/cji-surya-kant-rule-of-law-judicial-restraint-super-executive-sweden-article-154801896"
-        },
-        {
-          "title": "HC order on ethanol allocation will hit national policy, SC told",
-          "summary": "The Supreme Court has agreed to hear a plea regarding the Karnataka High Court's order on ethanol allocation, which may impact the national policy on the matter. The oil marketing company that filed the plea claims that the high court's order will affect the national policy. The Supreme Court's decision will be crucial in resolving this issue.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/hc-order-on-ethanol-allocation-will-hit-national-policy-sc-told/articleshow/132079268.cms"
-        },
-        {
-          "title": "BJP seeks cancellation of Kannur Corporation councillors' oath over 'Allah' reference",
-          "summary": "The BJP has challenged the oaths of 19 councillors in the Kannur Corporation, alleging that they violated the statutory form by referencing 'Allah' during their oath-taking ceremony. This controversy highlights the debate surrounding the use of religious references in oath-taking ceremonies and its implications on the validity of such oaths.",
-          "source": "Malayala Manorama",
-          "url": "https://www.onmanorama.com/news/kerala/2026/06/29/bjp-seeks-cancellation-of-kannur-councillors-oath-over-allah-reference.html"
         }
       ]
     }
