@@ -1,5 +1,139 @@
 [
   {
+    "generated_at": "2026-07-08T08:14:20.010484+00:00",
+    "brief": "The global landscape is witnessing significant developments, with the International Olympic Committee lifting its ban on Russian athletes, allowing them to compete in the 2028 Olympics, and China outlining its top security concerns in a report by Tsinghua University. Meanwhile, in India, the economy is undergoing transformations due to various reforms, but the country still faces challenges, including a potential increase in inflation due to a patchy monsoon season, which could impact the rural economy. Additionally, Indian companies are raising record amounts through commercial papers, driven by attractive pricing and seasonal needs, reflecting a shift towards cheaper short-term market funding.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "IOC Lifts Ban On Russia; Athletes Cleared To Compete At LA 2028 Amid Ukraine War",
+          "summary": "The International Olympic Committee has lifted its ban on Russia, allowing Russian athletes to compete in the 2028 Olympics. However, the IOC has stated that the Russian flag and anthem will not be featured at this time. This decision comes amid the ongoing conflict between Russia and Ukraine.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/sports/ioc-lifts-ban-on-russia-path-cleared-for-athletes-to-compete-at-la-2028-amid-ukraine-war-article-154961647"
+        },
+        {
+          "title": "China's Top 10 Threats: Tsinghua Report Reveals CCP's Concerns",
+          "summary": "A report by Tsinghua University has outlined the top threats to China's security, including tensions with Taiwan, Japan, and the US, as well as disputes in the South China Sea. The report provides insight into China's geopolitical concerns and priorities. These threats have significant implications for global politics and international relations.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/international/3946301-chinas-top-10-threats-tsinghua-report-reveals-ccps-concerns"
+        },
+        {
+          "title": "CWGC adds 9,909 overlooked Indian soldiers to First World War casualty records",
+          "summary": "The Commonwealth War Graves Commission has added nearly 10,000 Indian soldiers to its casualty records from World War I, marking the largest single addition since World War II. This update recognizes the significant contributions and sacrifices made by Indian soldiers during the war. The move is a step towards acknowledging and honoring their service.",
+          "source": "The New Indian Express",
+          "url": "https://www.newindianexpress.com/india/2026/Jul/07/cwgc-adds-9909-overlooked-indian-soldiers-to-first-world-war-casualty-records"
+        },
+        {
+          "title": "Trump says Putin wants Ukraine war to end",
+          "summary": "US President Donald Trump has stated that he believes Russian President Vladimir Putin wants the war in Ukraine to end. This statement comes amid ongoing diplomatic efforts to resolve the conflict. The situation in Ukraine remains a significant geopolitical concern, with implications for international relations and global security.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/trump-says-putin-wants-ukraine-war-to-end/"
+        },
+        {
+          "title": "Macron's Historic Visit to Post-Assad Syria",
+          "summary": "French President Emmanuel Macron has made a historic visit to Syria, marking the first visit by an EU head of state since the overthrow of Bashar al-Assad. The visit highlights Syria's efforts to rebuild and establish new international ties under its current leadership. This development has significant implications for the Middle East and global geopolitics.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3946029-macrons-historic-visit-to-post-assad-syria"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Reform Express: India’s economy is fast being transformed but we have a long journey ahead",
+          "summary": "India's economy is undergoing significant transformations due to various reforms, but the country still has a long way to go in terms of changing its governance culture to achieve its goals. The impact of these reforms will depend on the ability to implement them effectively. Reforms alone may not be enough to drive significant change without accompanying governance changes.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/opinion/online-views/reform-express-india-economy-gst-bankruptcy-niti-aayog-rationalizing-msme-tax-policy-11783338169521.html"
+        },
+        {
+          "title": "Patchy monsoon could lift inflation, hurt rural economy: S&P",
+          "summary": "A patchy monsoon season could lead to higher food and energy prices, resulting in increased inflation, which may prompt the Reserve Bank of India to maintain a tight monetary policy. This could have a negative impact on the rural economy. S&P expects inflation to reach 5.1% in FY27 due to these factors.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/news/india/patchy-monsoon-could-lift-inflation-hurt-rural-economy-sp-11783338214778.html"
+        },
+        {
+          "title": "Experts Shed Light on E20 Fuel: Dispelling Myths and Highlighting Benefits",
+          "summary": "Energy industry experts have addressed concerns and misconceptions about India's E20 ethanol-blended petrol mandate, highlighting its minimal impact on vehicle mileage and compatibility with older vehicles. The policy is expected to have economic and environmental benefits. Experts clarified that the benefits of E20 fuel outweigh the concerns.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3945312-experts-shed-light-on-e20-fuel-dispelling-myths-and-highlighting-benefits"
+        },
+        {
+          "title": "Balancing Innovation and Stability: India's Progress on Digital Rupee Discussed",
+          "summary": "The Parliamentary Standing Committee on Finance discussed India's progress on its Central Bank Digital Currency, focusing on regulatory challenges, taxation issues, and potential policy interventions. The goal is to bolster India's digital financial ecosystem while balancing innovation and stability. The discussion aimed to address the complexities of implementing a digital rupee.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3944082-balancing-innovation-and-stability-indias-progress-on-digital-rupee-discussed"
+        },
+        {
+          "title": "RBI Kicks Off 74th Manufacturing Sector Survey: A Key Tool for Economic Analysis",
+          "summary": "The Reserve Bank of India has launched its 74th survey for the manufacturing sector, covering April-June 2026, to collect operational data for monetary policy. The survey will capture order volumes, inventory details, and capacity use, and is open to wide industry participation. This data will aid in economic analysis and inform policy decisions.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3943710-rbi-kicks-off-74th-manufacturing-sector-survey-a-key-tool-for-economic-analysis"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
+          "summary": "Neuberg Diagnostics is planning an initial public offering in fiscal year 2028 to raise approximately ₹3,500-4,000 crore. The company aims to use the funds for acquisitions and expansion, targeting pan-India growth and new diagnostic technologies. This move is expected to make Neuberg the second-largest player in the diagnostics market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
+        },
+        {
+          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
+          "summary": "Indian companies raised a record ₹2.53 lakh crore through commercial papers in June, driven by attractive pricing and seasonal needs. This surge reflects a shift from costly bank loans to cheaper short-term market funding, supported by ample investor demand and stable liquidity. The Reserve Bank of India's liquidity infusions also contributed to favorable conditions.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
+        },
+        {
+          "title": "India's banks are handing out more loans, but deposits aren't keeping up",
+          "summary": "Indian banks saw a surge in lending during the April-June quarter, outpacing deposit growth and widening the funding gap. This trend, driven by robust demand from corporate and retail sectors, has pushed the loan-to-deposit ratio to a decade-high, raising concerns about funding sustainability. The mismatch between loan growth and deposit growth may impact the banks' ability to sustain lending.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-banks-are-handing-out-more-loans-but-deposits-arent-keeping-up/articleshow/132177579.cms"
+        },
+        {
+          "title": "Operational, Says Report – Outlook Business",
+          "summary": "Nearly half of India's UDAN regional flight routes have become non-operational, despite the government's efforts to launch a revamped phase with higher subsidies and airport funding. The viability gap support, infrastructure delays, and airline distress are affecting the country's flagship connectivity scheme. This development may impact the government's plans to improve regional air connectivity.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/news/almost-half-of-udan-routes-have-become-non-operational-says-report"
+        },
+        {
+          "title": "Inspira seals Rs 1,800-crore private credit for Burger King buy in India",
+          "summary": "Inspira Global has secured ₹1,800 crore in private credit to acquire a controlling stake in India's Burger King operator. The company has already raised ₹1,050 crore via NCDs and expects to raise the remaining ₹800 crore this month. This significant funding marks a major move into the quick-service restaurant sector for Inspira Global.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/inspira-seals-rs-1800-crore-private-credit-for-burger-king-buy-in-india/articleshow/132174770.cms"
+        },
+        {
+          "title": "Up Ecosystem on Foreign Capital, Family Offices May Now Have to Keep it Rolling – Outlook Business",
+          "summary": "India's family offices are emerging as key sources of patient capital for funding start-ups, innovation, and entrepreneurial growth. As foreign capital becomes less available, family offices may play a crucial role in sustaining the country's start-up ecosystem. This shift could have significant implications for the growth and development of Indian start-ups.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/magazine/india-built-a-start-up-ecosystem-on-foreign-capital-family-offices-may-now-have-to-keep-it-rolling"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Govt names M V Rajesh IHRD director, replaces controversial appointee Arun Kumar",
+          "summary": "The Kerala government has appointed M V Rajesh as the new director of the Institute of Human Resources Development, replacing V A Arun Kumar whose appointment was deemed ineligible by the All India Council for Technical Education. This change comes after controversy and a recruitment challenge in the Kerala High Court. The new appointment aims to address the issues surrounding the previous director's selection.",
+          "source": "Malayala Manorama",
+          "url": "https://www.onmanorama.com/news/kerala/2026/07/07/new-ihrd-director-appointed.html"
+        },
+        {
+          "title": "SC row fallout: From ‘corruption’ to PILs - NCERT rewrites judiciary lesson",
+          "summary": "The National Council of Educational Research and Training (NCERT) has revised its Class 8 Social Science textbook following a Supreme Court intervention. The revised lesson focuses on the judiciary, covering topics such as corruption and public interest litigations. This change reflects the ongoing efforts to update educational content in line with current judicial and social issues.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/sc-row-fallout-from-corruption-to-pils-ncert-rewrites-judiciary-lesson/articleshow/132236554.cms"
+        },
+        {
+          "title": "Supreme Court: Banks’ body cannot blacklist lawyers through caution list",
+          "summary": "The Supreme Court has ruled that banks and financial institutions cannot blacklist lawyers by including them on a caution list for alleged professional misconduct. This decision emphasizes that only a court of law can adjudicate on such allegations, preventing banks from assuming a judicial role. The ruling aims to protect lawyers from unfair blacklisting practices.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/supreme-court-banks-body-cannot-blacklist-lawyers-through-caution-list-101783403770652.html"
+        },
+        {
+          "title": "Asian Games: SC to Hear Plea Against HC's Refusal to Interfere with Dressage Team Selection",
+          "summary": "The Supreme Court will hear a plea challenging the Delhi High Court's decision not to intervene in the selection of India's dressage team for the Asian Games. The plea was filed by two riders who were not selected for the team, and the Supreme Court has scheduled a hearing for July 9. The case highlights the role of the judiciary in resolving disputes related to sports team selections.",
+          "source": "Outlook India",
+          "url": "https://www.outlookindia.com/national/asian-games-sc-to-hear-plea-against-hcs-refusal-to-interfere-with-dressage-team-selection"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-08T02:02:56.607907+00:00",
     "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. In geopolitics, China's concerns over Taiwan tensions, China-Japan relations, and the US-China tech divide have been outlined in a report by Tsinghua University, while US President Donald Trump has stated that Russian President Vladimir Putin wants the war in Ukraine to end. Meanwhile, in the economy, India's reforms are transforming the country, but governance culture still needs to change, and a patchy monsoon season is expected to lift inflation and hurt the rural economy. Additionally, Indian companies have raised a significant amount of funds through commercial papers, reaching a near five-year high, driven by attractive pricing and debt refinancing.",
     "categories": {
@@ -3707,140 +3841,6 @@
         {
           "title": "Ethanol Blending Still an ‘Experiment’, Centre Tells Supreme Court as BPCL Challenges Karnataka HC Order",
           "summary": "The Centre has informed the Supreme Court that India's 20% ethanol blending in petrol is still an ongoing experiment, with its full impact expected to be clearer by next year. The government is defending its E20 policy and future 30% blending target. This development is crucial for India's energy sector and its efforts to reduce dependence on fossil fuels.",
-          "source": "Outlook India",
-          "url": "https://www.outlookindia.com/national/ethanol-blending-still-an-experiment-impact-to-be-clearer-by-next-year-govt-tells-sc"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-01T09:34:43.649980+00:00",
-    "brief": "Today's brief highlights key developments across geopolitics, economy, and national affairs, with India's diplomatic efforts and economic resilience taking center stage. PM Modi's approval of a recent agreement and reaffirmation of India's commitment to dialogue and diplomacy underscore the country's approach to international affairs, while easing oil prices and improving supply chains are expected to soften external pressures on the Indian economy. Meanwhile, the government's establishment of the National Road Safety Board and the Supreme Court's order on ethanol allocation for the 2025-26 supply year demonstrate efforts to address domestic issues, including road safety and sustainable energy.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "PM Modi Expresses Approval of Recent Agreement, Reaffirms India's Commitment to Dialogue and Diplomacy",
-          "summary": "PM Modi has expressed approval of a recent agreement and reaffirmed India's commitment to resolving issues through dialogue and diplomacy. This stance was highlighted during talks with Iran's President, demonstrating India's approach to international affairs. The discussions underscore India's emphasis on peaceful and negotiated solutions.",
-          "source": "scanx.trade",
-          "url": "https://scanx.trade/stock-market-news/global/pm-modi-expresses-approval-of-recent-agreement-reaffirms-india-s-commitment-to-dialogue-and-diplomacy/44395371"
-        },
-        {
-          "title": "Cricket Diplomacy: India and Nepal's Bonds Strengthened on the Field",
-          "summary": "The Indian Embassy in Kathmandu hosted a cricket tournament, strengthening cultural ties between India and Nepal. The event featured teams from various sectors and ended with India's victory, also supporting young Nepali female cricketers. This initiative highlights the role of sports in fostering diplomatic relations.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/sports-games/3943219-cricket-diplomacy-india-and-nepals-bonds-strengthened-on-the-field"
-        },
-        {
-          "title": "India’s global influence backed by diplomacy, defence and development: Report",
-          "summary": "A report suggests that India's growing global influence is backed by its diplomacy, defence, and development efforts. This indicates India's emergence as a significant voice on the international stage. The country's multifaceted approach is contributing to its increasing global presence.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/indias-global-influence-backed-by-diplomacy-defence-and-development-report/"
-        },
-        {
-          "title": "Pak warns world over Indus Waters Treaty at global conference",
-          "summary": "Pakistan has warned the world about the potential consequences of the Indus Waters Treaty failing, stating that it could compromise global security. This warning was issued at an international conference on Indus Waters, amidst tensions with India. The treaty's fate remains uncertain, with India having put it in abeyance.",
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/world/story/pakustan-news-iwt-news-indus-water-treaty-global-conference-islamabad-warnings-ishaq-dar-bilawal-bhutto-zardari-2937675-2026-06-30"
-        },
-        {
-          "title": "High-Stakes Diplomacy: Kushner and Witkoff in Doha",
-          "summary": "US envoy Steve Witkoff and Presidential adviser Jared Kushner are meeting with Qatari mediators in Doha to facilitate US-Iran negotiations. Qatar is playing a crucial diplomatic role in international affairs, and these talks aim to advance the negotiation process. The high-stakes diplomacy underscores the complexity of regional geopolitics.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/politics/3942941-high-stakes-diplomacy-kushner-and-witkoff-in-doha"
-        },
-        {
-          "title": "Strait of Hormuz: Strategic chokepoint in shadow of geopolitics",
-          "summary": "The Strait of Hormuz is a critical chokepoint for global oil and gas trade, with about one-fifth of global oil consumption flowing through it. The strait is at the center of disputes in negotiations to end the Middle East war, despite a preliminary deal between the US and Iran. Its strategic importance underscores the complex geopolitics of the region.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/strait-of-hormuz-strategic-chokepoint-in-shadow-of-geopolitics/articleshow/132090311.cms"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Easing oil prices, supply chains to soften external pressures on India: Finance ministry",
-          "summary": "India's economy is showing resilience despite global uncertainties, with easing oil prices and improving supply chains offering some relief. However, the finance ministry notes that monsoon vagaries and geopolitical shifts in West Asia pose risks to growth and inflation. The ministry is emphasizing the need for proactive policy measures, including building national buffer stocks and reorienting farm policies towards climate-resilient crops.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/easing-oil-prices-supply-chains-to-soften-external-pressures-on-india-finance-ministry/articleshow/132100894.cms"
-        },
-        {
-          "title": "Indian economy remains exposed to energy price shocks: RBI report",
-          "summary": "The Indian economy remains vulnerable to energy price shocks and geopolitical tensions, despite strong fundamentals. The RBI report notes that rising oil prices and supply chain issues could lead to exchange rate volatility. Recent policy measures have eased pressure on the rupee and bond yields, but attracting capital remains a focus amidst global uncertainties.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/indicators/indian-economy-remains-exposed-to-energy-price-shocks-rbi-report/articleshow/132095310.cms"
-        },
-        {
-          "title": "Life insurers pay more on surrenders than maturity benefits, raising ALM concerns: RBI",
-          "summary": "India's life insurance sector is facing challenges with high surrender payouts and weak policy persistence, while the general insurance industry is struggling with rising claims and profitability pressures. The RBI has warned about these issues, highlighting the need for improvement in the insurance sector. This could have implications for the overall financial stability of the country.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/business/industry-life-insurers-pay-more-on-surrenders-than-maturity-benefits-raising-alm-concerns-rbi-4280321/"
-        },
-        {
-          "title": "What's holding back small enterprises? And what can be done about India’s low-growth MSME sector",
-          "summary": "Despite the large share of Indians engaged in small enterprises, their contribution to the economy is below par. Many of these enterprises lack the means to scale operations and productivity, and are merely fallback livelihood options. Policy changes could help address these issues and improve the productivity and growth of the MSME sector.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/opinion/online-views/small-businesses-enterprises-india-msme-sector-productivity-regulation-funding-capital-11782750821016.html"
-        },
-        {
-          "title": "'US-India relationship at lowest point in 30 years,' says Democrat Congressman Ro Khanna",
-          "summary": "Democrat Congressman Ro Khanna has stated that the US-India relationship is at a 30-year low, citing President Trump's unilateral foreign policy as a major factor. This has harmed India's economy and damaged US credibility, leading to a loss of trust between the two countries. The congressman emphasized the need to rebuild global ties and improve the relationship.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/india/us-india-relationship-at-lowest-point-in-30-years-says-democrat-congressman-ro-khanna/articleshow/132082511.cms"
-        }
-      ],
-      "Business": [
-        {
-          "title": "SEBI bars Darjeeling Industries promoters, alleges circular funding and stock manipulation scheme",
-          "summary": "SEBI has barred the promoters of Darjeeling Industries due to allegations of circular funding and stock manipulation. This move aims to protect investors and maintain market integrity. The action is part of SEBI's efforts to regulate and monitor Indian markets.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/business/sebi-bars-darjeeling-industriies-promoters-alleges-circular-funding-and-stock-manipulation-scheme/"
-        },
-        {
-          "title": "Healthy cookware startup The Indus Valley raises $17 million from Gaja Capital",
-          "summary": "The Indus Valley, a healthy cookware startup, has secured $17 million in funding from Gaja Capital. The investment will be used to enhance product development and expand distribution in India. This funding round indicates growing interest in the healthy cookware segment.",
-          "source": "The Hindu Business Line",
-          "url": "https://www.thehindubusinessline.com/markets/healthy-cookware-startup-the-indus-valley-raises-17-million-from-gaja-capital/article71164971.ece"
-        },
-        {
-          "title": "Quick food delivery startup Swish in funding talks with Bertelsmann India Investments",
-          "summary": "Swish, a quick food delivery startup, is in talks with Bertelsmann India Investments for a potential funding round of $20-50 million. The startup has shown significant growth, with an annual recurring revenue of over Rs 165 crore and more than 630,000 monthly orders. This funding round could further accelerate its expansion.",
-          "source": "Moneycontrol",
-          "url": "https://www.moneycontrol.com/news/business/startup/quick-food-delivery-startup-swish-in-funding-talks-with-bertelsmann-india-investments-months-after-previous-raise-13961822.html"
-        },
-        {
-          "title": "Central Bank of India opens its IFSC banking unit at GIFT City",
-          "summary": "Central Bank of India has launched its IFSC banking unit at GIFT City to cater to corporate foreign currency funding needs. This move aims to provide specialized banking services to companies operating in the international financial sector. The IFSC banking unit will facilitate foreign currency transactions and trade finance.",
-          "source": "The Hindu Business Line",
-          "url": "https://www.thehindubusinessline.com/money-and-banking/central-bank-of-india-opens-its-ifsc-banking-unit-at-gift-city/article71161937.ece"
-        },
-        {
-          "title": "Marwari Catalysts Portfolio Continues to Attract Investor Interest",
-          "summary": "Marwari Catalysts, a family office, has seen its portfolio startups attract significant investor interest, with multiple funding rounds announced in the last quarter. This indicates growing confidence in ventures emerging from Tier-II and Tier-III India. Marwari Catalysts' integrated approach to venture creation and investment readiness has contributed to its success.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/marwari-catalysts-portfolio-continues-to-attract-investor-interest-strengthening-its-position-as-an-emerging-family-office/"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Finally, government sets up National Road Safety Board, Nitin Gokarn to head it",
-          "summary": "The Indian government has established the National Road Safety Board, with Nitin Gokarn as its head, following a Supreme Court directive. The board aims to improve road safety in the country. This development is significant as it marks a step towards addressing the high number of road accidents in India.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/finally-government-sets-up-national-road-safety-board-nitin-gokarn-to-head-it/articleshow/132101150.cms"
-        },
-        {
-          "title": "Beyond The Soap Opera: Why India Is Still Debating Marital Rape Law",
-          "summary": "The issue of marital rape law is still being debated in India, with petitions pending in the Supreme Court. The Central government has taken a stance against criminalizing marital rape, sparking a ongoing discussion on the matter. The debate highlights the complexities and challenges in addressing issues related to women's rights and gender-based violence in the country.",
-          "source": "NDTV.com",
-          "url": "https://www.ndtv.com/india-news/beyond-the-soap-opera-why-india-is-still-debating-marital-rape-law-11708565"
-        },
-        {
-          "title": "Supreme Court Orders Status Quo On Ethanol Allocation For Supply Year 2025-26, Stays Karnataka HC Direction",
-          "summary": "The Supreme Court has ordered a status quo on ethanol allocation for the 2025-26 supply year, staying a Karnataka High Court directive. This decision aims to protect India's ethanol blending program from disruption. The government's ethanol blending policy is a key initiative to reduce dependence on fossil fuels and promote sustainable energy sources.",
-          "source": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/business/supreme-court-orders-status-quo-on-ethanol-allocation-for-supply-year-202526-stays-karnataka-hc-direction"
-        },
-        {
-          "title": "Ethanol Blending Still an ‘Experiment’, Centre Tells Supreme Court as BPCL Challenges Karnataka HC Order",
-          "summary": "The Centre has informed the Supreme Court that India's 20% ethanol blending in petrol is still an ongoing experiment. The government is monitoring the impact of this policy, which is expected to be clearer by next year. The experiment is part of India's efforts to reduce greenhouse gas emissions and promote cleaner energy sources.",
           "source": "Outlook India",
           "url": "https://www.outlookindia.com/national/ethanol-blending-still-an-experiment-impact-to-be-clearer-by-next-year-govt-tells-sc"
         }
