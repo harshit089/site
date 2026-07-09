@@ -1,5 +1,127 @@
 [
   {
+    "generated_at": "2026-07-09T14:41:14.244335+00:00",
+    "brief": "Today's brief highlights key developments across geopolitics, economy, and national affairs, with the global economy showing resilience amid Middle East conflict and the International Monetary Fund noting that it has weathered the Iran war better than expected. In India, the IMF has lowered the country's growth outlook for FY27, but still retains its status as the fastest-growing economy globally, driven by strong private consumption and services activity. Meanwhile, Indian companies have raised significant funds through commercial papers, reaching a near five-year high, and the banking sector is seeing a surge in lending, outpacing deposit growth and widening the funding gap.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Trump claims he prevented a nuclear war between India and Pakistan",
+          "summary": "Donald Trump has claimed that he prevented a nuclear war between India and Pakistan, stating that Pakistan's Prime Minister credited him with saving millions of lives. However, India has consistently refuted any claims of American mediation in the conflict. This statement highlights the complex geopolitical dynamics between the US, India, and Pakistan.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/international/global-trends/they-were-going-to-go-nuclear-trump-reiterates-claim-of-ending-india-pakistan-conflict/articleshow/132275577.cms"
+        },
+        {
+          "title": "IMF says global economy weathered Iran war better than expected",
+          "summary": "The International Monetary Fund has stated that the global economy has weathered the Iran war better than expected, thanks to stronger AI-related investment and a more resilient global economy. However, inflation and geopolitical risks remain elevated, indicating ongoing uncertainty. This assessment highlights the global economy's ability to adapt to geopolitical shocks.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/global/imf-says-global-economy-weathered-iran-war-better-than-expected-11783559808664.html"
+        },
+        {
+          "title": "US considers trade embargo on Spain over defense spending",
+          "summary": "The US is considering a trade embargo on Spain due to tensions over defense spending, with President Donald Trump exploring the use of the International Emergency Economic Powers Act. This move could impact numerous industries and international relations, highlighting the complexities of US-EU trade relations. The potential embargo threatens to escalate tensions between the two nations.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3947531-trumps-bold-move-trade-embargo-threatens-us-spain-relations"
+        },
+        {
+          "title": "Syria removed from US terrorism list",
+          "summary": "The US has removed Syria from its list of state sponsors of terrorism, with President Donald Trump promising economic collaboration and development opportunities. This move is subject to congressional review and could potentially revitalize Syria's international relations and economy. The decision may have significant implications for the Middle East region.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/law-order/3947479-trumps-bold-move-syria-exits-terrorism-list"
+        },
+        {
+          "title": "Global economy shows resilience amid Middle East conflict",
+          "summary": "The global economy has shown resilience in the face of the Middle East conflict, with leaders of international financial and trade organizations highlighting ongoing uncertainties. They emphasize the need for conflict resolution and economic resilience measures, with global growth expected to dip but potentially rebound by 2027. This assessment underscores the global economy's ability to withstand geopolitical shocks.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3947473-global-economys-resilience-amid-middle-east-conflict"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "IMF lowers India’s FY27 growth outlook, retains status as fastest-growing economy",
+          "summary": "The International Monetary Fund (IMF) has projected India's growth for FY27 at 6.4 percent, making it the fastest-growing economy globally, driven by strong private consumption and services activity. The global growth forecast has seen adjustments due to various factors, with the US economy expected to grow steadily and China's growth forecast upgraded. This indicates India's continued economic expansion despite global challenges.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/imf-lowers-indias-fy27-growth-outlook-retains-status-as-fastest-growing-economy/articleshow/132265573.cms"
+        },
+        {
+          "title": "India's Growth Hinges on Boosting Private Investment: Experts Urge Reforms and Coordination",
+          "summary": "Experts believe that India's growth trajectory can accelerate with increased private investment, facilitated by policy reforms and coordination between the Centre and States. They stress the importance of deregulation and infrastructural advancements to achieve the country's vision of a developed economy by 2047. This highlights the need for reforms to boost private investment and drive economic growth.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3947226-indias-growth-hinges-on-boosting-private-investment-experts-urge-reforms-and-coordination"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
+          "summary": "Neuberg Diagnostics is planning an initial public offering in fiscal year 2028 to raise approximately ₹3,500-4,000 crore. The company aims to use the funds for acquisitions and expansion, targeting pan-India growth and new diagnostic technologies. This move is expected to make Neuberg the second-largest player in the diagnostics market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
+        },
+        {
+          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
+          "summary": "Indian companies raised a significant amount of funds through commercial papers in June, reaching a near five-year high of Rs 2.53 lakh crore. This surge is attributed to attractive pricing, seasonal needs, and debt refinancing, with companies shifting from costly bank loans to cheaper short-term market funding. The Reserve Bank of India's liquidity infusions also contributed to the favorable conditions.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
+        },
+        {
+          "title": "India's banks are handing out more loans, but deposits aren't keeping up",
+          "summary": "Indian banks have seen a surge in lending, outpacing deposit growth and widening the funding gap. This trend is driven by robust demand from corporate and retail sectors, pushing the loan-to-deposit ratio to a decade-high. The mismatch between loan growth and deposit growth raises concerns about funding sustainability for banks.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-banks-are-handing-out-more-loans-but-deposits-arent-keeping-up/articleshow/132177579.cms"
+        },
+        {
+          "title": "Operational, Says Report – Outlook Business",
+          "summary": "Almost half of India's UDAN regional flight routes have become non-operational, despite the government launching a revamped phase with higher subsidies and airport funding. The reasons behind this include viability gap support, infrastructure delays, and airline distress, which are reshaping the country's flagship connectivity scheme.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/news/almost-half-of-udan-routes-have-become-non-operational-says-report"
+        },
+        {
+          "title": "Inspira seals Rs 1,800-crore private credit for Burger King buy in India",
+          "summary": "Inspira Global has secured ₹1,800 crore in private credit to acquire a controlling stake in India's Burger King operator. The company has already raised ₹1,050 crore via NCDs and expects to raise the remaining ₹800 crore this month. This significant funding marks a major move into the quick-service restaurant sector.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/inspira-seals-rs-1800-crore-private-credit-for-burger-king-buy-in-india/articleshow/132174770.cms"
+        },
+        {
+          "title": "Up Ecosystem on Foreign Capital, Family Offices May Now Have to Keep it Rolling – Outlook Business",
+          "summary": "India's family offices are emerging as key sources of patient capital for funding start-ups, innovation, and the country's next phase of entrepreneurial growth. They are expected to play a crucial role in supporting the ecosystem, especially as foreign capital becomes less abundant.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/magazine/india-built-a-start-up-ecosystem-on-foreign-capital-family-offices-may-now-have-to-keep-it-rolling"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "TN in SC for quota benefits to Muslim convert",
+          "summary": "The Tamil Nadu government has approached the Supreme Court to challenge a Madras High Court order that quashed the state's decision to allow individuals from reserved categories who convert to Islam to continue receiving quota benefits. This case highlights the complexities of reservation policies and their intersection with religious conversion. The outcome of this case may have implications for similar policies across the country.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/tn-in-sc-for-quota-benefits-to-muslim-convert/articleshow/132275209.cms"
+        },
+        {
+          "title": "Karnataka High Court notice on plea against SEC’s action of conducting parallel SIR in Mahadevapura assembly constituency",
+          "summary": "The Karnataka High Court has issued notices to the State Election Commission, the Election Commission of India, and the state government in response to a petition challenging the legality of conducting a parallel Special Intensive Revision of electoral rolls in the Mahadevapura assembly constituency. This case raises questions about the authority of the State Election Commission and the process of electoral roll revision. The court's decision may impact the conduct of elections in the state.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-notice-on-plea-against-secs-action-of-conducting-parallel-sir-in-mahadevapura-assembly-constituency/article71198589.ece"
+        },
+        {
+          "title": "NCERT textbook revision: After Supreme Court rap over judiciary chapter, Hitler references removed, Congress' stance on Partition revised",
+          "summary": "The NCERT has revised its Class 8 Social Science textbook following a Supreme Court order to withdraw an earlier edition that contained controversial content. The revised textbook removes references to Hitler and revises the Congress party's stance on Partition. This development highlights the importance of accurate and sensitive representation of historical events in educational materials.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/ncert-textbook-revision-after-supreme-court-rap-over-judiciary-chapter-hitler-references-removed-congress-stance-on-partition-revised/articleshow/132260523.cms"
+        },
+        {
+          "title": "SC Says Lawyers Can't Be Blacklisted by Banks Over Negligence Allegations, Directs BCI to Explore National Legal Academy",
+          "summary": "The Supreme Court has ruled that banks cannot blacklist lawyers based solely on allegations of professional negligence, as this infringes on the jurisdiction of the Bar Councils. The court has also directed the Bar Council of India to explore the establishment of a National Legal Academy. This decision may have implications for the regulation of the legal profession and the relationship between lawyers and banks.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/sc-says-lawyers-cant-be-blacklisted-by-banks-over-negligence-allegations-directs-bci-to-explore-national-legal-academy-article-154978921"
+        },
+        {
+          "title": "The fight to donate blood: Why queer Indians are challenging a lifetime ban",
+          "summary": "A Supreme Court challenge has been filed against India's 2017 blood donor guidelines, which permanently exclude transgender persons, men who have sex with men, and female sex workers from donating blood. The challenge argues that this ban is discriminatory and based on identity rather than medical criteria. The outcome of this case may impact the rights of marginalized communities and the inclusivity of the blood donation process.",
+          "source": "The News Minute",
+          "url": "https://www.thenewsminute.com/news/the-fight-to-donate-blood-why-queer-indians-are-challenging-a-lifetime-ban"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-09T09:26:44.088835+00:00",
     "brief": "Today's global landscape is marked by significant developments in geopolitics and the economy. The US has removed Syria from its list of state sponsors of terrorism, a move that could lead to economic collaboration and development opportunities for the country. Meanwhile, the global economy has shown resilience in the face of ongoing conflict in the Middle East, but leaders are highlighting the need for conflict resolution and economic resilience measures to ensure sustained growth. In India, the IMF has lowered the country's growth outlook for FY27 to 6.4 percent, while still considering it the fastest-growing economy, with experts urging reforms and coordination to boost private investment and achieve the country's vision of a developed economy by 2047.",
     "categories": {
@@ -3665,140 +3787,6 @@
         {
           "title": "AG Rejects Reports That Centre Described E20 Fuel Programme As An ‘Experiment’",
           "summary": "India's Attorney General has denied reports that the Centre described its E20 fuel programme as an 'experiment' before the Supreme Court. The programme aims to blend 20% ethanol with petrol. The Attorney General's clarification is significant as it addresses concerns about the government's commitment to the programme and its potential environmental impact.",
-          "source": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/business/ag-rejects-reports-that-centre-described-e20-fuel-programme-as-an-experiment"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-02T13:44:17.102896+00:00",
-    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. Iran's restricted access to international inspectors and its push for a strategic partnership with China signal escalating tensions in the Middle East, while the US and Iran engage in indirect talks to prevent military escalation. In India, the Reserve Bank of India's efforts to shield the rupee from global tensions and the government's commitment to its E20 fuel programme are notable, as the country navigates economic and environmental challenges. Meanwhile, Indian companies are increasingly taking on dollar debt and the startup ecosystem is poised for growth, with a focus on DeepTech and AI ventures, amidst regulatory changes and potential impacts on venture capital funding.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Iran Restricts Inspector Access to Two Sites, Ghalibaf Denies Broader Entry Claims",
-          "summary": "Iran has restricted international inspector access to only two sites, the Bushehr Power Plant and the Tehran Reactor, with no further access permitted. Iran's Parliament Speaker Ghalibaf has also announced a visit to China to elevate Tehran-Beijing relations to a strategic partnership. This move signals a significant diplomatic push by Iran amidst ongoing tensions with the US.",
-          "source": "scanx.trade",
-          "url": "https://scanx.trade/stock-market-news/global/iran-restricts-inspector-access-to-two-sites-ghalibaf-denies-broader-entry-claims/44492324"
-        },
-        {
-          "title": "US-Iran Peace Deal Live: Strait of Hormuz to remain 'Warlike Operations Area' until July 9",
-          "summary": "The US and Iran are holding indirect talks in Qatar to prevent another military escalation in the Middle East. The discussions focus on restoring commercial shipping through the Strait of Hormuz, securing a ceasefire, and implementing a 14-point interim accord. The talks also aim to address Iran's nuclear program and the release of frozen assets.",
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/world/story/us-iran-peace-talks-qatar-live-updates-donald-trump-mojtaba-khamenei-agreement-lebanon-framework-strait-of-hormuz-middle-east-tensions-2938737-2026-07-02"
-        },
-        {
-          "title": "Indian diplomat DB Venkatesh Varma chairs UNSG advisory body on disarmament",
-          "summary": "Indian diplomat DB Venkatesh Varma has become the first Indian to chair the UN Secretary-General's Advisory Board on Disarmament Matters. This leadership role highlights India's growing influence in global security dialogues, particularly amidst ongoing international conflicts. The board convened in New York, with Varma leading discussions on disarmament.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/india/indian-diplomat-db-venkatesh-varma-chairs-unsg-advisory-body-on-disarmament/articleshow/132123925.cms"
-        },
-        {
-          "title": "'Iran's nuclear rights are non-negotiable': Iran's Parliament Speaker Ghalibaf says key commitments under MoU need to be fulfilled",
-          "summary": "Iran's Parliament Speaker Ghalibaf has stated that Iran's nuclear rights are non-negotiable and that the country will not proceed with further talks until key commitments are met. These commitments include ending the war in Lebanon and ensuring passage through the Strait of Hormuz. Ghalibaf emphasized Iran's adherence to the NPT and IAEA supervision.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/irans-nuclear-rights-are-non-negotiable-irans-parliament-speaker-ghalibaf-says-key-commitments-under-mou-need-to-be-fulfilled/articleshow/132121637.cms"
-        },
-        {
-          "title": "China using 'two-faced diplomacy' in Central Africa: Report",
-          "summary": "A report has accused China of using 'two-faced diplomacy' in Central Africa, where Beijing publicly speaks about peace and economic cooperation while aggressively positioning its military. This approach has raised concerns about China's intentions in the region. The report highlights the complexities of China's diplomatic efforts in Central Africa.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/china-using-two-faced-diplomacy-in-central-africa-report/"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "RBI Kicks Off 74th Manufacturing Sector Survey: A Key Tool for Economic Analysis",
-          "summary": "The Reserve Bank of India has launched its 74th survey for the manufacturing sector, which collects operational data to aid monetary policy. The survey will capture order volumes, inventory details, and capacity use, and is open to wide industry participation. This data will be crucial for understanding the current state of the manufacturing sector and informing economic decisions.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3943710-rbi-kicks-off-74th-manufacturing-sector-survey-a-key-tool-for-economic-analysis"
-        },
-        {
-          "title": "Nomura, HSBC split on RBI rate outlook as weak monsoon fuels inflation risks",
-          "summary": "Economists from Nomura and HSBC have differing views on the RBI's next policy move due to the impact of a weak monsoon on India's economy. A weak monsoon could lead to higher food inflation, affecting GDP growth and the rupee. The RBI's decision will be crucial in managing these risks and maintaining economic stability.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/economy/nomura-hsbc-rbi-rate-outlook-weak-monsoon-food-inflation-sonal-varma-pranjul-bhandari-19936402.htm"
-        },
-        {
-          "title": "Rupee's defence takes RBI dollar shorts to a record high",
-          "summary": "The Reserve Bank of India's net short forward position in the currency market has reached a record high, indicating significant interventions to shield the rupee from global tensions. The central bank faces a decision on whether to reduce its forward position or bolster reserves, which will impact the rupee's value and the economy. The rupee has recovered from its record low due to capital inflows and policy measures.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupees-defence-takes-rbi-dollar-shorts-to-a-record-high/articleshow/132103620.cms"
-        },
-        {
-          "title": "India Inc eyes more dollar debt as RBI policy support kicks in",
-          "summary": "Indian companies are increasingly taking on dollar debt due to recent policy changes by the RBI, which have lowered hedging costs and eased rules. This shift from rupee loans to offshore funds is driven by the central bank's moves to support the economy. The change in borrowing patterns could have significant implications for India's external debt and the rupee.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/market/bonds/rbi-ecb-guidelines-external-commercial-borrowings-11782813258132.html"
-        },
-        {
-          "title": "Easing oil prices, supply chains to soften external pressures on India: Finance ministry",
-          "summary": "The Indian economy remains resilient despite global uncertainties, with easing oil prices and improving supply chains offering some relief. However, risks such as monsoon vagaries and geopolitical shifts in West Asia still pose a threat to growth and inflation. The finance ministry is emphasizing the need for proactive policy measures, including building national buffer stocks and reorienting farm policies.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/easing-oil-prices-supply-chains-to-soften-external-pressures-on-india-finance-ministry/articleshow/132100894.cms"
-        },
-        {
-          "title": "Let's gilt trip those foreign investors",
-          "summary": "Goldman Sachs has highlighted Indian government bonds as a prime investment opportunity for foreign investors, citing favorable policy changes and a strong economic recovery. The Indian bond market is attracting significant overseas interest due to its robust domestic consumption, strategic capital expenditure, and attractive yields. This could provide a compelling avenue for diversification and investment for global institutions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/opinion/et-editorial/lets-gilt-trip-those-foreign-investors/articleshow/132099608.cms"
-        }
-      ],
-      "Business": [
-        {
-          "title": "Debt's the way for Indian IT acquisition funding",
-          "summary": "Indian IT companies are increasingly using debt financing for acquisitions, as seen in Persistent Systems' $1.5-billion bridge financing from Barclays for its proposed acquisition of German IT firm Nagarro. This trend highlights the growing importance of debt financing in the Indian IT sector. The use of debt financing allows companies to pursue larger acquisitions and expand their operations.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/debts-the-way-for-indian-it-acquisition-funding/articleshow/132124337.cms"
-        },
-        {
-          "title": "Intel exec Raja Koduri's OXMIQ raises $35 million to build licensable AI chip architecture",
-          "summary": "OXMIQ, a startup founded by former Intel executive Raja Koduri, has raised $35 million in Series A funding to develop licensable AI chip architecture. The company aims to reduce the high cost of AI compute, particularly for emerging markets like India and Southeast Asia, by allowing businesses and governments to create custom AI processors. This move could foster wider AI adoption in these regions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/oxmiq-raises-35-million-to-license-ai-chip-designs-as-sovereign-ai-demand-grows/articleshow/132117037.cms"
-        },
-        {
-          "title": "Stricter digital rules could cost Indian startups Rs 91,500 crore in annual VC funding: Oxford Economics",
-          "summary": "A study by Oxford Economics suggests that stricter digital regulations in India could result in a significant decline in venture capital funding for startups, with potential losses of Rs 91,500 crore annually. This could also lead to a reduction in the number of startups and startup jobs in the country. The study highlights the potential impact of regulatory changes on the Indian startup ecosystem.",
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/technology/tech-news-technology/digital-rules-indian-startups-oxford-economics-report-key-findings-10766560/"
-        },
-        {
-          "title": "Renfra Energy India Files DRHP With SEBI For ₹430 Crore IPO",
-          "summary": "Renfra Energy India has filed a draft red herring prospectus with the Securities and Exchange Board of India for an initial public offering of ₹430 crore. The company plans to use the proceeds to repay debt, fund working capital, and support expansion plans. The IPO is expected to help the company grow its renewable energy business.",
-          "source": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/business/renfra-energy-india-files-drhp-with-sebi-for-430-crore-ipo-plans-debt-repayment-expansion-funding"
-        },
-        {
-          "title": "Avendus Wealth-Hurun India Under 30 List 2026 Unveiled; DeepTech & HardTech Dominate India’s Startup Landscape",
-          "summary": "The Avendus Wealth-Hurun India Under 30 List 2026 highlights the growing importance of DeepTech and AI ventures in India's startup ecosystem. The list features 102 young Indian entrepreneurs with a combined valuation of ₹2.9 lakh crore, demonstrating the potential of the country's startup sector. Bengaluru leads the startup hubs, and most founders are first-generation entrepreneurs.",
-          "source": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/mumbai/avendus-wealthhurun-india-under-30-list-2026-unveiled-deeptech-hardtech-dominate-indias-startup-landscape"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Tamil Nadu govt moves SC against Madras HC order banning cow slaughter",
-          "summary": "The Tamil Nadu government has approached the Supreme Court to challenge a Madras High Court order that imposed a blanket ban on cow slaughter in the state. The move is significant as it highlights the ongoing debate around cow protection laws in India. The Supreme Court's decision will have implications for the state's laws and policies related to animal slaughter.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-govt-moves-sc-against-madras-hc-order-banning-cow-slaughter/articleshow/132126875.cms"
-        },
-        {
-          "title": "No default bail if chargesheet filed but not provided to accused: Supreme Court",
-          "summary": "The Supreme Court has ruled that an accused person cannot claim default bail if the chargesheet has been filed in court but not provided to them. This decision clarifies the procedure for default bail and has implications for the criminal justice system in India. The ruling aims to prevent misuse of the default bail provision.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/no-default-bail-if-chargesheet-filed-but-not-provided-to-accused-supreme-court/articleshow/132124303.cms"
-        },
-        {
-          "title": "Supreme Court lays down ITR norms for fixing accident damages",
-          "summary": "The Supreme Court has laid down guidelines for using income tax returns (ITR) to determine the income of individuals in cases of accident damages. The court noted that the income of salaried and self-employed individuals should be assessed differently. This decision will help in calculating fair compensation for accident victims.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/supreme-court-lays-down-itr-norms-for-fixing-accident-damages/articleshow/132123964.cms"
-        },
-        {
-          "title": "AG Rejects Reports That Centre Described E20 Fuel Programme As An ‘Experiment’",
-          "summary": "The Attorney General has denied reports that the Centre described its E20 fuel programme as an 'experiment' before the Supreme Court. The programme aims to blend 20% ethanol with petrol to reduce emissions. The clarification is significant as it underscores the government's commitment to the programme and its potential impact on the environment and energy sector.",
           "source": "Free Press Journal",
           "url": "https://www.freepressjournal.in/business/ag-rejects-reports-that-centre-described-e20-fuel-programme-as-an-experiment"
         }
