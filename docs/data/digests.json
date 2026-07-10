@@ -1,5 +1,151 @@
 [
   {
+    "generated_at": "2026-07-10T02:15:05.045638+00:00",
+    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The global economy has shown resilience despite the ongoing conflict in the Middle East, with institutions stating that it has remained broadly stable. In India, the Reserve Bank of India is leaning towards a ban on cryptocurrencies, while the country's growth forecast for FY27 has been lowered by the Asian Development Bank and the International Monetary Fund. Meanwhile, the Indian banking sector is witnessing a surge in lending, outpacing deposit growth, and companies are increasingly opting for domestic bond markets and overseas funding, driven by the RBI's policy measures.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Why Ukraine's air shield works against drones but struggles against ballistic missiles",
+          "summary": "Ukraine's air defense system has been effective against drones but struggles to counter ballistic missiles, highlighting the challenges faced by the country in its ongoing conflict. The war in Ukraine has now surpassed the duration of the First World War. The effectiveness of Ukraine's air shield has significant implications for the ongoing conflict and global security.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/why-ukraines-air-shield-works-against-drones-but-struggles-against-ballistic-missiles/articleshow/132283704.cms"
+        },
+        {
+          "title": "Malaysia's Strategic Energy Moves: Navigating International Trade with Russia",
+          "summary": "Malaysia is considering importing oil from Russia, despite Western sanctions, as part of its efforts to strengthen its energy portfolio. The move is significant as it highlights the complexities of international trade and diplomacy in the face of global tensions. Malaysia's energy commitments with Russia and Turkmenistan are expected to bolster its energy security.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/science-environment/3947724-malaysias-strategic-energy-moves-navigating-international-trade-with-russia"
+        },
+        {
+          "title": "'Only dialogue and diplomacy can resolve West Asia conflict': PM Modi",
+          "summary": "Indian Prime Minister Narendra Modi has emphasized the importance of dialogue and diplomacy in resolving conflicts in West Asia. He reiterated India's commitment to promoting peace, stability, and a rules-based international order. The statement highlights India's stance on regional and global conflicts.",
+          "source": "The New Indian Express",
+          "url": "https://www.newindianexpress.com/india/2026/Jul/09/only-dialogue-and-diplomacy-can-resolve-west-asia-conflict-pm-modi"
+        },
+        {
+          "title": "'Global economy resilient despite Mideast war'",
+          "summary": "Global economic institutions have stated that the world economy has remained broadly resilient despite the ongoing conflict in the Middle East. The assessment suggests that the global economy has been able to withstand the shocks of the conflict, highlighting its stability and adaptability. The resilience of the global economy has significant implications for international trade and economic cooperation.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/global-economy-resilient-despite-mideast-war/"
+        },
+        {
+          "title": "'They were going to go nuclear': Trump reiterates claim of ending India-Pakistan conflict",
+          "summary": "Former US President Donald Trump has claimed that he prevented a nuclear war between India and Pakistan, stating that his unique personality helped to settle the conflict. However, India has consistently refuted any claims of American mediation in the conflict. The statement highlights the complexities of international diplomacy and the role of global leaders in conflict resolution.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/international/global-trends/they-were-going-to-go-nuclear-trump-reiterates-claim-of-ending-india-pakistan-conflict/articleshow/132275577.cms"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Bank credit growth to ease as corporates tap bond markets, overseas funding: CareEdge",
+          "summary": "Bank credit growth in India is expected to slow down as large corporations opt for domestic bond markets and overseas funding instead of traditional bank loans. This shift is driven by the Reserve Bank of India's policy measures that make external funding more attractive. Overall credit demand remains healthy, but banks will finance a smaller share.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
+        },
+        {
+          "title": "Mumbai Metropolitan Region contributes 6.1% of India's GDP: BMC Commissioner",
+          "summary": "The Mumbai Metropolitan Region is a significant contributor to India's economy, accounting for 6.1% of the country's GDP. The region's economic importance highlights the need for continuous improvement in policy, infrastructure, and service delivery. This will help maintain Mumbai's position as a key economic hub.",
+          "source": "THE WEEK",
+          "url": "https://www.theweek.in/news/biz-tech/2026/07/09/mumbai-metropolitan-region-contributes-61-of-indias-gdp-bmc-commissioner.html"
+        },
+        {
+          "title": "ADB cuts India FY27 growth forecast to 6.6% on higher energy costs",
+          "summary": "The Asian Development Bank has lowered India's growth forecast for FY27 to 6.6% due to higher oil prices and transportation costs. This is expected to impact consumer sentiment and private demand. However, the bank retained its FY28 growth forecast at 7.3%, expecting policy support to drive growth.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/adb-cuts-india-fy27-growth-forecast-to-6-6-on-higher-energy-costs/articleshow/132277277.cms"
+        },
+        {
+          "title": "IMF lowers India’s FY27 growth outlook, retains status as fastest-growing economy",
+          "summary": "The International Monetary Fund has lowered India's growth outlook for FY27 to 6.4%, but still expects the country to remain the fastest-growing economy. Strong private consumption and services activity are expected to support this growth. The IMF has also adjusted its global growth forecasts for 2026 and 2027 due to various factors.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/imf-lowers-indias-fy27-growth-outlook-retains-status-as-fastest-growing-economy/articleshow/132265573.cms"
+        },
+        {
+          "title": "RBI Leans Toward Crypto Ban Despite India Boasting 39 Million Traders & $2.1B Holdings",
+          "summary": "The Reserve Bank of India is leaning towards a ban on cryptocurrencies, despite a large number of traders and significant holdings in India. The RBI's internal documents reveal a policy leaning toward prohibition, which could impact the country's digital asset sector. This move is driven by concerns around cryptocurrency.",
+          "source": "CoinGape",
+          "url": "https://coingape.com/rbi-leans-toward-crypto-ban-despite-india-boasting-39-million-traders-2-1b-holdings/"
+        },
+        {
+          "title": "RBI Signals Crypto Ban Approach, Tax Department Warns Of Evasion Risks",
+          "summary": "The Reserve Bank of India has signaled a potential ban on cryptocurrencies, while the tax department has warned of evasion risks associated with digital assets. This development is significant for India's digital asset sector, which is awaiting clarity on future regulations and policy framework. The RBI's concerns around cryptocurrency are driving this move.",
+          "source": "Outlook Money",
+          "url": "https://www.outlookmoney.com/news/rbi-signals-crypto-ban-approach-tax-department-warns-of-evasion-risks"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Bank credit growth to ease as corporates tap bond markets, overseas funding: CareEdge",
+          "summary": "Bank credit growth is expected to slow down as large corporations opt for domestic bond markets and overseas borrowings for funding, reducing their reliance on traditional bank loans. This shift is driven by the Reserve Bank of India's policy measures that make external funding more attractive. Overall credit demand remains healthy, but banks will finance a smaller share.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
+        },
+        {
+          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
+          "summary": "Neuberg Diagnostics plans to launch an initial public offering in fiscal year 2028, aiming to raise approximately ₹3,500-4,000 crore. The company also plans a pre-IPO funding round to secure Rs 5000 crore for acquisitions, targeting pan-India growth and new diagnostic technologies. This expansion strategy aims to make Neuberg the second-largest player in the diagnostics market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
+        },
+        {
+          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
+          "summary": "Indian companies raised a significant amount of funds via commercial papers in June, reaching a near five-year high of Rs 2.53 lakh crore. This surge is driven by attractive pricing, seasonal needs, and debt refinancing, with companies shifting from costlier bank loans to cheaper short-term market funding. The Reserve Bank of India's liquidity infusions also contributed to favorable conditions.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
+        },
+        {
+          "title": "India's banks are handing out more loans, but deposits aren't keeping up",
+          "summary": "Indian banks have seen a surge in lending, outpacing deposit growth and widening the funding gap, with the loan-to-deposit ratio reaching a decade-high. This trend is driven by robust demand from corporate and retail sectors, raising concerns about funding sustainability. Banks are adopting varied strategies to manage this gap amidst intense competition.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-banks-are-handing-out-more-loans-but-deposits-arent-keeping-up/articleshow/132177579.cms"
+        },
+        {
+          "title": "Almost half of UDAN routes have become non-operational, says report",
+          "summary": "Nearly half of India's UDAN regional flight routes have become non-operational, despite the government launching a revamped phase with higher subsidies and airport funding. The reasons behind this include viability gap support, infrastructure delays, and airline distress, which are reshaping the country's flagship connectivity scheme.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/news/almost-half-of-udan-routes-have-become-non-operational-says-report"
+        },
+        {
+          "title": "Inspira seals Rs 1,800-crore private credit for Burger King buy in India",
+          "summary": "Inspira Global has secured ₹1,800 crore in private credit to acquire a controlling stake in India's Burger King operator. The company has already raised ₹1,050 crore via NCDs and expects to raise the remaining ₹800 crore this month. This significant funding marks a major move into the quick-service restaurant sector.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/inspira-seals-rs-1800-crore-private-credit-for-burger-king-buy-in-india/articleshow/132174770.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Supreme Court Declares Zero Tolerance For AI-Generated Fake Legal Precedents, Directs Bar Council To Act",
+          "summary": "The Supreme Court has taken a strong stance against AI-generated fake legal precedents, directing the Bar Council of India to frame guidelines and disciplinary measures against advocates submitting fabricated legal citations. This move aims to maintain judicial integrity and prevent the misuse of AI in legal proceedings. The Court's decision sets a significant precedent for the Indian judiciary.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/mumbai/supreme-court-declares-zero-tolerance-for-ai-generated-fake-legal-precedents-directs-bar-council-to-act"
+        },
+        {
+          "title": "'Only face-saving exercises': SC raps authorities over illegal constructions in Delhi-NCR and beyond",
+          "summary": "The Supreme Court has reprimanded authorities over illegal constructions in Delhi-NCR and other regions, warning that officials found responsible will be held personally accountable. The Court's stern stance aims to curb the menace of illegal constructions and ensure public safety. This move highlights the judiciary's efforts to address urban planning and infrastructure issues.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/only-face-saving-exercises-supreme-court-raps-authorities-illegal-constructions-fire-house-collapse-in-delhi-ncr-lucknow-101783590301021.html"
+        },
+        {
+          "title": "'There should be no slackness': SC orders special team to survey illegal, unsafe buildings",
+          "summary": "The Supreme Court has ordered a special team to survey illegal and unsafe buildings in several cities, including Delhi, Gurugram, and Lucknow. The Court's directive aims to identify and address potential safety hazards and ensure that authorities take prompt action against illegal constructions. This move underscores the judiciary's concern for public safety and urban governance.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/there-should-be-no-slackness-sc-orders-special-team-to-survey-illegal-unsafe-buildings/articleshow/132282174.cms"
+        },
+        {
+          "title": "Maharashtra Sets Up 7-Member Panel to Deliberate On UCC, Draft Expected In 6 Months",
+          "summary": "The Maharashtra government has formed a 7-member panel to draft a Uniform Civil Code (UCC), which is expected to be completed within six months. The panel, led by retired Supreme Court judge Ranjana Desai, will deliberate on the UCC and submit a draft to the state government. This development is significant, as it marks a step towards implementing a uniform civil code in the state.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/maharashtra-sets-up-7-member-panel-to-deliberate-on-ucc-draft-expected-in-6-months-article-155015773"
+        },
+        {
+          "title": "Tamil Nadu Challenges Madras HC order Quashing Backward Class Reservation for Islam Converts In SC",
+          "summary": "The Tamil Nadu government has appealed to the Supreme Court against a Madras High Court order that denied reservation rights to individuals converting to Islam. The state government's move aims to restore reservation benefits to these individuals, and the Supreme Court's decision will have implications for the state's reservation policy and social welfare schemes.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/tamil-nadu-challenges-madras-hc-order-quashing-backward-class-reservation-for-islam-converts-in-sc-article-155015027"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-09T19:27:49.804181+00:00",
     "brief": "Today's brief highlights key developments across geopolitics, economy, business, and national affairs. Indian Prime Minister Narendra Modi has emphasized the importance of dialogue and diplomacy in resolving global conflicts, particularly in West Asia, where tensions remain high. Meanwhile, the global economy has shown resilience despite the impact of the Middle East war, with institutions like the IMF noting that it has weathered the shock better than expected. In India, the focus is on boosting private investment to drive growth, with experts urging policy reforms and coordination between the Centre and States to achieve this goal, as the country's growth forecast for FY27 has been revised downward by institutions like the Asian Development Bank and the International Monetary Fund.",
     "categories": {
@@ -3643,152 +3789,6 @@
           "summary": "The Bombay High Court has ruled that participation in protests against government decisions cannot be a valid basis for externment under the Maharashtra Police Act. The court stated that the police serve the citizens, not just the chief minister or prime minister, and that citizens should not be made to feel like slaves of the government.",
           "source": "Moneycontrol",
           "url": "https://www.moneycontrol.com/news/india/police-not-cm-or-pm-s-servants-citizens-being-made-slaves-of-govt-bombay-hc-on-action-against-protest-13964785.html"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-03T02:14:39.382025+00:00",
-    "brief": "Today's brief highlights key developments across geopolitics, economy, and national affairs, with India's growing influence in international relations and its efforts to balance innovation and stability in the digital financial ecosystem being notable trends. The country's diplomatic shifts, including its BrahMos diplomacy in Southeast Asia and potential engagements with Syria and Hezbollah, are significant, while its economic landscape is being shaped by the impact of a weak monsoon on inflation risks and the RBI's interventions to shield the rupee. Meanwhile, the Supreme Court's warnings against the unchecked use of artificial intelligence in judicial proceedings underscore the need for regulation and human oversight in the justice system.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "How Indian Intelligence Navigated Cold War Tides in Seychelles",
-          "summary": "India's security mission to Seychelles in 1987 was a significant event in the country's history, showcasing its rising influence during the Cold War era. The mission was aimed at countering mercenary threats and navigating complex geopolitical dynamics. This event highlights India's growing role in international affairs during that time.",
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/opinion/columns/seychelles-1987-security-mission-vappala-balachandran-cold-war-indian-ocean-10768284/"
-        },
-        {
-          "title": "Diplomatic Shifts: Syria and Hezbollah's Possible Engagement",
-          "summary": "Syria's Foreign Minister has hinted at possible engagements with Hezbollah, marking a significant shift in the country's diplomatic stance. This development comes amid evolving geopolitical dynamics in the region, with Syria navigating complex alliances after its civil war. The move could have implications for the region's balance of power.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/politics/3944124-diplomatic-shifts-syria-and-hezbollahs-possible-engagement"
-        },
-        {
-          "title": "Oil prices down but firms still processing crude bought amid war, says Minister Puri",
-          "summary": "India's Oil Minister Hardeep Puri has stated that despite a decline in international oil prices, oil marketing companies are still processing crude oil bought at higher prices during the war in West Asia. This has resulted in significant losses for the companies. The situation highlights the impact of geopolitical events on India's energy sector.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/news/india/oil-prices-down-but-firms-still-processing-crude-bought-amid-war-says-minister-puri-heres-how-much-loss-omcs-faced-11782990289350.html"
-        },
-        {
-          "title": "India’s BrahMos diplomacy in Southeast Asia",
-          "summary": "India is using its BrahMos missile system as a tool for diplomacy in Southeast Asia, strengthening its relationships with countries in the region. This approach highlights India's growing military and diplomatic influence in the area. The BrahMos system is a key component of India's defense exports and strategic partnerships.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/ht-insight/governance/indias-brahmos-diplomacy-in-southeast-asia-101782980521535.html"
-        },
-        {
-          "title": "PDP chief to pay final tribute to Ayatollah Khamenei after receiving invitation from Iran",
-          "summary": "The president of the Peoples Democratic Party, Mehbooba Mufti, has been invited to attend the funeral of Iran's slain supreme leader Ayatollah Ali Khamenei. This development highlights the connections between Indian political leaders and Iran, as well as the significance of Ayatollah Khamenei's death in the geopolitical landscape. The visit could have implications for India-Iran relations.",
-          "source": "ThePrint",
-          "url": "https://theprint.in/india/pdp-chief-to-pay-final-tribute-to-ayatollah-khamenei-after-receiving-invitation-from-iran/2975360/"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Balancing Innovation and Stability: India's Progress on Digital Rupee Discussed",
-          "summary": "The Parliamentary Standing Committee on Finance reviewed India's Central Bank Digital Currency progress with RBI officials and ICAI representatives, focusing on regulatory challenges and taxation issues. This discussion is crucial for India's digital financial ecosystem. The meeting aimed to find a balance between innovation and stability in the digital currency landscape.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3944082-balancing-innovation-and-stability-indias-progress-on-digital-rupee-discussed"
-        },
-        {
-          "title": "RBI Kicks Off 74th Manufacturing Sector Survey: A Key Tool for Economic Analysis",
-          "summary": "The Reserve Bank of India launched its 74th survey for the manufacturing sector, covering April-June 2026, to collect operational data for monetary policy. The survey will capture order volumes, inventory details, and capacity use, aiding economic analysis. This initiative will help the RBI make informed decisions about the economy.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3943710-rbi-kicks-off-74th-manufacturing-sector-survey-a-key-tool-for-economic-analysis"
-        },
-        {
-          "title": "Nomura, HSBC split on RBI rate outlook as weak monsoon fuels inflation risks",
-          "summary": "Economists from Nomura and HSBC have differing views on the RBI's next policy move due to the impact of a weak monsoon on India's economy. They assess the effects on GDP growth, food inflation, and the rupee. The weak monsoon poses significant risks to India's economic growth and inflation.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/economy/nomura-hsbc-rbi-rate-outlook-weak-monsoon-food-inflation-sonal-varma-pranjul-bhandari-19936402.htm"
-        },
-        {
-          "title": "Rupee's defence takes RBI dollar shorts to a record high",
-          "summary": "The RBI's net short forward position in the currency market reached a record $106.6 billion in May, indicating significant interventions to shield the rupee. The central bank faces a decision on whether to reduce its forward position or bolster reserves. This move aims to stabilize the rupee amidst global tensions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupees-defence-takes-rbi-dollar-shorts-to-a-record-high/articleshow/132103620.cms"
-        },
-        {
-          "title": "India Inc eyes more dollar debt as RBI policy support kicks in",
-          "summary": "Indian companies are opting for dollar debt over rupee loans due to the RBI's moves to lower hedging costs and ease rules. This shift is driven by central bank policies in February and June. The change in borrowing patterns may have significant implications for India's economy.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/market/bonds/rbi-ecb-guidelines-external-commercial-borrowings-11782813258132.html"
-        },
-        {
-          "title": "Easing oil prices, supply chains to soften external pressures on India: Finance ministry",
-          "summary": "The finance ministry believes that easing oil prices and improving supply chains will alleviate external pressures on India's economy. However, the ministry also notes that monsoon vagaries and geopolitical shifts pose risks to growth and inflation. The government is taking proactive measures to address these challenges.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/easing-oil-prices-supply-chains-to-soften-external-pressures-on-india-finance-ministry/articleshow/132100894.cms"
-        }
-      ],
-      "Business": [
-        {
-          "title": "Arvog Raises Rs 50 Crore Through NCD Issuance from Franklin Templeton",
-          "summary": "Finkurve Financial Services Limited, a tech-first gold loan NBFC, has raised Rs 50 crore through a Non-Convertible Debenture issuance from Franklin Templeton to support its growth and business expansion. The funding will be executed in two tranches, with the first tranche of Rs 24 crore already completed. This investment will help the company accelerate its next phase of growth.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/finkurve-financial-services-limited-arvog-raises-rs-50-crore-through-ncd-issuance-from-franklin-templeton-to-accelerate-growth-and-business-expansion/"
-        },
-        {
-          "title": "Moody’s report suggests India’s private credit market could double by FY30",
-          "summary": "According to a Moody's report, India's private credit market is expected to reach $50 billion by FY30, driven by increasing corporate funding needs and limitations faced by traditional banks. Real estate, infrastructure, and promoter financing are key growth areas, attracting diverse investors seeking attractive returns. This expansion is likely to provide alternative capital sources for businesses.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/moodys-report-suggests-indias-private-credit-market-could-double-by-fy30/articleshow/132134175.cms"
-        },
-        {
-          "title": "RBI’s bank funding nod for M&A may squeeze private credit returns in India",
-          "summary": "The Reserve Bank of India has allowed local lenders to finance up to 75% of the transaction value in corporate takeovers, which may boost the country's deal market but could also squeeze private credit returns in India. This move is expected to impact the private credit market, as banks may become more competitive in financing mergers and acquisitions. Moody's has warned that this could lead to reduced returns for private credit investors.",
-          "source": "Moneycontrol",
-          "url": "https://www.moneycontrol.com/news/business/rbi-s-bank-funding-nod-for-m-a-may-squeeze-private-credit-returns-in-india-says-moody-s-13964033.html"
-        },
-        {
-          "title": "Debt's the way for Indian IT acquisition funding",
-          "summary": "Indian IT companies are increasingly using debt to finance their acquisitions, as seen in Persistent Systems' $1.5-billion bridge financing from Barclays for its proposed acquisition of German IT firm Nagarro. This trend suggests that debt is becoming a preferred option for Indian IT companies to fund their acquisitions, rather than relying on equity or other forms of financing.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/debts-the-way-for-indian-it-acquisition-funding/articleshow/132124337.cms"
-        },
-        {
-          "title": "OXMIQ raises $35 million to build licensable AI chip architecture",
-          "summary": "OXMIQ, a startup founded by former Intel executive Raja Koduri, has raised $35 million in Series A funding to develop and license its AI chip architecture, OxCore. The company aims to democratize AI chip development by allowing businesses and governments to create custom AI processors, reducing the high cost of AI compute and fostering wider AI adoption, particularly in emerging markets like India and Southeast Asia.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/oxmiq-raises-35-million-to-license-ai-chip-designs-as-sovereign-ai-demand-grows/articleshow/132117037.cms"
-        },
-        {
-          "title": "Limelight Lab Grown Diamonds Raises INR 275 Crore",
-          "summary": "Limelight Diamonds, a leading lab-grown diamond jewellery brand in India, has raised INR 275 crore in a strategic funding round led by its core promoters, the Bhathwari Group, and key strategic partners from the jewellery industry. The funding will be used to strengthen vertical integration and accelerate retail expansion across India, reinforcing the company's long-term vision and growth trajectory.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/limelight-lab-grown-diamonds-raises-inr-275-crore-to-strengthen-vertical-integration-and-accelerate-retail-expansion-across-india/"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Supreme Court Sets Aside NCLT, NCLAT Orders Over AI-Generated Fake Citations; Asks BCI To Frame Norms",
-          "summary": "The Supreme Court has set aside orders from the NCLT and NCLAT due to their reliance on AI-generated fake judicial precedents. The Court has directed the Bar Council of India to create guidelines for the use of AI in legal proceedings. This move aims to ensure the accuracy and reliability of legal citations in Indian courts.",
-          "source": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/india/supreme-court-sets-aside-nclt-nclat-orders-over-ai-generated-fake-citations-asks-bci-to-frame-norms"
-        },
-        {
-          "title": "'Catastrophic, invisible': Supreme Court flags use of AI in legal process as 'misconduct'",
-          "summary": "The Supreme Court has flagged the use of AI in legal processes as misconduct, stating that producing fake materials amounts to misconduct by advocates. The Court's ruling emphasizes the need for verifying all legal citations to maintain the integrity of the justice system. This decision highlights the risks associated with unchecked AI use in legal proceedings.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/supreme-court-catastrophic-invisible-top-flags-use-of-ai-in-legal-process-as-misconduct-judges-advocates-ruling-citation-101782985843032.html"
-        },
-        {
-          "title": "'Methyl Isocyanate of law': SC slams AI 'hallucinations', quashes NCLT verdict",
-          "summary": "The Supreme Court has declared zero tolerance for AI-generated fake judgments used as legal precedents, setting aside an NCLT verdict. The Court has directed the Bar Council of India to form a committee to address this issue and prescribe disciplinary actions for lawyers submitting unverified AI material. This move aims to maintain human oversight in AI-assisted adjudication and prevent contamination of the justice system.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/india/methyl-isocyanate-of-law-sc-slams-ai-hallucinations-quashes-nclt-verdict/articleshow/132136615.cms"
-        },
-        {
-          "title": "Supreme Court quashes Essel insolvency order over tribunal's use of fake, AI-generated precedents",
-          "summary": "The Supreme Court has quashed an insolvency order due to the tribunal's use of fake, AI-generated precedents. The Court has remanded the case back to the NCLT for a fresh review and directed the Bar Council of India to probe AI misuse. This decision highlights the need for fact-based reviews and the regulation of AI use in judicial proceedings.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/news/india/supreme-court-ai-fake-citations-essel-infraprojects-judgment-11782980306774.html"
-        },
-        {
-          "title": "Supreme Court warns against unchecked AI use in courts after NCLT cites fake cases",
-          "summary": "The Supreme Court has warned against the unchecked use of artificial intelligence in judicial proceedings after the NCLT cited fake cases. The Court's warning emphasizes the need to regulate AI use in courts to prevent the contamination of the justice system. This decision aims to ensure the accuracy and reliability of legal proceedings in India.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/supreme-court-warns-against-unchecked-ai-use-in-courts-after-nclt-cites-fake-cases/articleshow/132132555.cms"
         }
       ]
     }
