@@ -1,5 +1,151 @@
 [
   {
+    "generated_at": "2026-07-10T19:19:49.402730+00:00",
+    "brief": "The global economy has shown resilience despite the ongoing conflict, with the IMF stating that it has remained robust, while Bangladesh is facing significant stress in its banking system due to a high rate of non-performing loans. In India, the Reserve Bank of India may hike interest rates later this year due to inflation risks, which could impact the economy, and the government is taking steps to boost the services sector, including launching an index of services production. Meanwhile, the Indian banking sector is experiencing a surge in lending, outpacing deposit growth, and companies are increasingly opting for alternative funding sources, such as bond markets and overseas borrowings, which is expected to slow down bank credit growth.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Bangladesh has world’s second‑highest bad loan rate after war",
+          "summary": "Bangladesh now has the second-highest bad loan rate globally, with nearly one-third of bank lending being non-performing loans, surpassing only war-torn Ukraine. This indicates significant stress in the country's banking system. The high rate of non-performing loans can impact the overall economy and financial stability.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/bangladesh-has-worlds-second-highest-bad-loan-rate-after-war-torn-ukraine-1/"
+        },
+        {
+          "title": "Australia relations’: PM Modi launches Sports Collaboration Roadmap at MCG",
+          "summary": "Prime Minister Narendra Modi and Australian Prime Minister Anthony Albanese launched the India-Australia Sports Collaboration Roadmap at the Melbourne Cricket Ground. This initiative aims to strengthen ties between the two countries through sports. The collaboration is expected to promote people-to-people connections and mutual understanding.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/sports-is-strong-link-in-india-australia-relations-pm-modi-launches-sports-collaboration-roadmap-at-mcg/"
+        },
+        {
+          "title": "Reuters World News Summary",
+          "summary": "Protests in South Africa's Johannesburg have escalated, with groups targeting undocumented immigrants and handing them over to the police. This has sparked fear and strained international relations. The situation highlights the challenges faced by undocumented immigrants and the need for humane treatment.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3948143-reuters-world-news-summary"
+        },
+        {
+          "title": "Amnesty urges investigating Israeli attacks on Lebanon as ‘war crimes’",
+          "summary": "Amnesty International has called for investigations into Israeli airstrikes in Lebanon, citing potential war crimes against civilians. The organization is concerned about the impact of these attacks on innocent people. The situation underscores the need for accountability and protection of human rights in conflict zones.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/amnesty-urges-investigating-israeli-attacks-on-lebanon-as-war-crimes/article71203835.ece"
+        },
+        {
+          "title": "Global economy resilient despite war: IMF",
+          "summary": "The International Monetary Fund (IMF) has stated that the global economy has remained resilient despite the economic shock triggered by the Middle East conflict. This assessment suggests that the global economy is more robust than expected. The IMF's statement provides a positive outlook for global economic stability.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/global-economy-resilient-despite-war-imf/"
+        },
+        {
+          "title": "Why Ukraine's air shield works against drones but struggles against ballistic missiles",
+          "summary": "Ukraine's air defense system has been effective against drones but struggles to counter ballistic missiles. This limitation highlights the challenges faced by Ukraine in defending against different types of attacks. The situation underscores the need for continued support and development of Ukraine's air defense capabilities.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/why-ukraines-air-shield-works-against-drones-but-struggles-against-ballistic-missiles/articleshow/132283704.cms"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "RBI rate hike: Interest burden for Indians may go up later this year amid inflation risks",
+          "summary": "The Reserve Bank of India may keep policy rates steady in the short term, but rising domestic inflation concerns could lead to increased rates later this year. This could result in a higher interest burden for Indians. Economic growth projections and external accounts are expected to show improvement, with a reduced current account deficit.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-rate-ike-chances-bank-of-america-rbirate-hike-interest-burden-for-indians-may-go-up-later-this-year-amid-inflation-risks/articleshow/132305465.cms"
+        },
+        {
+          "title": "Why India is launching an index of services production",
+          "summary": "India is launching an index of services production to provide high-frequency information on the services economy, which will enable better policy decisions and economic forecasting. This index will complement the existing index of industrial production. The new index is expected to improve the country's economic indicators and forecasting capabilities.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/economy/explainer-index-of-services-production-india-services-sector-economic-indicator-indian-economy-11783658423548.html"
+        },
+        {
+          "title": "ADB cuts India FY27 growth forecast to 6.6% on higher oil prices",
+          "summary": "The Asian Development Bank has lowered India's FY27 growth forecast to 6.6% due to higher crude oil prices and transportation costs, which are expected to impact consumer sentiment and demand. The bank has raised its inflation forecast for FY27 to 5.2% due to oil and food prices. Despite this, policy measures and public capital expenditure are expected to support India's economic momentum.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/adb-cuts-india-fy27-growth-forecast-to-6-6-on-higher-oil-prices/articleshow/132297258.cms"
+        },
+        {
+          "title": "Gujarat unveils data centre policy to attract AI investments; State offers capital, power and tax incentives",
+          "summary": "Gujarat has unveiled a new Data Centre Policy to attract significant AI investments and establish itself as India's premier data centre hub. The state is offering comprehensive fiscal and non-fiscal incentives, including subsidies on capital, interest, and power tariffs, to boost competitiveness. This move aims to attract businesses and investments in the data centre and AI sectors.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/gujarat-unveils-data-centre-policy-to-attract-ai-investments-state-offers-capital-power-and-tax-incentives/articleshow/132296992.cms"
+        },
+        {
+          "title": "India wants to lead, not just host, GCCs: Nirmala Sitharaman",
+          "summary": "India aims to lead the world in global capability centres (GCCs) and the knowledge economy, shifting its focus from scale to enabling innovation and shaping future technologies. The country currently hosts over half of the world's GCCs and is creating an enabling policy ecosystem to support their growth. This move is expected to prioritize innovation and long-term competitiveness over cost reduction.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/india-wants-to-lead-not-just-host-gccs-nirmala-sitharaman/articleshow/132293379.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Bank credit growth to ease as corporates tap bond markets, overseas funding: CareEdge",
+          "summary": "Bank credit growth is expected to slow down as large corporations opt for domestic bond markets and overseas borrowings for funding, reducing their reliance on traditional bank loans. This shift is driven by the Reserve Bank of India's policy measures that make external funding more attractive. Overall credit demand remains healthy, but banks will finance a smaller share.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
+        },
+        {
+          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
+          "summary": "Neuberg Diagnostics plans to launch an initial public offering in fiscal year 2028, aiming to raise approximately ₹3,500-4,000 crore. The company is also planning a pre-IPO funding round to secure Rs 5000 crore for acquisitions, targeting pan-India growth and new diagnostic technologies. This expansion strategy aims to make Neuberg the second-largest player in the diagnostics market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
+        },
+        {
+          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
+          "summary": "Indian companies raised a significant amount of funds via commercial papers in June, reaching a near five-year high of Rs 2.53 lakh crore. This surge is driven by attractive pricing, seasonal needs, and debt refinancing, with companies shifting from costlier bank loans to cheaper short-term market funding. The Reserve Bank of India's liquidity infusions also contributed to favorable conditions.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
+        },
+        {
+          "title": "India's banks are handing out more loans, but deposits aren't keeping up",
+          "summary": "Indian banks have seen a surge in lending, outpacing deposit growth and widening the funding gap, with the loan-to-deposit ratio reaching a decade-high. This trend is driven by robust demand from corporate and retail sectors, raising concerns about funding sustainability. The varied strategies of lenders have resulted in some seeing deposits decline, while others have maintained a balance.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-banks-are-handing-out-more-loans-but-deposits-arent-keeping-up/articleshow/132177579.cms"
+        },
+        {
+          "title": "Inspira seals Rs 1,800-crore private credit for Burger King buy in India",
+          "summary": "Inspira Global has secured ₹1,800 crore in private credit to acquire a controlling stake in India's Burger King operator. The company has already raised ₹1,050 crore via NCDs, with the remaining ₹800 crore anticipated this month. This significant funding marks a major move into the quick-service restaurant sector.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/inspira-seals-rs-1800-crore-private-credit-for-burger-king-buy-in-india/articleshow/132174770.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Supreme Court to hear pleas for independent probe into Ram Temple Trust finances on July 13",
+          "summary": "The Supreme Court will hear petitions seeking an independent probe into the finances of the Ram Temple Trust on July 13. The trust is responsible for the construction and management of the Ram Temple in Ayodhya. The hearing is significant as it may impact the trust's operations and the temple's development.",
+          "source": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/india/supreme-court-to-hear-pleas-for-independent-probe-into-ram-temple-trust-finances-on-july-13-13970692.html"
+        },
+        {
+          "title": "'I am innocent, falsely implicated': Sonam tells Supreme Court in Raja Raghuvanshi murder case",
+          "summary": "Sonam Raghuvanshi has told the Supreme Court that she is innocent and has been falsely implicated in the Raja Raghuvanshi murder case. She claims that the prosecution's case is based on assumptions rather than credible evidence. The case is being heard by the Supreme Court, which will decide on her appeal.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/i-am-innocent-falsely-implicated-sonam-raguvanshi-tells-supreme-court-in-raja-raghuvanshi-murder-case-101783654983970.html"
+        },
+        {
+          "title": "Oppn parties plan to send letter against ECI to all SC judges",
+          "summary": "Opposition parties plan to send a letter to all Supreme Court judges expressing their grievances against the Election Commission of India. The letter was initially sent to the Chief Justice of India, but the parties are now considering circulating it to all judges. This move is seen as an attempt to raise awareness about the issues with the ECI.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/oppn-parties-plan-to-send-letter-against-eci-toall-sc-judges-101783624210393.html"
+        },
+        {
+          "title": "SC orders audit of illegal Delhi NCR buildings, warns officers",
+          "summary": "The Supreme Court has ordered an independent audit of illegal buildings in the Delhi NCR region. The court has also warned municipal officials that they will be held personally responsible if the audit reveals any wrongdoing. This move aims to address the issue of illegal constructions in the region.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/sc-orders-audit-of-illegal-delhi-ncr-buildings-warns-officers-101783645264806.html"
+        },
+        {
+          "title": "SC: Failure to report child sex abuse invites Pocso action",
+          "summary": "The Supreme Court has ruled that failure to report child sex abuse can lead to action under the Protection of Children from Sexual Offences (Pocso) Act. This means that anyone who is aware of such abuse and fails to report it can be held liable. The ruling aims to ensure that child sex abuse cases are reported and addressed promptly.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/sc-failure-to-report-child-sex-abuse-invites-pocso-action/articleshow/132297958.cms"
+        },
+        {
+          "title": "Now, Opposition plans to send its letter on SIR, ECI role to all Supreme Court judges",
+          "summary": "The Opposition is planning to send a letter to all Supreme Court judges regarding their concerns about the Election Commission of India's role. The letter was initially sent to the Chief Justice of India, but the parties are now considering circulating it to all judges. This move is seen as an attempt to raise awareness about the issues with the ECI and its role in the electoral process.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/now-opposition-plans-to-send-its-letter-on-sir-eci-role-to-all-supreme-court-judges-101783612253691.html"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-10T14:07:21.305123+00:00",
     "brief": "Tensions are escalating globally, with protests in South Africa's Johannesburg turning violent and Amnesty International calling for investigations into Israeli airstrikes in Lebanon, while the International Monetary Fund reports that the global economy has remained resilient despite the Middle East conflict. In India, the economic outlook is mixed, with the Asian Development Bank cutting the country's growth forecast to 6.6% due to higher oil prices, but the government and companies are taking steps to boost competitiveness, such as Gujarat's new Data Centre Policy and India's aim to lead the world in global capability centres. Meanwhile, the Supreme Court has made significant rulings, including ordering an audit of illegal buildings in Delhi NCR and declaring zero tolerance for AI-generated fake legal precedents, highlighting the need for accountability and integrity in various sectors.",
     "categories": {
@@ -3631,158 +3777,6 @@
           "summary": "The Supreme Court refused to overturn the Meghalaya high court's judgment granting bail to Sonam Raghuvanshi, accused in the honeymoon murder case. The court's decision was based on procedural grounds, highlighting the importance of following legal procedures in criminal cases. This case underscores the complexities of India's judicial system and the need for balanced decision-making.",
           "source": "Times of India",
           "url": "https://timesofindia.indiatimes.com/india/honeymoon-murder-case-why-sc-refused-to-cancel-sonam-raghuvanshis-bail-order/articleshow/132155032.cms"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-03T19:08:25.313647+00:00",
-    "brief": "Today's brief highlights key developments across geopolitics, economy, and national affairs. Indian Naval Officers paid respects to fallen soldiers at Singapore's Kranji War Memorial, underscoring strong ties between India and Singapore, while Japanese Prime Minister Sanae Takaichi expressed intentions to strengthen Japan-India relations. Meanwhile, the Indian economy is navigating the impact of global conflicts on the energy sector, with oil marketing companies facing significant losses despite decreased international oil prices. The Reserve Bank of India is also taking steps to stabilize the rupee, with a record high net short forward position in the currency market, as the country's private credit market is expected to reach $50 billion by 2030, driven by increasing corporate funding needs.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Indian Naval Officers honour fallen soldiers at Singapore's Kranji War Memorial",
-          "summary": "Indian Naval Officers paid their respects to fallen soldiers at Singapore's Kranji War Memorial, highlighting the strong ties between India and Singapore. This gesture demonstrates the shared history and mutual respect between the two nations. The event showcases India's engagement with Southeast Asian countries",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/indian-naval-officers-honour-fallen-soldiers-at-singapores-kranji-war-memorial/"
-        },
-        {
-          "title": "India relations to even greater heights: PM Takaichi",
-          "summary": "Japanese Prime Minister Sanae Takaichi expressed her intention to strengthen Japan-India relations, aiming to elevate the partnership to new heights. This statement indicates a desire to deepen cooperation between the two countries. The development is significant for India's growing ties with East Asian nations",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/we-will-elevate-japan-india-relations-to-even-greater-heights-pm-takaichi/"
-        },
-        {
-          "title": "West African Nations Break Ties with ICC",
-          "summary": "Burkina Faso, Mali, and Niger have initiated a process to withdraw from the International Criminal Court, marking a significant shift in their judicial affiliations. This move has implications for regional justice and international relations, particularly in addressing war crimes. The decision may impact the global approach to international offenses",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/law-order/3944281-west-african-nations-break-ties-with-icc"
-        },
-        {
-          "title": "How Indian Intelligence Navigated Cold War Tides in Seychelles",
-          "summary": "A former Indian security official recounted the 1987 Indian security mission to Seychelles, which involved navigating Cold War geopolitics and mercenary threats. The mission showcased India's growing influence in the Indian Ocean region during the Cold War era. The story provides insight into India's historical geopolitical engagements",
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/opinion/columns/seychelles-1987-security-mission-vappala-balachandran-cold-war-indian-ocean-10768284/"
-        },
-        {
-          "title": "Diplomatic Shifts: Syria and Hezbollah's Possible Engagement",
-          "summary": "Syria's Foreign Minister hinted at potential engagements with Hezbollah, indicating a possible shift in the region's geopolitical dynamics. The development comes as Syria navigates complex alliances following its civil war, while being cautious not to interfere in Lebanon's affairs. The move may impact the regional balance of power",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/politics/3944124-diplomatic-shifts-syria-and-hezbollahs-possible-engagement"
-        },
-        {
-          "title": "Oil prices down but firms still processing crude bought amid war, says Minister Puri",
-          "summary": "Union Oil Minister Hardeep Puri stated that despite decreased international oil prices, oil marketing companies are still processing crude oil purchased during the height of the war in West Asia. This situation has resulted in significant losses for the companies. The development highlights the impact of global conflicts on India's energy sector",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/news/india/oil-prices-down-but-firms-still-processing-crude-bought-amid-war-says-minister-puri-heres-how-much-loss-omcs-faced-11782990289350.html"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Balancing Innovation and Stability: India's Progress on Digital Rupee Discussed",
-          "summary": "The Parliamentary Standing Committee on Finance met with RBI officials to review India's Central Bank Digital Currency progress, focusing on regulatory challenges and taxation issues. This discussion is crucial for India's digital financial ecosystem. The meeting aimed to bolster the country's digital asset landscape.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3944082-balancing-innovation-and-stability-indias-progress-on-digital-rupee-discussed"
-        },
-        {
-          "title": "RBI Kicks Off 74th Manufacturing Sector Survey: A Key Tool for Economic Analysis",
-          "summary": "The Reserve Bank of India launched its 74th survey for the manufacturing sector, covering April-June 2026, to collect operational data for monetary policy. The survey captures order volumes, inventory details, and capacity use, and is a key tool for economic analysis. This initiative will aid in understanding the manufacturing sector's performance.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3943710-rbi-kicks-off-74th-manufacturing-sector-survey-a-key-tool-for-economic-analysis"
-        },
-        {
-          "title": "Nomura, HSBC split on RBI rate outlook as weak monsoon fuels inflation risks",
-          "summary": "Economists from Nomura and HSBC have differing views on the RBI's next policy move due to a weak monsoon, which may impact India's economy, GDP growth, and food inflation. The weak monsoon poses inflation risks and affects the rupee and balance of payments. The differing views highlight the uncertainty surrounding the RBI's next move.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/economy/nomura-hsbc-rbi-rate-outlook-weak-monsoon-food-inflation-sonal-varma-pranjul-bhandari-19936402.htm"
-        },
-        {
-          "title": "Rupee's defence takes RBI dollar shorts to a record high",
-          "summary": "The Reserve Bank of India's net short forward position in the currency market reached a record $106.6 billion in May, indicating significant interventions to shield the rupee. The central bank faces a decision on whether to reduce its forward position or bolster reserves, as the rupee has recovered from its record low. This move aims to stabilize the currency.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupees-defence-takes-rbi-dollar-shorts-to-a-record-high/articleshow/132103620.cms"
-        },
-        {
-          "title": "India Inc eyes more dollar debt as RBI policy support kicks in",
-          "summary": "Indian firms are opting for dollar debt over rupee loans due to the RBI's moves to lower hedging costs and ease rules. This shift is driven by central bank policies in February and June, making offshore funds more attractive. Local firms are aggressively swapping out rupee loans for offshore funds.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/market/bonds/rbi-ecb-guidelines-external-commercial-borrowings-11782813258132.html"
-        },
-        {
-          "title": "Easing oil prices, supply chains to soften external pressures on India: Finance ministry",
-          "summary": "The finance ministry believes that easing oil prices and improving supply chains will soften external pressures on India's economy, despite global uncertainties. However, monsoon vagaries and geopolitical shifts pose risks to growth and inflation. The ministry emphasizes the need for proactive policy measures, such as building national buffer stocks and reorienting farm policies.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/easing-oil-prices-supply-chains-to-soften-external-pressures-on-india-finance-ministry/articleshow/132100894.cms"
-        }
-      ],
-      "Business": [
-        {
-          "title": "India's private credit market primed for sustained growth",
-          "summary": "India's private credit market is expected to reach $50 billion by 2030, driven by increasing corporate funding needs and limitations faced by traditional banks. Real estate and infrastructure sectors are leading this growth, with promoter financing also playing a crucial role. New RBI regulations may introduce greater competition to this alternative capital source.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/indias-private-credit-market-primed-for-sustained-growth/articleshow/132146330.cms"
-        },
-        {
-          "title": "PlayBlue raises $2.7 million in seed funding to expand omnichannel sports retail business",
-          "summary": "Sports retail startup PlayBlue has secured $2.7 million in seed funding to launch its omnichannel platform and expand its business. The company aims to capture India's growing sports participation by offering a wide range of brands. PlayBlue plans to expand significantly, targeting substantial revenue and a large user community within five years.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/services/retail/playblue-raises-2-7-million-in-seed-funding-to-expand-omnichannel-sports-retail-business/articleshow/132140939.cms"
-        },
-        {
-          "title": "Arvog Raises Rs 50 Crore Through NCD Issuance from Franklin Templeton to Accelerate Growth and Business Expansion",
-          "summary": "Finkurve Financial Services Limited, a tech-first gold loan NBFC, has raised Rs 50 crore through a Non-Convertible Debenture issuance from Franklin Templeton. The funding will support the company's next phase of growth and business expansion, with the first tranche of Rs 24 crore already completed.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/finkurve-financial-services-limited-arvog-raises-rs-50-crore-through-ncd-issuance-from-franklin-templeton-to-accelerate-growth-and-business-expansion/"
-        },
-        {
-          "title": "Moody’s report suggests India’s private credit market could double by FY30",
-          "summary": "India's private credit market is set for robust expansion, projected to reach $50 billion by FY30, driven by escalating corporate funding needs and limitations faced by traditional banks. Real estate, infrastructure, and promoter financing are key growth areas, attracting diverse investors seeking attractive returns for managing significant risks.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/moodys-report-suggests-indias-private-credit-market-could-double-by-fy30/articleshow/132134175.cms"
-        },
-        {
-          "title": "RBI’s bank funding nod for M&A may squeeze private credit returns in India, says Moody’s",
-          "summary": "The Reserve Bank of India's recent decision to allow local lenders to finance up to 75% of the transaction value in corporate takeovers may boost the country's deal market but could also squeeze private credit returns in India. This move is expected to introduce greater competition to the private credit market.",
-          "source": "Moneycontrol",
-          "url": "https://www.moneycontrol.com/news/business/rbi-s-bank-funding-nod-for-m-a-may-squeeze-private-credit-returns-in-india-says-moody-s-13964033.html"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Sonam Raghuvanshi won't go back to jail: Supreme Court ruling in Meghalaya honeymoon murder",
-          "summary": "The Supreme Court has upheld the bail of Sonam Raghuvanshi in the Meghalaya honeymoon murder case. This ruling means Raghuvanshi will not have to return to jail. The case has been closely watched due to its high-profile nature.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/supreme-court-upholds-sonam-raghuvanshi-bail-in-meghalaya-honeymoon-murder-raja-raghuvanshi-101783058886785.html"
-        },
-        {
-          "title": "‘Consider switching sides’: Bombay HC's remarks on ‘horse-trading’ earns praise from Uddhav Sena",
-          "summary": "The Bombay High Court made remarks on 'horse-trading' that earned praise from Uddhav Sena. The court stated that people cannot be externed for protesting against the government or raising anti-government slogans. This ruling has implications for political protests and freedom of speech.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/consider-switching-sides-bombay-hc-remarks-on-horse-trading-maharashtra-earns-praise-from-uddhav-sena-rebels-quit-101783051824051.html"
-        },
-        {
-          "title": "‘Are All Citizens Slaves Of Govt...’: Bombay HC Slams Externment Order Of Mumbai Police Against Activist",
-          "summary": "The Bombay High Court criticized the Mumbai Police for issuing an externment order against an activist who protested against the government. The court's ruling highlights the importance of protecting citizens' rights to protest and freedom of speech. This case has implications for the balance of power between the government and citizens.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/india/are-all-citizens-slaves-of-govt-bombay-hc-slams-externment-order-of-mumbai-police-against-activist-article-154893683"
-        },
-        {
-          "title": "SC Strikes Down Tribunal Judgment Based on Fake, Hallucinated AI Material",
-          "summary": "The Supreme Court nullified a tribunal judgment that was based on fake AI-generated material. This ruling highlights the need for careful consideration of the use of artificial intelligence in legal proceedings. It also underscores the importance of ensuring the integrity of the judicial process.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/india/supreme-court-strikes-down-tribunal-judgment-based-on-fake-hallucinated-ai-material-article-154868664"
-        },
-        {
-          "title": "Big fish being shielded in Ram Temple donation case, claim Congress & AAP",
-          "summary": "The Congress and AAP have alleged that key individuals are being shielded in the Ram Temple donation case. They are demanding a high-level investigation into the matter, which would be monitored by the Supreme Court. This case has significant political implications and raises questions about transparency and accountability.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/big-fish-being-shielded-in-ram-temple-donation-case-claim-congress-aap/articleshow/132150139.cms"
-        },
-        {
-          "title": "J&K advocate presents paper on terrorism at Global Conference in London",
-          "summary": "A Supreme Court advocate from Jammu and Kashmir presented a paper on human rights and international terrorism at a global conference in London. The paper highlights the importance of addressing terrorism and its impact on human rights. This event showcases India's participation in global discussions on critical issues.",
-          "source": "Daily Excelsior",
-          "url": "https://www.dailyexcelsior.com/jk-advocate-presents-paper-on-terrorism-at-global-conference-in-london/"
         }
       ]
     }
