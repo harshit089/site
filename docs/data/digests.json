@@ -1,5 +1,133 @@
 [
   {
+    "generated_at": "2026-07-11T07:45:02.860294+00:00",
+    "brief": "India's diplomatic efforts have been in focus, with the country strengthening ties with regional leaders in Canada and celebrating the 'Tagore-Dewantara Year of Cultural and Educational Diplomacy' with Indonesia. Meanwhile, in the economic sphere, the Reserve Bank of India is expected to keep policy rates steady in the short term, but may increase rates later this year due to rising domestic inflation concerns, which could impact consumer spending and borrowing. Additionally, the Asian Development Bank has lowered India's FY27 growth forecast to 6.6% due to higher crude oil prices, which may have implications for the country's economic momentum.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "India discusses strengthening relations with premier of Newfoundland and Labrador",
+          "summary": "India is looking to strengthen its relations with the Canadian province of Newfoundland and Labrador, with the Consul General of India in Toronto meeting the Premier of the province. This meeting highlights India's efforts to expand its diplomatic ties beyond national capitals and engage with regional leaders. The discussion is expected to explore potential areas of cooperation between India and the province.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/india-discusses-strengthening-relations-with-premier-of-newfoundland-and-labrador/"
+        },
+        {
+          "title": "Historic Move: Big Bash League to Debut in India, Strengthening Cricketing Ties",
+          "summary": "The Big Bash League, Australia's premier domestic cricket competition, will play a match in India in 2026, marking its first game outside Australia. This development is a significant step in strengthening cricketing ties between India and Australia, and is expected to boost bilateral relations and create new opportunities for international cricket. The move was announced during Prime Minister Modi's visit to Australia.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/sports-games/3948641-historic-move-big-bash-league-to-debut-in-india-strengthening-cricketing-ties"
+        },
+        {
+          "title": "India, Indonesia to celebrate ‘Tagore-Dewantara Year of Cultural and Educational Diplomacy’",
+          "summary": "India and Indonesia are set to celebrate the 'Tagore-Dewantara Year of Cultural and Educational Diplomacy', an initiative aimed at promoting cultural and educational exchange between the two countries. The celebration is expected to deepen people-to-people ties and foster greater understanding between India and Indonesia. The initiative is named after the famous Indian poet Rabindranath Tagore and Indonesian educationist Ki Hajar Dewantara.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/india-indonesia-to-celebrate-tagore-dewantara-year-of-cultural-and-educational-diplomacy/"
+        },
+        {
+          "title": "China striking economic deals in Sudan under cover of peace rhetoric: Report",
+          "summary": "China is reportedly striking economic deals in Sudan, taking advantage of the country's civil war to expand its economic influence in the region. Despite its peace rhetoric, China is said to be pursuing its economic interests in Sudan, raising concerns about its intentions in the region. The report highlights the complexities of China's involvement in Sudan and its implications for global geopolitics.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/china-striking-economic-deals-in-sudan-under-cover-of-peace-rhetoric-report/"
+        },
+        {
+          "title": "Sports is strong link in India-Australia relations’: PM Modi launches Sports Collaboration Roadmap at MCG",
+          "summary": "Prime Minister Narendra Modi has launched the India-Australia Sports Collaboration Roadmap, a initiative aimed at promoting sports cooperation between the two countries. The roadmap is expected to strengthen people-to-people ties and foster greater collaboration in the field of sports. The launch of the roadmap highlights the growing importance of sports diplomacy in India's foreign policy.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/sports-is-strong-link-in-india-australia-relations-pm-modi-launches-sports-collaboration-roadmap-at-mcg/"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "E20 petrol may reduce mileage by 3-5%",
+          "summary": "The Oil Ministry has stated that E20 petrol, which contains 20% ethanol, may reduce vehicle efficiency by 3-5%. However, it offers benefits like cleaner engines and lower carbon emissions. This information is crucial for consumers and automobile manufacturers as India plans to roll out E20 fuel.",
+          "source": "Malayala Manorama",
+          "url": "https://www.onmanorama.com/news/india/2026/07/10/e20-petrol-may-reduce-fuel-efficiency-says-oil-ministry.html"
+        },
+        {
+          "title": "RBI rate hike: Interest burden for Indians may go up later this year",
+          "summary": "The Reserve Bank of India is expected to keep policy rates steady in the short term, but may increase rates later this year due to rising domestic inflation concerns. This could lead to a higher interest burden for Indians. The economy is expected to show a stronger demand trend, with a reduced current account deficit.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-rate-ike-chances-bank-of-america-rbirate-hike-interest-burden-for-indians-may-go-up-later-this-year-amid-inflation-risks/articleshow/132305465.cms"
+        },
+        {
+          "title": "BofA sees RBI holding rates near term, expects 50 bps hike from Dec 2026",
+          "summary": "BofA Securities expects the Reserve Bank of India to keep policy rates unchanged in the near term, but predicts a 50 basis points rate hike from December 2026 due to domestic inflation risks. This forecast is based on the anticipation of rising inflation driven by domestic factors.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/bofa-sees-rbi-holding-rates-near-term-expects-50-bps-hike-from-dec-2026-amid-domestic-inflation-risks/"
+        },
+        {
+          "title": "Why India is launching an index of services production",
+          "summary": "India is launching an index of services production to provide high-frequency information on the services economy, which will enable better policy decisions and economic forecasting. This index will complement the index of industrial production, giving a more comprehensive picture of the economy.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/economy/explainer-index-of-services-production-india-services-sector-economic-indicator-indian-economy-11783658423548.html"
+        },
+        {
+          "title": "ADB cuts India FY27 growth forecast to 6.6% on higher oil prices",
+          "summary": "The Asian Development Bank has lowered India's FY27 growth forecast to 6.6% due to higher crude oil prices and transportation costs, which will impact consumer sentiment and demand. The bank expects policy measures and public capital expenditure to support India's economic momentum, with a retained FY28 growth forecast of 7.3%.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/adb-cuts-india-fy27-growth-forecast-to-6-6-on-higher-oil-prices/articleshow/132297258.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Bank credit growth to ease as corporates tap bond markets, overseas funding: CareEdge",
+          "summary": "Bank credit growth is expected to slow down as large corporations opt for domestic bond markets and overseas borrowings for funding, reducing their reliance on traditional bank loans. This shift is driven by the Reserve Bank of India's policy measures that make external funding more attractive. Overall credit demand remains healthy, but banks will finance a smaller share.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
+        },
+        {
+          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
+          "summary": "Neuberg Diagnostics is planning an initial public offering in fiscal year 2028 to raise approximately ₹3,500-4,000 crore. The company aims to use the funds to expand its operations and acquire new diagnostic technologies, targeting pan-India growth. This move is expected to make Neuberg the second-largest player in the diagnostics market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
+        },
+        {
+          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
+          "summary": "Indian companies raised a record ₹2.53 lakh crore through commercial papers in June, driven by attractive pricing, seasonal needs, and debt refinancing. This surge is a result of companies shifting from costlier bank loans to cheaper short-term market funding, supported by ample investor demand and a stable liquidity environment. The Reserve Bank of India's liquidity infusions also contributed to the favorable conditions.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
+        },
+        {
+          "title": "India's banks are handing out more loans, but deposits aren't keeping up",
+          "summary": "Indian banks have seen a surge in lending, outpacing deposit growth and widening the funding gap. This trend has pushed the loan-to-deposit ratio to a decade-high, raising concerns about funding sustainability. The disparity in loan and deposit growth reflects varied strategies among lenders amidst intense competition.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-banks-are-handing-out-more-loans-but-deposits-arent-keeping-up/articleshow/132177579.cms"
+        },
+        {
+          "title": "Almost half of UDAN routes have become non-operational, says report",
+          "summary": "Nearly half of India's UDAN regional flight routes have become non-operational, despite the government launching a revamped phase with higher subsidies and airport funding. The non-operational routes are a result of viability gap support, infrastructure delays, and airline distress, which are reshaping the country's flagship connectivity scheme.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/news/almost-half-of-udan-routes-have-become-non-operational-says-report"
+        },
+        {
+          "title": "Inspira seals Rs 1,800-crore private credit for Burger King buy in India",
+          "summary": "Inspira Global has secured ₹1,800 crore in private credit to acquire a controlling stake in India's Burger King operator. The company has already raised ₹1,050 crore via NCDs and expects to raise the remaining ₹800 crore this month. This significant funding marks a major move into the quick-service restaurant sector.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/inspira-seals-rs-1800-crore-private-credit-for-burger-king-buy-in-india/articleshow/132174770.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "CJI abused, papers thrown: Behind the ruckus in Supreme Court by Lucknow man",
+          "summary": "A petitioner from Lucknow created a ruckus in the Supreme Court by abusing the Chief Justice of India and throwing papers during a hearing. The incident occurred when the petitioner was arguing his own case. The Supreme Court's composure in handling the situation has been praised by lawyers and is being discussed on social media.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/cji-abused-papers-thrown-behind-the-ruckus-in-supreme-court-by-lucknow-man-101783709274836.html"
+        },
+        {
+          "title": "India At Asian Games 2026: Supreme Court Defers Equestrian Selection Row Hearing",
+          "summary": "The Supreme Court has deferred the hearing on petitions challenging the selection of India's equestrian team for the Asian Games 2026. The decision may impact India's contingent for the games. The case is related to the Delhi High Court's refusal to interfere with the team selection.",
+          "source": "Outlook India",
+          "url": "https://www.outlookindia.com/sports/asian-games-2026-supreme-court-defers-hearing-on-team-selection-explained"
+        },
+        {
+          "title": "'Jana Nayagan' censorship: What changes did CBFC demand ahead of upcoming release?",
+          "summary": "The Tamil film 'Jana Nayagan' has received an 'A' certificate from the Central Board of Film Certification after undergoing a rigorous review process. The CBFC demanded around twelve changes, including muting references to certain terms and modifying scenes. The certification process was complicated by a high-definition leak of the film online.",
+          "source": "THE WEEK",
+          "url": "https://www.theweek.in/news/entertainment/2026/07/10/joseph-vijay-jana-nayagan-censorship.html"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-11T02:00:47.899947+00:00",
     "brief": "Global tensions and economic challenges are dominating the headlines, with China expanding its influence in Africa through economic deals in Sudan, while Bangladesh faces significant economic challenges with the world's second-highest bad loan rate. Meanwhile, India is navigating its own economic landscape, with the Reserve Bank of India expected to keep policy rates steady in the short term, but potentially increasing rates later this year due to rising domestic inflation concerns. Against this backdrop, diplomatic efforts are underway, with Prime Minister Narendra Modi promoting diplomatic engagement and launching a sports collaboration roadmap with Australia to strengthen India-Australia relations.",
     "categories": {
@@ -3635,146 +3763,6 @@
         {
           "title": "'An exception...': Why Supreme Court refused to send Sonam Raghuvanshi back to jail",
           "summary": "The Supreme Court has refused to send Sonam Raghuvanshi back to jail, citing the need for a balanced approach in the case. The court's decision reflects its commitment to considering the nuances of each case, regardless of the heinous nature of the crime. This approach is seen as a reflection of the court's role in upholding justice while also ensuring that the legal process is fair and balanced.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/an-exception-why-supreme-court-refused-to-send-sonam-raghuvanshi-back-to-jail-101783072865152.html"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-04T08:28:24.987114+00:00",
-    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The passing of Iran's supreme leader Ali Khamenei has drawn international attention, with millions expected to attend his funeral and several leaders set to pay their respects, amidst concerns about the implications for the Middle East and global geopolitics. Meanwhile, in India, the RBI is navigating economic challenges, including a weak monsoon that may fuel inflation risks, while also exploring innovations such as the digital rupee and supporting the growth of the private credit market, which is projected to reach $50 billion by 2030. Additionally, the Indian government and judiciary are addressing various national issues, including electoral roll revisions and high-profile court cases, such as the Meghalaya honeymoon murder case, which has seen the Supreme Court refuse to stay the bail of the accused.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Iran bids farewell to Khamenei; burial on July 9, Mojtaba's attendance uncertain",
-          "summary": "Iran is mourning the death of its supreme leader Ali Khamenei with week-long ceremonies, and millions are expected to attend the processions before his burial in Mashhad. The event has drawn international attention, with several leaders expected to attend the funeral. Khamenei's death has significant implications for the Middle East and global geopolitics.",
-          "source": "Malayala Manorama",
-          "url": "https://www.onmanorama.com/news/world/2026/07/03/iran-bids-farewell-to-khamenei-burial-on-july-9-mojtaba-s-attendance-uncertain.html"
-        },
-        {
-          "title": "Germany Summons Chinese Ambassador Over Russian Training Reports",
-          "summary": "Germany has summoned the Chinese ambassador to seek clarification on reports that China is involved in training Russian soldiers, which could have significant implications for international relations. The move comes amid heightened geopolitical tensions, and Germany is seeking to understand the nature of China's involvement. This development could impact the dynamics between major world powers.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/politics/3944867-germany-summons-chinese-ambassador-over-russian-training-reports"
-        },
-        {
-          "title": "China's Ethnic Unity Law Sparks Global Concerns",
-          "summary": "China's new ethnic unity law has sparked global concerns, with the US, EU, and Taiwan criticizing the law for its potential overreach and impact on Taiwan's sovereignty. The law aims to forge a national identity among ethnic minorities, but its provisions allowing prosecution beyond China's borders have raised concerns about its implications for international relations. This development could strain China's relationships with other countries.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/law-order/3944682-chinas-ethnic-unity-law-sparks-global-concerns"
-        },
-        {
-          "title": "Can Europe survive without the US? Inside its $900 billion",
-          "summary": "Europe has been relying on the US for its security since the Cold War, but with the US's role evolving, Europe is being forced to re-evaluate its military spending and strategy. The region is undergoing a $900 billion military overhaul, which could have significant implications for global geopolitics and the balance of power. This development could lead to a shift in the dynamics between Europe and the US.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/defence/international/can-europe-survive-without-the-us-inside-its-900-billion-military-overhaul-defence-reset/articleshow/132157311.cms"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Balancing Innovation and Stability: India's Progress on Digital Rupee Discussed",
-          "summary": "The Parliamentary Standing Committee on Finance met with RBI officials to review India's Central Bank Digital Currency progress, focusing on regulatory challenges and taxation issues. This discussion is crucial for India's digital financial ecosystem. The meeting aimed to find a balance between innovation and stability in the digital currency space.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3944082-balancing-innovation-and-stability-indias-progress-on-digital-rupee-discussed"
-        },
-        {
-          "title": "RBI Kicks Off 74th Manufacturing Sector Survey: A Key Tool for Economic Analysis",
-          "summary": "The Reserve Bank of India launched its 74th survey for the manufacturing sector, collecting operational data to aid monetary policy. The survey captures order volumes, inventory details, and capacity use, and is a key tool for economic analysis. This data will help the RBI make informed decisions about the economy.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3943710-rbi-kicks-off-74th-manufacturing-sector-survey-a-key-tool-for-economic-analysis"
-        },
-        {
-          "title": "Nomura, HSBC split on RBI rate outlook as weak monsoon fuels inflation risks",
-          "summary": "Economists from Nomura and HSBC have differing views on the RBI's next policy move due to the impact of a weak monsoon on India's economy. A weak monsoon could lead to higher food inflation, affecting the RBI's decision on interest rates. This split in opinion highlights the uncertainty surrounding the Indian economy.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/economy/nomura-hsbc-rbi-rate-outlook-weak-monsoon-food-inflation-sonal-varma-pranjul-bhandari-19936402.htm"
-        },
-        {
-          "title": "Rupee's defence takes RBI dollar shorts to a record high",
-          "summary": "The RBI's net short forward position in the currency market has surged to a record high, indicating significant interventions to shield the rupee from hitting new lows. The central bank faces a decision on whether to reduce its forward position or bolster reserves. This move aims to stabilize the rupee amidst global tensions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupees-defence-takes-rbi-dollar-shorts-to-a-record-high/articleshow/132103620.cms"
-        },
-        {
-          "title": "India Inc eyes more dollar debt as RBI policy support kicks in",
-          "summary": "Indian companies are increasingly taking on dollar debt due to the RBI's moves to lower hedging costs and ease rules. This shift from rupee loans to offshore funds is driven by the central bank's policy support. The change in borrowing patterns could have significant implications for India's economy.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/market/bonds/rbi-ecb-guidelines-external-commercial-borrowings-11782813258132.html"
-        },
-        {
-          "title": "Easing oil prices, supply chains to soften external pressures on India: Finance ministry",
-          "summary": "The finance ministry believes that easing oil prices and improving supply chains will soften external pressures on India's economy. Despite global uncertainties, the economy remains resilient, with foreign investors returning to sovereign debt. However, the ministry also highlights the need for proactive policy measures to address risks such as monsoon vagaries and geopolitical shifts.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/easing-oil-prices-supply-chains-to-soften-external-pressures-on-india-finance-ministry/articleshow/132100894.cms"
-        }
-      ],
-      "Business": [
-        {
-          "title": "Up Ecosystem on Foreign Capital, Family Offices May Now Have to Keep it Rolling",
-          "summary": "India's family offices are emerging as key sources of patient capital for funding start-ups and innovation, playing a crucial role in the country's next phase of entrepreneurial growth. This development is significant as it highlights the growing importance of domestic capital in supporting Indian businesses. Family offices are expected to fill the gap left by foreign capital, driving the country's start-up ecosystem forward.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/magazine/india-built-a-start-up-ecosystem-on-foreign-capital-family-offices-may-now-have-to-keep-it-rolling"
-        },
-        {
-          "title": "India's private credit market primed for sustained growth",
-          "summary": "India's private credit market is poised for significant expansion, projected to reach $50 billion by 2030, driven by increasing corporate funding needs and limitations faced by traditional banks. The real estate and infrastructure sectors are leading this growth, with promoter financing also playing a crucial role. This alternative capital source is gaining traction, with new RBI regulations introducing greater competition.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/indias-private-credit-market-primed-for-sustained-growth/articleshow/132146330.cms"
-        },
-        {
-          "title": "PlayBlue raises $2.7 million in seed funding to expand omnichannel sports retail business",
-          "summary": "Sports retail startup PlayBlue has secured $2.7 million in seed funding to launch its omnichannel platform and expand its business. The company aims to capture India's growing sports participation by offering a wide range of brands and plans to expand significantly, targeting substantial revenue and a large user community within five years. This funding will help PlayBlue establish its presence in the Indian market.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/services/retail/playblue-raises-2-7-million-in-seed-funding-to-expand-omnichannel-sports-retail-business/articleshow/132140939.cms"
-        },
-        {
-          "title": "Arvog Raises Rs 50 Crore Through NCD Issuance from Franklin Templeton to Accelerate Growth and Business Expansion",
-          "summary": "Finkurve Financial Services Limited, a tech-first gold loan NBFC, has raised Rs 50 crore through a Non-Convertible Debenture (NCD) issuance from Franklin Templeton to support its growth and business expansion. The funding will be executed in two tranches, with the first tranche already completed. This investment will help the company accelerate its plans and expand its operations.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/finkurve-financial-services-limited-arvog-raises-rs-50-crore-through-ncd-issuance-from-franklin-templeton-to-accelerate-growth-and-business-expansion/"
-        },
-        {
-          "title": "Moody’s report suggests India’s private credit market could double by FY30",
-          "summary": "According to a Moody's report, India's private credit market is set for robust expansion, projected to reach $50 billion by FY30, driven by escalating corporate funding needs and limitations faced by traditional banks. Real estate, infrastructure, and promoter financing are key growth areas, attracting diverse investors seeking attractive returns for managing significant risks. This growth is expected to be driven by the increasing demand for alternative capital sources.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/moodys-report-suggests-indias-private-credit-market-could-double-by-fy30/articleshow/132134175.cms"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "DMK moves SC in Karur stampede case, raises concerns on probe",
-          "summary": "The DMK has approached the Supreme Court to be part of the proceedings in the Karur stampede case, seeking to ensure a fair and independent CBI investigation. The party's intervention is aimed at guaranteeing the probe's integrity. This development highlights the ongoing concerns about the investigation's fairness.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/dmkmoves-sc-in-karur-stampede-case-raises-concerns-on-probe-101783108207612.html"
-        },
-        {
-          "title": "SC critical of HC order but refuses to stay Sonam bail",
-          "summary": "The Supreme Court has expressed criticism of the Meghalaya High Court's decision to grant bail to Sonam Raghu, but has refused to stay the bail order. The case is related to the Meghalaya honeymoon murder. The Supreme Court's decision reflects its approach to balancing the need for a fair trial with the rights of the accused.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/sc-critical-of-hc-order-but-refuses-to-stay-sonam-bail/articleshow/132170160.cms"
-        },
-        {
-          "title": "Manufacturing justice: on the top court, AI use observations",
-          "summary": "The Supreme Court of India has been cautious in its approach to using artificial intelligence in the justice delivery system. Through its rulings and observations, the court has emphasized the need for a careful and considered approach to AI deployment. This reflects the court's focus on ensuring that technology is used to support, rather than undermine, the justice system.",
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/opinion/editorial/manufacturing-justice-on-the-top-court-ai-use-observations/article71179263.ece"
-        },
-        {
-          "title": "Not questioning judiciary, says opposition in letter to CJI",
-          "summary": "Opposition parties have written to the Chief Justice of India, clarifying that their concerns about electoral roll revisions are not an attack on the judiciary. Instead, they are seeking recourse when other avenues have failed, and highlighting concerns about biased election commissions and disenfranchisement. The letter aims to avoid influencing ongoing court cases.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/politics-and-nation/not-questioning-judiciary-says-opposition-in-letter-to-cji/articleshow/132168885.cms"
-        },
-        {
-          "title": "Why Pune Fort Murder Was Mentioned During Supreme Court Hearing in Meghalaya Honeymoon Murder Case",
-          "summary": "The Pune Fort murder case was mentioned during a Supreme Court hearing in the Meghalaya honeymoon murder case, in which the court refused to stay the bail of the accused, Sonam Raghuvanshi. The reference to the Pune Fort case highlights the complexities and similarities between the two cases. The Supreme Court's decision reflects its consideration of procedural grounds and the need for a balanced approach.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/india/why-pune-fort-murder-was-mentioned-during-supreme-court-hearing-in-meghalaya-honeymoon-murder-case-article-154904210"
-        },
-        {
-          "title": "'An exception...': Why Supreme Court refused to send Sonam Raghuvanshi back to jail",
-          "summary": "The Supreme Court has refused to send Sonam Raghuvanshi back to jail, citing the need for a balanced approach in the Meghalaya honeymoon murder case. The court's decision reflects its consideration of the case's complexities and the need to balance the rights of the accused with the need for justice. The court emphasized that it will try to think of a balanced approach, regardless of the crime's heinous nature.",
           "source": "Hindustan Times",
           "url": "https://www.hindustantimes.com/india-news/an-exception-why-supreme-court-refused-to-send-sonam-raghuvanshi-back-to-jail-101783072865152.html"
         }
