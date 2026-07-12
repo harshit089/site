@@ -1,5 +1,139 @@
 [
   {
+    "generated_at": "2026-07-12T18:56:23.888481+00:00",
+    "brief": "Tensions are escalating globally, with Iran launching missile strikes on its Gulf neighbours and Russia intensifying its attacks on Ukraine, drawing in the US and posing significant risks to regional security and international diplomacy. Meanwhile, in India, the government is focusing on strengthening its position in the Strait of Malacca through the Great Nicobar project, while also emphasizing the importance of personal rapport and trust in diplomacy, as seen in Prime Minister Narendra Modi's recent three-nation tour. On the economic front, the Reserve Bank of India is expected to keep policy rates steady in the short term, but may increase rates later this year due to rising domestic inflation concerns, which could impact India's growth forecast, already revised downwards to 6.6% by the Asian Development Bank.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Iran strikes back: Missiles rain down on Gulf neighbours",
+          "summary": "Iran has launched missile and drone strikes on its Gulf neighbours in response to an attack on a merchant vessel, escalating tensions in the region and drawing in the US. The Strait of Hormuz has been closed, impacting international shipping routes and oil exports. This development has significant implications for regional security and global diplomacy.",
+          "source": "Malayala Manorama",
+          "url": "https://www.onmanorama.com/news/world/2026/07/12/hormuz-strait-closure-iran-strikes-gulf-neighbours-live.html"
+        },
+        {
+          "title": "Escalating Conflict: Ukraine Struggles Amid Russian Assaults",
+          "summary": "Russia has intensified its attacks on Ukraine, resulting in multiple casualties and highlighting the need for faster weapon shipments from allies. The conflict is escalating, posing significant risks to civilian safety and international diplomatic relations. Ukrainian President Zelenskiy has emphasized the urgency of the situation.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3948893-escalating-conflict-ukraine-struggles-amid-russian-assaults"
+        },
+        {
+          "title": "Great Nicobar project to solidify India’s position in Strait of Malacca: Report",
+          "summary": "The Great Nicobar project is expected to strengthen India's position in the Strait of Malacca, a critical shipping route. The project's significance has increased in the context of the Iran war and its potential impact on regional geopolitics. It may enhance India's influence in the region and secure its interests.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/great-nicobar-project-to-solidify-indias-position-in-strait-of-malacca-report/"
+        },
+        {
+          "title": "Global rights group revives focus on religious persecution of minorities during 1971 Bangladesh Liberation War",
+          "summary": "A global rights group has renewed attention on the religious persecution of minorities during the 1971 Bangladesh Liberation War. The war resulted in mass killings and displacement, and this development may lead to a re-examination of the conflict's legacy and its ongoing impact on regional relations. It highlights the importance of addressing historical injustices and promoting human rights.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/global-rights-group-revives-focus-on-religious-persecution-of-minorities-during-1971-bangladesh-liberation-war/"
+        },
+        {
+          "title": "nation tour: Diplomacy built on personal rapport and trust",
+          "summary": "Prime Minister Narendra Modi's recent three-nation tour has highlighted the importance of personal rapport and trust in diplomacy. The tour may have strengthened India's relationships with the visited countries, and its outcomes will be closely watched for their impact on regional and global geopolitics. The emphasis on personal connections in diplomacy can lead to more effective cooperation and conflict resolution.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/pm-modi-3-nation-tour-diplomacy-built-on-personal-rapport-and-trust-1/"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "E20 petrol may reduce mileage by 3-5%, says Oil Ministry",
+          "summary": "The Oil Ministry has stated that E20 petrol, which contains 20% ethanol, may reduce vehicle mileage by 3-5%. However, it offers benefits like cleaner engines and lower carbon emissions. This information is crucial for consumers and automobile manufacturers as India plans to roll out E20 petrol.",
+          "source": "Malayala Manorama",
+          "url": "https://www.onmanorama.com/news/india/2026/07/10/e20-petrol-may-reduce-fuel-efficiency-says-oil-ministry.html"
+        },
+        {
+          "title": "RBI rate hike: Interest burden for Indians may go up later this year amid inflation risks",
+          "summary": "The Reserve Bank of India is expected to keep policy rates steady in the short term, but may increase rates later this year due to rising domestic inflation concerns. This could lead to a higher interest burden for Indians. The economic growth projections for FY27 have been revised, indicating a stronger demand trend.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-rate-ike-chances-bank-of-america-rbirate-hike-interest-burden-for-indians-may-go-up-later-this-year-amid-inflation-risks/articleshow/132305465.cms"
+        },
+        {
+          "title": "Why India is launching an index of services production",
+          "summary": "India is launching an index of services production to provide high-frequency information on the services economy, which will help in making better policy decisions and economic forecasting. This index will complement the existing index of industrial production. The services sector is a significant contributor to India's economy, and this index will help in understanding its trends and patterns.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/economy/explainer-index-of-services-production-india-services-sector-economic-indicator-indian-economy-11783658423548.html"
+        },
+        {
+          "title": "ADB cuts India FY27 growth forecast to 6.6% on higher oil prices",
+          "summary": "The Asian Development Bank has lowered India's FY27 growth forecast to 6.6% due to higher crude oil prices and transportation costs, which are expected to impact consumer sentiment and demand. The bank has retained its FY28 growth forecast at 7.3%, expecting global conditions to improve. The inflation forecast for FY27 has been raised to 5.2% due to oil and food prices.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/adb-cuts-india-fy27-growth-forecast-to-6-6-on-higher-oil-prices/articleshow/132297258.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Aukera Raises Rs. 90 Cr in Fresh Funding",
+          "summary": "Aukera, a premium lab-grown diamond jewellery brand, has raised Rs. 90 crore in fresh funding to accelerate its national expansion. This funding comes less than a year after the company raised USD 15 million, reflecting the strength of its growth trajectory. The investment will help Aukera strengthen its balance sheet and maintain its lead in the market.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/aukera-raises-rs-90-cr-over-usd-10-mn-in-fresh-funding-less-than-a-year-after-usd-15-mn-round-as-it-accelerates-national-expansion/"
+        },
+        {
+          "title": "Bank credit growth to ease as corporates tap bond markets, overseas funding",
+          "summary": "Bank credit growth is expected to slow down as large corporations start using domestic bond markets and overseas borrowings for funding. This shift is driven by the Reserve Bank of India's policy measures, which make external funding more attractive for businesses. As a result, banks will finance a smaller share of corporate financing needs.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
+        },
+        {
+          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
+          "summary": "Neuberg Diagnostics plans to launch an initial public offering in fiscal year 2028, aiming to raise up to Rs 4,000 crore. The company will use the funds to drive pan-India growth and invest in new diagnostic technologies. A pre-IPO funding round will also be used to secure Rs 500 crore for acquisitions.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
+        },
+        {
+          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
+          "summary": "Indian companies raised a record Rs 2.53 lakh crore through commercial papers in June, driven by attractive pricing and seasonal needs. This surge reflects a shift from costlier bank loans to cheaper short-term market funding, supported by ample investor demand and a stable liquidity environment. The Reserve Bank of India's liquidity infusions also contributed to the favorable conditions.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
+        },
+        {
+          "title": "India's banks are handing out more loans, but deposits aren't keeping up",
+          "summary": "Indian banks have seen a surge in lending, outpacing deposit growth and widening the funding gap. This trend has pushed the loan-to-deposit ratio to a decade-high, raising concerns about funding sustainability. The mismatch between loan growth and deposit growth reflects varied strategies amidst intense competition in the banking sector.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-banks-are-handing-out-more-loans-but-deposits-arent-keeping-up/articleshow/132177579.cms"
+        },
+        {
+          "title": "Almost half of UDAN routes have become non-operational",
+          "summary": "Nearly half of India's UDAN regional flight routes have become non-operational, despite the government launching a revamped phase with higher subsidies and airport funding. The viability gap support, infrastructure delays, and airline distress are key factors contributing to this situation. The development has significant implications for the country's flagship connectivity scheme.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/news/almost-half-of-udan-routes-have-become-non-operational-says-report"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "OFCD case: SC to hear SEBI's plea against SAT relief to SICCL managers on Monday",
+          "summary": "The Supreme Court will hear SEBI's plea challenging the Securities Appellate Tribunal's order granting relief to Sahara India Commercial Corporation Ltd managers. The case is significant as it involves the regulation of financial markets and the powers of regulatory bodies. The outcome may have implications for corporate governance and regulatory frameworks in India.",
+          "source": "ThePrint",
+          "url": "https://theprint.in/india/ofcd-case-sc-to-hear-sebis-plea-against-sat-relief-to-siccl-managers-on-monday/2984365/"
+        },
+        {
+          "title": "The Goondas Act: Is India's reliance on preventive detention undermining rule of law?",
+          "summary": "The use of preventive detention in India has raised concerns about the rule of law and democratic principles. Despite Supreme Court warnings, governments continue to use preventive detention, sparking debates about its implications for individual rights and the justice system. This issue highlights the tension between national security and individual freedoms.",
+          "source": "THE WEEK",
+          "url": "https://www.theweek.in/theweek/current/2026/07/11/the-goondas-act-is-indias-reliance-on-preventive-detention-undermining-rule-of-law.html"
+        },
+        {
+          "title": "Right of way: The right to walk safely demands more than urban design standards for demarcated pavements",
+          "summary": "The Supreme Court has recognized walking on demarcated footpaths as a fundamental right, emphasizing the need for safe and accessible pedestrian infrastructure. This ruling has implications for urban planning and design, highlighting the importance of prioritizing pedestrian safety and accessibility in Indian cities. It also underscores the role of urban design in promoting public health and well-being.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/karnataka/right-of-way-the-right-to-walk-safely-demands-more-than-urban-design-standards-for-demarcated-pavements/article71210733.ece"
+        },
+        {
+          "title": "PFI Terror Conspiracy case: Delhi Court puts PFI leader on trial for waging war against India, conspiracy for overthrowing govt",
+          "summary": "A Delhi court has charged a Popular Front of India leader with waging war against India and conspiring to overthrow the government. The case involves allegations of terrorism and anti-national activities, and the trial's outcome may have significant implications for national security and the regulation of extremist groups in India. The charges are based on evidence gathered by the NIA.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/pfi-terror-conspiracy-case-delhi-court-puts-pfi-leader-on-trial-for-waging-war-against-india-conspiracy-for-overthrowing-govt/articleshow/132330307.cms"
+        },
+        {
+          "title": "Omar Abdullah claims BJP offered his MLA ₹20-30 crore, ministerial berth, J&K ‘statehood’ to switch sides",
+          "summary": "Omar Abdullah has alleged that the BJP offered one of his MLAs a large sum of money, a ministerial position, and the promise of Jammu and Kashmir's statehood in exchange for switching parties. This claim highlights the ongoing political dynamics in Jammu and Kashmir and the tensions between different political parties in the region. The allegation also raises questions about political integrity and the use of incentives to influence political loyalty.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/omar-abdullah-claims-bjp-offered-his-mla-20-30-crore-ministerial-berth-statehood-to-switch-sides-jammu-and-kashmir-101783778618250.html"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-12T13:04:07.385228+00:00",
     "brief": "Tensions between Ukraine and Russia have escalated, with Russia increasing missile and drone attacks, prompting Ukrainian President Zelenskiy to urge allies for faster weapon shipments, while India has expressed concern over the conflict alongside New Zealand. Meanwhile, in the economic sphere, the Reserve Bank of India is expected to keep policy rates steady in the short term but may increase rates later this year due to rising domestic inflation concerns, which could impact consumer sentiment and demand. Additionally, the Asian Development Bank has lowered India's FY27 growth forecast to 6.6% due to higher crude oil prices and transportation costs, which are expected to affect the country's economic growth.",
     "categories": {
@@ -3649,140 +3783,6 @@
           "summary": "An RJD MP has filed a petition in the Supreme Court seeking a CBI probe and forensic audit into the financial affairs of the Shri Ram Janmabhoomi Teerth Kshetra Trust. The petition alleges misappropriation of donations and seeks transparency in the trust's accounts and transactions. The move highlights concerns about the management of funds for the Ram Janmabhoomi temple.",
           "source": "Free Press Journal",
           "url": "https://www.freepressjournal.in/india/rjd-mp-moves-supreme-court-seeking-cbi-probe-forensic-audit-of-ram-janmabhoomi-trust-finances"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-05T19:06:39.639979+00:00",
-    "brief": "Today's key developments span multiple categories, with significant updates in geopolitics, economy, and national affairs. The US Congressional hearing on the CIA's MKULTRA programme and Iran's vow to take legal action against the US and Israel over their military campaign highlight ongoing tensions in global politics. In India, the RBI's efforts to manage inflation and economic growth are under scrutiny, with experts weighing in on the impact of a weak monsoon and the central bank's dollar shorts reaching a record high. Meanwhile, domestic issues such as the Shri Krishna Janmabhoomi-Shahi Idgah dispute and the RJD MP's petition seeking a CBI probe into the Ram Janmabhoomi Trust finances are also making headlines, underscoring the complex interplay between national and international developments.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "US Congressional hearing examines CIA's use of universities, hospitals, prisons",
-          "summary": "A US Congressional hearing has scrutinized the CIA's Cold War-era MKULTRA programme, which involved the use of universities, hospitals, and prisons. The programme has raised concerns about the CIA's activities and their impact on individuals and institutions. The hearing aims to shed light on the programme's operations and consequences.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/us-congressional-hearing-examines-cias-use-of-universities-hospitals-prisons/"
-        },
-        {
-          "title": "'I don't think it is possible': Keir Starmer says next PM cannot spend less time on diplomacy",
-          "summary": "Outgoing UK Prime Minister Keir Starmer has defended his time spent on international affairs, stating that the next PM cannot afford to spend less time on diplomacy. Starmer emphasized the importance of balancing domestic and international responsibilities. His comments come as he prepares to leave office and hand over to a new leader.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/world/uk/i-dont-think-it-is-possible-keir-starmer-says-next-pm-cannot-spend-less-time-on-diplomacy/articleshow/132178287.cms"
-        },
-        {
-          "title": "Keir Starmer's Legacy: Balancing Act of Diplomacy and Domestic Focus",
-          "summary": "Outgoing UK Prime Minister Keir Starmer has highlighted the importance of balancing international and domestic policies. He defended his foreign policy focus, citing the restoration of the UK's global standing. Starmer's potential successor, Andy Burnham, is expected to prioritize domestic issues such as living standards and regional power devolution.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/politics/3945172-keir-starmers-legacy-balancing-act-of-diplomacy-and-domestic-focus"
-        },
-        {
-          "title": "ISI's new war on India targets PM Modi with deepfakes and disinformation",
-          "summary": "India's national security planners have identified a new campaign by the Inter Services Intelligence (ISI) targeting Prime Minister Narendra Modi with deepfakes and disinformation. The ISI's efforts aim to spread false information and manipulate public opinion. This development highlights the ongoing information warfare between India and Pakistan.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/isis-new-war-on-india-targets-pm-modi-with-deepfakes-and-disinformation-1/"
-        },
-        {
-          "title": "Iran vows legal action against US, Israel over war, seeks global accountability",
-          "summary": "Iran has vowed to take legal action against the US and Israel over their military campaign, which Tehran claims is a breach of international law. The Iranian president has stated that the country will use all available legal and diplomatic mechanisms to seek accountability. This move reflects Iran's efforts to counter the US-Israeli alliance and seek support from the international community.",
-          "source": "Moneycontrol",
-          "url": "https://www.moneycontrol.com/world/iran-vows-legal-action-against-us-israel-over-war-seeks-global-accountability-article-13965772.html"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Experts Shed Light on E20 Fuel: Dispelling Myths and Highlighting Benefits",
-          "summary": "Energy industry experts have clarified misconceptions about India's E20 ethanol-blended petrol mandate, highlighting its minimal impact on vehicle mileage and its economic and environmental benefits. The policy aims to promote a cleaner and more sustainable fuel option. This development is significant for India's energy sector and its efforts to reduce carbon emissions.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3945312-experts-shed-light-on-e20-fuel-dispelling-myths-and-highlighting-benefits"
-        },
-        {
-          "title": "Balancing Innovation and Stability: India's Progress on Digital Rupee Discussed",
-          "summary": "The Parliamentary Standing Committee on Finance met with RBI officials to review India's Central Bank Digital Currency progress and discuss regulatory challenges and policy interventions. The meeting aimed to bolster India's digital financial ecosystem. This development is crucial for India's financial sector and its adoption of digital currencies.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3944082-balancing-innovation-and-stability-indias-progress-on-digital-rupee-discussed"
-        },
-        {
-          "title": "RBI Kicks Off 74th Manufacturing Sector Survey: A Key Tool for Economic Analysis",
-          "summary": "The Reserve Bank of India has launched its 74th Order Books, Inventories, and Capacity Utilisation Survey for the manufacturing sector, covering April-June 2026. The survey collects operational data to aid monetary policy and captures order volumes, inventory details, and capacity use. This initiative is essential for understanding India's economic performance and making informed policy decisions.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3943710-rbi-kicks-off-74th-manufacturing-sector-survey-a-key-tool-for-economic-analysis"
-        },
-        {
-          "title": "Nomura, HSBC split on RBI rate outlook as weak monsoon fuels inflation risks",
-          "summary": "Economists from Nomura and HSBC have differing views on the RBI's next policy move due to the impact of a weak monsoon on India's economy. They assess the effects on GDP growth, food inflation, and the rupee. This development highlights the challenges faced by the RBI in managing inflation and economic growth.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/economy/nomura-hsbc-rbi-rate-outlook-weak-monsoon-food-inflation-sonal-varma-pranjul-bhandari-19936402.htm"
-        },
-        {
-          "title": "Rupee's defence takes RBI dollar shorts to a record high",
-          "summary": "The Reserve Bank of India's net short forward position in the currency market has surged to a record $106.6 billion in May, indicating significant interventions to shield the rupee from hitting new lows. The central bank faces a decision on whether to reduce its forward position or bolster reserves. This development is crucial for understanding India's currency management and its impact on the economy.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupees-defence-takes-rbi-dollar-shorts-to-a-record-high/articleshow/132103620.cms"
-        },
-        {
-          "title": "India Inc eyes more dollar debt as RBI policy support kicks in",
-          "summary": "Indian companies are increasingly opting for dollar debt due to the RBI's moves to lower hedging costs and ease rules. This development is significant for India's corporate sector and its access to foreign funding. The RBI's policy support has made it more attractive for companies to swap rupee loans for offshore funds.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/market/bonds/rbi-ecb-guidelines-external-commercial-borrowings-11782813258132.html"
-        }
-      ],
-      "Business": [
-        {
-          "title": "India's banks are handing out more loans, but deposits aren't keeping up",
-          "summary": "Indian banks have seen a surge in lending, outpacing deposit growth and widening the funding gap. This trend is driven by demand from corporate and retail sectors, pushing the loan-to-deposit ratio to a decade-high. The imbalance raises concerns about funding sustainability for banks.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-banks-are-handing-out-more-loans-but-deposits-arent-keeping-up/articleshow/132177579.cms"
-        },
-        {
-          "title": "Operational, Says Report – Outlook Business",
-          "summary": "Almost half of India's UDAN regional flight routes have become non-operational due to viability gap support, infrastructure delays, and airline distress. The government has launched a revamped phase with higher subsidies and airport funding. This development affects the country's flagship connectivity scheme.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/news/almost-half-of-udan-routes-have-become-non-operational-says-report"
-        },
-        {
-          "title": "Inspira seals Rs 1,800-crore private credit for Burger King buy in India",
-          "summary": "Inspira Global has secured ₹1,800 crore in private credit to acquire a controlling stake in India's Burger King operator. The funding signals a major move into the quick-service restaurant sector. Inspira has already raised ₹1,050 crore via NCDs, with the remaining ₹800 crore expected to be raised this month.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/inspira-seals-rs-1800-crore-private-credit-for-burger-king-buy-in-india/articleshow/132174770.cms"
-        },
-        {
-          "title": "Up Ecosystem on Foreign Capital, Family Offices May Now Have to Keep it Rolling – Outlook Business",
-          "summary": "India's family offices are emerging as key sources of patient capital for funding start-ups, innovation, and entrepreneurial growth. They are playing a crucial role in the country's start-up ecosystem, which was initially built on foreign capital. Family offices may now be responsible for sustaining this growth.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/magazine/india-built-a-start-up-ecosystem-on-foreign-capital-family-offices-may-now-have-to-keep-it-rolling"
-        },
-        {
-          "title": "India's private credit market primed for sustained growth",
-          "summary": "India's private credit market is expected to reach $50 billion by 2030, driven by corporate funding needs and limitations faced by traditional banks. The real estate and infrastructure sectors are leading this growth, with promoter financing also playing a crucial role. New RBI regulations may introduce greater competition in the market.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/indias-private-credit-market-primed-for-sustained-growth/articleshow/132146330.cms"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "US DOJ Says Adani Case 'Should Never Have Been Brought'; Defends Dismissal",
-          "summary": "The US Department of Justice has urged a US court to dismiss the criminal case against Gautam Adani, citing legal flaws and diplomatic risks. The case is centered in India with no proven investor losses, leading the DOJ to defend its decision to dismiss the indictment. This development may have implications for Adani's business and reputation.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/corporate/us-doj-says-adani-case-should-never-have-been-brought-defends-dismissal"
-        },
-        {
-          "title": "Shri Krishna Janmabhoomi-Shahi Idgah dispute: Hindu side attends Lok Adalat, proposes relocation of mosque",
-          "summary": "A special Lok Adalat was held in Mathura to explore an amicable resolution in the Shri Krishna Janmabhoomi-Shahi Idgah dispute. The Hindu side proposed the relocation of the mosque, aiming to find a peaceful solution to the long-standing issue. The outcome of this dispute may have significant implications for communal harmony in India.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/shri-krishna-janmabhoomi-shahi-idgah-dispute-hindu-side-attends-lok-adalat-proposes-relocation-of-mosque/articleshow/132191018.cms"
-        },
-        {
-          "title": "RJD MP Moves Supreme Court Seeking CBI Probe, Forensic Audit Of Ram Janmabhoomi Trust Finances",
-          "summary": "RJD MP Sudhakar Singh has filed a petition in the Supreme Court seeking a CBI probe into the financial affairs of the Shri Ram Janmabhoomi Teerth Kshetra Trust. The petition alleges misappropriation of donations and seeks a forensic audit and oversight committee to ensure transparency. This case may impact the trust's operations and the broader discourse on religious institutions' finances.",
-          "source": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/india/rjd-mp-moves-supreme-court-seeking-cbi-probe-forensic-audit-of-ram-janmabhoomi-trust-finances"
-        },
-        {
-          "title": "Delhi Gymkhana Club challenges Centre's eviction proceedings in HC, plea listed for July 6",
-          "summary": "The Delhi Gymkhana Club has moved the Delhi High Court against the government's decision to initiate eviction proceedings. The club's plea is listed for hearing on July 6, and the outcome may determine the club's future and the government's authority to take such actions. This case highlights the ongoing tensions between the government and heritage institutions.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/delhi-gymkhana-club-challenges-centres-eviction-proceedings-in-hc-plea-listed-for-july-6/articleshow/132182882.cms"
         }
       ]
     }
