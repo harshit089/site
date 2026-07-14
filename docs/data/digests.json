@@ -1,5 +1,157 @@
 [
   {
+    "generated_at": "2026-07-14T19:08:22.473715+00:00",
+    "brief": "Tensions between the US and Iran continue to escalate, with the US reinstating a blockade on Iranian shipping in the Gulf and the Strait of Hormuz remaining open for a fee, which may impact global oil prices and international relations. Meanwhile, India's economy is feeling the effects of the geopolitical uncertainty, with rising oil prices threatening to increase inflation and interest rates, and the Reserve Bank of India likely to keep policy rates unchanged at least till October. In other news, Indian companies are increasingly turning to domestic bond markets and overseas funding for financing, with bank credit growth expected to slow down as a result, and several companies, including SBI Funds and Aukera, have raised significant funds through private placements and funding rounds.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Iran War: Why Russia’s ‘Doomsday Plane’ Is So Special?",
+          "summary": "Russia's 'Doomsday Plane' is a special aircraft designed to function during severe emergencies, including nuclear conflicts, and serves as an airborne command centre for top leaders. It has unique features that enable communication, strategic directives, and national defence coordination under extreme conditions. This plane is significant in the context of global geopolitical tensions.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/us-iran-war-why-russias-doomsday-plane-is-so-special-know-features-a525/"
+        },
+        {
+          "title": "Iraq PM Ali al-Zaidi meets Donald Trump in Washington today amid US-Iran war",
+          "summary": "Iraq's Prime Minister Ali al-Zaidi is meeting with US President Donald Trump in Washington amid escalating tensions between the US and Iran. This meeting is significant as Iraq is a key ally of both the US and Iran, and the discussion is expected to focus on the US-Iran conflict and its impact on the region. The meeting may have implications for global geopolitics and trade.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/news/us-news/iraq-pm-ali-zaidi-meets-donald-trump-in-washington-today-amid-us-iran-war-what-to-expect-baghdad-ties-strait-of-hormuz-11783993465652.html"
+        },
+        {
+          "title": "Export headwinds are visible in last month’s shipment data but trade deals could help",
+          "summary": "India's export data shows a widening goods trade deficit due to uncertainty over the Gulf war, but trade deals could help uplift goods and service exports. The impact of the US-Iran conflict on global trade is being closely watched, and India's international trade pacts may play a crucial role in mitigating the effects. The situation highlights the interconnectedness of global trade and geopolitics.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/opinion/online-views/mint-quick-edit-export-headwinds-shipment-data-trade-deals-gulf-war-international-services-11783951360887.html"
+        },
+        {
+          "title": "US invests $25 mn in critical minerals",
+          "summary": "The US Department of War has announced a $25 million investment in ReElement Technologies Corp to develop critical minerals. This investment is significant as it highlights the US's efforts to secure its supply of critical minerals, which are essential for various industries. The move may have implications for global trade and geopolitics, particularly in the context of the US's relations with other countries.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/us-invests-25-mn-in-critical-minerals/"
+        },
+        {
+          "title": "Trump says US reinstates blockade of Iranian shipping, but Strait of Hormuz to remain open",
+          "summary": "US President Donald Trump has announced the reinstatement of a blockade on Iranian shipping in the Gulf, with the Strait of Hormuz remaining open for a fee. This decision is expected to escalate tensions between the US and Iran, with potential implications for global oil prices and international relations. The move may also impact the global economy and trade.",
+          "source": "Malayala Manorama",
+          "url": "https://www.onmanorama.com/news/world/2026/07/13/trump-says-us-reinstates-blockade-of-iranian-shipping-in-hormuz.html"
+        },
+        {
+          "title": "Trump's Bold Reinstatement: Guardian of the Hormuz Strait",
+          "summary": "US President Donald Trump has reinstated a blockade on Iranian shipping in the Gulf, ensuring the Strait of Hormuz remains open for a fee. This decision undermines previous attempts at peace and may impact global oil prices and international relations. The move highlights the ongoing tensions between the US and Iran, with significant implications for global geopolitics and trade.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/law-order/3949661-trumps-bold-reinstatement-guardian-of-the-hormuz-strait"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "India bonds join global rout after Mideast escalation jolts oil higher",
+          "summary": "India's government bonds declined due to rising oil prices caused by fresh Gulf strikes, which may increase India's inflation and interest rate risks. Foreign investors sold Indian bonds, and the rupee also dropped, reflecting concerns over the escalating geopolitical situation. This surge in oil prices threatens to impact India's economy.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-join-global-rout-after-mideast-escalation-jolts-oil-higher/articleshow/132382258.cms"
+        },
+        {
+          "title": "Retail Inflation up to 4.4% on costlier food, transport",
+          "summary": "India's retail inflation reached 4.4% in June, surpassing the central bank's target, driven by higher food and transport costs. Food inflation accelerated to 5.3%, and core inflation moderated to 3.9%. Economists anticipate the Reserve Bank of India will maintain its current policy rate.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/retail-inflation-up-to-4-4-on-costlier-food-transport/articleshow/132376055.cms"
+        },
+        {
+          "title": "RBI likely to keep rates unchanged till October, India's GDP to moderate to 6.6",
+          "summary": "The Reserve Bank of India is likely to keep policy rates unchanged at least till October 2026, while India's economy is expected to grow at a steady pace of 6.6-6.8 per cent in FY27 despite global uncertainties. This forecast is based on Bank of Baroda's FY27 Economic Outlook.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/rbi-likely-to-keep-rates-unchanged-till-october-indias-gdp-to-moderate-to-6-6-6-8-in-fy27-bob-outlook/"
+        },
+        {
+          "title": "E20 petrol may reduce mileage by 3-5%, says Oil Ministry",
+          "summary": "The introduction of E20 fuel, which contains 20% ethanol, may reduce vehicle efficiency by 3-5%, but offers benefits like cleaner engines and lower carbon emissions. The Oil Ministry has conducted extensive testing and found that E20 fuel can provide several benefits despite the potential reduction in mileage.",
+          "source": "Malayala Manorama",
+          "url": "https://www.onmanorama.com/news/india/2026/07/10/e20-petrol-may-reduce-fuel-efficiency-says-oil-ministry.html"
+        },
+        {
+          "title": "RBI rate hike: Interest burden for Indians may go up later this year amid inflation risks",
+          "summary": "The Reserve Bank of India is expected to keep policy rates steady in the short term, but rising concerns over domestic inflation may lead to increased rates in the future. Revisions to FY27 economic growth projections indicate a stronger demand trend, while external accounts are anticipated to show improvement with a reduced current account deficit.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-rate-ike-chances-bank-of-america-rbirate-hike-interest-burden-for-indians-may-go-up-later-this-year-amid-inflation-risks/articleshow/132305465.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "IPO funding from WhiteOak Capital, 3P India, others",
+          "summary": "SBI Funds has raised Rs 1880 crore in pre-IPO funding from investors including WhiteOak Capital and 3P India. The funding was raised through a private placement of equity shares at an issue price of Rs 574 per share. This investment will likely support the company's growth plans ahead of its IPO.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/sbi-funds-raises-rs-1880-crore-in-pre-ipo-funding-from-whiteoak-capital-3p-india-others/"
+        },
+        {
+          "title": "Aukera Raises Rs. 90 Cr in Fresh Funding",
+          "summary": "Aukera, a premium lab-grown diamond jewellery brand, has raised Rs 90 crore in fresh funding led by Alteria Capital and other investors. This funding round comes less than a year after the company raised $15 million in equity funding. The investment will support Aukera's national expansion plans.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/aukera-raises-rs-90-cr-over-usd-10-mn-in-fresh-funding-less-than-a-year-after-usd-15-mn-round-as-it-accelerates-national-expansion/"
+        },
+        {
+          "title": "Bank credit growth to ease as corporates tap bond markets, overseas funding",
+          "summary": "Bank credit growth is expected to slow down as large corporations increasingly use domestic bond markets and overseas borrowings for funding. This shift is driven by the Reserve Bank of India's policy measures, which make external funding more attractive for businesses. As a result, banks will finance a smaller share of corporate financing needs.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
+        },
+        {
+          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
+          "summary": "Neuberg Diagnostics plans to launch an initial public offering in fiscal year 2028, aiming to raise up to Rs 4,000 crore. The company will also undertake a pre-IPO funding round to secure Rs 500 crore for acquisitions, targeting pan-India growth and new diagnostic technologies. Neuberg aims to become the second-largest player in the diagnostics market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
+        },
+        {
+          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
+          "summary": "Indian companies raised a record Rs 2.53 lakh crore through commercial papers in June, driven by attractive pricing, seasonal needs, and debt refinancing. This surge reflects a shift from costlier bank loans to cheaper short-term market funding, supported by ample investor demand and a stable liquidity environment. The Reserve Bank of India's liquidity infusions also contributed to favorable conditions.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
+        },
+        {
+          "title": "India's banks are handing out more loans, but deposits aren't keeping up",
+          "summary": "Indian banks have seen a surge in lending, outpacing deposit growth and widening the funding gap. This trend, driven by robust demand from corporate and retail sectors, has pushed the loan-to-deposit ratio to a decade-high, raising concerns about funding sustainability. Banks are adopting varied strategies to manage this imbalance amidst intense competition.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-banks-are-handing-out-more-loans-but-deposits-arent-keeping-up/articleshow/132177579.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "From Good Touch To Consent: Sex Education May Soon Become Part Of School Curriculum",
+          "summary": "The Centre has agreed to introduce comprehensive sex education in schools and colleges across India, which could lead to a significant change in the country's education system. This move aims to provide students with a better understanding of consent and healthy relationships. The decision was made after the Centre accepted an expert panel's recommendations.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/education/from-good-touch-to-consent-sex-education-may-soon-become-part-of-school-curriculum-as-centre-tells-supreme-court-it-is-ready-to-implement"
+        },
+        {
+          "title": "No murder, affair proof: SC clears woman of killing husband after 19 years",
+          "summary": "The Supreme Court has exonerated a woman accused of killing her husband after 19 years, ruling that suspicion alone is not enough to prove guilt. The court's decision highlights the importance of evidence-based proof in the Indian justice system. This case sets a precedent for future cases where suspicion may not be enough to secure a conviction.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/no-murder-affair-proof-sc-clears-woman-of-killing-husband-after-19-years-101784011366492.html"
+        },
+        {
+          "title": "Can an ex parte hearing decide someone's fate as a foreigner?",
+          "summary": "The Supreme Court has ruled that fundamental rights such as equality and the right to life and liberty apply to all individuals within India, regardless of their citizenship status. This decision has significant implications for foreigners living in India and ensures that their rights are protected. The court's interpretation of 'any person' within India is a crucial aspect of this ruling.",
+          "source": "ThePrint",
+          "url": "https://theprint.in/judiciary/can-an-ex-parte-hearing-decide-someones-fate-as-a-foreigner-what-supreme-court-has-said/2985796/"
+        },
+        {
+          "title": "SC upholds Lalu's bail in fodder scam",
+          "summary": "The Supreme Court has upheld the bail granted to former Bihar Chief Minister Lalu Yadav in the fodder scam case, directing the high court to expedite the hearing of pending appeals. This decision allows Lalu Yadav to remain out of jail while the case is ongoing. The Supreme Court's decision is significant as it sets a precedent for similar cases involving high-profile individuals.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/sc-upholds-lalus-bail-in-fodder-scam-directs-hc-to-expedite-hearing-of-pending-appeals/articleshow/132382344.cms"
+        },
+        {
+          "title": "How Parliament overturned court rulings before",
+          "summary": "The Indian Parliament has a history of overturning court rulings through legislation, with the recent CAPF Act being an example. This act overturns a Supreme Court ruling on officers' promotions, highlighting the complex relationship between the judiciary and the legislature. The article provides insight into the instances where Parliament has reversed judgments, showcasing the dynamic between the two branches of government.",
+          "source": "ThePrint",
+          "url": "https://theprint.in/opinion/capf-act-2026-parliament-supreme-court-rulings/2985726/"
+        },
+        {
+          "title": "Supreme Court asks Telangana to cure defects in plea against Polavaram project",
+          "summary": "The Supreme Court has rejected a petition filed by the Telangana government against the construction of the Polavaram project on the Godavari river, citing defects in the plea. The court has asked Telangana to rectify these defects before proceeding with the case. This decision is significant as it affects the ongoing dispute between Telangana and Andhra Pradesh over the project.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/supreme-court-askstelangana-to-to-cure-defects-in-plea-against-polavaram-project-101783971089365.html"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-14T13:17:52.047440+00:00",
     "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The US has made notable moves, investing $25 million in critical minerals and reinstating a blockade on Iranian shipping, which may escalate tensions and impact global oil prices. Meanwhile, in India, retail inflation has risen to 4.4%, driven by higher food and transport costs, which may influence the Reserve Bank of India's monetary policy decisions, with the central bank expected to keep policy rates unchanged for now but potentially hike them later in the year due to rising domestic inflation concerns. Additionally, the Supreme Court has been active, dismissing a public interest litigation on banning pornography in public places and seeking a status report on the Ram mandir fund probe, underscoring its role in shaping the country's legal and social landscape.",
     "categories": {
@@ -3667,158 +3819,6 @@
           "summary": "The Supreme Court will hear a plea challenging the Delhi High Court's refusal to intervene in the selection of India's dressage team for the Asian Games. The plea was filed by two riders who were not selected for the team. The court's decision will be important for the sports community in India, particularly in relation to the selection process for national teams.",
           "source": "Outlook India",
           "url": "https://www.outlookindia.com/national/asian-games-sc-to-hear-plea-against-hcs-refusal-to-interfere-with-dressage-team-selection"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-07T19:46:21.826111+00:00",
-    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. In geopolitics, China's concerns over Taiwan tensions and global economic turmoil have been outlined in a report by Tsinghua University, while French President Emmanuel Macron's historic visit to post-Assad Syria underscores the region's shifting dynamics. Meanwhile, in India, a patchy monsoon is expected to lift inflation and hurt the rural economy, prompting the Reserve Bank of India to maintain a moderately tight monetary policy stance. Additionally, Indian companies have raised a significant amount of funds via commercial papers, reaching a near five-year high, driven by attractive pricing and debt refinancing.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "China's Top 10 Threats: Tsinghua Report Reveals CCP's Concerns",
-          "summary": "A report by Tsinghua University has outlined the top threats to China's wellbeing, including Taiwan tensions, China-Japan relations, and global economic turmoil. This report provides insights into China's geopolitical anxieties and concerns. The threats listed are significant as they impact China's national security and international relations.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/international/3946301-chinas-top-10-threats-tsinghua-report-reveals-ccps-concerns"
-        },
-        {
-          "title": "CWGC adds 9,909 overlooked Indian soldiers to First World War casualty records",
-          "summary": "The Commonwealth War Graves Commission has added nearly 10,000 Indian soldiers to its casualty records from the First World War. This update is the largest single addition to the records since the Second World War. The move recognizes the significant contribution of Indian soldiers to the war effort.",
-          "source": "The New Indian Express",
-          "url": "https://www.newindianexpress.com/india/2026/Jul/07/cwgc-adds-9909-overlooked-indian-soldiers-to-first-world-war-casualty-records"
-        },
-        {
-          "title": "Trump says Putin wants Ukraine war to end",
-          "summary": "US President Donald Trump has stated that he believes Russian President Vladimir Putin wants the Ukraine war to end. This statement comes amid ongoing conflict in Ukraine. The development is significant as it may impact the trajectory of the war and international relations.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/trump-says-putin-wants-ukraine-war-to-end/"
-        },
-        {
-          "title": "Macron's Historic Visit to Post-Assad Syria",
-          "summary": "French President Emmanuel Macron has made a historic visit to Syria, marking the first EU head of state's visit since the overthrow of Bashar al-Assad. The visit underscores Syria's transformation under its new leadership and its efforts to rebuild international ties. This development may have significant implications for the region's geopolitics.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/politics/3946029-macrons-historic-visit-to-post-assad-syria"
-        },
-        {
-          "title": "Balen Shah administration must impart new momentum to Nepal",
-          "summary": "A report suggests that the Balen Shah administration in Nepal must work to impart new momentum to Nepal-India relations. This is significant as India is emerging as a rising global power, and Nepal acknowledges this development. The report highlights the need for renewed diplomatic efforts between the two nations.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/balen-shah-administration-must-impart-new-momentum-to-nepal-india-relations-report/"
-        },
-        {
-          "title": "Pakistan's Strategic Diplomacy: Mediation in Libya",
-          "summary": "Pakistan is engaging in diplomatic mediation between Libya's rival eastern and western powers, with the support of Saudi Arabia. This effort aims to create a stable transitional power-sharing government in Libya. The move is significant as it may strengthen Pakistan's international diplomatic profile and contribute to regional stability.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/law-order/3945911-pakistans-strategic-diplomacy-mediation-in-libya"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Patchy monsoon could lift inflation, hurt rural economy: S&P",
-          "summary": "A patchy monsoon in India could lead to higher food and energy prices, resulting in inflation of 5.1% in FY27, which may prompt the Reserve Bank of India to maintain a moderately tight monetary policy stance. This could have a negative impact on the rural economy. The RBI's stance will be crucial in managing the economy amidst these challenges.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/news/india/patchy-monsoon-could-lift-inflation-hurt-rural-economy-sp-11783338214778.html"
-        },
-        {
-          "title": "Experts Shed Light on E20 Fuel: Dispelling Myths and Highlighting Benefits",
-          "summary": "Energy industry experts have clarified misconceptions about India's E20 ethanol-blended petrol mandate, stating that it will have a minimal impact on vehicle mileage and is compatible with older vehicles. The policy is expected to have economic and environmental benefits. The experts' views aim to dispel myths surrounding the E20 fuel.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3945312-experts-shed-light-on-e20-fuel-dispelling-myths-and-highlighting-benefits"
-        },
-        {
-          "title": "Balancing Innovation and Stability: India's Progress on Digital Rupee Discussed",
-          "summary": "The Parliamentary Standing Committee on Finance met with RBI officials and ICAI representatives to discuss India's Central Bank Digital Currency progress and the digital asset landscape. The meeting focused on regulatory challenges, taxation issues, and potential policy interventions to support India's digital financial ecosystem. The discussion aims to balance innovation and stability in the digital currency space.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3944082-balancing-innovation-and-stability-indias-progress-on-digital-rupee-discussed"
-        },
-        {
-          "title": "RBI Kicks Off 74th Manufacturing Sector Survey: A Key Tool for Economic Analysis",
-          "summary": "The Reserve Bank of India has launched its 74th Order Books, Inventories, and Capacity Utilisation Survey for the manufacturing sector, covering April-June 2026. The survey collects operational data to aid monetary policy and captures order volumes, inventory details, and capacity use. The initiative aims to provide valuable insights into the manufacturing sector's performance.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3943710-rbi-kicks-off-74th-manufacturing-sector-survey-a-key-tool-for-economic-analysis"
-        },
-        {
-          "title": "Nomura, HSBC split on RBI rate outlook as weak monsoon fuels inflation risks",
-          "summary": "Economists from Nomura and HSBC have differing views on the RBI's next policy move amidst a weak monsoon, which is expected to fuel inflation risks. The economists have shared their outlook on GDP growth, food inflation, the rupee, and balance of payments. The differing views highlight the uncertainty surrounding the RBI's next move.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/economy/nomura-hsbc-rbi-rate-outlook-weak-monsoon-food-inflation-sonal-varma-pranjul-bhandari-19936402.htm"
-        }
-      ],
-      "Business": [
-        {
-          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
-          "summary": "Neuberg Diagnostics is planning an initial public offering in fiscal year 2028 to raise approximately ₹3,500-4,000 crore. The company aims to use the funds to drive pan-India growth and invest in new diagnostic technologies. This expansion strategy targets making Neuberg the second-largest player in the diagnostics market.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
-        },
-        {
-          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
-          "summary": "Indian companies raised a significant amount of funds via commercial papers in June, reaching a near five-year high of Rs 2.53 lakh crore. This surge was driven by attractive pricing, seasonal needs, and debt refinancing, with companies shifting from costlier bank loans to cheaper short-term market funding. The Reserve Bank of India's liquidity infusions also contributed to favorable conditions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
-        },
-        {
-          "title": "India's banks are handing out more loans, but deposits aren't keeping up",
-          "summary": "Indian banks saw a surge in lending during the April-June quarter, outpacing deposit growth and widening the funding gap. The loan-to-deposit ratio has reached a decade-high, raising concerns about funding sustainability. This trend is driven by robust demand from corporate and retail sectors, with varied strategies amidst intense competition.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-banks-are-handing-out-more-loans-but-deposits-arent-keeping-up/articleshow/132177579.cms"
-        },
-        {
-          "title": "Operational, Says Report – Outlook Business",
-          "summary": "Nearly half of India’s UDAN regional flight routes have become non-operational, despite the government launching a revamped phase with higher subsidies and airport funding. The viability gap support, infrastructure delays, and airline distress are affecting the country’s flagship connectivity scheme. This development may impact the government's efforts to improve regional air connectivity.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/news/almost-half-of-udan-routes-have-become-non-operational-says-report"
-        },
-        {
-          "title": "Inspira seals Rs 1,800-crore private credit for Burger King buy in India",
-          "summary": "Inspira Global has secured ₹1,800 crore in private credit to acquire a controlling stake in India's Burger King operator. The company has already raised ₹1,050 crore via NCDs, with the remaining ₹800 crore anticipated this month. This significant funding marks a major move into the quick-service restaurant sector.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/inspira-seals-rs-1800-crore-private-credit-for-burger-king-buy-in-india/articleshow/132174770.cms"
-        },
-        {
-          "title": "Up Ecosystem on Foreign Capital, Family Offices May Now Have to Keep it Rolling – Outlook Business",
-          "summary": "India's family offices are emerging as key sources of patient capital for funding start-ups, innovation, and the country's next phase of entrepreneurial growth. They are expected to play a crucial role in supporting the start-up ecosystem, which has largely been driven by foreign capital. This shift may have significant implications for the Indian start-up landscape.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/magazine/india-built-a-start-up-ecosystem-on-foreign-capital-family-offices-may-now-have-to-keep-it-rolling"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Asian Games: SC to Hear Plea Against HC's Refusal to Interfere with Dressage Team Selection",
-          "summary": "The Supreme Court will hear a plea challenging the Delhi High Court's refusal to intervene in the selection of India's dressage team for the Asian Games. The plea was filed by riders Anush Agarwalla and Sudipti Hajela, who were not selected for the team. The court's decision will be crucial in determining the final team selection, scheduled for July 15.",
-          "source": "Outlook India",
-          "url": "https://www.outlookindia.com/national/asian-games-sc-to-hear-plea-against-hcs-refusal-to-interfere-with-dressage-team-selection"
-        },
-        {
-          "title": "'How can a court regulate what a CM can say?' SC dismisses DMK plea on Karur stampede case",
-          "summary": "The Supreme Court dismissed a plea filed by the DMK seeking to restrain the Tamil Nadu Chief Minister from making certain statements. The court's decision highlights the limitations of judicial intervention in regulating the speech of public figures. The plea was related to the Karur stampede case.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/how-can-a-court-regulate-what-a-cm-can-say-sc-dismisses-dmk-plea-on-karur-stampede-case/articleshow/132232356.cms"
-        },
-        {
-          "title": "Supreme Court: Banks’ body cannot blacklist lawyers through caution list",
-          "summary": "The Supreme Court ruled that banks and financial institutions cannot blacklist lawyers through a caution list, as it is not their role to adjudicate allegations of professional misconduct. This decision is significant for the legal profession and highlights the importance of due process. The court's ruling will impact the way banks and financial institutions interact with lawyers.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/supreme-court-banks-body-cannot-blacklist-lawyers-through-caution-list-101783403770652.html"
-        },
-        {
-          "title": "CCI moves SC against NCLAT order quashing penalty on Grasim",
-          "summary": "The Competition Commission of India (CCI) has appealed to the Supreme Court against a tribunal's decision to quash a ₹300-crore penalty on Grasim Industries. The penalty was imposed for alleged monopolistic behavior in the viscose staple fibre market. The CCI's appeal highlights the regulator's efforts to enforce competition laws and prevent anti-competitive practices.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/india/cci-moves-sc-against-nclat-order-quashing-penalty-on-grasim/articleshow/132225353.cms"
-        },
-        {
-          "title": "Top court cautions against bypassing judicial hierarchy in sensitive cases",
-          "summary": "The Supreme Court cautioned against the growing trend of people seeking directions from the top court in sensitive matters, bypassing the judicial hierarchy. The court emphasized the importance of trusting the judicial hierarchy and allowing lower courts to discharge their functions before invoking the apex court's jurisdiction. This decision highlights the need for a more efficient and effective judicial system.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/top-court-cautions-against-bypassing-judicial-hierarchy-in-sensitive-cases-101783365223450.html"
-        },
-        {
-          "title": "Congress MLA opposes inclusion of non-Muslim members in MP Waqf Board, to move Supreme Court",
-          "summary": "A Congress MLA has opposed the inclusion of non-Muslim members in the Madhya Pradesh Waqf Board and plans to move the Supreme Court on the issue. The MLA claims that the inclusion of non-Muslim members is being examined by the Supreme Court. This case highlights the ongoing debates and challenges related to the management of Waqf properties and the role of non-Muslim members in Waqf boards.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/congress-mla-opposes-inclusion-of-non-muslim-members-in-mp-waqf-board-to-move-supreme-court-101783337051798.html"
         }
       ]
     }
