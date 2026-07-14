@@ -1,5 +1,151 @@
 [
   {
+    "generated_at": "2026-07-14T13:17:52.047440+00:00",
+    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The US has made notable moves, investing $25 million in critical minerals and reinstating a blockade on Iranian shipping, which may escalate tensions and impact global oil prices. Meanwhile, in India, retail inflation has risen to 4.4%, driven by higher food and transport costs, which may influence the Reserve Bank of India's monetary policy decisions, with the central bank expected to keep policy rates unchanged for now but potentially hike them later in the year due to rising domestic inflation concerns. Additionally, the Supreme Court has been active, dismissing a public interest litigation on banning pornography in public places and seeking a status report on the Ram mandir fund probe, underscoring its role in shaping the country's legal and social landscape.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "US invests $25 mn in critical minerals",
+          "summary": "The US Department of War has invested $25 million in ReElement Technologies Corp, highlighting the country's efforts to secure critical minerals. This investment is significant as it showcases the US's focus on developing its mineral resources. The move is likely to have implications for the global mineral market.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/us-invests-25-mn-in-critical-minerals/"
+        },
+        {
+          "title": "Trump says US reinstates blockade of Iranian shipping, but Strait of Hormuz to remain open",
+          "summary": "The US has reinstated a blockade on Iranian shipping, with plans to charge a 20% fee for passage through the Strait of Hormuz. This move is expected to escalate tensions between the US and Iran, potentially impacting global oil prices and international relations. The decision may also affect the freedom of navigation in the region.",
+          "source": "Malayala Manorama",
+          "url": "https://www.onmanorama.com/news/world/2026/07/13/trump-says-us-reinstates-blockade-of-iranian-shipping-in-hormuz.html"
+        },
+        {
+          "title": "Pakistan embroiled in massive, never-ending war within its own borders: Report",
+          "summary": "Pakistan has been ranked first in the 2026 Global Terrorism Index, indicating that the country is struggling with a massive and ongoing war within its own borders. This situation has significant implications for regional stability and global security. The report highlights the need for Pakistan to address its internal security challenges.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/pakistan-embroiled-in-massive-never-ending-war-within-its-own-borders-report/"
+        },
+        {
+          "title": "Trump Administration Targets International Criminal Court: Sovereignty Showdown",
+          "summary": "The Trump administration is planning to undermine the International Criminal Court (ICC), citing concerns over US sovereignty. The move may involve sanctions and diplomatic isolation, and has significant implications for international law and global governance. The ICC's role in prosecuting war crimes is likely to be affected by this development.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/law-order/3949582-trump-administration-targets-international-criminal-court-sovereignty-showdown"
+        },
+        {
+          "title": "Iraq's Energy Diplomacy: Prime Minister Zaidi's Bold U.S. Investment Drive",
+          "summary": "Iraq's Prime Minister Ali al-Zaidi is seeking major investments in Iraq's oil, gas, and power sectors during his visit to the US. The move is part of Iraq's efforts to diversify its international partnerships and strengthen its energy ties with the US. The visit has significant implications for regional energy security and economic cooperation between Iraq and the US.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/science-environment/3949533-iraqs-energy-diplomacy-prime-minister-zaidis-bold-us-investment-drive"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Retail Inflation up to 4.4% on costlier food, transport",
+          "summary": "India's retail inflation has increased to 4.4% in June, driven by higher food and transport costs, with food inflation reaching 5.3%. This rise may influence the Reserve Bank of India's monetary policy decisions. The central bank is expected to maintain its current policy rate due to the inflation surge.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/retail-inflation-up-to-4-4-on-costlier-food-transport/articleshow/132376055.cms"
+        },
+        {
+          "title": "RBI likely to keep rates unchanged till October, India's GDP to moderate to 6.6",
+          "summary": "The Reserve Bank of India is expected to keep policy rates unchanged until October 2026, while India's GDP is projected to grow at a steady pace of 6.6-6.8% in FY27. This forecast is based on Bank of Baroda's economic outlook, which considers global uncertainties and their impact on India's economy.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/rbi-likely-to-keep-rates-unchanged-till-october-indias-gdp-to-moderate-to-6-6-6-8-in-fy27-bob-outlook/"
+        },
+        {
+          "title": "E20 petrol may reduce mileage by 3-5%",
+          "summary": "The introduction of E20 petrol, which contains 20% ethanol, may reduce vehicle mileage by 3-5%. However, it offers benefits such as cleaner engines and lower carbon emissions. The Oil Ministry has conducted extensive testing to assess the impact of E20 fuel on vehicle efficiency.",
+          "source": "Malayala Manorama",
+          "url": "https://www.onmanorama.com/news/india/2026/07/10/e20-petrol-may-reduce-fuel-efficiency-says-oil-ministry.html"
+        },
+        {
+          "title": "RBI rate hike: Interest burden for Indians may go up later this year amid inflation risks",
+          "summary": "The Reserve Bank of India is expected to keep policy rates steady in the short term, but may increase rates later in the year due to rising domestic inflation concerns. This could lead to a higher interest burden for Indians, as economic growth projections indicate a stronger demand trend.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-rate-ike-chances-bank-of-america-rbirate-hike-interest-burden-for-indians-may-go-up-later-this-year-amid-inflation-risks/articleshow/132305465.cms"
+        },
+        {
+          "title": "BofA sees RBI holding rates near term, expects 50 bps hike from Dec 2026 amid domestic inflation risks",
+          "summary": "The Reserve Bank of India is likely to maintain its policy rates in the near term, but a 50 basis points rate hike is expected from December 2026 due to increasing domestic inflation risks. This forecast is based on BofA Securities' analysis of India's economic trends and monetary policy.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/bofa-sees-rbi-holding-rates-near-term-expects-50-bps-hike-from-dec-2026-amid-domestic-inflation-risks/"
+        }
+      ],
+      "Business": [
+        {
+          "title": "IPO funding from WhiteOak Capital, 3P India, others",
+          "summary": "SBI Funds has raised Rs 1880 crore in pre-IPO funding from investors including WhiteOak Capital and 3P India. The funding was raised through a private placement of equity shares at an issue price of Rs 574 per share. This investment will likely support the company's growth plans.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/sbi-funds-raises-rs-1880-crore-in-pre-ipo-funding-from-whiteoak-capital-3p-india-others/"
+        },
+        {
+          "title": "Aukera Raises Rs. 90 Cr in Fresh Funding",
+          "summary": "Aukera, a premium lab-grown diamond jewellery brand, has raised Rs 90 crore in fresh funding from investors including Alteria Capital and InnoVen Capital. This funding round comes less than a year after the company raised $15 million in equity funding. The investment will support Aukera's national expansion plans.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/aukera-raises-rs-90-cr-over-usd-10-mn-in-fresh-funding-less-than-a-year-after-usd-15-mn-round-as-it-accelerates-national-expansion/"
+        },
+        {
+          "title": "Bank credit growth to ease as corporates tap bond markets, overseas funding",
+          "summary": "Bank credit growth is expected to slow down as large corporations increasingly use domestic bond markets and overseas borrowings for funding. This shift is driven by the Reserve Bank of India's policy measures, which make external funding more attractive for businesses. As a result, banks will finance a smaller share of corporate financing needs.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
+        },
+        {
+          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
+          "summary": "Neuberg Diagnostics plans to launch an initial public offering in fiscal year 2028, aiming to raise up to Rs 4,000 crore. The company also plans to secure Rs 5000 crore in pre-IPO funding for acquisitions, targeting pan-India growth and new diagnostic technologies. Neuberg aims to become the second-largest player in the diagnostics market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
+        },
+        {
+          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
+          "summary": "Indian companies raised a record Rs 2.53 lakh crore through commercial papers in June, driven by attractive pricing, seasonal needs, and debt refinancing. This surge reflects a shift from costlier bank loans to cheaper short-term market funding, supported by ample investor demand and a stable liquidity environment. The Reserve Bank of India's liquidity infusions also contributed to favorable conditions.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
+        },
+        {
+          "title": "India's banks are handing out more loans, but deposits aren't keeping up",
+          "summary": "Indian banks have seen a surge in lending, outpacing deposit growth and widening the funding gap. This trend, driven by robust demand from corporate and retail sectors, has pushed the loan-to-deposit ratio to a decade-high, raising concerns about funding sustainability. The varied strategies of lenders have resulted in some seeing deposits decline, while others have maintained a balance.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-banks-are-handing-out-more-loans-but-deposits-arent-keeping-up/articleshow/132177579.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "SC Junks PIL Seeking Porn Viewing At Public Places, Says Plea Concerns Policy Issue",
+          "summary": "The Supreme Court has dismissed a public interest litigation seeking a ban on pornography in public places, stating that it is a policy matter. This decision highlights the distinction between legal and policy issues in India. The court's stance may have implications for future public interest litigations.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/supreme-court-junks-pil-seeking-porn-viewing-at-public-places-says-plea-concerns-policy-issue-article-155092645"
+        },
+        {
+          "title": "Supreme Court seeks Ram mandir fund probe status report in a week",
+          "summary": "The Supreme Court has taken over the supervision of the investigation into the Ayodhya Ram mandir donation embezzlement controversy. The court has asked for a status report on the probe within a week, indicating its intent to monitor the progress of the case. This development may impact the ongoing controversy surrounding the temple's construction funds.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/supreme-court-seeks-ram-mandir-fund-probe-status-report-in-a-week/articleshow/132376491.cms"
+        },
+        {
+          "title": "'Comprehensive sex education' coming soon to schools, government tells Supreme Court",
+          "summary": "The Indian government has informed the Supreme Court that comprehensive sex education will be introduced in schools soon. This move aims to end the taboo surrounding sex education in India and make it a formal part of the school curriculum. The introduction of sex education may have a significant impact on the country's approach to sexual health and awareness.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/comprehensive-sex-education-coming-soon-to-schools-government-tells-supreme-court/articleshow/132376299.cms"
+        },
+        {
+          "title": "Supreme Court To Hear Pleas Against MP High Court Verdict On Bhojshala Complex",
+          "summary": "The Supreme Court will hear pleas against the Madhya Pradesh High Court's verdict on the Bhojshala Complex, a protected 11th-century monument. The High Court had ruled that the site is a temple dedicated to Goddess Saraswati and quashed an order allowing Hindus and Muslims to worship there. The Supreme Court's decision may resolve the dispute over the site's religious character.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/indore/supreme-court-to-hear-pleas-against-mp-high-court-verdict-on-bhojshala-complex"
+        },
+        {
+          "title": "Supreme Court quashes Guwahati high court order on 27 'foreigners'",
+          "summary": "The Supreme Court has quashed a Guwahati High Court order declaring 27 individuals as foreigners, citing the significant consequences of such a declaration, including detention and deportation. The court's decision highlights the importance of careful consideration in cases involving foreign nationals. This ruling may have implications for the treatment of individuals suspected of being foreigners in India.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/supreme-court-quashes-gauhati-high-court-order-on-27-foreigners/articleshow/132376257.cms"
+        },
+        {
+          "title": "Dignity of constitutional bodies must be respected: CJI Surya Kant",
+          "summary": "Chief Justice of India Surya Kant has emphasized the importance of respecting the dignity of constitutional institutions, following a recent incident of a litigant's abusive outburst in the Supreme Court. The Chief Justice's statement underscores the need for maintaining decorum and respect in interactions with constitutional bodies. This may have implications for the behavior expected from individuals interacting with the judiciary and other constitutional institutions.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/india/dignity-of-constitutional-bodies-must-be-respected-cji-surya-kant/"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-14T07:52:01.742620+00:00",
     "brief": "Today's brief highlights key developments across geopolitics, economy, and national affairs. The US has made significant moves, including a $25 million investment in critical minerals and the reinstatement of a blockade on Iranian shipping, which could impact global mineral trade and oil prices. Meanwhile, in India, retail inflation has risen to 4.4% due to higher food and transport costs, prompting expectations that the Reserve Bank of India will maintain its current policy rate, while the country's banks are experiencing a surge in lending that is outpacing deposit growth. Additionally, the Indian government is making efforts to address its urban parking crisis, with the Supreme Court's 'Right to Walk' ruling having implications for urban planning and parking policies.",
     "categories": {
@@ -3673,146 +3819,6 @@
           "summary": "A Congress MLA has opposed the inclusion of non-Muslim members in the Madhya Pradesh Waqf Board and plans to move the Supreme Court on the issue. The MLA claims that the inclusion of non-Muslim members is being examined by the Supreme Court. This case highlights the ongoing debates and challenges related to the management of Waqf properties and the role of non-Muslim members in Waqf boards.",
           "source": "Hindustan Times",
           "url": "https://www.hindustantimes.com/india-news/congress-mla-opposes-inclusion-of-non-muslim-members-in-mp-waqf-board-to-move-supreme-court-101783337051798.html"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-07T14:14:54.114490+00:00",
-    "brief": "Today's brief highlights key developments across geopolitics, economy, and national affairs. In geopolitics, US President Donald Trump's statement that Russian President Vladimir Putin wants the Ukraine war to end may indicate a potential shift in Russia's stance, while French President Emmanuel Macron's historic visit to post-Assad Syria marks a significant step in the country's efforts to rebuild international ties. Meanwhile, in the Indian economy, a patchy monsoon is expected to lift inflation and hurt the rural economy, prompting the Reserve Bank of India to maintain a moderately tight monetary policy stance, with economists differing on the RBI's next rate move amidst weak monsoon concerns.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Trump says Putin wants Ukraine war to end",
-          "summary": "US President Donald Trump stated that he believes Russian President Vladimir Putin wants the Ukraine war to end. This statement comes as the conflict continues to escalate. The development is significant as it may indicate a potential shift in Russia's stance on the war.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/trump-says-putin-wants-ukraine-war-to-end/"
-        },
-        {
-          "title": "Macron's Historic Visit to Post-Assad Syria",
-          "summary": "French President Emmanuel Macron visited Damascus, marking the first EU head of state's visit since the overthrow of Bashar al-Assad. The visit highlights Syria's transformation under its new leadership and its efforts to rebuild international ties. This development may have significant implications for the region's geopolitics.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/politics/3946029-macrons-historic-visit-to-post-assad-syria"
-        },
-        {
-          "title": "Balen Shah administration must impart new momentum to Nepal",
-          "summary": "The Balen Shah administration is expected to bring new momentum to Nepal-India relations, with Kathmandu acknowledging India's emergence as a rising global power. The development is crucial as it may impact the bilateral ties between the two nations. India has continued to be a significant player in the region.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/balen-shah-administration-must-impart-new-momentum-to-nepal-india-relations-report/"
-        },
-        {
-          "title": "Pakistan's Strategic Diplomacy: Mediation in Libya",
-          "summary": "Pakistan is engaging in diplomatic mediation between Libya's rival eastern and western powers, with the support of Saudi Arabia. The effort aims to create a stable transitional power-sharing government in Libya. This development may strengthen Pakistan's international diplomatic profile and impact the region's geopolitics.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/law-order/3945911-pakistans-strategic-diplomacy-mediation-in-libya"
-        },
-        {
-          "title": "More than 300 children killed or injured in Sudan war in 6 months, UNICEF says",
-          "summary": "The Sudan war has claimed over 300 young lives or left them injured in just six months, primarily due to drone attacks, according to UNICEF. The war has devastated regions like Kordofan and Darfur, with civilian infrastructure increasingly targeted. International bodies are voicing concerns over escalating violence and potential atrocities.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/more-than-300-children-killed-or-injured-in-sudan-war-in-6-months-unicef-says/articleshow/132213898.cms"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Patchy monsoon could lift inflation, hurt rural economy: S&P",
-          "summary": "A patchy monsoon in India could lead to higher food and energy prices, pushing inflation to 5.1% in FY27, which may prompt the Reserve Bank of India to maintain a moderately tight monetary policy stance. This could have a negative impact on the rural economy. The RBI's stance will be crucial in managing inflation and supporting economic growth.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/news/india/patchy-monsoon-could-lift-inflation-hurt-rural-economy-sp-11783338214778.html"
-        },
-        {
-          "title": "Experts Shed Light on E20 Fuel: Dispelling Myths and Highlighting Benefits",
-          "summary": "Energy industry experts have clarified misconceptions about India's E20 ethanol-blended petrol mandate, highlighting its minimal impact on vehicle mileage and addressing concerns over older vehicle compatibility. The policy is expected to have economic and environmental benefits. The experts' views can help inform policy decisions and public understanding of the issue.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3945312-experts-shed-light-on-e20-fuel-dispelling-myths-and-highlighting-benefits"
-        },
-        {
-          "title": "Balancing Innovation and Stability: India's Progress on Digital Rupee Discussed",
-          "summary": "The Parliamentary Standing Committee on Finance has reviewed India's progress on its Central Bank Digital Currency, discussing regulatory challenges, taxation issues, and potential policy interventions. The committee's discussions can help shape India's digital financial ecosystem and inform policy decisions on the digital rupee. The digital rupee has the potential to transform India's financial landscape.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3944082-balancing-innovation-and-stability-indias-progress-on-digital-rupee-discussed"
-        },
-        {
-          "title": "RBI Kicks Off 74th Manufacturing Sector Survey: A Key Tool for Economic Analysis",
-          "summary": "The Reserve Bank of India has launched its 74th Order Books, Inventories, and Capacity Utilisation Survey for the manufacturing sector, covering April-June 2026. The survey will collect operational data to aid monetary policy decisions. The data collected will provide insights into the manufacturing sector's performance and help the RBI make informed policy decisions.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3943710-rbi-kicks-off-74th-manufacturing-sector-survey-a-key-tool-for-economic-analysis"
-        },
-        {
-          "title": "Nomura, HSBC split on RBI rate outlook as weak monsoon fuels inflation risks",
-          "summary": "Economists from Nomura and HSBC have differing views on the Reserve Bank of India's next policy move, citing the impact of a weak monsoon on India's economy. The weak monsoon could lead to higher food inflation, affecting the RBI's decision on interest rates. The differing views highlight the uncertainty surrounding the Indian economy and the challenges facing policymakers.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/economy/nomura-hsbc-rbi-rate-outlook-weak-monsoon-food-inflation-sonal-varma-pranjul-bhandari-19936402.htm"
-        }
-      ],
-      "Business": [
-        {
-          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
-          "summary": "Neuberg Diagnostics is planning an initial public offering in fiscal year 2028 to raise approximately ₹3,500-4,000 crore. The company aims to use the funds for acquisitions and expansion, targeting pan-India growth and new diagnostic technologies. This move is expected to make Neuberg the second-largest player in the diagnostics market.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
-        },
-        {
-          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
-          "summary": "Indian companies raised a record ₹2.53 lakh crore through commercial papers in June, driven by attractive pricing and seasonal needs. This surge is a result of companies shifting from costlier bank loans to cheaper short-term market funding, supported by ample investor demand and a stable liquidity environment. The Reserve Bank of India's liquidity infusions also contributed to the favorable conditions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
-        },
-        {
-          "title": "India's banks are handing out more loans, but deposits aren't keeping up",
-          "summary": "Indian banks have seen a surge in lending, outpacing deposit growth and widening the funding gap. This trend, driven by robust demand from corporate and retail sectors, has pushed the loan-to-deposit ratio to a decade-high, raising concerns about funding sustainability. The varied strategies of lenders have resulted in some seeing deposits decline, while others have maintained a balance.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-banks-are-handing-out-more-loans-but-deposits-arent-keeping-up/articleshow/132177579.cms"
-        },
-        {
-          "title": "Operational, Says Report – Outlook Business",
-          "summary": "Nearly half of India's UDAN regional flight routes have become non-operational, despite the government launching a revamped phase with higher subsidies and airport funding. The viability gap support, infrastructure delays, and airline distress are affecting the country's flagship connectivity scheme. This development may impact the government's efforts to improve regional air connectivity.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/news/almost-half-of-udan-routes-have-become-non-operational-says-report"
-        },
-        {
-          "title": "Inspira seals Rs 1,800-crore private credit for Burger King buy in India",
-          "summary": "Inspira Global has secured ₹1,800 crore in private credit to acquire a controlling stake in India's Burger King operator. The company has already raised ₹1,050 crore via NCDs, with the remaining ₹800 crore expected to be raised this month. This significant funding marks a major move into the quick-service restaurant sector.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/inspira-seals-rs-1800-crore-private-credit-for-burger-king-buy-in-india/articleshow/132174770.cms"
-        },
-        {
-          "title": "Up Ecosystem on Foreign Capital, Family Offices May Now Have to Keep it Rolling – Outlook Business",
-          "summary": "India's family offices are emerging as key sources of patient capital for funding start-ups, innovation, and entrepreneurial growth. As foreign capital becomes less available, family offices may need to play a more significant role in supporting the country's start-up ecosystem. This shift could have a significant impact on the growth and development of Indian start-ups.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/magazine/india-built-a-start-up-ecosystem-on-foreign-capital-family-offices-may-now-have-to-keep-it-rolling"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "CCI moves SC against NCLAT order quashing penalty on Grasim",
-          "summary": "The Competition Commission of India (CCI) has appealed to the Supreme Court against a tribunal's decision to quash a ₹300-crore penalty on Grasim Industries for alleged monopolistic behavior. The CCI is seeking to restore its original decision against the company. This case highlights the regulator's efforts to enforce competition laws in India.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/india/cci-moves-sc-against-nclat-order-quashing-penalty-on-grasim/articleshow/132225353.cms"
-        },
-        {
-          "title": "Top court cautions against bypassing judicial hierarchy in sensitive cases",
-          "summary": "The Supreme Court has cautioned against the tendency to bypass the judicial hierarchy and directly approach the top court in sensitive cases. The court emphasized the importance of trusting the judicial hierarchy and allowing lower courts to discharge their functions. This statement highlights the need for a structured approach to seeking justice in India.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/top-court-cautions-against-bypassing-judicial-hierarchy-in-sensitive-cases-101783365223450.html"
-        },
-        {
-          "title": "Congress MLA opposes inclusion of non-Muslim members in MP Waqf Board, to move Supreme Court",
-          "summary": "A Congress MLA is opposing the inclusion of non-Muslim members in the Madhya Pradesh Waqf Board and plans to move the Supreme Court on the matter. The issue is already being examined by the Supreme Court, which will decide on the matter. This case highlights the ongoing debates around the composition of religious boards in India.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/congress-mla-opposes-inclusion-of-non-muslim-members-in-mp-waqf-board-to-move-supreme-court-101783337051798.html"
-        },
-        {
-          "title": "Dropped your case? You don’t get a second shot: Supreme Court on abuse of process",
-          "summary": "The Supreme Court has ruled that litigants cannot abuse the judicial process by dropping a case and then seeking a second chance. The court emphasized the importance of litigation diligence and strategy. This ruling highlights the court's efforts to prevent misuse of the legal system in India.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/legal/news/dropped-your-case-you-dont-get-a-second-shot-supreme-court-on-abuse-of-process/articleshow/132206503.cms"
-        },
-        {
-          "title": "Delhi High Court gives two weeks to WFI to decide show-cause notice to Vinesh Phogat",
-          "summary": "The Delhi High Court has given the Wrestling Federation of India (WFI) two weeks to decide on a show-cause notice issued to wrestler Vinesh Phogat. The notice concerns indiscipline and alleged anti-doping rule violations. The court's decision highlights the ongoing issues in Indian sports governance and the role of courts in resolving disputes.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/india/delhi-high-court-gives-two-weeks-to-wfi-to-decide-show-cause-notice-to-vinesh-phogat/articleshow/132212580.cms"
         }
       ]
     }
