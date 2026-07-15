@@ -1,5 +1,139 @@
 [
   {
+    "generated_at": "2026-07-15T01:48:21.012319+00:00",
+    "brief": "Today's brief highlights significant developments across geopolitics, economy, and business, with a focus on international cooperation, monetary policy, and market trends. Diplomatic engagements are on the rise, with British Princess Anne's visits to South Korea and Thailand, while the US and Iran conflict continues to escalate, affecting Iraq and India's trade exports. In India, the Reserve Bank of India is expected to hold interest rates steady, with economists predicting moderate inflation and a stable rupee, which may impact the country's economic growth and monetary policy. Meanwhile, the Indian startup ecosystem may benefit from the upcoming AI IPO wave, with companies like SBI Funds and Aukera raising significant funding, indicating a positive trend in the business sector.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Global Diplomatic Currents: August 2023 Forefront",
+          "summary": "The upcoming months will see significant diplomatic engagements, including visits from British Princess Anne to South Korea and Thailand, and substantial diplomatic meetings between leaders from Germany, France, China, and other nations. These events highlight the ongoing international cooperation and historical remembrance. The diplomatic calendar marks important international anniversaries and visits.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3950075-global-diplomatic-currents-august-2023-forefront"
+        },
+        {
+          "title": "War and economic crisis complicate efforts to protect Iran's endangered wildlife",
+          "summary": "Iran's endangered wildlife is facing severe threats due to war and economic crises, with conservationists struggling to preserve biodiversity amidst environmental threats and smuggling. International sanctions are also restricting funding for conservation organizations in Iran. Despite these challenges, conservation groups continue to work towards protecting Iran's wildlife.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/war-and-economic-crisis-complicate-efforts-to-protect-irans-endangered-wildlife/articleshow/132384387.cms"
+        },
+        {
+          "title": "Iran War: Why Russia’s ‘Doomsday Plane’ Is So Special? Know Features",
+          "summary": "Russia's 'Doomsday Plane', a Tu-214PU aircraft, is a special airborne command centre that can function during severe emergencies, including a potential nuclear conflict. It allows top leaders to maintain communication and coordinate national defence even in extreme conditions. The plane's unique features make it a crucial asset in times of crisis.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/us-iran-war-why-russias-doomsday-plane-is-so-special-know-features-a525/"
+        },
+        {
+          "title": "Iraq PM Ali al-Zaidi meets Donald Trump in Washington today amid US-Iran war: What to expect",
+          "summary": "Iraq's Prime Minister Ali al-Zaidi is meeting with Donald Trump in Washington, marking his first international trip since taking office. The meeting comes amid renewed military escalation between the US and Iran, Iraq's main allies. The talks are expected to focus on the US-Iran conflict and its implications for Iraq.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/news/us-news/iraq-pm-ali-zaidi-meets-donald-trump-in-washington-today-amid-us-iran-war-what-to-expect-baghdad-ties-strait-of-hormuz-11783993465652.html"
+        },
+        {
+          "title": "Export headwinds are visible in last month’s shipment data but trade deals could help",
+          "summary": "India's shipment data shows a wider goods trade deficit amid uncertainty over the Gulf war. The country's international trade pacts are expected to play a crucial role in uplifting goods and service exports. The impact of trade deals on India's exports will be closely monitored.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/opinion/online-views/mint-quick-edit-export-headwinds-shipment-data-trade-deals-gulf-war-international-services-11783951360887.html"
+        },
+        {
+          "title": "US invests $25 mn in critical minerals",
+          "summary": "The US Department of War has announced a $25 million investment in ReElement Technologies Corp, a company involved in critical minerals. The investment highlights the importance of critical minerals in the US economy and national security. The move is expected to support the development of critical mineral resources in the US.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/us-invests-25-mn-in-critical-minerals/"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Economists expect RBI to hold rates steady, rule out near",
+          "summary": "The Reserve Bank of India is expected to keep key interest rates unchanged in its upcoming Monetary Policy Committee meeting, as economists believe the central bank is locked into a tight operational balancing act. This decision is based on the current economic conditions and inflation rates. The RBI's move will have a significant impact on the country's economy.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/economists-expect-rbi-to-hold-rates-steady-rule-out-near-term-policy-hike/"
+        },
+        {
+          "title": "Citi, others dial back India rate hike calls as inflation expected to stay moderate",
+          "summary": "Economists have delayed their expectations of an interest rate hike in India due to controlled inflation, with retail inflation rising to 4.38% in June. The Reserve Bank of India may not tighten policy soon, and future rate hikes depend on sustained core inflation above 4.5%. This shift in expectations is based on the current inflation trends.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/citi-others-dial-back-india-rate-hike-calls-as-inflation-expected-to-stay-moderate/articleshow/132387513.cms"
+        },
+        {
+          "title": "India's CPI inflation may average 5% in FY27; stable rupee, RBI policy to help contain price pressures: SBI Research",
+          "summary": "SBI Research has projected India's CPI inflation to average 5% in FY27, supported by a stable rupee and the Reserve Bank of India's policy. This forecast suggests that the RBI's efforts to contain inflation are expected to be effective. The stable rupee and RBI policy will help mitigate price pressures.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/economy/indias-cpi-inflation-may-average-5-in-fy27-stable-rupee-rbi-policy-to-help-contain-price-pressures-sbi-research/article71220364.ece"
+        },
+        {
+          "title": "Retail inflation may harden in FY27, RBI could hike rates: Crisil",
+          "summary": "Crisil has projected that retail inflation in India may increase in FY27, driven by elevated fuel costs and input prices. The Reserve Bank of India will closely monitor inflation and may consider a rate hike if inflationary pressures persist. This could have a significant impact on the country's economy and monetary policy.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/retail-inflation-may-harden-in-fy27-rbi-could-hike-rates-crisil/articleshow/132387049.cms"
+        },
+        {
+          "title": "India's retail inflation may average 5.1% in FY27; Crisil sees possibility of 25 bps RBI rate hike",
+          "summary": "Crisil has forecast that India's retail inflation may average 5.1% in FY27, driven by factors such as elevated fuel costs and higher input prices. The Reserve Bank of India may consider a 25 basis point rate hike if inflationary pressures persist. This forecast suggests that the RBI will closely monitor inflation and adjust policy accordingly.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/indias-retail-inflation-may-average-5-1-in-fy27-crisil-sees-possibility-of-25-bps-rbi-rate-hike/"
+        },
+        {
+          "title": "India's CPI inflation may average 5% in FY27; stable rupee, RBI policy to help contain price pressures: SBI Research",
+          "summary": "SBI Research has projected that India's CPI inflation will average 5% in FY27, with the RBI likely to keep interest rates unchanged for an extended period. A stable rupee and improving foreign inflows are expected to help contain imported inflation. This forecast suggests that the RBI's policy will be effective in managing inflation.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-cpi-inflation-may-average-5-in-fy27-stable-rupee-rbi-policy-to-help-contain-price-pressures-sbi-research/articleshow/132385486.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "AI IPO wave: Why India's start-up ecosystem could be an indirect winner",
+          "summary": "The upcoming IPOs of OpenAI, Anthropic, and SpaceX could benefit India's startup ecosystem by reviving VC funding, improving exits, and boosting deep-tech investment. This could strengthen India's long-term AI ambitions and reshape global venture capital flows. Successful AI listings may have a positive impact on India's startup ecosystem.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/deeptech/ai-ipo-wave-why-indias-start-up-ecosystem-could-be-an-indirect-winner"
+        },
+        {
+          "title": "SBI Funds raises Rs 1880 crore in pre-IPO funding",
+          "summary": "SBI Funds has raised Rs 1880 crore in pre-IPO funding from investors including WhiteOak Capital and 3P India. The funding was raised through a private placement of equity shares at an issue price of Rs 574 per share. This funding round is a significant development in the company's plans for its IPO.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/sbi-funds-raises-rs-1880-crore-in-pre-ipo-funding-from-whiteoak-capital-3p-india-others/"
+        },
+        {
+          "title": "Aukera raises Rs 90 crore in fresh funding",
+          "summary": "Aukera, a premium lab-grown diamond jewellery brand, has raised Rs 90 crore in fresh funding from investors including Alteria Capital and InnoVen Capital. This funding round comes less than a year after the company raised $15 million in equity funding. The investment reflects the confidence of lenders and investors in Aukera's growth trajectory.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/aukera-raises-rs-90-cr-over-usd-10-mn-in-fresh-funding-less-than-a-year-after-usd-15-mn-round-as-it-accelerates-national-expansion/"
+        },
+        {
+          "title": "Bank credit growth to ease as corporates tap bond markets, overseas funding",
+          "summary": "Bank credit growth is expected to moderate as large corporations increasingly use domestic bond markets and overseas borrowings for funding. This shift is driven by the Reserve Bank of India's policy measures, which make external funding more attractive for businesses. As a result, banks will finance a smaller share of corporate financing needs.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
+        },
+        {
+          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
+          "summary": "Neuberg Diagnostics plans to launch an initial public offering in fiscal year 2028, aiming to raise approximately Rs 3,500-4,000 crore. The company also plans to secure Rs 5000 crore in pre-IPO funding for acquisitions, targeting pan-India growth and new diagnostic technologies. Neuberg aims to become the second-largest player in the diagnostics market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
+        },
+        {
+          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
+          "summary": "Indian companies raised a record Rs 2.53 lakh crore through commercial papers in June, driven by attractive pricing, seasonal needs, and debt refinancing. This surge reflects a shift from costlier bank loans to cheaper short-term market funding, supported by ample investor demand and a stable liquidity environment. The Reserve Bank of India's liquidity infusions also contributed to favorable conditions.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "SC asks Odisha to decide remission plea of Dara Singh in Staines murder case",
+          "summary": "The Supreme Court has asked the Odisha government to decide on the remission plea of Dara Singh, who was convicted of murdering Australian missionary Graham Staines and his two sons. The court's decision is significant as it may set a precedent for similar cases. The case has been ongoing for many years and has garnered significant attention",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/sc-asks-odisha-to-decide-remission-plea-of-dara-singh-in-staines-murder-case-101784034174254.html"
+        },
+        {
+          "title": "'India's Got Latent' row: SC imposes Rs 3 lakh cost on Samay Raina for 'taking court for a ride'",
+          "summary": "The Supreme Court has imposed a fine of Rs 3 lakh on comedian Samay Raina and four other comedians for non-compliance with its orders in the 'India's Got Latent' controversy. The court's decision highlights the importance of respecting court orders and the consequences of non-compliance. The case has sparked debate around online comedy and creator accountability",
+          "source": "Scroll.in",
+          "url": "https://scroll.in/latest/1094278/indias-got-latent-row-sc-imposes-rs-3-lakh-cost-on-samay-raina-for-taking-court-for-a-ride"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-14T19:08:22.473715+00:00",
     "brief": "Tensions between the US and Iran continue to escalate, with the US reinstating a blockade on Iranian shipping in the Gulf and the Strait of Hormuz remaining open for a fee, which may impact global oil prices and international relations. Meanwhile, India's economy is feeling the effects of the geopolitical uncertainty, with rising oil prices threatening to increase inflation and interest rates, and the Reserve Bank of India likely to keep policy rates unchanged at least till October. In other news, Indian companies are increasingly turning to domestic bond markets and overseas funding for financing, with bank credit growth expected to slow down as a result, and several companies, including SBI Funds and Aukera, have raised significant funds through private placements and funding rounds.",
     "categories": {
@@ -3677,146 +3811,6 @@
         {
           "title": "Asian Games: SC to Hear Plea Against HC's Refusal to Interfere with Dressage Team Selection",
           "summary": "The Supreme Court will hear a plea challenging the Delhi High Court's decision not to intervene in the selection of India's dressage team for the Asian Games. The plea was filed by two riders who were not selected for the team, and the Supreme Court has scheduled a hearing for July 9. The case highlights the role of the judiciary in resolving disputes related to sports team selections.",
-          "source": "Outlook India",
-          "url": "https://www.outlookindia.com/national/asian-games-sc-to-hear-plea-against-hcs-refusal-to-interfere-with-dressage-team-selection"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-08T02:02:56.607907+00:00",
-    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. In geopolitics, China's concerns over Taiwan tensions, China-Japan relations, and the US-China tech divide have been outlined in a report by Tsinghua University, while US President Donald Trump has stated that Russian President Vladimir Putin wants the war in Ukraine to end. Meanwhile, in the economy, India's reforms are transforming the country, but governance culture still needs to change, and a patchy monsoon season is expected to lift inflation and hurt the rural economy. Additionally, Indian companies have raised a significant amount of funds through commercial papers, reaching a near five-year high, driven by attractive pricing and debt refinancing.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "China's Top 10 Threats: Tsinghua Report Reveals CCP's Concerns",
-          "summary": "A report by Tsinghua University's International Security and Strategy Center has outlined the top threats to China's wellbeing, including Taiwan tensions, China-Japan relations, and the US-China tech divide. This report provides insights into China's geopolitical anxieties and concerns. The threats listed are significant as they have the potential to impact China's national security and global influence.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/international/3946301-chinas-top-10-threats-tsinghua-report-reveals-ccps-concerns"
-        },
-        {
-          "title": "CWGC adds 9,909 overlooked Indian soldiers to First World War casualty records",
-          "summary": "The Commonwealth War Graves Commission has added 9,909 Indian soldiers to its casualty records from the First World War, marking the largest single addition since the Second World War. This update acknowledges the significant contribution of Indian soldiers to the war effort and provides a more accurate record of their sacrifices. The addition is a significant step in recognizing the role of Indian soldiers in the war.",
-          "source": "The New Indian Express",
-          "url": "https://www.newindianexpress.com/india/2026/Jul/07/cwgc-adds-9909-overlooked-indian-soldiers-to-first-world-war-casualty-records"
-        },
-        {
-          "title": "Trump says Putin wants Ukraine war to end",
-          "summary": "US President Donald Trump has stated that he believes Russian President Vladimir Putin wants the war in Ukraine to end. This statement comes amid ongoing conflict in Ukraine and has implications for international relations and global security. The statement may indicate a potential shift in the diplomatic approach to resolving the conflict.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/trump-says-putin-wants-ukraine-war-to-end/"
-        },
-        {
-          "title": "Macron's Historic Visit to Post-Assad Syria",
-          "summary": "French President Emmanuel Macron has made a historic visit to Syria, marking the first visit by an EU head of state since the overthrow of Bashar al-Assad. The visit signifies a shift in international relations with Syria under its new leadership. Macron's visit may pave the way for increased international engagement and cooperation with Syria.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/politics/3946029-macrons-historic-visit-to-post-assad-syria"
-        },
-        {
-          "title": "Balen Shah administration must impart new momentum to Nepal",
-          "summary": "A report suggests that the Balen Shah administration in Nepal should work to impart new momentum to Nepal-India relations, acknowledging India's emergence as a rising global power. The report highlights the need for renewed diplomatic efforts to strengthen ties between the two nations. This development is significant for regional relations and cooperation in South Asia.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/balen-shah-administration-must-impart-new-momentum-to-nepal-india-relations-report/"
-        },
-        {
-          "title": "Pakistan's Strategic Diplomacy: Mediation in Libya",
-          "summary": "Pakistan is engaging in diplomatic mediation between Libya's rival eastern and western powers, with the support of Saudi Arabia. This effort aims to create a stable transitional power-sharing government in Libya and could strengthen Pakistan's international diplomatic profile. The mediation is a significant development in Pakistan's strategic diplomacy and its role in regional conflict resolution.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/law-order/3945911-pakistans-strategic-diplomacy-mediation-in-libya"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Reform Express: India’s economy is fast being transformed but we have a long journey ahead",
-          "summary": "India's economy is undergoing significant reforms, but the country still has a long way to go in terms of changing its governance culture to achieve its goals. Reforms alone may not be enough to drive progress without accompanying changes in governance. The country's economic transformation is a work in progress.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/opinion/online-views/reform-express-india-economy-gst-bankruptcy-niti-aayog-rationalizing-msme-tax-policy-11783338169521.html"
-        },
-        {
-          "title": "Patchy monsoon could lift inflation, hurt rural economy: S&P",
-          "summary": "A patchy monsoon season could lead to higher food and energy prices, pushing inflation up to 5.1% in FY27, according to S&P. This may prompt the Reserve Bank of India to maintain a moderately tight monetary policy stance. The rural economy is likely to be particularly affected by the monsoon's impact on inflation.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/news/india/patchy-monsoon-could-lift-inflation-hurt-rural-economy-sp-11783338214778.html"
-        },
-        {
-          "title": "Experts Shed Light on E20 Fuel: Dispelling Myths and Highlighting Benefits",
-          "summary": "Energy industry experts have clarified misconceptions about India's E20 ethanol-blended petrol mandate, highlighting its minimal impact on vehicle mileage and addressing concerns over compatibility with older vehicles. The policy is expected to have economic and environmental benefits. The experts' insights aim to dispel myths surrounding the fuel.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3945312-experts-shed-light-on-e20-fuel-dispelling-myths-and-highlighting-benefits"
-        },
-        {
-          "title": "Balancing Innovation and Stability: India's Progress on Digital Rupee Discussed",
-          "summary": "The Parliamentary Standing Committee on Finance met with RBI officials and ICAI representatives to discuss India's progress on its Central Bank Digital Currency and the broader digital asset landscape. The meeting focused on regulatory challenges, taxation issues, and potential policy interventions to support India's digital financial ecosystem. The discussion aimed to balance innovation and stability in the sector.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3944082-balancing-innovation-and-stability-indias-progress-on-digital-rupee-discussed"
-        },
-        {
-          "title": "RBI Kicks Off 74th Manufacturing Sector Survey: A Key Tool for Economic Analysis",
-          "summary": "The Reserve Bank of India has launched its 74th Order Books, Inventories, and Capacity Utilisation Survey for the manufacturing sector, covering April-June 2026. The survey collects operational data to aid monetary policy and captures order volumes, inventory details, and capacity use. The initiative aims to provide valuable insights into the manufacturing sector's performance.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3943710-rbi-kicks-off-74th-manufacturing-sector-survey-a-key-tool-for-economic-analysis"
-        }
-      ],
-      "Business": [
-        {
-          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
-          "summary": "Neuberg Diagnostics is planning an initial public offering in fiscal year 2028 to raise approximately ₹3,500-4,000 crore. The company aims to use the funds for acquisitions and expansion, targeting pan-India growth and new diagnostic technologies. This move is expected to make Neuberg the second-largest player in the diagnostics market.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
-        },
-        {
-          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
-          "summary": "Indian companies raised a significant amount of funds through commercial papers in June, reaching a near five-year high of Rs 2.53 lakh crore. This surge was driven by attractive pricing, seasonal needs, and debt refinancing, with companies shifting from costlier bank loans to cheaper short-term market funding. The Reserve Bank of India's liquidity infusions also contributed to favorable conditions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
-        },
-        {
-          "title": "India's banks are handing out more loans, but deposits aren't keeping up",
-          "summary": "Indian banks have seen a surge in lending, outpacing deposit growth and widening the funding gap. This trend, driven by robust demand from corporate and retail sectors, has pushed the loan-to-deposit ratio to a decade-high, raising concerns about funding sustainability. The varied strategies of lenders have resulted in some seeing deposits decline, while others have maintained a balance.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-banks-are-handing-out-more-loans-but-deposits-arent-keeping-up/articleshow/132177579.cms"
-        },
-        {
-          "title": "Operational, Says Report – Outlook Business",
-          "summary": "Nearly half of India's UDAN regional flight routes have become non-operational, despite the government launching a revamped phase with higher subsidies and airport funding. The viability gap support, infrastructure delays, and airline distress are affecting the country's flagship connectivity scheme. This development may impact the government's efforts to improve regional air connectivity.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/news/almost-half-of-udan-routes-have-become-non-operational-says-report"
-        },
-        {
-          "title": "Inspira seals Rs 1,800-crore private credit for Burger King buy in India",
-          "summary": "Inspira Global has secured ₹1,800 crore in private credit to acquire a controlling stake in India's Burger King operator. The company has already raised ₹1,050 crore via NCDs and expects to raise the remaining ₹800 crore this month. This significant funding marks a major move into the quick-service restaurant sector.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/inspira-seals-rs-1800-crore-private-credit-for-burger-king-buy-in-india/articleshow/132174770.cms"
-        },
-        {
-          "title": "Up Ecosystem on Foreign Capital, Family Offices May Now Have to Keep it Rolling – Outlook Business",
-          "summary": "India's family offices are emerging as key sources of patient capital for funding start-ups, innovation, and entrepreneurial growth. As foreign capital becomes less abundant, family offices may play a crucial role in sustaining the country's start-up ecosystem. This shift could have significant implications for India's entrepreneurial landscape.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/magazine/india-built-a-start-up-ecosystem-on-foreign-capital-family-offices-may-now-have-to-keep-it-rolling"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "SC row fallout: From ‘corruption’ to PILs - NCERT rewrites judiciary lesson",
-          "summary": "The NCERT has revised its Class 8 Social Science textbook to reflect changes in the judiciary lesson, following a Supreme Court intervention. The revised lesson will cover topics such as corruption and Public Interest Litigations. This change is significant as it reflects the evolving role of the judiciary in India.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/sc-row-fallout-from-corruption-to-pils-ncert-rewrites-judiciary-lesson/articleshow/132236554.cms"
-        },
-        {
-          "title": "Supreme Court: Banks’ body cannot blacklist lawyers through caution list",
-          "summary": "The Supreme Court has ruled that banks and financial institutions cannot blacklist lawyers through a caution list, as this would be an assumption of adjudicating allegations of professional misconduct. This decision is important as it clarifies the role of banks and financial institutions in relation to lawyers. The court's ruling will have implications for the legal profession in India.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/supreme-court-banks-body-cannot-blacklist-lawyers-through-caution-list-101783403770652.html"
-        },
-        {
-          "title": "CCI moves SC against NCLAT order quashing penalty on Grasim",
-          "summary": "The Competition Commission of India (CCI) has moved the Supreme Court against a tribunal's decision to quash a ₹300-crore penalty on Grasim Industries for alleged monopolistic behavior. The CCI is seeking to restore its previous decision against the company. This case is significant as it relates to the regulation of monopolistic practices in India's viscose staple fibre market.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/india/cci-moves-sc-against-nclat-order-quashing-penalty-on-grasim/articleshow/132225353.cms"
-        },
-        {
-          "title": "Asian Games: SC to Hear Plea Against HC's Refusal to Interfere with Dressage Team Selection",
-          "summary": "The Supreme Court will hear a plea challenging the Delhi High Court's refusal to intervene in the selection of India's dressage team for the Asian Games. The plea was filed by two riders who were not selected for the team. The court's decision will be important for the sports community in India, particularly in relation to the selection process for national teams.",
           "source": "Outlook India",
           "url": "https://www.outlookindia.com/national/asian-games-sc-to-hear-plea-against-hcs-refusal-to-interfere-with-dressage-team-selection"
         }
