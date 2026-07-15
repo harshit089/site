@@ -1,5 +1,157 @@
 [
   {
+    "generated_at": "2026-07-15T13:21:28.288179+00:00",
+    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The ongoing conflict in Sudan has led to a severe hunger crisis, while diplomatic efforts are underway globally, with several international anniversaries and visits scheduled. In India, economists expect the Reserve Bank of India to hold interest rates steady, and the country's trade pacts are expected to uplift goods and service exports, amidst a widening goods trade deficit. Meanwhile, the Indian startup ecosystem may benefit from the upcoming IPOs of AI companies, and several Indian companies, including SBI Funds and Aukera, have raised significant funding, indicating a positive trend in the business sector.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Sudan's Deepening Hunger Crisis Amid Ongoing Conflict",
+          "summary": "Sudan is facing a severe hunger crisis due to ongoing internal conflict, reduced aid funding, and agricultural challenges, with 5 million people experiencing severe hunger. The conflict has displaced millions, and international aid efforts are being hampered by financial shortages and logistical challenges. This crisis is worsening the humanitarian situation in the country.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/science-environment/3950206-sudans-deepening-hunger-crisis-amid-ongoing-conflict"
+        },
+        {
+          "title": "Global Diplomatic Currents: August 2023 Forefront",
+          "summary": "The upcoming months will see a busy diplomatic calendar, with significant international anniversaries and visits, including a trip by British Princess Anne to South Korea and Thailand. Influential leaders from several nations, including Germany, France, and China, will also engage in substantial diplomatic efforts. These events will highlight international cooperation and historical remembrance.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3950075-global-diplomatic-currents-august-2023-forefront"
+        },
+        {
+          "title": "War and economic crisis complicate efforts to protect Iran's endangered wildlife",
+          "summary": "Iran's endangered wildlife is facing severe threats due to war and economic crises, with conservationists struggling to preserve biodiversity. Smuggling and habitat degradation are further endangering species, and international sanctions are restricting funding for conservation organizations. Despite these challenges, conservation groups continue to work to protect Iran's natural heritage.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/war-and-economic-crisis-complicate-efforts-to-protect-irans-endangered-wildlife/articleshow/132384387.cms"
+        },
+        {
+          "title": "Iran War: Why Russia’s ‘Doomsday Plane’ Is So Special? Know Features",
+          "summary": "Russia's 'Doomsday Plane' is a unique aircraft designed to function during severe emergencies, including a potential nuclear conflict. It serves as an airborne command center, allowing leaders to maintain communication and coordinate national defense. The plane's features make it a crucial asset in times of crisis.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/us-iran-war-why-russias-doomsday-plane-is-so-special-know-features-a525/"
+        },
+        {
+          "title": "Iraq PM Ali al-Zaidi meets Donald Trump in Washington today amid US-Iran war: What to expect",
+          "summary": "Iraq's Prime Minister Ali al-Zaidi is meeting with Donald Trump in Washington, marking his first international trip since taking office. The meeting comes amid renewed military escalation between the US and Iran, and is expected to focus on Iraq's relations with its main allies. The outcome of the meeting could have significant implications for the region.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/news/us-news/iraq-pm-ali-zaidi-meets-donald-trump-in-washington-today-amid-us-iran-war-what-to-expect-baghdad-ties-strait-of-hormuz-11783993465652.html"
+        },
+        {
+          "title": "Export headwinds are visible in last month’s shipment data but trade deals could help",
+          "summary": "India's shipment data from last month shows a wider goods trade deficit, which is not unexpected given the uncertainty over the Gulf war. However, the country's international trade pacts could help uplift goods and service exports, and their impact will be closely tracked. The outcome will have significant implications for India's trade and economy.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/opinion/online-views/mint-quick-edit-export-headwinds-shipment-data-trade-deals-gulf-war-international-services-11783951360887.html"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "UK CETA, not quite the king's ransom expected from a landmark trade deal",
+          "summary": "The India-Britain CETA trade deal may provide new market opportunities for Indian exporters, but it also poses challenges for small businesses due to British regulations and could limit India's policy-making abilities in areas like affordable medications and digital economy. This could have significant implications for India's development goals. The deal's impact on India's economy and trade relationships is being closely watched.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/opinion/et-commentary/india-uk-ceta-not-quite-the-kings-ransom-expected-from-a-landmark-trade-deal/articleshow/132398530.cms"
+        },
+        {
+          "title": "Economists expect RBI to hold rates steady, rule out near",
+          "summary": "Economists expect the Reserve Bank of India to keep interest rates unchanged in its upcoming meeting due to a tight operational balancing act. This decision will be crucial for India's economic growth and inflation management. The RBI's monetary policy stance is being closely watched by markets and industry experts.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/economists-expect-rbi-to-hold-rates-steady-rule-out-near-term-policy-hike/"
+        },
+        {
+          "title": "Citi, others dial back India rate hike calls as inflation expected to stay moderate",
+          "summary": "Economists have delayed their expectations for interest rate hikes in India due to moderate inflation, with retail inflation rising to 4.38% in June. The Reserve Bank of India may not tighten policy soon, and future rate hikes will depend on sustained core inflation above 4.5%. This shift in expectations reflects the evolving inflation outlook in India.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/citi-others-dial-back-india-rate-hike-calls-as-inflation-expected-to-stay-moderate/articleshow/132387513.cms"
+        },
+        {
+          "title": "India's CPI inflation may average 5% in FY27; stable rupee, RBI policy to help contain price pressures: SBI Research",
+          "summary": "SBI Research expects India's CPI inflation to average 5% in FY27, driven by a stable rupee and the Reserve Bank of India's policy stance. This forecast suggests that inflation will remain manageable, and the RBI's policies will help contain price pressures. The stable rupee is expected to play a key role in keeping inflation in check.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/economy/indias-cpi-inflation-may-average-5-in-fy27-stable-rupee-rbi-policy-to-help-contain-price-pressures-sbi-research/article71220364.ece"
+        },
+        {
+          "title": "Retail inflation may harden in FY27, RBI could hike rates: Crisil",
+          "summary": "Crisil expects retail inflation in India to increase in FY27, driven by elevated fuel costs, higher input prices, and weather-related risks to food prices. The Reserve Bank of India may hike interest rates if inflationary pressures persist, making it essential to monitor inflation closely. This forecast suggests that inflation could become a concern for the Indian economy in the coming fiscal year.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/retail-inflation-may-harden-in-fy27-rbi-could-hike-rates-crisil/articleshow/132387049.cms"
+        },
+        {
+          "title": "India's retail inflation may average 5.1% in FY27; Crisil sees possibility of 25 bps RBI rate hike",
+          "summary": "Crisil expects India's retail inflation to average 5.1% in FY27, driven by factors like elevated fuel costs, higher input prices, and weather-related risks to food prices. The Reserve Bank of India may consider a 25 basis point rate hike if inflationary pressures persist, highlighting the need for close monitoring of inflation trends. This forecast suggests that the RBI may need to take action to manage inflation in the coming fiscal year.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/indias-retail-inflation-may-average-5-1-in-fy27-crisil-sees-possibility-of-25-bps-rbi-rate-hike/"
+        }
+      ],
+      "Business": [
+        {
+          "title": "AI IPO Wave: Why India's Start-up Ecosystem Could Be an Indirect Winner",
+          "summary": "The upcoming IPOs of OpenAI, Anthropic, and SpaceX may benefit India's startup ecosystem by reviving VC funding, improving exits, and boosting deep-tech investment. This could strengthen India's long-term AI ambitions and reshape global venture capital flows. Successful AI listings may have a positive impact on India's startup ecosystem.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/deeptech/ai-ipo-wave-why-indias-start-up-ecosystem-could-be-an-indirect-winner"
+        },
+        {
+          "title": "SBI Funds Raises Rs 1880 Crore in Pre-IPO Funding",
+          "summary": "SBI Funds has raised Rs 1880 crore in pre-IPO funding from investors including WhiteOak Capital and 3P India. The funding was raised through a private placement of equity shares at an issue price of Rs 574 per share. This funding round is a significant development in the company's plans for its IPO.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/sbi-funds-raises-rs-1880-crore-in-pre-ipo-funding-from-whiteoak-capital-3p-india-others/"
+        },
+        {
+          "title": "Aukera Raises Rs 90 Cr in Fresh Funding",
+          "summary": "Aukera, a premium lab-grown diamond jewellery brand, has raised Rs 90 crore in fresh funding from investors including Alteria Capital and InnoVen Capital. This funding round comes less than a year after the company raised $15 million in equity funding. The investment reflects the confidence of lenders and investors in Aukera's growth trajectory.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/aukera-raises-rs-90-cr-over-usd-10-mn-in-fresh-funding-less-than-a-year-after-usd-15-mn-round-as-it-accelerates-national-expansion/"
+        },
+        {
+          "title": "Bank Credit Growth to Ease as Corporates Tap Bond Markets",
+          "summary": "Bank credit growth is expected to moderate in the upcoming fiscal year as large corporations increasingly use domestic bond markets and overseas borrowings for funding. This shift is driven by the Reserve Bank of India's policy measures, which make external funding more attractive for businesses. Overall credit demand remains healthy, but banks will finance a smaller share.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
+        },
+        {
+          "title": "Neuberg Diagnostics Plans IPO in FY28",
+          "summary": "Neuberg Diagnostics plans to launch an initial public offering in fiscal year 2028, aiming to raise approximately Rs 3,500-4,000 crore. The company also plans to raise Rs 5000 crore in a pre-IPO funding round for acquisitions, targeting pan-India growth and new diagnostic technologies. Neuberg expects to become the second-largest player in the diagnostics market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
+        },
+        {
+          "title": "Corporate Paper Issuances Touch 5-yr High",
+          "summary": "Indian companies raised Rs 2.53 lakh crore through commercial papers in June, reaching a near five-year high. This surge is driven by attractive pricing, seasonal needs, and debt refinancing, with companies shifting from costlier bank loans to cheaper short-term market funding. The Reserve Bank of India's liquidity infusions also contributed to favorable conditions.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Supreme Court acquits man, 16 others in 26-year-old dowry case",
+          "summary": "The Supreme Court has acquitted a man and 16 members of his family in a 26-year-old dowry case, terming it a 'travesty of justice' for putting them on trial for so long. The case highlights the need for efficient and timely justice in India. This verdict is significant as it underscores the importance of avoiding prolonged legal proceedings.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/supreme-court-acquits-man-16-others-in-26-year-old-dowry-case/articleshow/132403705.cms"
+        },
+        {
+          "title": "Supreme Court fines Raina, 4 others Rs 3 lakh each for taking court for ride",
+          "summary": "The Supreme Court has fined comedian Samay Raina and four others Rs 3 lakh each for mocking people with disabilities and taking the court for a ride. The court's decision emphasizes the importance of respecting the judiciary and people with disabilities. This case highlights the consequences of contempt of court and the need for responsible behavior.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/supreme-court-fines-raina-4-others-rs-3-lakh-each-for-taking-court-for-ride/articleshow/132403641.cms"
+        },
+        {
+          "title": "SOP soon to hear petitions after working hours, says Supreme Court",
+          "summary": "The Supreme Court is working on a standard operating procedure to hear petitions after working hours, aiming to provide prompt relief to litigants seeking protection of life and liberty. This move is expected to enhance the court's responsiveness to urgent matters. The new procedure will help ensure that justice is delivered in a timely manner.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/sop-soon-to-hear-petitions-after-working-hours-says-supreme-court/articleshow/132403582.cms"
+        },
+        {
+          "title": "Give Muslims alternative site for namaz: Supreme Court to Dhar administration",
+          "summary": "The Supreme Court has directed the Dhar administration to provide an alternative site for Muslims to offer namaz, while declining to stay a Madhya Pradesh high court judgment declaring the Bhojshala-Kamal Maula Mosque complex a temple. The court's order aims to balance the rights of different religious groups. This case highlights the complexities of managing religious sites in India.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/give-muslims-alternative-site-for-namaz-supreme-court-to-dhar-administration/articleshow/132403341.cms"
+        },
+        {
+          "title": "Air India crash: Draft final report on Ahmedabad tragedy will be ready only by October, AAIB tells Supreme Court",
+          "summary": "The Aircraft Accident Investigation Bureau has informed the Supreme Court that the draft final report on the Air India crash in Ahmedabad, which killed 260 people, will be ready only by October. The delay in completing the report highlights the challenges in investigating complex accidents. The Supreme Court's oversight ensures that such investigations are conducted thoroughly and in a timely manner.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/air-india-crash-draft-final-report-on-ahmedabad-tragedy-will-be-ready-only-by-october-aaib-tells-supreme-court/articleshow/132403313.cms"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-15T07:55:29.765891+00:00",
     "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The ongoing conflict in Sudan has led to a severe hunger crisis, while diplomatic efforts are underway globally, with several influential leaders planning substantial engagements. In India, the economic landscape is evolving, with predictions of moderate inflation and potential interest rate hikes, as the Reserve Bank of India navigates a tight operational balancing act. Meanwhile, the Indian startup ecosystem may benefit from the upcoming IPOs of AI companies, and the country's diagnostics market is set to see significant activity with Neuberg Diagnostics planning an IPO in FY28.",
     "categories": {
@@ -3691,140 +3843,6 @@
           "summary": "The Supreme Court has dismissed a plea by the DMK seeking to restrain Tamil Nadu CM from making statements on a specific issue. The court stated that it cannot be used as a political platform, emphasizing the need to maintain the integrity of the judiciary.",
           "source": "Times of India",
           "url": "https://timesofindia.indiatimes.com/india/cant-use-court-as-political-platform-sc-declines-dmks-plea-against-vijay/articleshow/132251422.cms"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-08T13:48:05.863282+00:00",
-    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The International Olympic Committee's decision to lift the ban on Russian athletes competing in the LA 2028 Olympics has sparked attention, while China's top threats, as outlined in a Tsinghua University report, provide insight into the country's geopolitical anxieties. In India, the economy is undergoing rapid transformation due to reforms, but the country still has a long way to go, with concerns over a patchy monsoon potentially lifting inflation and hurting the rural economy. Meanwhile, Indian companies have raised a record amount through commercial papers, and the government is taking steps to improve the country's legal profession, including auditing the performance of the disciplinary mechanism for lawyers.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "IOC Lifts Ban On Russia; Athletes Cleared To Compete At LA 2028 Amid Ukraine War",
-          "summary": "The International Olympic Committee has lifted the ban on Russia, allowing its athletes to compete at the LA 2028 Olympics. However, the IOC has called for the Russian flag and anthems to be taken at a later date. This decision comes amid the ongoing Ukraine war.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/sports/ioc-lifts-ban-on-russia-path-cleared-for-athletes-to-compete-at-la-2028-amid-ukraine-war-article-154961647"
-        },
-        {
-          "title": "China's Top 10 Threats: Tsinghua Report Reveals CCP's Concerns",
-          "summary": "A report by Tsinghua University's International Security and Strategy Center has outlined the top threats to China's wellbeing, including Taiwan tensions, China-Japan relations, and the US-China tech divide. The report provides insights into China's geopolitical anxieties. These concerns are significant for understanding China's foreign policy and international relations.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/international/3946301-chinas-top-10-threats-tsinghua-report-reveals-ccps-concerns"
-        },
-        {
-          "title": "CWGC adds 9,909 overlooked Indian soldiers to First World War casualty records",
-          "summary": "The Commonwealth War Graves Commission has added 9,909 Indian soldiers to its casualty records from the First World War, marking the largest single addition since the Second World War. This move recognizes the significant contribution of Indian soldiers to the war effort. The update provides a more accurate account of the war's impact on India.",
-          "source": "The New Indian Express",
-          "url": "https://www.newindianexpress.com/india/2026/Jul/07/cwgc-adds-9909-overlooked-indian-soldiers-to-first-world-war-casualty-records"
-        },
-        {
-          "title": "Trump says Putin wants Ukraine war to end",
-          "summary": "US President Donald Trump has stated that he believes Russian President Vladimir Putin wants the Ukraine war to end. This statement comes amid ongoing diplomatic efforts to resolve the conflict. The comment is significant as it reflects the perspectives of key global leaders on the Ukraine war.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/trump-says-putin-wants-ukraine-war-to-end/"
-        },
-        {
-          "title": "Macron's Historic Visit to Post-Assad Syria",
-          "summary": "French President Emmanuel Macron has made a historic visit to Syria, marking the first EU head of state's visit since the overthrow of Bashar al-Assad in 2024. The visit highlights Syria's transformation under its new leadership and its efforts to rebuild international ties. This development is significant for understanding the shifting dynamics in the Middle East.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/politics/3946029-macrons-historic-visit-to-post-assad-syria"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "As India’s economy rises, Indian cities mustn’t fall behind on how liveable they are",
-          "summary": "Indian cities rank low on the global urban liveability index, with Copenhagen ranking first, while Chinese cities are improving. A policy shift could help Indian cities improve their liveability. This is important as India's economy grows and its cities need to keep pace.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/opinion/online-views/mint-quick-edit-india-economy-indian-cities-liveable-index-china-beijing-healthcare-quality-of-life-11783433250923.html"
-        },
-        {
-          "title": "Reform Express: India’s economy is fast being transformed but we have a long journey ahead",
-          "summary": "India's economy is undergoing rapid transformation due to reforms, but the country still has a long way to go. The culture of governance needs to change to enable India to reach its full potential. Reforms alone may not be enough to drive significant progress.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/opinion/online-views/reform-express-india-economy-gst-bankruptcy-niti-aayog-rationalizing-msme-tax-policy-11783338169521.html"
-        },
-        {
-          "title": "Patchy monsoon could lift inflation, hurt rural economy: S&P",
-          "summary": "A patchy monsoon could lead to higher food and energy prices, pushing inflation to 5.1% in FY27, according to S&P. This may prompt the Reserve Bank of India to maintain a moderately tight monetary policy stance. The rural economy could be negatively impacted.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/news/india/patchy-monsoon-could-lift-inflation-hurt-rural-economy-sp-11783338214778.html"
-        },
-        {
-          "title": "Experts Shed Light on E20 Fuel: Dispelling Myths and Highlighting Benefits",
-          "summary": "Energy industry experts have clarified misconceptions about India's E20 ethanol-blended petrol mandate, highlighting its minimal impact on mileage and addressing concerns over older vehicle compatibility. The policy is expected to have economic and environmental benefits.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3945312-experts-shed-light-on-e20-fuel-dispelling-myths-and-highlighting-benefits"
-        },
-        {
-          "title": "Balancing Innovation and Stability: India's Progress on Digital Rupee Discussed",
-          "summary": "The Parliamentary Standing Committee on Finance has reviewed India's progress on the Central Bank Digital Currency and the digital asset landscape. The meeting focused on regulatory challenges, taxation issues, and potential policy interventions to support India's digital financial ecosystem.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3944082-balancing-innovation-and-stability-indias-progress-on-digital-rupee-discussed"
-        }
-      ],
-      "Business": [
-        {
-          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
-          "summary": "Neuberg Diagnostics is planning an initial public offering in fiscal year 2028 to raise approximately ₹3,500-4,000 crore. The company aims to use the funds for acquisitions and expansion, targeting pan-India growth and new diagnostic technologies. This move is expected to make Neuberg the second-largest player in the diagnostics market.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
-        },
-        {
-          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
-          "summary": "Indian companies raised a record ₹2.53 lakh crore through commercial papers in June, driven by attractive pricing and seasonal needs. This surge reflects a shift from costlier bank loans to cheaper short-term market funding, supported by ample investor demand and a stable liquidity environment. The Reserve Bank of India's liquidity infusions also contributed to favorable conditions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
-        },
-        {
-          "title": "India's banks are handing out more loans, but deposits aren't keeping up",
-          "summary": "Indian banks saw a surge in lending during the April-June quarter, outpacing deposit growth and widening the funding gap. This trend, driven by robust demand from corporate and retail sectors, has pushed the loan-to-deposit ratio to a decade-high, raising concerns about funding sustainability. The varied strategies of lenders have resulted in some seeing deposits decline, while others have maintained a balance.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-banks-are-handing-out-more-loans-but-deposits-arent-keeping-up/articleshow/132177579.cms"
-        },
-        {
-          "title": "Operational, Says Report – Outlook Business",
-          "summary": "Nearly half of India's UDAN regional flight routes have become non-operational, despite the government launching a revamped phase with higher subsidies and airport funding. The reasons behind this include viability gap support, infrastructure delays, and airline distress, which are reshaping the country's flagship connectivity scheme. This development has significant implications for India's regional air connectivity.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/news/almost-half-of-udan-routes-have-become-non-operational-says-report"
-        },
-        {
-          "title": "Inspira seals Rs 1,800-crore private credit for Burger King buy in India",
-          "summary": "Inspira Global has secured ₹1,800 crore in private credit to acquire a controlling stake in India's Burger King operator. The company has already raised ₹1,050 crore via NCDs, with the remaining ₹800 crore expected to be raised this month. This significant funding marks a major move into the quick-service restaurant sector for Inspira.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/inspira-seals-rs-1800-crore-private-credit-for-burger-king-buy-in-india/articleshow/132174770.cms"
-        },
-        {
-          "title": "Up Ecosystem on Foreign Capital, Family Offices May Now Have to Keep it Rolling – Outlook Business",
-          "summary": "India's family offices are emerging as key sources of patient capital for funding start-ups, innovation, and entrepreneurial growth. As foreign capital becomes less reliable, family offices may need to play a more significant role in supporting the country's start-up ecosystem. This shift could have important implications for India's entrepreneurial landscape.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/magazine/india-built-a-start-up-ecosystem-on-foreign-capital-family-offices-may-now-have-to-keep-it-rolling"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "External agency can't record findings against lawyer: SC",
-          "summary": "The Supreme Court has stated that external agencies cannot record findings against lawyers, emphasizing the importance of the independence of the legal profession. This ruling aims to protect lawyers from external interference and ensure their autonomy. The court's decision highlights the need to maintain the integrity of the legal profession.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/external-agency-cant-record-findings-against-lawyer-sc/articleshow/132251483.cms"
-        },
-        {
-          "title": "Audit performance of disciplinary mechanism for lawyers: Supreme Court to Bar Council of India",
-          "summary": "The Supreme Court has directed the Bar Council of India to audit the performance of the disciplinary mechanism for lawyers. The court also suggested setting up a National Legal Academy to provide continued legal education to lawyers, enhancing their professional competence and skills. This move aims to improve the overall quality of the legal profession in India.",
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/legal-news/audit-performance-of-disciplinary-mechanism-for-lawyers-supreme-court-to-bar-council-of-india-10776421/"
-        },
-        {
-          "title": "Govt names M V Rajesh IHRD director, replaces controversial appointee Arun Kumar",
-          "summary": "The Kerala government has appointed M V Rajesh as the new director of the Institute of Human Resources Development (IHRD), replacing V A Arun Kumar. Kumar's appointment was deemed ineligible by the All India Council for Technical Education (AICTE), leading to controversy. The new appointment aims to bring stability to the institution.",
-          "source": "Malayala Manorama",
-          "url": "https://www.onmanorama.com/news/kerala/2026/07/07/new-ihrd-director-appointed.html"
-        },
-        {
-          "title": "SC row fallout: From ‘corruption’ to PILs - NCERT rewrites judiciary lesson",
-          "summary": "Following a Supreme Court intervention, the National Council of Educational Research and Training (NCERT) has revised its Class 8 Social Science textbook. The revised lesson on the judiciary aims to provide a more accurate and comprehensive understanding of the topic, including issues like corruption and public interest litigations.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/sc-row-fallout-from-corruption-to-pils-ncert-rewrites-judiciary-lesson/articleshow/132236554.cms"
         }
       ]
     }
