@@ -1,5 +1,139 @@
 [
   {
+    "generated_at": "2026-07-16T08:01:04.862932+00:00",
+    "brief": "Today's brief highlights the intersection of geopolitics, economy, and national affairs, with the US stock market opening higher despite Iran war tensions, while economists in India expect the RBI to hold interest rates steady due to moderate inflation. Meanwhile, the India-UK Comprehensive Economic Trade Agreement is expected to provide new market opportunities for Indian exporters, but also poses challenges for small businesses. Additionally, the Supreme Court's attention to issues such as the CBSE's digital marking system and the Bhojshala-Kamal Maula complex dispute underscores the judiciary's role in addressing pressing national concerns.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "US stocks today: Markets open in green despite Iran war tensions, oil price swings",
+          "summary": "US stock markets have opened higher despite rising tensions with Iran and fluctuations in oil prices, driven by strong quarterly earnings from major companies and fresh inflation data. This indicates that investors are focusing on company performance and economic indicators. The situation is being closely watched due to its potential impact on global markets.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/international-business/us-stocks-today-15-july-2026-markets-open-in-green-despite-iran-war-tensions-oil-price-swings/articleshow/132421177.cms"
+        },
+        {
+          "title": "U.S. Advocacy Groups Challenge Trump's ICC Sanctions",
+          "summary": "Two US advocacy groups are suing the Trump administration over sanctions imposed on the International Criminal Court, arguing that these sanctions infringe upon free speech and have hindered investigations into potential war crimes. The European Union and Netherlands have expressed support for the ICC amidst these tensions. This challenge reflects broader geopolitical tensions and debates about international justice.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/law-order/3950800-us-advocacy-groups-challenge-trumps-icc-sanctions"
+        },
+        {
+          "title": "Global Conflicts and Trade Transformations: Today's World News",
+          "summary": "The global landscape is witnessing significant developments, including a deadly attack in Ukraine, Europe's formation of a council to address war crimes in the Congo, and the operationalization of a trade pact between India and the UK. These updates highlight the complex interplay of conflicts, political shifts, and economic agreements shaping the world. Such transformations have far-reaching implications for global stability and economic cooperation.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3950718-global-conflicts-and-trade-transformations-todays-world-news"
+        },
+        {
+          "title": "MEA Secretary signs condolence book at Qatari Embassy",
+          "summary": "The Secretary for Economic Relations at the Ministry of External Affairs has signed a condolence book at the Qatari Embassy, indicating diplomatic interactions and expressions of sympathy between India and Qatar. This gesture reflects the ongoing diplomatic relations and cooperation between the two nations. Such interactions are crucial for maintaining goodwill and cooperation in international relations.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/mea-secretary-signs-condolence-book-at-qatari-embassy-1/"
+        },
+        {
+          "title": "Drone warfare 2.0: Unmanned vehicles outfitted with long",
+          "summary": "Advancements in automation and autonomy are transforming modern warfare, with unmanned vehicles being equipped with long-range missiles to deliver deep strikes. This development has significant implications for the future of warfare, indicating a shift towards more technologically driven and potentially remote conflict engagements. The use of such technology raises questions about the nature of modern conflict and international security.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/drone-warfare-2-0-unmanned-vehicles-outfitted-with-long-range-missiles-deliver-deep-strikes/articleshow/132414112.cms"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "UK CETA, not quite the king's ransom expected from a landmark trade deal",
+          "summary": "The India-UK Comprehensive Economic Trade Agreement (CETA) may provide new market opportunities for Indian exporters, but it also poses challenges for small businesses due to British regulations and could limit India's policy-making abilities in areas like affordable medications and digital economy. This agreement may have significant implications for India's trade and economic policies. The impact of CETA on India's economy will depend on various factors, including the ability of Indian businesses to adapt to British regulations.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/opinion/et-commentary/india-uk-ceta-not-quite-the-kings-ransom-expected-from-a-landmark-trade-deal/articleshow/132398530.cms"
+        },
+        {
+          "title": "Economists expect RBI to hold rates steady, rule out near",
+          "summary": "Economists expect the Reserve Bank of India (RBI) to keep interest rates unchanged in its upcoming Monetary Policy Committee meeting due to a tight operational balancing act. This decision will depend on various economic factors, including inflation and growth. The RBI's decision will have significant implications for India's economy, including the impact on borrowing costs and economic growth.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/economists-expect-rbi-to-hold-rates-steady-rule-out-near-term-policy-hike/"
+        },
+        {
+          "title": "Citi, others dial back India rate hike calls as inflation expected to stay moderate",
+          "summary": "Economists have delayed their expectations for interest rate hikes in India due to moderate inflation, with retail inflation rising to 4.38% in June. Core inflation remains around 4%, suggesting a lower annual average, which may lead the RBI to avoid tightening policy soon. The decision to hike rates will depend on sustained core inflation above 4.5%.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/citi-others-dial-back-india-rate-hike-calls-as-inflation-expected-to-stay-moderate/articleshow/132387513.cms"
+        },
+        {
+          "title": "India's CPI inflation may average 5% in FY27; stable rupee, RBI policy to help contain price pressures: SBI Research",
+          "summary": "SBI Research expects India's CPI inflation to average 5% in FY27, driven by a stable rupee and RBI policy. This forecast suggests that the RBI's policy decisions and the stability of the rupee will play a crucial role in containing price pressures. The inflation rate will have significant implications for India's economy, including the impact on consumer prices and economic growth.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/economy/indias-cpi-inflation-may-average-5-in-fy27-stable-rupee-rbi-policy-to-help-contain-price-pressures-sbi-research/article71220364.ece"
+        },
+        {
+          "title": "Retail inflation may harden in FY27, RBI could hike rates: Crisil",
+          "summary": "Crisil expects retail inflation in India to increase in FY27, driven by elevated fuel costs and input prices, which may lead to a potential rate hike by the RBI. The RBI will closely monitor inflation before making any policy adjustments. Food prices are also under pressure due to weather-related risks and higher costs, which could contribute to higher inflation.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/retail-inflation-may-harden-in-fy27-rbi-could-hike-rates-crisil/articleshow/132387049.cms"
+        },
+        {
+          "title": "India's retail inflation may average 5.1% in FY27; Crisil sees possibility of 25 bps RBI rate hike",
+          "summary": "Crisil expects India's retail inflation to average 5.1% in FY27, driven by factors such as elevated fuel costs, higher input prices, and weather-related risks to food prices. This forecast suggests a potential 25 basis point rate hike by the RBI, which will depend on the RBI's assessment of inflationary pressures. The RBI's decision will have significant implications for India's economy, including the impact on borrowing costs and economic growth.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/indias-retail-inflation-may-average-5-1-in-fy27-crisil-sees-possibility-of-25-bps-rbi-rate-hike/"
+        }
+      ],
+      "Business": [
+        {
+          "title": "AI IPO wave: Why India's start-up ecosystem could be an indirect winner",
+          "summary": "The upcoming IPOs of OpenAI, Anthropic, and SpaceX may indirectly benefit India's startup ecosystem by reviving VC funding, improving exits, and boosting deep-tech investment. This could strengthen India's long-term AI ambitions and reshape global venture capital flows. Successful AI listings may also improve the overall funding environment for Indian startups.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/deeptech/ai-ipo-wave-why-indias-start-up-ecosystem-could-be-an-indirect-winner"
+        },
+        {
+          "title": "Bank credit growth to ease as corporates tap bond markets, overseas funding",
+          "summary": "Bank credit growth is expected to slow down as large corporations increasingly use domestic bond markets and overseas borrowings for funding. The Reserve Bank of India's policy measures have made external funding more attractive for businesses, reducing reliance on traditional bank loans. Overall credit demand remains healthy, but banks will finance a smaller share.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
+        },
+        {
+          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
+          "summary": "Neuberg Diagnostics plans to launch an initial public offering in fiscal year 2028, aiming to raise approximately ₹3,500-4,000 crore. The company will use a pre-IPO funding round to secure Rs 5000 crore for acquisitions, targeting pan-India growth and new diagnostic technologies. Neuberg expects to become the second-largest player in the diagnostics market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
+        },
+        {
+          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
+          "summary": "Indian companies raised a significant amount of funds via commercial papers in June, reaching a near five-year high of Rs 2.53 lakh crore. This surge was driven by attractive pricing, seasonal needs, and debt refinancing, with experts noting a shift from costlier bank loans to cheaper short-term market funding. The Reserve Bank of India's liquidity infusions also contributed to favorable conditions.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "SC flags 'frustration' of students in CBSE's OSM",
+          "summary": "The Supreme Court has taken note of the frustration of students with the CBSE's digital marking system, highlighting the distress of young students. A Public Interest Litigation sought regulations for on-screen marking in examinations. The court's attention to this issue may lead to changes in the examination process.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/sc-flags-frustration-of-students-in-cbses-osm/articleshow/132423710.cms"
+        },
+        {
+          "title": "SC orders Uttarakhand govt to grant land for new HC building",
+          "summary": "The Supreme Court has directed the Uttarakhand government to grant land for a new high court building in Nainital within six weeks. This order overrides a previous referendum order and aims to expedite the relocation of the high court. The court's decision may impact the state's judicial infrastructure.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/sc-orders-uttarakhand-govt-to-grant-land-for-new-hc-building-101784131694420.html"
+        },
+        {
+          "title": "Class-action suit: SC to hear Jindal Poly Films investors’ plea on Friday",
+          "summary": "The Supreme Court will hear a plea filed by minority shareholders of Jindal Poly Films, seeking to recall an order that referred a class-action dispute to arbitration. The court's decision may have implications for investor rights and corporate governance in India. The case highlights the importance of shareholder protection.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/news/class-action-suit-sc-to-hear-jindal-poly-films-investors-plea-on-friday/article71225650.ece"
+        },
+        {
+          "title": "Delhi HC seeks government's response on plea seeking medical intervention for Sonam Wangchuk",
+          "summary": "The Delhi High Court has sought responses from the Centre and the Delhi government on a public interest litigation seeking medical intervention for climate activist Sonam Wangchuk. The court's attention to this issue may lead to action being taken to address Wangchuk's health concerns. The case highlights the role of courts in ensuring the well-being of citizens.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/delhi-hc-seeks-governments-response-on-plea-seeking-medical-intervention-for-sonam-wangchuk-hunger-strike/articleshow/132411970.cms"
+        },
+        {
+          "title": "Temple, Mosque Claims And A 2003 ASI Order: Why Bhojshala Is One of India's Most Contested Religious Sites",
+          "summary": "The Supreme Court is hearing appeals related to the Bhojshala-Kamal Maula complex, which is claimed by both Hindus and Muslims as a place of worship. The case highlights the complexities of religious disputes in India and the role of the judiciary in resolving such issues. The court's decision may have significant implications for communal harmony.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/temple-mosque-claims-and-a-2003-asi-order-why-bhojshala-is-one-of-indias-most-contested-religious-sites-article-155104633"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-16T01:58:56.270792+00:00",
     "brief": "Today's global landscape is marked by significant developments, including a deadly Russian attack in Ukraine and the formation of a council to address war crimes in Congo, highlighting the complex interplay of international relations and conflicts. Meanwhile, in India, the recent trade pact with the UK may provide new market opportunities for exporters, but also poses challenges for small businesses, while economists predict the Reserve Bank of India will hold interest rates steady due to moderate inflation. Additionally, India's startup ecosystem may indirectly benefit from the upcoming IPOs of major AI companies, which could revive VC funding and boost deep-tech investment, potentially reshaping global venture capital flows.",
     "categories": {
@@ -3739,134 +3873,6 @@
           "summary": "A Supreme Court challenge has been filed against India's 2017 blood donor guidelines, which permanently exclude transgender persons, men who have sex with men, and female sex workers from donating blood. The challenge argues that this ban is discriminatory and based on identity rather than medical criteria. The outcome of this case may impact the rights of marginalized communities and the inclusivity of the blood donation process.",
           "source": "The News Minute",
           "url": "https://www.thenewsminute.com/news/the-fight-to-donate-blood-why-queer-indians-are-challenging-a-lifetime-ban"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-09T09:26:44.088835+00:00",
-    "brief": "Today's global landscape is marked by significant developments in geopolitics and the economy. The US has removed Syria from its list of state sponsors of terrorism, a move that could lead to economic collaboration and development opportunities for the country. Meanwhile, the global economy has shown resilience in the face of ongoing conflict in the Middle East, but leaders are highlighting the need for conflict resolution and economic resilience measures to ensure sustained growth. In India, the IMF has lowered the country's growth outlook for FY27 to 6.4 percent, while still considering it the fastest-growing economy, with experts urging reforms and coordination to boost private investment and achieve the country's vision of a developed economy by 2047.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Trump's Bold Move: Syria Exits Terrorism List",
-          "summary": "The US has removed Syria from its list of state sponsors of terrorism, which could lead to economic collaboration and development opportunities for the country. This move is subject to congressional review and may help revitalize Syria's international relations. The decision is expected to have significant implications for Syria's economic recovery and integration with the global economy.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/law-order/3947479-trumps-bold-move-syria-exits-terrorism-list"
-        },
-        {
-          "title": "Global Economy's Resilience Amid Middle East Conflict",
-          "summary": "Despite the ongoing conflict in the Middle East, the global economy has shown resilience, with leaders of international financial and trade organizations noting its ability to withstand shocks. However, they also highlighted the need for conflict resolution and economic resilience measures to ensure sustained growth. The global economy is expected to experience a dip in growth but may rebound by 2027.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3947473-global-economys-resilience-amid-middle-east-conflict"
-        },
-        {
-          "title": "Trump's Trade War: The Looming U.S. Embargo on Spain",
-          "summary": "The US is considering a trade embargo on Spain due to disagreements over defense spending at NATO, which could have significant economic repercussions for both countries. The potential embargo is based on the International Emergency Economic Powers Act, and analysts are weighing the reality of such actions against their legal standings. This move could escalate tensions between the US and Spain.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/politics/3947469-trumps-trade-war-the-looming-us-embargo-on-spain"
-        },
-        {
-          "title": "Oil Tensions Surge as Euro Zone Bond Yields Hit Month-Highs",
-          "summary": "Geopolitical tensions have led to a surge in oil prices and a spike in Euro zone bond yields, driven by market expectations of further ECB rate hikes. The tensions were sparked by US President Trump's suggestion that the interim agreement with Iran was over, highlighting the sensitive relationship between international diplomacy and financial markets. This development has significant implications for the global economy and financial markets.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3947300-oil-tensions-surge-as-euro-zone-bond-yields-hit-month-highs"
-        },
-        {
-          "title": "India-Kyrgyzstan tie-up to study shared epic heritage",
-          "summary": "India and Kyrgyzstan have collaborated to study their shared epic heritage, with the Centre for Studies of International Relations in New Delhi partnering with the Manas National Academy. This initiative aims to promote cultural exchange and understanding between the two countries, highlighting the importance of cultural diplomacy in international relations. The partnership may lead to a deeper understanding of the shared cultural heritage between India and Kyrgyzstan.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/india-kyrgyzstan-tie-up-to-study-shared-epic-heritage/articleshow/132267371.cms"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "IMF lowers India’s FY27 growth outlook, retains status as fastest-growing economy",
-          "summary": "The International Monetary Fund (IMF) has lowered India's growth outlook for FY27 to 6.4 percent, while still considering it the fastest-growing economy. This projection is supported by strong private consumption and services activity. The global growth forecasts have also seen adjustments due to various factors, with the US economy expected to grow steadily and China's growth forecast being upgraded.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/indicators/imf-lowers-indias-fy27-growth-outlook-retains-status-as-fastest-growing-economy/articleshow/132265573.cms"
-        },
-        {
-          "title": "India's Growth Hinges on Boosting Private Investment: Experts Urge Reforms and Coordination",
-          "summary": "Experts believe that India's growth can be accelerated by increasing private investment, which can be achieved through policy reforms and coordination between the Centre and States. They stress the importance of deregulation and infrastructural advancements in achieving the country's vision of a developed economy by 2047. This growth trajectory is crucial for India's economic development.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3947226-indias-growth-hinges-on-boosting-private-investment-experts-urge-reforms-and-coordination"
-        }
-      ],
-      "Business": [
-        {
-          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
-          "summary": "Neuberg Diagnostics is planning an initial public offering in fiscal year 2028 to raise approximately ₹3,500-4,000 crore. The company aims to use the funds for acquisitions and expansion, targeting pan-India growth and new diagnostic technologies. This move is expected to make Neuberg the second-largest player in the diagnostics market.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
-        },
-        {
-          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
-          "summary": "Indian companies raised a significant amount of funds through commercial papers in June, reaching a near five-year high of Rs 2.53 lakh crore. This surge was driven by attractive pricing, seasonal needs, and debt refinancing, with companies shifting from costlier bank loans to cheaper short-term market funding. The Reserve Bank of India's liquidity infusions also contributed to favorable conditions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
-        },
-        {
-          "title": "India's banks are handing out more loans, but deposits aren't keeping up",
-          "summary": "Indian banks have seen a surge in lending, outpacing deposit growth and widening the funding gap. This trend, driven by robust demand from corporate and retail sectors, has pushed the loan-to-deposit ratio to a decade-high, raising concerns about funding sustainability. The varied strategies of lenders have resulted in some seeing deposits decline, while others have maintained a balance.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-banks-are-handing-out-more-loans-but-deposits-arent-keeping-up/articleshow/132177579.cms"
-        },
-        {
-          "title": "Operational, Says Report – Outlook Business",
-          "summary": "Nearly half of India's UDAN regional flight routes have become non-operational, despite the government launching a revamped phase with higher subsidies and airport funding. The viability gap support, infrastructure delays, and airline distress are affecting the country's flagship connectivity scheme. This development has significant implications for the aviation sector and regional connectivity.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/news/almost-half-of-udan-routes-have-become-non-operational-says-report"
-        },
-        {
-          "title": "Inspira seals Rs 1,800-crore private credit for Burger King buy in India",
-          "summary": "Inspira Global has secured ₹1,800 crore in private credit to acquire a controlling stake in India's Burger King operator. The company has already raised ₹1,050 crore via NCDs, with the remaining ₹800 crore expected to be raised this month. This significant funding marks a major move into the quick-service restaurant sector.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/inspira-seals-rs-1800-crore-private-credit-for-burger-king-buy-in-india/articleshow/132174770.cms"
-        },
-        {
-          "title": "Up Ecosystem on Foreign Capital, Family Offices May Now Have to Keep it Rolling – Outlook Business",
-          "summary": "India's family offices are emerging as key sources of patient capital for funding start-ups, innovation, and the country's next phase of entrepreneurial growth. This development is significant, as family offices may now play a crucial role in sustaining the start-up ecosystem, which was initially built on foreign capital. The shift towards domestic funding sources could have a profound impact on the Indian start-up landscape.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/magazine/india-built-a-start-up-ecosystem-on-foreign-capital-family-offices-may-now-have-to-keep-it-rolling"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Karnataka High Court notice on plea against SEC’s action of conducting parallel SIR in Mahadevapura assembly constituency",
-          "summary": "The Karnataka High Court has issued notices to the State Election Commission, the Election Commission of India, and the State government regarding a petition challenging the legality of conducting a parallel Special Intensive Revision of electoral rolls in the Mahadevapura Assembly constituency. This case is significant as it raises questions about the authority of the State Election Commission. The court's decision will have implications for the electoral process in the state.",
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-notice-on-plea-against-secs-action-of-conducting-parallel-sir-in-mahadevapura-assembly-constituency/article71198589.ece"
-        },
-        {
-          "title": "NCERT textbook revision: After Supreme Court rap over judiciary chapter, Hitler references removed, Congress' stance on Partition revised",
-          "summary": "The NCERT has revised its Class 8 Social Science textbook after the Supreme Court ordered the withdrawal of an earlier edition over controversial content. The revised textbook removes references to Hitler and revises the Congress' stance on Partition. This revision is significant as it reflects the ongoing debate about the representation of historical events in educational materials.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/ncert-textbook-revision-after-supreme-court-rap-over-judiciary-chapter-hitler-references-removed-congress-stance-on-partition-revised/articleshow/132260523.cms"
-        },
-        {
-          "title": "TN moves SC against HC order striking down quota benefits for converts to Islam",
-          "summary": "The Tamil Nadu government has moved the Supreme Court against a High Court order that struck down quota benefits for individuals who convert to Islam. The High Court had declared the government order providing these benefits as unconstitutional. This case is significant as it raises questions about the rights of converts to Islam and the allocation of quota benefits.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/tn-moves-sc-against-hc-order-striking-down-quota-benefits-for-converts-to-islam-101783503041085.html"
-        },
-        {
-          "title": "SC Says Lawyers Can't Be Blacklisted by Banks Over Negligence Allegations, Directs BCI to Explore National Legal Academy",
-          "summary": "The Supreme Court has ruled that banks cannot blacklist lawyers based on allegations of professional negligence. The court has also directed the Bar Council of India to explore the establishment of a National Legal Academy. This decision is significant as it clarifies the relationship between banks and lawyers and highlights the need for a national institution to regulate the legal profession.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/india/sc-says-lawyers-cant-be-blacklisted-by-banks-over-negligence-allegations-directs-bci-to-explore-national-legal-academy-article-154978921"
-        },
-        {
-          "title": "The fight to donate blood: Why queer Indians are challenging a lifetime ban",
-          "summary": "A Supreme Court challenge has been filed against India's 2017 blood donor guidelines, which permanently exclude transgender persons, MSM, and female sex workers from donating blood. The challenge argues that a person's identity should not determine their eligibility to donate blood. This case is significant as it raises questions about the rights of marginalized communities and the criteria for blood donation.",
-          "source": "The News Minute",
-          "url": "https://www.thenewsminute.com/news/the-fight-to-donate-blood-why-queer-indians-are-challenging-a-lifetime-ban"
-        },
-        {
-          "title": "SC: Banks cannot blacklist lawyers over negligence",
-          "summary": "The Supreme Court has ruled that banks and the Indian Banks' Association cannot declare a lawyer professionally negligent or incompetent without following the disciplinary framework under the Advocates Act. This decision is significant as it clarifies the relationship between banks and lawyers and highlights the need for a fair and transparent process for addressing allegations of negligence.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/sc-banks-cannot-blacklist-lawyers-over-negligence-101783452024586.html"
         }
       ]
     }
