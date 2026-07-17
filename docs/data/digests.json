@@ -1,5 +1,133 @@
 [
   {
+    "generated_at": "2026-07-17T02:02:23.568443+00:00",
+    "brief": "The global economy is expected to slow down over the next two years, with India likely to lose momentum as well, according to Moody's Analytics, which could lead to tighter monetary policy by central banks. Meanwhile, in the realm of geopolitics, China's strategic maneuvering in the global oil market and Europe's continued role in high-stakes diplomacy are significant developments, with China demonstrating its ability to navigate the global oil market effectively and Europe remaining a preferred destination for peace talks. These economic and geopolitical shifts are also being reflected in India's business landscape, where bank credit growth is expected to slow down as large corporations opt for domestic bond markets and overseas borrowings for funding, and startups may benefit from the upcoming IPOs of AI companies.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Is the Cult of Personality Shielding Leaders from Real Accountability?",
+          "summary": "The article discusses how modern politics often uses the passive voice to evade responsibility, leading to a lack of accountability among leaders. This phenomenon is observed in various contexts, including exam scandals and international diplomacy. The author argues that this trend undermines agency and democracy.",
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/opinion/columns/pratap-bhanu-mehta-accountability-grammatical-subject-democracy-passive-voice-10789774/"
+        },
+        {
+          "title": "What explains Europe’s continued role in high-stakes diplomacy",
+          "summary": "The article explores Europe's enduring significance in high-stakes diplomacy, despite the changing nature of conflicts. It examines why Europe remains a preferred destination for peace talks and how its role is perceived by conflicting parties and international mediators. This analysis provides insights into Europe's evolving role in global diplomacy.",
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/what-explains-europes-continued-role-in-high-stakes-diplomacy-10789690/"
+        },
+        {
+          "title": "Papua New Guinea Closes Taiwan's Office Amidst Diplomatic Shift",
+          "summary": "Papua New Guinea has closed Taiwan's office in the country, marking a significant diplomatic shift. This decision may have broader implications for the region's international relations, potentially signaling a realignment of alliances and foreign policy strategies. The move reflects the complex and evolving nature of global diplomacy.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3951240-papua-new-guinea-closes-taiwans-office-amidst-diplomatic-shift"
+        },
+        {
+          "title": "China's Strategic Maneuvering in the Global Oil Market",
+          "summary": "China has demonstrated its ability to navigate the global oil market effectively, shifting from a price taker to a price maker. During the Iran war, China managed the energy crisis by adjusting its imports, exports, and domestic inventories. This strategic maneuvering highlights China's growing independence in international energy dynamics and its impact on the global balance of power.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/science-environment/3951239-chinas-strategic-maneuvering-in-the-global-oil-market"
+        },
+        {
+          "title": "War, Economic Crisis Complicate Efforts To Protect Iran’s Rich But Endangered Wildlife",
+          "summary": "Conservation efforts in Iran are being hindered by climate crises, economic pressures, and international sanctions. The country's fragile biodiversity is under threat, and the ongoing war and economic crisis are exacerbating the situation. This highlights the complex interplay between environmental, economic, and geopolitical factors in Iran.",
+          "source": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/west-asia/war-and-economic-crisis-complicate-efforts-to-protect-irans-rich-but-endangered-wildlife-1971351"
+        },
+        {
+          "title": "Lessons from Iran war? Saudi Arabia to buy 20,000 laser guided rockets to counter drones",
+          "summary": "The United States has approved the sale of 20,000 laser-guided rockets to Saudi Arabia, which aims to counter drone threats. This move is seen as a response to lessons learned from the Iran war, highlighting the evolving nature of modern warfare and the importance of advanced weaponry in regional conflicts.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/lessons-from-iran-war-saudi-arabia-to-buy-20000-laser-guided-rockets-to-counter-drones/articleshow/132431765.cms"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Global economy tipping towards a sharp slowdown, India ‘may lose a step’ too: Moody's Analytics",
+          "summary": "The global economy is expected to slow down over the next two years, with India also likely to lose momentum due to potential energy shocks and inflation. This could lead to tighter monetary policy by central banks. Moody's Analytics warns of a sharp slowdown in global economic growth.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/news/moodys-analytics-global-slowdown-india-ai-boom-11784192376799.html"
+        },
+        {
+          "title": "Former RBI governor Raghuram Rajan, 2 other Indians appointed in key US Federal Reserve task forces",
+          "summary": "Raghuram Rajan, former RBI governor, and two other Indians have been appointed to key US Federal Reserve task forces to review US monetary policy. This move indicates the recognition of Indian experts' expertise in global monetary policy. They will be part of the teams reviewing key areas of US monetary policy.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/former-rbi-governor-raghuram-rajan-2-other-indians-appointed-in-key-us-federal-reserve-task-forces-101784180018931.html"
+        },
+        {
+          "title": "UK CETA, not quite the king's ransom expected from a landmark trade deal",
+          "summary": "The India-UK Comprehensive Economic Trade Agreement (CETA) may not be as beneficial as expected, as it could restrict India's policy-making abilities and limit access to affordable medications. However, it may also provide new market opportunities for Indian exporters. The agreement's impact on India's development goals and digital economy is a concern.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/opinion/et-commentary/india-uk-ceta-not-quite-the-kings-ransom-expected-from-a-landmark-trade-deal/articleshow/132398530.cms"
+        },
+        {
+          "title": "Economists expect RBI to hold rates steady, rule out near",
+          "summary": "Economists expect the Reserve Bank of India (RBI) to keep interest rates unchanged in its upcoming Monetary Policy Committee (MPC) meeting. The RBI is facing a tight operational balancing act and is likely to freeze key interest rates. This decision will have implications for India's economic growth and inflation.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/economists-expect-rbi-to-hold-rates-steady-rule-out-near-term-policy-hike/"
+        }
+      ],
+      "Business": [
+        {
+          "title": "AI IPO wave: Why India's start-up ecosystem could be an indirect winner",
+          "summary": "The upcoming IPOs of OpenAI, Anthropic, and SpaceX may benefit India's startup ecosystem by reviving VC funding, improving exits, and boosting deep-tech investment. This could strengthen India's long-term AI ambitions and reshape global venture capital flows. Successful AI listings may have a positive impact on India's startup ecosystem.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/deeptech/ai-ipo-wave-why-indias-start-up-ecosystem-could-be-an-indirect-winner"
+        },
+        {
+          "title": "Bank credit growth to ease as corporates tap bond markets, overseas funding",
+          "summary": "Bank credit growth is expected to slow down as large corporations opt for domestic bond markets and overseas borrowings for funding. This shift is driven by the Reserve Bank of India's policy measures, which make external funding more attractive. As a result, banks will finance a smaller share of corporate financing needs.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
+        },
+        {
+          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
+          "summary": "Neuberg Diagnostics plans to launch an initial public offering in fiscal year 2028, aiming to raise approximately ₹3,500-4,000 crore. The company will use the funds to drive pan-India growth and invest in new diagnostic technologies, with the goal of becoming the second-largest player in the diagnostics market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
+        },
+        {
+          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
+          "summary": "Indian companies raised a significant amount of funds via commercial papers in June, reaching a near five-year high of Rs 2.53 lakh crore. This surge is attributed to attractive pricing, seasonal needs, and debt refinancing, as well as a stable liquidity environment supported by the Reserve Bank of India's liquidity infusions.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "20 Years, No Justice: Merchant Navy Captain's Brother Appeals To PM Modi To Extradite Murder Accused From UAE",
+          "summary": "The brother of a merchant navy captain has appealed to PM Modi to extradite the murder accused from the UAE, as the trial has been stalled since 2006. The case has been revived by the Supreme Court in 2023, but the accused remains in the UAE. The family is seeking urgent help to bring the accused to justice.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/20-years-no-justice-merchant-navy-captains-brother-appeals-to-pm-modi-to-extradite-murder-accused-from-uae-article-155112061"
+        },
+        {
+          "title": "SCBA urges Wangchuk to end fast, regrets non-responsive institutional conscience",
+          "summary": "The Supreme Court Bar Association has urged social activist Sonam Wangchuk to end his hunger strike, which has entered its 19th day. Wangchuk's health is deteriorating, and the association has expressed regret over the lack of response from institutions. The association's statement highlights the need for attention to Wangchuk's demands.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/scba-urges-wangchuk-to-end-fast-regrets-non-responsive-institutional-conscience/articleshow/132439192.cms"
+        },
+        {
+          "title": "Court Order Puts Spotlight on India's E20 Fuel Policy and Automakers' Liability",
+          "summary": "A consumer court has ordered Maruti Suzuki to compensate a customer who claimed that ethanol-blended E20 fuel damaged his car. This ruling may lead to similar lawsuits from other vehicle owners and has intensified scrutiny on India's E20 policy. The policy has faced criticism over its rapid implementation.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/law-order/3951324-court-order-puts-spotlight-on-indias-e20-fuel-policy-and-automakers-liability"
+        },
+        {
+          "title": "Delhi court rejects bail plea of PFI chairman E Abubacker",
+          "summary": "A Delhi court has rejected the bail plea of Popular Front of India's founding chairman E Abubacker, who was arrested for alleged involvement in a conspiracy to overthrow the Indian government. The court's decision comes as the government cracks down on the PFI, which has been accused of promoting extremist ideologies.",
+          "source": "ThePrint",
+          "url": "https://theprint.in/india/delhi-court-rejects-bail-plea-of-pfi-chairman-e-abubacker/2988100/"
+        },
+        {
+          "title": "Hope For Terminally Ill, Aged Prisoners Across India As SC Seeks Policy For Early Release",
+          "summary": "The Supreme Court has directed all states and union territories to develop a policy for the early release of prisoners aged over 70 or those who are terminally ill. The policy must be developed within three months, and the court's decision aims to provide relief to elderly and terminally ill prisoners.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/supreme-court-seeks-policy-for-early-release-of-terminally-ill-aged-prisoners-across-india-article-155111356"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-16T19:00:56.178088+00:00",
     "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The US has approved the sale of 20,000 laser-guided rockets to Saudi Arabia, while Chinese President Xi Jinping is set to outline China's AI governance vision, underscoring the growing importance of advanced technology in global relations. Meanwhile, in India, economists expect the Reserve Bank of India to hold interest rates steady, and the startup ecosystem may benefit from the upcoming IPOs of AI companies, potentially reviving VC funding and boosting deep-tech investment. Additionally, the Supreme Court has cleared the way for India's first night safari in Lucknow's Kukrail Reserve Forest, and the government is being urged to monitor the health of Sonam Wangchuk, who is on a hunger strike.",
     "categories": {
@@ -3751,152 +3879,6 @@
           "summary": "The Supreme Court has criticized authorities for their inadequate response to illegal constructions in Delhi-NCR and other areas. The Court warned that it would hold officials personally responsible for such constructions and issue stringent orders against those found responsible. This decision aims to address the issue of illegal constructions and ensure that authorities take concrete actions to prevent them.",
           "source": "Hindustan Times",
           "url": "https://www.hindustantimes.com/india-news/only-face-saving-exercises-supreme-court-raps-authorities-illegal-constructions-fire-house-collapse-in-delhi-ncr-lucknow-101783590301021.html"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-10T02:15:05.045638+00:00",
-    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The global economy has shown resilience despite the ongoing conflict in the Middle East, with institutions stating that it has remained broadly stable. In India, the Reserve Bank of India is leaning towards a ban on cryptocurrencies, while the country's growth forecast for FY27 has been lowered by the Asian Development Bank and the International Monetary Fund. Meanwhile, the Indian banking sector is witnessing a surge in lending, outpacing deposit growth, and companies are increasingly opting for domestic bond markets and overseas funding, driven by the RBI's policy measures.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Why Ukraine's air shield works against drones but struggles against ballistic missiles",
-          "summary": "Ukraine's air defense system has been effective against drones but struggles to counter ballistic missiles, highlighting the challenges faced by the country in its ongoing conflict. The war in Ukraine has now surpassed the duration of the First World War. The effectiveness of Ukraine's air shield has significant implications for the ongoing conflict and global security.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/defence/international/why-ukraines-air-shield-works-against-drones-but-struggles-against-ballistic-missiles/articleshow/132283704.cms"
-        },
-        {
-          "title": "Malaysia's Strategic Energy Moves: Navigating International Trade with Russia",
-          "summary": "Malaysia is considering importing oil from Russia, despite Western sanctions, as part of its efforts to strengthen its energy portfolio. The move is significant as it highlights the complexities of international trade and diplomacy in the face of global tensions. Malaysia's energy commitments with Russia and Turkmenistan are expected to bolster its energy security.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/science-environment/3947724-malaysias-strategic-energy-moves-navigating-international-trade-with-russia"
-        },
-        {
-          "title": "'Only dialogue and diplomacy can resolve West Asia conflict': PM Modi",
-          "summary": "Indian Prime Minister Narendra Modi has emphasized the importance of dialogue and diplomacy in resolving conflicts in West Asia. He reiterated India's commitment to promoting peace, stability, and a rules-based international order. The statement highlights India's stance on regional and global conflicts.",
-          "source": "The New Indian Express",
-          "url": "https://www.newindianexpress.com/india/2026/Jul/09/only-dialogue-and-diplomacy-can-resolve-west-asia-conflict-pm-modi"
-        },
-        {
-          "title": "'Global economy resilient despite Mideast war'",
-          "summary": "Global economic institutions have stated that the world economy has remained broadly resilient despite the ongoing conflict in the Middle East. The assessment suggests that the global economy has been able to withstand the shocks of the conflict, highlighting its stability and adaptability. The resilience of the global economy has significant implications for international trade and economic cooperation.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/global-economy-resilient-despite-mideast-war/"
-        },
-        {
-          "title": "'They were going to go nuclear': Trump reiterates claim of ending India-Pakistan conflict",
-          "summary": "Former US President Donald Trump has claimed that he prevented a nuclear war between India and Pakistan, stating that his unique personality helped to settle the conflict. However, India has consistently refuted any claims of American mediation in the conflict. The statement highlights the complexities of international diplomacy and the role of global leaders in conflict resolution.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/international/global-trends/they-were-going-to-go-nuclear-trump-reiterates-claim-of-ending-india-pakistan-conflict/articleshow/132275577.cms"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Bank credit growth to ease as corporates tap bond markets, overseas funding: CareEdge",
-          "summary": "Bank credit growth in India is expected to slow down as large corporations opt for domestic bond markets and overseas funding instead of traditional bank loans. This shift is driven by the Reserve Bank of India's policy measures that make external funding more attractive. Overall credit demand remains healthy, but banks will finance a smaller share.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
-        },
-        {
-          "title": "Mumbai Metropolitan Region contributes 6.1% of India's GDP: BMC Commissioner",
-          "summary": "The Mumbai Metropolitan Region is a significant contributor to India's economy, accounting for 6.1% of the country's GDP. The region's economic importance highlights the need for continuous improvement in policy, infrastructure, and service delivery. This will help maintain Mumbai's position as a key economic hub.",
-          "source": "THE WEEK",
-          "url": "https://www.theweek.in/news/biz-tech/2026/07/09/mumbai-metropolitan-region-contributes-61-of-indias-gdp-bmc-commissioner.html"
-        },
-        {
-          "title": "ADB cuts India FY27 growth forecast to 6.6% on higher energy costs",
-          "summary": "The Asian Development Bank has lowered India's growth forecast for FY27 to 6.6% due to higher oil prices and transportation costs. This is expected to impact consumer sentiment and private demand. However, the bank retained its FY28 growth forecast at 7.3%, expecting policy support to drive growth.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/indicators/adb-cuts-india-fy27-growth-forecast-to-6-6-on-higher-energy-costs/articleshow/132277277.cms"
-        },
-        {
-          "title": "IMF lowers India’s FY27 growth outlook, retains status as fastest-growing economy",
-          "summary": "The International Monetary Fund has lowered India's growth outlook for FY27 to 6.4%, but still expects the country to remain the fastest-growing economy. Strong private consumption and services activity are expected to support this growth. The IMF has also adjusted its global growth forecasts for 2026 and 2027 due to various factors.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/indicators/imf-lowers-indias-fy27-growth-outlook-retains-status-as-fastest-growing-economy/articleshow/132265573.cms"
-        },
-        {
-          "title": "RBI Leans Toward Crypto Ban Despite India Boasting 39 Million Traders & $2.1B Holdings",
-          "summary": "The Reserve Bank of India is leaning towards a ban on cryptocurrencies, despite a large number of traders and significant holdings in India. The RBI's internal documents reveal a policy leaning toward prohibition, which could impact the country's digital asset sector. This move is driven by concerns around cryptocurrency.",
-          "source": "CoinGape",
-          "url": "https://coingape.com/rbi-leans-toward-crypto-ban-despite-india-boasting-39-million-traders-2-1b-holdings/"
-        },
-        {
-          "title": "RBI Signals Crypto Ban Approach, Tax Department Warns Of Evasion Risks",
-          "summary": "The Reserve Bank of India has signaled a potential ban on cryptocurrencies, while the tax department has warned of evasion risks associated with digital assets. This development is significant for India's digital asset sector, which is awaiting clarity on future regulations and policy framework. The RBI's concerns around cryptocurrency are driving this move.",
-          "source": "Outlook Money",
-          "url": "https://www.outlookmoney.com/news/rbi-signals-crypto-ban-approach-tax-department-warns-of-evasion-risks"
-        }
-      ],
-      "Business": [
-        {
-          "title": "Bank credit growth to ease as corporates tap bond markets, overseas funding: CareEdge",
-          "summary": "Bank credit growth is expected to slow down as large corporations opt for domestic bond markets and overseas borrowings for funding, reducing their reliance on traditional bank loans. This shift is driven by the Reserve Bank of India's policy measures that make external funding more attractive. Overall credit demand remains healthy, but banks will finance a smaller share.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
-        },
-        {
-          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
-          "summary": "Neuberg Diagnostics plans to launch an initial public offering in fiscal year 2028, aiming to raise approximately ₹3,500-4,000 crore. The company also plans a pre-IPO funding round to secure Rs 5000 crore for acquisitions, targeting pan-India growth and new diagnostic technologies. This expansion strategy aims to make Neuberg the second-largest player in the diagnostics market.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
-        },
-        {
-          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
-          "summary": "Indian companies raised a significant amount of funds via commercial papers in June, reaching a near five-year high of Rs 2.53 lakh crore. This surge is driven by attractive pricing, seasonal needs, and debt refinancing, with companies shifting from costlier bank loans to cheaper short-term market funding. The Reserve Bank of India's liquidity infusions also contributed to favorable conditions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
-        },
-        {
-          "title": "India's banks are handing out more loans, but deposits aren't keeping up",
-          "summary": "Indian banks have seen a surge in lending, outpacing deposit growth and widening the funding gap, with the loan-to-deposit ratio reaching a decade-high. This trend is driven by robust demand from corporate and retail sectors, raising concerns about funding sustainability. Banks are adopting varied strategies to manage this gap amidst intense competition.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-banks-are-handing-out-more-loans-but-deposits-arent-keeping-up/articleshow/132177579.cms"
-        },
-        {
-          "title": "Almost half of UDAN routes have become non-operational, says report",
-          "summary": "Nearly half of India's UDAN regional flight routes have become non-operational, despite the government launching a revamped phase with higher subsidies and airport funding. The reasons behind this include viability gap support, infrastructure delays, and airline distress, which are reshaping the country's flagship connectivity scheme.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/news/almost-half-of-udan-routes-have-become-non-operational-says-report"
-        },
-        {
-          "title": "Inspira seals Rs 1,800-crore private credit for Burger King buy in India",
-          "summary": "Inspira Global has secured ₹1,800 crore in private credit to acquire a controlling stake in India's Burger King operator. The company has already raised ₹1,050 crore via NCDs and expects to raise the remaining ₹800 crore this month. This significant funding marks a major move into the quick-service restaurant sector.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/inspira-seals-rs-1800-crore-private-credit-for-burger-king-buy-in-india/articleshow/132174770.cms"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Supreme Court Declares Zero Tolerance For AI-Generated Fake Legal Precedents, Directs Bar Council To Act",
-          "summary": "The Supreme Court has taken a strong stance against AI-generated fake legal precedents, directing the Bar Council of India to frame guidelines and disciplinary measures against advocates submitting fabricated legal citations. This move aims to maintain judicial integrity and prevent the misuse of AI in legal proceedings. The Court's decision sets a significant precedent for the Indian judiciary.",
-          "source": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/mumbai/supreme-court-declares-zero-tolerance-for-ai-generated-fake-legal-precedents-directs-bar-council-to-act"
-        },
-        {
-          "title": "'Only face-saving exercises': SC raps authorities over illegal constructions in Delhi-NCR and beyond",
-          "summary": "The Supreme Court has reprimanded authorities over illegal constructions in Delhi-NCR and other regions, warning that officials found responsible will be held personally accountable. The Court's stern stance aims to curb the menace of illegal constructions and ensure public safety. This move highlights the judiciary's efforts to address urban planning and infrastructure issues.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/only-face-saving-exercises-supreme-court-raps-authorities-illegal-constructions-fire-house-collapse-in-delhi-ncr-lucknow-101783590301021.html"
-        },
-        {
-          "title": "'There should be no slackness': SC orders special team to survey illegal, unsafe buildings",
-          "summary": "The Supreme Court has ordered a special team to survey illegal and unsafe buildings in several cities, including Delhi, Gurugram, and Lucknow. The Court's directive aims to identify and address potential safety hazards and ensure that authorities take prompt action against illegal constructions. This move underscores the judiciary's concern for public safety and urban governance.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/there-should-be-no-slackness-sc-orders-special-team-to-survey-illegal-unsafe-buildings/articleshow/132282174.cms"
-        },
-        {
-          "title": "Maharashtra Sets Up 7-Member Panel to Deliberate On UCC, Draft Expected In 6 Months",
-          "summary": "The Maharashtra government has formed a 7-member panel to draft a Uniform Civil Code (UCC), which is expected to be completed within six months. The panel, led by retired Supreme Court judge Ranjana Desai, will deliberate on the UCC and submit a draft to the state government. This development is significant, as it marks a step towards implementing a uniform civil code in the state.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/india/maharashtra-sets-up-7-member-panel-to-deliberate-on-ucc-draft-expected-in-6-months-article-155015773"
-        },
-        {
-          "title": "Tamil Nadu Challenges Madras HC order Quashing Backward Class Reservation for Islam Converts In SC",
-          "summary": "The Tamil Nadu government has appealed to the Supreme Court against a Madras High Court order that denied reservation rights to individuals converting to Islam. The state government's move aims to restore reservation benefits to these individuals, and the Supreme Court's decision will have implications for the state's reservation policy and social welfare schemes.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/india/tamil-nadu-challenges-madras-hc-order-quashing-backward-class-reservation-for-islam-converts-in-sc-article-155015027"
         }
       ]
     }
