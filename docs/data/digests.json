@@ -1,5 +1,133 @@
 [
   {
+    "generated_at": "2026-07-18T01:51:15.742366+00:00",
+    "brief": "Today's brief highlights key developments across geopolitics, economy, and national affairs. China's use of disinformation to secure infrastructure projects in Africa, particularly in Kenya, has significant implications for global economic competition and geopolitical influence. Meanwhile, the global economy is tipping towards a sharp slowdown, with India potentially losing a step, according to Moody's Analytics, and the country's economic growth is also expected to be impacted by rising inflation and slowing growth. In India, the Supreme Court has clarified that removal from electoral rolls does not affect citizenship status, and has also criticized doctors and hospitals for denying medical care to vulnerable victims, emphasizing the importance of fulfilling duties and upholding social responsibility.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Kenya airport deal proves China’s disinformation drive to win African infra projects",
+          "summary": "China is using disinformation and other tactics to secure infrastructure projects in Africa, as seen in a recent airport deal in Kenya. This approach involves media influence, psychological operations, and debt diplomacy to win overpriced projects. The strategy has implications for global economic competition and geopolitical influence.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/kenya-airport-deal-proves-chinas-disinformation-drive-to-win-african-infra-projects-1/"
+        },
+        {
+          "title": "Pakistan badly needs improvements in governance and water management: Report",
+          "summary": "A report highlights the need for Pakistan to improve its governance and water management. The country faces significant challenges, and addressing these issues is crucial for its security and development. Effective governance and water management are essential for Pakistan's future.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/pakistan-badly-needs-improvements-in-governance-and-water-management-report/"
+        },
+        {
+          "title": "India’s BRICS presidency is championing women-led diplomacy",
+          "summary": "India's presidency of the BRICS grouping is promoting women-led diplomacy, a significant initiative in international relations. This approach aims to increase the participation of women in diplomatic efforts and promote gender equality. The initiative has the potential to shape global diplomacy and cooperation.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/ht-insight/international-affairs/indias-brics-presidency-is-championing-women-led-diplomacy-101784286297678.html"
+        },
+        {
+          "title": "125 Nations Observe July 17 As World Day for International Justice",
+          "summary": "July 17 is observed as World Day for International Justice by 125 nations, marking the establishment of the International Criminal Court. The day aims to promote international justice and end impunity for global crimes such as genocides and war crimes. The observance highlights the importance of international cooperation in promoting justice and human rights.",
+          "source": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/world/125-nations-observe-july-17-as-world-day-for-international-justice-1971680"
+        },
+        {
+          "title": "Tensions in the Strait: A Call for Oil Security",
+          "summary": "The head of the International Energy Agency has warned that global energy security is at risk due to tensions in the Strait of Hormuz. The situation could impact oil flow and global energy markets, emphasizing the need for the US and Iran to resolve their differences and ensure stable oil supplies. The issue has significant implications for the global economy and energy security.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/science-environment/3951602-tensions-in-the-strait-a-call-for-oil-security"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Why India Needs Three Inflation Numbers To Understand One Economy",
+          "summary": "India uses three inflation numbers - CPI, WPI, and PPI - to measure inflation at different stages of the economy, which helps in understanding price trends, corporate margins, RBI policy, and growth outlook. These numbers provide a comprehensive view of the economy, allowing policymakers to make informed decisions. Understanding these inflation numbers is crucial for India's economic growth and development.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/economy-and-policy/why-india-needs-three-inflation-numbers-to-understand-one-economy"
+        },
+        {
+          "title": "Crisil sees volatile FY27: Inflation to rise to 5.1%, growth to slow; RBI may hike rates",
+          "summary": "Crisil has predicted a volatile economic outlook for India in 2026-27, with inflation expected to rise to 5.1% and growth slowing down. The RBI may respond to this by hiking interest rates, which could impact the country's economic growth. This prediction is based on factors such as easing geopolitical tensions and lower crude oil prices.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/business/crisil-sees-volatile-fy27-inflation-to-rise-to-5-1-growth-to-slow-rbi-may-hike-rates-4293869/"
+        },
+        {
+          "title": "Global economy tipping towards a sharp slowdown, India ‘may lose a step’ too: Moody's Analytics",
+          "summary": "Moody's Analytics has warned that the global economy is heading towards a sharp slowdown, which may also impact India's growth. The slowdown is expected to be triggered by an extended US-Iran conflict, which could lead to a fresh energy shock, inflation, and tighter monetary policy. This could force central banks to take cautious measures to mitigate the effects.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/news/moodys-analytics-global-slowdown-india-ai-boom-11784192376799.html"
+        },
+        {
+          "title": "Former RBI governor Raghuram Rajan, 2 other Indians appointed in key US Federal Reserve task forces",
+          "summary": "Former RBI governor Raghuram Rajan, along with two other Indians, has been appointed to key task forces of the US Federal Reserve. They will review key areas of US monetary policy, providing expertise and insights to shape the future of US monetary policymaking. This appointment highlights the recognition of Indian expertise in global economic matters.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/former-rbi-governor-raghuram-rajan-2-other-indians-appointed-in-key-us-federal-reserve-task-forces-101784180018931.html"
+        }
+      ],
+      "Business": [
+        {
+          "title": "AI IPO wave: Why India's start-up ecosystem could be an indirect winner",
+          "summary": "The upcoming IPOs of OpenAI, Anthropic, and SpaceX may benefit India's startup ecosystem by reviving VC funding, improving exits, and boosting deep-tech investment. This could strengthen India's long-term AI ambitions and reshape global venture capital flows. Successful AI listings may have a positive impact on India's startup ecosystem.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/deeptech/ai-ipo-wave-why-indias-start-up-ecosystem-could-be-an-indirect-winner"
+        },
+        {
+          "title": "Bank credit growth to ease as corporates tap bond markets, overseas funding",
+          "summary": "Bank credit growth is expected to slow down as large corporations opt for domestic bond markets and overseas borrowings for funding. The Reserve Bank of India's policy measures make external funding more attractive, reducing reliance on traditional bank loans. Overall credit demand remains healthy, but banks will finance a smaller share.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
+        },
+        {
+          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
+          "summary": "Neuberg Diagnostics plans to launch an initial public offering in fiscal year 2028, aiming to raise approximately ₹3,500-4,000 crore. The company plans to use the funds for acquisitions and expansion, targeting pan-India growth and new diagnostic technologies. Neuberg aims to become the second-largest player in the diagnostics market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
+        },
+        {
+          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
+          "summary": "Indian companies raised a significant amount of funds via commercial papers in June, reaching a near five-year high of Rs 2.53 lakh crore. This surge is driven by attractive pricing, seasonal needs, and debt refinancing, with companies shifting from costlier bank loans to cheaper short-term market funding. The Reserve Bank of India's liquidity infusions also contributed to favorable conditions.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Supreme Court says electoral roll deletion in SIR not loss of citizenship; plea seeks passport as 'clear pass'",
+          "summary": "The Supreme Court has clarified that being removed from electoral rolls does not affect a person's citizenship status. This ruling aims to prevent individuals from being denied welfare benefits due to incorrect assumptions about their citizenship.",
+          "source": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/india/supreme-court-says-electoral-roll-deletion-in-sir-not-loss-of-citizenship-plea-seeks-passport-as-clear-pass-13976923.html"
+        },
+        {
+          "title": "'You ignored because she was poor?': Supreme Court lambasts doctor, hospital for denying care to 4-year-old rape victim",
+          "summary": "The Supreme Court has criticized a doctor and hospital for denying medical care to a 4-year-old rape victim, questioning their empathy and suggesting that the victim's poverty may have been a factor in the decision.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/you-ignored-because-she-was-poor-supreme-court-lambasts-doctor-hospital-for-denying-care-to-4-year-old-rape-victim-101784282079853.html"
+        },
+        {
+          "title": "Don't write 'doctor' if you don't perform your duty: SC raps doctors in minor's rape-murder case",
+          "summary": "The Supreme Court has reprimanded two private hospitals and their doctors for failing to provide timely medical care to a 4-year-old rape-and-murder victim, emphasizing the importance of doctors fulfilling their duties.",
+          "source": "ThePrint",
+          "url": "https://theprint.in/india/dont-write-doctor-if-you-dont-perform-your-duty-sc-raps-doctors-in-minors-rape-murder-case/2989078/"
+        },
+        {
+          "title": "'Exclusion Or Deletion From Voter List Under SIR Not Loss Of Citizenship': Supreme Court",
+          "summary": "The Supreme Court has clarified that being removed from electoral rolls under the Special Intensive Revision (SIR) does not affect a person's citizenship status, and has raised concerns about individuals being denied welfare benefits due to this misconception.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/exclusion-or-deletion-from-voter-list-under-sir-not-loss-of-citizenship-supreme-court-article-155115938"
+        },
+        {
+          "title": "SC extends deadline for conducting elections of 5 city corporations in Bengaluru",
+          "summary": "The Supreme Court has extended the deadline for conducting elections in five city corporations in Bengaluru to December 2026, citing the ongoing Special Intensive Revision (SIR) of electoral rolls.",
+          "source": "ThePrint",
+          "url": "https://theprint.in/india/sc-extends-deadline-for-conducting-elections-of-5-city-corporations-in-bengaluru/2989021/"
+        },
+        {
+          "title": "Ram Mandir Donation Row: SIT Seeks More Time To File Report, May Submit It In Supreme Court",
+          "summary": "The Uttar Pradesh government's Special Investigation Team has requested more time to finalize its investigation into alleged embezzlement of donations at the Ram Temple in Ayodhya, and may submit its report to the Supreme Court.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/ram-mandir-donation-row-sit-seeks-more-time-to-file-report-may-submit-it-in-supreme-court-article-155115821"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-17T18:58:01.961508+00:00",
     "brief": "Tensions between the US and Iran continue to escalate, posing a significant threat to global energy security, with the Strait of Hormuz remaining a critical flashpoint. Meanwhile, the global economy is expected to experience a sharp slowdown, with India's growth also likely to be impacted, according to Moody's Analytics, which warns of a potential fresh energy shock and tighter monetary policy. In related news, India's economy is also facing challenges, with Crisil predicting rising inflation and slowing growth in the upcoming fiscal year, which may prompt the RBI to hike interest rates.",
     "categories": {
@@ -3751,128 +3879,6 @@
           "summary": "The Tamil film 'Jana Nayagan' has received an 'A' certificate from the Central Board of Film Certification after undergoing a rigorous review process. The CBFC demanded around twelve changes, including muting references to certain terms and modifying scenes. The certification process was complicated by a high-definition leak of the film online.",
           "source": "THE WEEK",
           "url": "https://www.theweek.in/news/entertainment/2026/07/10/joseph-vijay-jana-nayagan-censorship.html"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-11T02:00:47.899947+00:00",
-    "brief": "Global tensions and economic challenges are dominating the headlines, with China expanding its influence in Africa through economic deals in Sudan, while Bangladesh faces significant economic challenges with the world's second-highest bad loan rate. Meanwhile, India is navigating its own economic landscape, with the Reserve Bank of India expected to keep policy rates steady in the short term, but potentially increasing rates later this year due to rising domestic inflation concerns. Against this backdrop, diplomatic efforts are underway, with Prime Minister Narendra Modi promoting diplomatic engagement and launching a sports collaboration roadmap with Australia to strengthen India-Australia relations.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "China striking economic deals in Sudan under cover of peace rhetoric: Report",
-          "summary": "China is making economic deals in Sudan while promoting peace talks, which could have significant implications for the region. This move may allow China to expand its influence in Africa. The deals come as Western countries have withdrawn from Sudan due to civil war.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/china-striking-economic-deals-in-sudan-under-cover-of-peace-rhetoric-report/"
-        },
-        {
-          "title": "Bangladesh has world’s second‑highest bad loan rate after war",
-          "summary": "Bangladesh now has the world's second-highest rate of non-performing loans, with nearly one-third of bank lending being bad loans. This is a significant economic challenge for the country, second only to war-torn Ukraine. The high rate of bad loans could impact Bangladesh's economic stability.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/bangladesh-has-worlds-second-highest-bad-loan-rate-after-war-torn-ukraine-1/"
-        },
-        {
-          "title": "Australia relations’: PM Modi launches Sports Collaboration Roadmap at MCG",
-          "summary": "Prime Minister Narendra Modi and Australian Prime Minister Anthony Albanese launched a sports collaboration roadmap in Melbourne. The initiative aims to strengthen India-Australia relations through sports. This move highlights the growing diplomatic ties between the two countries.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/sports-is-strong-link-in-india-australia-relations-pm-modi-launches-sports-collaboration-roadmap-at-mcg/"
-        },
-        {
-          "title": "Reuters World News Summary",
-          "summary": "Protests in South Africa's Johannesburg have turned violent, with groups targeting undocumented immigrants and handing them over to police. This has sparked fear and strained international relations. The situation highlights the ongoing challenges of immigration and social unrest in South Africa.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/politics/3948143-reuters-world-news-summary"
-        },
-        {
-          "title": "Amnesty urges investigating Israeli attacks on Lebanon as ‘war crimes’",
-          "summary": "Amnesty International is calling for investigations into Israeli airstrikes in Lebanon, which may be considered war crimes against civilians. The organization is pushing for accountability for the attacks, which have significant humanitarian implications. This development highlights the ongoing tensions in the region.",
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/amnesty-urges-investigating-israeli-attacks-on-lebanon-as-war-crimes/article71203835.ece"
-        },
-        {
-          "title": "PM Modi Advocates Diplomacy Amid Rising Global Tensions",
-          "summary": "Prime Minister Narendra Modi is promoting diplomatic engagement as a way to resolve international conflicts, particularly in West Asia. He emphasized the importance of economic and security cooperation during his visit to Australia. This approach is seen as a response to rising tensions in the region, including increasing hostilities between the US and Iran.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/international/3947630-pm-modi-advocates-diplomacy-amid-rising-global-tensions"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "E20 petrol may reduce mileage by 3-5%, says Oil Ministry",
-          "summary": "The Oil Ministry has stated that E20 petrol, which contains 20% ethanol, may reduce vehicle efficiency by 3-5%. However, it offers benefits like cleaner engines and lower carbon emissions. This information is crucial for consumers and automobile manufacturers as India plans to roll out E20 petrol.",
-          "source": "Malayala Manorama",
-          "url": "https://www.onmanorama.com/news/india/2026/07/10/e20-petrol-may-reduce-fuel-efficiency-says-oil-ministry.html"
-        },
-        {
-          "title": "RBI rate hike: Interest burden for Indians may go up later this year amid inflation risks",
-          "summary": "The Reserve Bank of India is expected to keep policy rates steady in the short term, but may increase rates later this year due to rising domestic inflation concerns. This could lead to a higher interest burden for Indians. The economy is projected to show a stronger demand trend and improved external accounts.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-rate-ike-chances-bank-of-america-rbirate-hike-interest-burden-for-indians-may-go-up-later-this-year-amid-inflation-risks/articleshow/132305465.cms"
-        },
-        {
-          "title": "BofA sees RBI holding rates near term, expects 50 bps hike from Dec 2026 amid domestic inflation risks",
-          "summary": "According to BofA Securities, the Reserve Bank of India will likely keep policy rates unchanged in the near term, but expects a 50 basis points rate hike from December 2026 due to domestic inflation risks. This forecast suggests that the RBI will take a cautious approach to monetary policy.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/bofa-sees-rbi-holding-rates-near-term-expects-50-bps-hike-from-dec-2026-amid-domestic-inflation-risks/"
-        },
-        {
-          "title": "Why India is launching an index of services production",
-          "summary": "India is introducing an index of services production to provide high-frequency information on the services economy, which will help in making better policy decisions and economic forecasting. This index will complement the existing index of industrial production.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/economy/explainer-index-of-services-production-india-services-sector-economic-indicator-indian-economy-11783658423548.html"
-        },
-        {
-          "title": "ADB cuts India FY27 growth forecast to 6.6% on higher oil prices",
-          "summary": "The Asian Development Bank has lowered India's FY27 growth forecast to 6.6% due to higher crude oil prices and transportation costs, which will impact consumer sentiment and demand. However, the bank expects India's economic momentum to be supported by policy measures and public capital expenditure.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/adb-cuts-india-fy27-growth-forecast-to-6-6-on-higher-oil-prices/articleshow/132297258.cms"
-        }
-      ],
-      "Business": [
-        {
-          "title": "Bank credit growth to ease as corporates tap bond markets, overseas funding: CareEdge",
-          "summary": "Bank credit growth is expected to slow down as large corporations opt for domestic bond markets and overseas borrowings for funding, reducing their reliance on traditional bank loans. This shift is driven by the Reserve Bank of India's policy measures that make external funding more attractive. Overall credit demand remains healthy, but banks will finance a smaller share.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
-        },
-        {
-          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
-          "summary": "Neuberg Diagnostics plans to launch an initial public offering in fiscal year 2028, aiming to raise approximately ₹3,500-4,000 crore. The company also plans a pre-IPO funding round to secure Rs 5000 crore for acquisitions, targeting pan-India growth and new diagnostic technologies. This expansion strategy aims to make Neuberg the second-largest player in the diagnostics market.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
-        },
-        {
-          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
-          "summary": "Indian companies raised a significant amount of funds via commercial papers in June, reaching a near five-year high of Rs 2.53 lakh crore. This surge is driven by attractive pricing, seasonal needs, and debt refinancing, with companies shifting from costlier bank loans to cheaper short-term market funding. The Reserve Bank of India's liquidity infusions also contributed to favorable conditions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
-        },
-        {
-          "title": "India's banks are handing out more loans, but deposits aren't keeping up",
-          "summary": "Indian banks have seen a surge in lending, outpacing deposit growth and widening the funding gap, with the loan-to-deposit ratio reaching a decade-high. This trend is driven by robust demand from corporate and retail sectors, raising concerns about funding sustainability. The varied strategies of lenders have resulted in some seeing deposits decline, while others have maintained a balance.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-banks-are-handing-out-more-loans-but-deposits-arent-keeping-up/articleshow/132177579.cms"
-        },
-        {
-          "title": "Inspira seals Rs 1,800-crore private credit for Burger King buy in India",
-          "summary": "Inspira Global has secured ₹1,800 crore in private credit to acquire a controlling stake in India's Burger King operator. The company has already raised ₹1,050 crore via NCDs, with the remaining ₹800 crore anticipated this month. This significant funding signals a major move into the quick-service restaurant sector.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/inspira-seals-rs-1800-crore-private-credit-for-burger-king-buy-in-india/articleshow/132174770.cms"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Petitioner abuses CJI, flings papers in Supreme Court",
-          "summary": "A petitioner in the Supreme Court sparked controversy by using abusive language against the Chief Justice of India and throwing papers in the courtroom. Despite the incident, the judges decided not to take any action against the petitioner, describing him as a 'disturbed man'. The incident has raised questions about the limits of acceptable behavior in court and how judges should respond to such outbursts.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/viral-supreme-court-video-petitioner-abuses-cji-throws-papers-why-judges-decided-to-not-take-any-action-against-him-101783687797341.html"
-        },
-        {
-          "title": "India-US Extradition Treaty Explained",
-          "summary": "The India-US Extradition Treaty, signed in 1997, outlines the process for extraditing fugitives between the two countries. The treaty requires dual criminality, meaning the offense must be a crime in both countries, and involves a court process and government approvals. The extradition process can often take years to complete due to various complexities and challenges.",
-          "source": "Outlook India",
-          "url": "https://www.outlookindia.com/national/india-us-extradition-treaty-explained-how-the-process-works-and-why-it-often-takes-years"
         }
       ]
     }
