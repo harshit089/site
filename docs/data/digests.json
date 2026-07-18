@@ -1,5 +1,115 @@
 [
   {
+    "generated_at": "2026-07-18T07:38:57.535508+00:00",
+    "brief": "Global economic trends and diplomatic developments are intersecting in complex ways, with the US planning to restore Hong Kong's special trading status, potentially easing trade restrictions and marking a shift in US-China relations. Meanwhile, the global economy is tipping towards a sharp slowdown, according to Moody's Analytics, which could impact India's growth, even as the country's startup ecosystem may indirectly benefit from the upcoming IPOs of AI companies. In India, economic indicators such as inflation numbers and bank credit growth are being closely watched, with the RBI's policy decisions likely to have significant implications for the country's macroeconomic outlook.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Controversy in Venice: A Diplomatic Voyage and Public Protest",
+          "summary": "The US Ambassador to Italy's visit to Venice on his yacht sparked protests against Trump's policies and criticism over mass tourism. The visit coincided with a local festival, Festa del Redentore, and highlighted international political tensions. This incident reflects the complexities of diplomatic visits and their potential impact on local communities.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/entertainment/3952048-controversy-in-venice-a-diplomatic-voyage-and-public-protest"
+        },
+        {
+          "title": "Revival of Hong Kong's Special Trade Status Marks Positive Shift in US-China Relations",
+          "summary": "The US plans to restore Hong Kong's special trading status, which was revoked in 2020 due to China's national security law. This decision follows recent trade talks between the US and China, potentially easing trade restrictions and marking a shift in their international relations. The move could have significant implications for global trade and US-China relations.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3952011-revival-of-hong-kongs-special-trade-status-marks-positive-shift-in-us-china-relations"
+        },
+        {
+          "title": "Kenya airport deal proves China’s disinformation drive to win African infra projects",
+          "summary": "China has been using disinformation and debt diplomacy to secure infrastructure projects in Africa, as seen in the Kenya airport deal. This strategy involves using media influence and psychological operations to win contracts, often at inflated prices. The practice has significant implications for African countries and their economic development.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/kenya-airport-deal-proves-chinas-disinformation-drive-to-win-african-infra-projects-1/"
+        },
+        {
+          "title": "India’s BRICS presidency is championing women-led diplomacy",
+          "summary": "India's presidency of the BRICS grouping is promoting women-led diplomacy, a significant development in international relations. This approach aims to increase the participation of women in diplomatic efforts and promote gender equality. The initiative reflects India's commitment to promoting diversity and inclusion in global governance.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/ht-insight/international-affairs/indias-brics-presidency-is-championing-women-led-diplomacy-101784286297678.html"
+        },
+        {
+          "title": "125 Nations Observe July 17 As World Day for International Justice",
+          "summary": "July 17 is observed as World Day for International Justice, marking the establishment of the International Criminal Court (ICC). The ICC was set up to prosecute global crimes such as genocides, war crimes, and crimes against humanity. The day highlights the importance of international justice and the need to end impunity for such crimes.",
+          "source": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/world/125-nations-observe-july-17-as-world-day-for-international-justice-1971680"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Why India Needs Three Inflation Numbers To Understand One Economy",
+          "summary": "India uses three inflation numbers - CPI, WPI, and PPI - to measure inflation at different stages of the economy, which helps in understanding price trends, corporate margins, and the RBI's policy decisions. These numbers provide a comprehensive view of the economy and are essential for policymakers. They also help in predicting India's growth outlook.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/economy-and-policy/why-india-needs-three-inflation-numbers-to-understand-one-economy"
+        },
+        {
+          "title": "Crisil sees volatile FY27: Inflation to rise to 5.1%, growth to slow; RBI may hike rates",
+          "summary": "According to a Crisil report, India's economy is expected to face challenges in 2026-27 due to rising inflation and slowing growth, despite easing geopolitical tensions and lower crude oil prices. The RBI may respond to this by hiking interest rates. This could impact the country's macroeconomic outlook.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/business/crisil-sees-volatile-fy27-inflation-to-rise-to-5-1-growth-to-slow-rbi-may-hike-rates-4293869/"
+        },
+        {
+          "title": "Global economy tipping towards a sharp slowdown, India ‘may lose a step’ too: Moody's Analytics",
+          "summary": "Moody's Analytics has warned that the global economy is headed for a slowdown, which could also impact India's growth. The slowdown is expected to be triggered by an extended US-Iran conflict, leading to a fresh energy shock, inflation, and tighter monetary policy. This could force central banks to take cautious measures.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/news/moodys-analytics-global-slowdown-india-ai-boom-11784192376799.html"
+        },
+        {
+          "title": "Former RBI governor Raghuram Rajan, 2 other Indians appointed in key US Federal Reserve task forces",
+          "summary": "Raghuram Rajan, former RBI governor, and two other Indians have been appointed to key US Federal Reserve task forces. They will review key areas of US monetary policy, providing their expertise to shape the future of US monetary policymaking. This is a significant development, as it highlights the recognition of Indian experts in global economic matters.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/former-rbi-governor-raghuram-rajan-2-other-indians-appointed-in-key-us-federal-reserve-task-forces-101784180018931.html"
+        }
+      ],
+      "Business": [
+        {
+          "title": "AI IPO wave: Why India's start-up ecosystem could be an indirect winner",
+          "summary": "The upcoming IPOs of OpenAI, Anthropic, and SpaceX may indirectly benefit India's startup ecosystem by reviving VC funding, improving exits, and boosting deep-tech investment. This could strengthen India's long-term AI ambitions and reshape global venture capital flows. Successful AI listings may have a positive impact on India's startup ecosystem.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/deeptech/ai-ipo-wave-why-indias-start-up-ecosystem-could-be-an-indirect-winner"
+        },
+        {
+          "title": "Bank credit growth to ease as corporates tap bond markets, overseas funding",
+          "summary": "Bank credit growth is expected to moderate as large corporations increasingly use domestic bond markets and overseas borrowings for funding. The Reserve Bank of India's policy measures make external funding more attractive for businesses, reducing reliance on traditional bank loans. Overall credit demand remains healthy, but banks will finance a smaller share.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
+        },
+        {
+          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
+          "summary": "Neuberg Diagnostics plans an initial public offering in fiscal year 2028, aiming to raise approximately ₹3,500-4,000 crore. The company will use a pre-IPO funding round to secure Rs 5000 crore for acquisitions, targeting pan-India growth and new diagnostic technologies. Neuberg expects to become the second-largest player in the diagnostics market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
+        },
+        {
+          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
+          "summary": "Indian companies raised Rs 2.53 lakh crore via commercial papers in June, a near five-year high. This surge was driven by attractive pricing, seasonal needs, and debt refinancing, with experts noting a shift from costlier bank loans to cheaper short-term market funding. The Reserve Bank of India's liquidity infusions also contributed to favorable conditions.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Voter list name deletion does not mean automatic loss of citizenship",
+          "summary": "The Supreme Court has clarified that being deleted from the electoral roll does not automatically mean a person loses their citizenship status. This is because the Election Commission of India is not the final authority to determine citizenship. The status remains for other purposes until a final decision is made.",
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/legal-news/supreme-court-voter-list-deletion-citizenship-status-eci-welfare-schemes-10791704/"
+        },
+        {
+          "title": "'You ignored because she was poor?'",
+          "summary": "The Supreme Court has criticized a doctor and hospital for denying medical care to a 4-year-old rape victim, questioning their empathy and actions. The court's comments highlight concerns about access to medical care, particularly for vulnerable populations. The case has sparked a wider discussion about healthcare and social responsibility.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/you-ignored-because-she-was-poor-supreme-court-lambasts-doctor-hospital-for-denying-care-to-4-year-old-rape-victim-101784282079853.html"
+        },
+        {
+          "title": "Ram Mandir Donation Row: SIT Seeks More Time To File Report, May Submit It In Supreme Court",
+          "summary": "A Special Investigation Team in Uttar Pradesh is probing alleged embezzlement of donations at Ayodhya's Ram Temple and has requested more time to finalize its investigation. The team may submit its report to the Supreme Court. The case involves allegations of financial irregularities and corruption.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/ram-mandir-donation-row-sit-seeks-more-time-to-file-report-may-submit-it-in-supreme-court-article-155115821"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-18T01:51:15.742366+00:00",
     "brief": "Today's brief highlights key developments across geopolitics, economy, and national affairs. China's use of disinformation to secure infrastructure projects in Africa, particularly in Kenya, has significant implications for global economic competition and geopolitical influence. Meanwhile, the global economy is tipping towards a sharp slowdown, with India potentially losing a step, according to Moody's Analytics, and the country's economic growth is also expected to be impacted by rising inflation and slowing growth. In India, the Supreme Court has clarified that removal from electoral rolls does not affect citizenship status, and has also criticized doctors and hospitals for denying medical care to vulnerable victims, emphasizing the importance of fulfilling duties and upholding social responsibility.",
     "categories": {
@@ -3751,134 +3861,6 @@
           "summary": "A petitioner disrupted Supreme Court proceedings by abusing the Chief Justice of India and throwing papers in the courtroom. The incident was quickly addressed by security personnel, who escorted the petitioner out. The incident highlights the importance of maintaining order and respect in court proceedings.",
           "source": "India TV News",
           "url": "https://www.indiatvnews.com/news/india/mr-judicial-servant-i-order-you-petitioner-abuses-chief-justice-throws-paper-during-supreme-court-hearing-2026-07-10-1047855"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-11T07:45:02.860294+00:00",
-    "brief": "India's diplomatic efforts have been in focus, with the country strengthening ties with regional leaders in Canada and celebrating the 'Tagore-Dewantara Year of Cultural and Educational Diplomacy' with Indonesia. Meanwhile, in the economic sphere, the Reserve Bank of India is expected to keep policy rates steady in the short term, but may increase rates later this year due to rising domestic inflation concerns, which could impact consumer spending and borrowing. Additionally, the Asian Development Bank has lowered India's FY27 growth forecast to 6.6% due to higher crude oil prices, which may have implications for the country's economic momentum.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "India discusses strengthening relations with premier of Newfoundland and Labrador",
-          "summary": "India is looking to strengthen its relations with the Canadian province of Newfoundland and Labrador, with the Consul General of India in Toronto meeting the Premier of the province. This meeting highlights India's efforts to expand its diplomatic ties beyond national capitals and engage with regional leaders. The discussion is expected to explore potential areas of cooperation between India and the province.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/india-discusses-strengthening-relations-with-premier-of-newfoundland-and-labrador/"
-        },
-        {
-          "title": "Historic Move: Big Bash League to Debut in India, Strengthening Cricketing Ties",
-          "summary": "The Big Bash League, Australia's premier domestic cricket competition, will play a match in India in 2026, marking its first game outside Australia. This development is a significant step in strengthening cricketing ties between India and Australia, and is expected to boost bilateral relations and create new opportunities for international cricket. The move was announced during Prime Minister Modi's visit to Australia.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/sports-games/3948641-historic-move-big-bash-league-to-debut-in-india-strengthening-cricketing-ties"
-        },
-        {
-          "title": "India, Indonesia to celebrate ‘Tagore-Dewantara Year of Cultural and Educational Diplomacy’",
-          "summary": "India and Indonesia are set to celebrate the 'Tagore-Dewantara Year of Cultural and Educational Diplomacy', an initiative aimed at promoting cultural and educational exchange between the two countries. The celebration is expected to deepen people-to-people ties and foster greater understanding between India and Indonesia. The initiative is named after the famous Indian poet Rabindranath Tagore and Indonesian educationist Ki Hajar Dewantara.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/india-indonesia-to-celebrate-tagore-dewantara-year-of-cultural-and-educational-diplomacy/"
-        },
-        {
-          "title": "China striking economic deals in Sudan under cover of peace rhetoric: Report",
-          "summary": "China is reportedly striking economic deals in Sudan, taking advantage of the country's civil war to expand its economic influence in the region. Despite its peace rhetoric, China is said to be pursuing its economic interests in Sudan, raising concerns about its intentions in the region. The report highlights the complexities of China's involvement in Sudan and its implications for global geopolitics.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/china-striking-economic-deals-in-sudan-under-cover-of-peace-rhetoric-report/"
-        },
-        {
-          "title": "Sports is strong link in India-Australia relations’: PM Modi launches Sports Collaboration Roadmap at MCG",
-          "summary": "Prime Minister Narendra Modi has launched the India-Australia Sports Collaboration Roadmap, a initiative aimed at promoting sports cooperation between the two countries. The roadmap is expected to strengthen people-to-people ties and foster greater collaboration in the field of sports. The launch of the roadmap highlights the growing importance of sports diplomacy in India's foreign policy.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/sports-is-strong-link-in-india-australia-relations-pm-modi-launches-sports-collaboration-roadmap-at-mcg/"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "E20 petrol may reduce mileage by 3-5%",
-          "summary": "The Oil Ministry has stated that E20 petrol, which contains 20% ethanol, may reduce vehicle efficiency by 3-5%. However, it offers benefits like cleaner engines and lower carbon emissions. This information is crucial for consumers and automobile manufacturers as India plans to roll out E20 fuel.",
-          "source": "Malayala Manorama",
-          "url": "https://www.onmanorama.com/news/india/2026/07/10/e20-petrol-may-reduce-fuel-efficiency-says-oil-ministry.html"
-        },
-        {
-          "title": "RBI rate hike: Interest burden for Indians may go up later this year",
-          "summary": "The Reserve Bank of India is expected to keep policy rates steady in the short term, but may increase rates later this year due to rising domestic inflation concerns. This could lead to a higher interest burden for Indians. The economy is expected to show a stronger demand trend, with a reduced current account deficit.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-rate-ike-chances-bank-of-america-rbirate-hike-interest-burden-for-indians-may-go-up-later-this-year-amid-inflation-risks/articleshow/132305465.cms"
-        },
-        {
-          "title": "BofA sees RBI holding rates near term, expects 50 bps hike from Dec 2026",
-          "summary": "BofA Securities expects the Reserve Bank of India to keep policy rates unchanged in the near term, but predicts a 50 basis points rate hike from December 2026 due to domestic inflation risks. This forecast is based on the anticipation of rising inflation driven by domestic factors.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/bofa-sees-rbi-holding-rates-near-term-expects-50-bps-hike-from-dec-2026-amid-domestic-inflation-risks/"
-        },
-        {
-          "title": "Why India is launching an index of services production",
-          "summary": "India is launching an index of services production to provide high-frequency information on the services economy, which will enable better policy decisions and economic forecasting. This index will complement the index of industrial production, giving a more comprehensive picture of the economy.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/economy/explainer-index-of-services-production-india-services-sector-economic-indicator-indian-economy-11783658423548.html"
-        },
-        {
-          "title": "ADB cuts India FY27 growth forecast to 6.6% on higher oil prices",
-          "summary": "The Asian Development Bank has lowered India's FY27 growth forecast to 6.6% due to higher crude oil prices and transportation costs, which will impact consumer sentiment and demand. The bank expects policy measures and public capital expenditure to support India's economic momentum, with a retained FY28 growth forecast of 7.3%.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/adb-cuts-india-fy27-growth-forecast-to-6-6-on-higher-oil-prices/articleshow/132297258.cms"
-        }
-      ],
-      "Business": [
-        {
-          "title": "Bank credit growth to ease as corporates tap bond markets, overseas funding: CareEdge",
-          "summary": "Bank credit growth is expected to slow down as large corporations opt for domestic bond markets and overseas borrowings for funding, reducing their reliance on traditional bank loans. This shift is driven by the Reserve Bank of India's policy measures that make external funding more attractive. Overall credit demand remains healthy, but banks will finance a smaller share.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
-        },
-        {
-          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
-          "summary": "Neuberg Diagnostics is planning an initial public offering in fiscal year 2028 to raise approximately ₹3,500-4,000 crore. The company aims to use the funds to expand its operations and acquire new diagnostic technologies, targeting pan-India growth. This move is expected to make Neuberg the second-largest player in the diagnostics market.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
-        },
-        {
-          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
-          "summary": "Indian companies raised a record ₹2.53 lakh crore through commercial papers in June, driven by attractive pricing, seasonal needs, and debt refinancing. This surge is a result of companies shifting from costlier bank loans to cheaper short-term market funding, supported by ample investor demand and a stable liquidity environment. The Reserve Bank of India's liquidity infusions also contributed to the favorable conditions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
-        },
-        {
-          "title": "India's banks are handing out more loans, but deposits aren't keeping up",
-          "summary": "Indian banks have seen a surge in lending, outpacing deposit growth and widening the funding gap. This trend has pushed the loan-to-deposit ratio to a decade-high, raising concerns about funding sustainability. The disparity in loan and deposit growth reflects varied strategies among lenders amidst intense competition.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-banks-are-handing-out-more-loans-but-deposits-arent-keeping-up/articleshow/132177579.cms"
-        },
-        {
-          "title": "Almost half of UDAN routes have become non-operational, says report",
-          "summary": "Nearly half of India's UDAN regional flight routes have become non-operational, despite the government launching a revamped phase with higher subsidies and airport funding. The non-operational routes are a result of viability gap support, infrastructure delays, and airline distress, which are reshaping the country's flagship connectivity scheme.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/news/almost-half-of-udan-routes-have-become-non-operational-says-report"
-        },
-        {
-          "title": "Inspira seals Rs 1,800-crore private credit for Burger King buy in India",
-          "summary": "Inspira Global has secured ₹1,800 crore in private credit to acquire a controlling stake in India's Burger King operator. The company has already raised ₹1,050 crore via NCDs and expects to raise the remaining ₹800 crore this month. This significant funding marks a major move into the quick-service restaurant sector.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/inspira-seals-rs-1800-crore-private-credit-for-burger-king-buy-in-india/articleshow/132174770.cms"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "CJI abused, papers thrown: Behind the ruckus in Supreme Court by Lucknow man",
-          "summary": "A petitioner from Lucknow created a ruckus in the Supreme Court by abusing the Chief Justice of India and throwing papers during a hearing. The incident occurred when the petitioner was arguing his own case. The Supreme Court's composure in handling the situation has been praised by lawyers and is being discussed on social media.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/cji-abused-papers-thrown-behind-the-ruckus-in-supreme-court-by-lucknow-man-101783709274836.html"
-        },
-        {
-          "title": "India At Asian Games 2026: Supreme Court Defers Equestrian Selection Row Hearing",
-          "summary": "The Supreme Court has deferred the hearing on petitions challenging the selection of India's equestrian team for the Asian Games 2026. The decision may impact India's contingent for the games. The case is related to the Delhi High Court's refusal to interfere with the team selection.",
-          "source": "Outlook India",
-          "url": "https://www.outlookindia.com/sports/asian-games-2026-supreme-court-defers-hearing-on-team-selection-explained"
-        },
-        {
-          "title": "'Jana Nayagan' censorship: What changes did CBFC demand ahead of upcoming release?",
-          "summary": "The Tamil film 'Jana Nayagan' has received an 'A' certificate from the Central Board of Film Certification after undergoing a rigorous review process. The CBFC demanded around twelve changes, including muting references to certain terms and modifying scenes. The certification process was complicated by a high-definition leak of the film online.",
-          "source": "THE WEEK",
-          "url": "https://www.theweek.in/news/entertainment/2026/07/10/joseph-vijay-jana-nayagan-censorship.html"
         }
       ]
     }
