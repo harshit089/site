@@ -1,5 +1,127 @@
 [
   {
+    "generated_at": "2026-07-18T18:53:41.542465+00:00",
+    "brief": "Tensions between the US and Iran have escalated, sparking concerns over regional stability and global economic implications, while a positive shift in US-China relations is marked by the revival of Hong Kong's special trade status. Meanwhile, India's economy is expected to face challenges in the coming fiscal year, with rising inflation and slowing growth potentially prompting the RBI to hike interest rates, a development that may be influenced by global economic trends, including a potential slowdown warned by Moody's Analytics. The Indian startup ecosystem is also experiencing significant changes, with selective funding slowing down startup creation, but potential indirect benefits from upcoming IPOs of major AI companies.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Escalating Tensions: US-Iran Conflict Intensifies in the Gulf",
+          "summary": "The US and Iran are engaged in a military confrontation in the Gulf, with attacks on key infrastructure and disruptions to oil shipments, raising global economic concerns and sparking international alarm over regional stability. The conflict has intensified possibilities of all-out war. This escalation has significant implications for global geopolitics and trade.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/law-order/3952206-escalating-tensions-us-iran-conflict-intensifies-in-the-gulf"
+        },
+        {
+          "title": "Iran warns of 'offensive and destructive' phase if US war continues",
+          "summary": "A top Iranian military adviser has warned that if the US continues its war against Iran, the country will enter an 'offensive and destructive' phase. This statement comes amid heightened tensions between the two nations. The warning suggests that Iran is prepared to escalate its response to US actions.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/iran-warns-of-offensive-and-destructive-phase-if-us-war-continues/"
+        },
+        {
+          "title": "Revival of Hong Kong's Special Trade Status Marks Positive Shift in US-China Relations",
+          "summary": "The US plans to restore Hong Kong's special trading status, which was rescinded in 2020 due to China's national security law. This decision follows recent trade talks between the US and China and may ease trade restrictions. The move could mark a positive shift in US-China relations.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3952011-revival-of-hong-kongs-special-trade-status-marks-positive-shift-in-us-china-relations"
+        },
+        {
+          "title": "Kenya airport deal proves China’s disinformation drive to win African infra projects",
+          "summary": "China has been using disinformation and other tactics to secure infrastructure projects in Africa, including a recent airport deal in Kenya. This approach has raised concerns about China's influence on the continent and its impact on local economies. The use of disinformation and debt diplomacy is a key aspect of China's strategy.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/kenya-airport-deal-proves-chinas-disinformation-drive-to-win-african-infra-projects-1/"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Why India Needs Three Inflation Numbers To Understand One Economy",
+          "summary": "India uses three different inflation numbers - CPI, WPI, and PPI - to measure inflation at various stages of the economy. These numbers are important for understanding price trends, corporate margins, and the RBI's policy decisions. They also provide insights into India's growth outlook.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/economy-and-policy/why-india-needs-three-inflation-numbers-to-understand-one-economy"
+        },
+        {
+          "title": "Crisil sees volatile FY27: Inflation to rise to 5.1%, growth to slow; RBI may hike rates",
+          "summary": "According to a Crisil report, India's economy may face challenges in 2026-27 due to rising inflation and slowing growth. The RBI may respond to these challenges by hiking interest rates. This could impact India's economic growth and monetary policy.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/business/crisil-sees-volatile-fy27-inflation-to-rise-to-5-1-growth-to-slow-rbi-may-hike-rates-4293869/"
+        },
+        {
+          "title": "Global economy tipping towards a sharp slowdown, India ‘may lose a step’ too: Moody's Analytics",
+          "summary": "Moody's Analytics has warned that the global economy is headed for a slowdown, which may also impact India's growth. The slowdown is attributed to factors such as an extended US-Iran conflict, which could trigger an energy shock and force central banks to tighten monetary policy. This could have significant implications for India's economy.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/news/moodys-analytics-global-slowdown-india-ai-boom-11784192376799.html"
+        },
+        {
+          "title": "Former RBI governor Raghuram Rajan, 2 other Indians appointed in key US Federal Reserve task forces",
+          "summary": "Former RBI governor Raghuram Rajan, along with two other Indians, has been appointed to key task forces of the US Federal Reserve. These task forces will review key areas of US monetary policy, and the appointments reflect the expertise and experience of the Indian appointees. This development may have implications for global monetary policy and cooperation.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/former-rbi-governor-raghuram-rajan-2-other-indians-appointed-in-key-us-federal-reserve-task-forces-101784180018931.html"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Emergent Raises Series C at $1.5 Billion Valuation, Becomes Unicorn in a Year of Launch",
+          "summary": "Emergent, an AI software creation platform, has raised $130 million in Series C funding, valuing the company at $1.5 billion and making it a unicorn in just a year of its launch. This funding round was led by Creaegis and saw participation from prominent investors. The valuation and funding reflect the growing importance of AI in the tech industry.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/emergent-raises-series-c-at-1-5-billion-valuation-becomes-unicorn-in-a-year-of-launch/"
+        },
+        {
+          "title": "Selective funding slows startup creation in India",
+          "summary": "The number of startups founded in India has significantly decreased, with 314 startups founded in the first half of 2026 compared to 3,222 in 2025. This decline is attributed to selective funding, which has slowed down startup creation in the country. The data highlights the challenges faced by the Indian startup ecosystem.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/selective-funding-slows-startup-creation-in-india/articleshow/132469467.cms"
+        },
+        {
+          "title": "up Ecosystem Could Be an Indirect Winner",
+          "summary": "The upcoming IPOs of OpenAI, Anthropic, and SpaceX could have a positive impact on India's startup ecosystem. Successful AI listings may lead to a revival in VC funding, improved exits, and increased investment in deep-tech startups, ultimately strengthening India's AI ambitions. This development could have significant implications for the Indian startup ecosystem.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/deeptech/ai-ipo-wave-why-indias-start-up-ecosystem-could-be-an-indirect-winner"
+        },
+        {
+          "title": "Bank credit growth to ease as corporates tap bond markets, overseas funding: CareEdge",
+          "summary": "Bank credit growth is expected to slow down as large corporations increasingly opt for domestic bond markets and overseas funding. The Reserve Bank of India's policy measures have made external funding more attractive, reducing the reliance on traditional bank loans. This shift is expected to continue, with overall credit demand remaining healthy but banks financing a smaller share.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
+        },
+        {
+          "title": "Aukera Raises Rs. 90 Cr in Fresh Funding",
+          "summary": "Aukera, a premium lab-grown diamond jewellery brand, has raised Rs 90 crore in fresh funding, led by existing investor Alteria Capital. This funding round comes less than a year after the company raised $15 million, reflecting the strength of Aukera's growth trajectory and the confidence of investors in the business. The company plans to use the funds to accelerate its national expansion.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/aukera-raises-rs-90-cr-over-usd-10-mn-in-fresh-funding-less-than-a-year-after-usd-15-mn-round-as-it-accelerates-national-expansion/"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "SC To Hear Centre Plea Against HC Verdict Nullifying Tenders For Visa Services At 4 Indian Missions",
+          "summary": "The Supreme Court will review the Centre's appeal against a Delhi High Court ruling that annulled a tender for outsourcing Consular, Passport, and Visa services at Indian missions in four cities. This case is significant as it involves the outsourcing of crucial government services. The outcome may impact how India manages its visa services abroad.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/sc-to-hear-centre-plea-against-hc-verdict-nullifying-tenders-for-visa-services-at-4-indian-missions-article-155127721"
+        },
+        {
+          "title": "Coaches second class, not passengers: SC to Rlys",
+          "summary": "The Supreme Court has asked the Railways to reconsider using the term 'second class passenger' in its manuals and documents, as it is deemed offensive to the spirit of the Constitution of India. The court's directive aims to remove class connotations from passengers and instead associate them with the coaches. This move reflects the court's focus on social equality and dignity.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/coaches-second-class-not-passengers-sc-to-rlys-101784315737676.html"
+        },
+        {
+          "title": "SC to look into affordable access to life-saving cancer medicines",
+          "summary": "The Supreme Court will examine the issue of affordable access to life-saving cancer medicines and address judicial delays in cases involving the right to health. The court's decision comes after a breast cancer patient's petition remained pending before the Kerala high court despite being listed 57 times before her death. This case highlights the need for timely access to essential medicines.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/sc-to-look-into-affordable-access-to-life-saving-cancer-medicines-101784315618006.html"
+        },
+        {
+          "title": "Deletion from electoral roll doesn’t take away citizenship: Supreme Court",
+          "summary": "The Supreme Court has clarified that deletion from the electoral roll does not affect a person's citizenship. The court made this statement while issuing notice on a petition related to the exclusion of over 3 million Bengal voters. This ruling is significant as it distinguishes between electoral rights and citizenship.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/deletion-from-electoral-roll-doesn-t-take-away-citizenship-supreme-court-101784337559016.html"
+        },
+        {
+          "title": "India’s first night safari gets SC nod: What the Kukrail project will offer",
+          "summary": "The Supreme Court has approved the Kukrail Night Safari project in Lucknow, which is India's first night safari. The project, worth Rs 1,510 crore, took four years to get clearance. The night safari will offer a unique experience for visitors, showcasing various animal species in a controlled environment.",
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/explained/indias-first-night-safari-gets-sc-nod-what-the-kukrail-project-will-offer-10791206/"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-18T12:59:03.169063+00:00",
     "brief": "The global economy is showing signs of a slowdown, with Moody's Analytics warning of a sharp downturn that could impact India's growth momentum, while Crisil predicts a volatile FY27 with rising inflation and slowing growth. Meanwhile, diplomatic efforts are underway to improve international relations, including the US plans to restore Hong Kong's special trading status, which could ease trade restrictions and have significant implications for global trade and diplomacy. In India, the startup ecosystem is facing challenges due to selective funding, with a significant decline in the number of startups founded in the first half of 2026, although upcoming IPOs of AI companies could potentially revive VC funding and boost deep-tech investment.",
     "categories": {
@@ -3715,140 +3837,6 @@
           "summary": "The Supreme Court has warned the state of Maharashtra that it will expose any attempts to delay trials, emphasizing the importance of protecting the liberty of arrested individuals. The court's statement comes in response to the state's tendency to oppose bail pleas, which can lead to lengthy trial delays. The Supreme Court's warning is seen as a significant step towards ensuring that the justice system functions efficiently and protects individual rights.",
           "source": "Times of India",
           "url": "https://timesofindia.indiatimes.com/india/well-expose-you-for-trial-delay-sc-to-maharashtra/articleshow/132320521.cms"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-11T18:51:58.878783+00:00",
-    "brief": "Tensions between the US and Iran continue to escalate, with President Trump threatening \"complete decimation\" over an assassination threat, while satellite images suggest Iran may be rebuilding its nuclear facilities. Meanwhile, in India, the economy is expected to show a stronger demand trend, but the Reserve Bank of India may increase interest rates later this year due to rising domestic inflation concerns, which could impact the country's growth forecast, recently lowered to 6.6% by the Asian Development Bank. Additionally, India is strengthening its diplomatic ties with various regions, including Newfoundland and Labrador, and celebrating its cultural and educational connections with Indonesia, as part of its broader strategy to engage with the world.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Trump warns Iran of 'complete decimation' over assassination threat",
-          "summary": "US President Trump has threatened to completely decimate Iran with 1,000 missiles if they attempt to assassinate him. This escalation in rhetoric highlights the ongoing tensions between the US and Iran. The situation is being closely watched due to its potential impact on global geopolitics.",
-          "source": "Malayala Manorama",
-          "url": "https://www.onmanorama.com/news/world/2026/07/11/us-president-trump-warns-iran-of-complete-decimation-over-assassination-threat.html"
-        },
-        {
-          "title": "When Gandhi and other Indian thinkers joined the world to take on the race problem",
-          "summary": "In 1911, Indian thinkers including Gandhi joined a global gathering in London to discuss a more just international order. Although the event was overshadowed by World War I, it marked an important moment in the history of international relations and the fight against racism. This historical context continues to influence modern geopolitical discussions.",
-          "source": "Scroll.in",
-          "url": "https://scroll.in/magazine/1094096/when-gandhi-and-other-indian-thinkers-joined-the-world-to-take-on-the-race-problem"
-        },
-        {
-          "title": "US-Iran War Live Updates: Tehran may be rebuilding nuclear facilities, show satellite pics",
-          "summary": "The US has expressed concerns that Iran may be rebuilding its nuclear facilities, as evidenced by satellite images. The US has asked Iran to commit to not targeting commercial vessels and to keeping the Strait of Hormuz open. These developments are part of the ongoing tensions between the US and Iran, with significant implications for global geopolitics.",
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/world/us-iran-war-live-updates-today-donald-trump-nuclear-facility-rebuilding-missile-attack-hormuz-10781443/"
-        },
-        {
-          "title": "India discusses strengthening relations with premier of Newfoundland and Labrador",
-          "summary": "India has held discussions with the premier of Newfoundland and Labrador to strengthen relations between the two. The meeting, held in Toronto, highlights India's efforts to expand its diplomatic ties beyond traditional partners. This move is part of India's broader strategy to engage with various regions and countries around the world.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/india-discusses-strengthening-relations-with-premier-of-newfoundland-and-labrador/"
-        },
-        {
-          "title": "India, Indonesia to celebrate ‘Tagore-Dewantara Year of Cultural and Educational Diplomacy’",
-          "summary": "India and Indonesia are set to celebrate the 'Tagore-Dewantara Year of Cultural and Educational Diplomacy' to commemorate the cultural and educational ties between the two nations. This initiative aims to strengthen people-to-people connections and promote mutual understanding. The celebration is expected to enhance bilateral relations between India and Indonesia.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/india-indonesia-to-celebrate-tagore-dewantara-year-of-cultural-and-educational-diplomacy/"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "E20 petrol may reduce mileage by 3-5%",
-          "summary": "The Oil Ministry has stated that E20 petrol, which contains 20% ethanol, may reduce vehicle efficiency by 3-5%. However, it offers benefits like cleaner engines and lower carbon emissions. This information is crucial for consumers and automobile manufacturers as India plans to roll out E20 fuel.",
-          "source": "Malayala Manorama",
-          "url": "https://www.onmanorama.com/news/india/2026/07/10/e20-petrol-may-reduce-fuel-efficiency-says-oil-ministry.html"
-        },
-        {
-          "title": "RBI rate hike: Interest burden for Indians may go up later this year",
-          "summary": "The Reserve Bank of India is expected to keep policy rates steady in the short term, but may increase rates later this year due to rising domestic inflation concerns. This could lead to a higher interest burden for Indians. The economy is expected to show a stronger demand trend, with a reduced current account deficit.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-rate-ike-chances-bank-of-america-rbirate-hike-interest-burden-for-indians-may-go-up-later-this-year-amid-inflation-risks/articleshow/132305465.cms"
-        },
-        {
-          "title": "BofA sees RBI holding rates near term, expects 50 bps hike from Dec 2026",
-          "summary": "BofA Securities expects the Reserve Bank of India to keep policy rates unchanged in the near term, but predicts a 50 basis points rate hike from December 2026 due to domestic inflation risks. This could impact the economy and interest rates in the country.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/bofa-sees-rbi-holding-rates-near-term-expects-50-bps-hike-from-dec-2026-amid-domestic-inflation-risks/"
-        },
-        {
-          "title": "Why India is launching an index of services production",
-          "summary": "India is launching an index of services production to provide high-frequency information on the services economy, which will enable better policy decisions and economic forecasting. This index will complement the existing index of industrial production.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/economy/explainer-index-of-services-production-india-services-sector-economic-indicator-indian-economy-11783658423548.html"
-        },
-        {
-          "title": "ADB cuts India FY27 growth forecast to 6.6% on higher oil prices",
-          "summary": "The Asian Development Bank has lowered India's FY27 growth forecast to 6.6% due to higher crude oil prices and transportation costs, which will impact consumer sentiment and demand. The bank expects policy measures and public capital expenditure to support India's economic momentum.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/adb-cuts-india-fy27-growth-forecast-to-6-6-on-higher-oil-prices/articleshow/132297258.cms"
-        }
-      ],
-      "Business": [
-        {
-          "title": "Aukera Raises Rs. 90 Cr in Fresh Funding",
-          "summary": "Aukera, a premium lab-grown diamond jewellery brand, has raised Rs 90 crore in fresh funding to accelerate its national expansion. This funding comes less than a year after the company closed a USD 15 million equity round. The investment reflects the strength of Aukera's growth trajectory and the confidence of lenders and investors in the business.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/aukera-raises-rs-90-cr-over-usd-10-mn-in-fresh-funding-less-than-a-year-after-usd-15-mn-round-as-it-accelerates-national-expansion/"
-        },
-        {
-          "title": "Bank credit growth to ease as corporates tap bond markets",
-          "summary": "Bank credit growth is expected to moderate as large corporations increasingly use domestic bond markets and overseas borrowings for funding. The Reserve Bank of India's policy measures make external funding more attractive for businesses, reducing reliance on traditional bank loans. Overall credit demand remains healthy, but banks will finance a smaller share.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
-        },
-        {
-          "title": "Neuberg readies for IPO in FY28",
-          "summary": "Neuberg Diagnostics plans an initial public offering in fiscal year 2028, aiming to raise approximately ₹3,500-4,000 crore. The company will also secure Rs 5000 crore for acquisitions through a pre-IPO funding round, targeting pan-India growth and new diagnostic technologies. Neuberg expects to become the second-largest player in the diagnostics market.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
-        },
-        {
-          "title": "Corporate Paper issuances touch 5-yr high",
-          "summary": "Indian companies raised Rs 2.53 lakh crore through commercial papers in June, a near five-year high. This surge was driven by attractive pricing, seasonal needs, and debt refinancing, with experts noting a shift from costlier bank loans to cheaper short-term market funding. The Reserve Bank of India's liquidity infusions also contributed to favorable conditions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
-        },
-        {
-          "title": "India's banks are handing out more loans, but deposits aren't keeping up",
-          "summary": "Indian banks witnessed a surge in lending during the April-June quarter, outpacing deposit growth and widening the funding gap. This trend has pushed the loan-to-deposit ratio to a decade-high, raising concerns about funding sustainability. Some lenders saw deposits decline, while others maintained a balance, reflecting varied strategies amidst intense competition.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-banks-are-handing-out-more-loans-but-deposits-arent-keeping-up/articleshow/132177579.cms"
-        },
-        {
-          "title": "Almost half of UDAN routes have become non-operational",
-          "summary": "Nearly half of India’s UDAN regional flight routes have gone non-operational, despite the government launching a revamped phase with higher subsidies and airport funding. The scheme is being reshaped by viability gap support, infrastructure delays, and airline distress. This development affects the country's flagship connectivity scheme.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/news/almost-half-of-udan-routes-have-become-non-operational-says-report"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "West Bengal govt forms 9-member panel to examine draft UCC bill; legislation may be tabled in August",
-          "summary": "The West Bengal government has formed a 9-member expert committee to examine the draft Uniform Civil Code (UCC) bill, which may be tabled in August. The committee, headed by retired Supreme Court judge Justice Ranjana Prakash Des, will review the draft bill. This development is significant as it indicates the state's stance on the proposed legislation.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/west-bengal-govt-forms-9-member-panel-to-examine-draft-ucc-bill-legislation-may-be-tabled-in-august/articleshow/132325851.cms"
-        },
-        {
-          "title": "Supreme Court Suggestion To Create Fund For Assisting Young Lawyers",
-          "summary": "The Supreme Court has suggested creating a fund to assist young lawyers, particularly first-generation lawyers, to help them establish their practice. This move aims to support the development of young legal professionals. The suggestion was made in a significant order passed by a Division Bench in the Supreme Court.",
-          "source": "Daily Excelsior",
-          "url": "https://www.dailyexcelsior.com/supreme-court-suggestion-to-create-fund-for-assisting-young-lawyers/"
-        },
-        {
-          "title": "'We'll expose you' for trial delay: SC to Maharashtra",
-          "summary": "The Supreme Court has warned the state of Maharashtra that it will expose the state's inaction in delaying trials, emphasizing the importance of protecting the liberty of arrested individuals. The court's statement highlights its concern over the slow pace of trials in the country. The court's warning is a significant development in the context of judicial reforms.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/well-expose-you-for-trial-delay-sc-to-maharashtra/articleshow/132320521.cms"
-        },
-        {
-          "title": "SC: Even a snail can question pace of trials",
-          "summary": "The Supreme Court has expressed concern over the slow pace of trials in the country, stating that even a snail would question the delay. The court's comment was made in reference to a commercial suit filed in 2015 that is still at the evidence stage in the Delhi High Court. The court's statement highlights the need for expediting the judicial process.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/sc-even-a-snail-can-question-pace-of-trials/articleshow/132320479.cms"
         }
       ]
     }
