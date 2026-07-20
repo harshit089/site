@@ -1,5 +1,127 @@
 [
   {
+    "generated_at": "2026-07-20T08:46:30.388134+00:00",
+    "brief": "Global tensions continue to escalate, with China's recent nuclear-capable missile launch from a submarine and the ongoing US-Iran conflict in the Strait of Hormuz, highlighting the complexities of international relations and global security. Meanwhile, India's economic outlook remains a key focus, with Deloitte forecasting a 6.5-6.8% GDP expansion in the current fiscal year, despite global uncertainties, and Gujarat topping NITI Aayog's Investment Friendliness Index 2026. As the global economy is predicted to slow down, with Moody's Analytics warning of a sharp slowdown, India's growth prospects are also expected to be impacted, making it essential to monitor these developments closely.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "China's missile test came while US engaged in war: Report",
+          "summary": "China recently conducted a nuclear-capable missile launch from a submarine, with the timing of the test raising questions as the US was engaged in a war. This move deserves more scrutiny, given the geopolitical implications. The test highlights the complexities of international relations and global security.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/chinas-missile-test-came-while-us-engaged-in-war-report/"
+        },
+        {
+          "title": "How Argentina’s FIFA semifinal win brought Falkland Islands back into spotlight",
+          "summary": "Argentina's recent FIFA semifinal win has brought the Falkland Islands dispute back into the spotlight, highlighting the historical context and ongoing significance of this territorial conflict. The dispute involves Argentina and the UK, with the Falkland Islands being a British overseas territory. This issue is relevant to international relations and geopolitics.",
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-argentinas-fifa-semifinal-win-falkland-islands-dispute-upsc-10789390/"
+        },
+        {
+          "title": "Air India Express restores 90% of West Asia flights, expects full recovery by October",
+          "summary": "Air India Express has restored about 90% of its flights to West Asia, despite disruptions caused by the conflict in the region. The airline expects to return to pre-war operations by October, if the security situation does not worsen. This development has implications for international air travel and trade in the region.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/business/aviation/air-india-express-restores-90-of-west-asia-flights-expects-full-recovery-by-october-19948918.htm"
+        },
+        {
+          "title": "World News Today Live Updates on July 19, 2026 : US vs Iran war: How Strait of Hormuz crisis triggered 8 days of strikes",
+          "summary": "The Strait of Hormuz crisis triggered 8 days of strikes between the US and Iran, highlighting the complexities of international relations and global security. The crisis has significant implications for global trade and geopolitics, particularly in the Middle East region. The development is being closely watched by nations around the world.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/news/world/total-world-latest-news-on-july-19-2026-live-updates-11784423531294.html"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Deloitte Forecasts 6.5-6.8 pc GDP Expansion In Current Fiscal",
+          "summary": "Deloitte has forecasted India's GDP to grow between 6.5-6.8% in the current fiscal year, despite global uncertainties and risks such as weather-related events. The forecast takes into account recent geopolitical developments and central bank policy measures. This growth projection is significant for understanding India's economic outlook.",
+          "source": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/business/economics/deloitte-forecasts-65-68-pc-gdp-expansion-in-current-fiscal-1972250"
+        },
+        {
+          "title": "Gujarat tops NITI Aayog's Investment Friendliness Index 2026",
+          "summary": "Gujarat has been ranked as the most investment-friendly state in India, according to NITI Aayog's Investment Friendliness Index 2026. The state's investor-friendly business environment, policy stability, and efficient single-window system have contributed to its top ranking. This ranking is important for understanding India's economic competitiveness.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/gujarat-tops-niti-aayogs-investment-friendliness-index-2026/articleshow/132477319.cms"
+        },
+        {
+          "title": "Why India Needs Three Inflation Numbers To Understand One Economy",
+          "summary": "India uses three different inflation numbers - CPI, WPI, and PPI - to measure inflation at various stages of the economy. Understanding these numbers is crucial for analyzing price trends, corporate margins, and the RBI's policy decisions. This is significant for grasping India's economic growth outlook.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/economy-and-policy/why-india-needs-three-inflation-numbers-to-understand-one-economy"
+        },
+        {
+          "title": "Crisil sees volatile FY27: Inflation to rise to 5.1%, growth to slow; RBI may hike rates",
+          "summary": "Crisil has warned that India's macroeconomic outlook for 2026-27 is challenging, with rising inflation and slowing growth expected. The RBI may respond to these challenges with cautious policy measures, including potential rate hikes. This forecast is important for understanding India's economic prospects.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/business/crisil-sees-volatile-fy27-inflation-to-rise-to-5-1-growth-to-slow-rbi-may-hike-rates-4293869/"
+        },
+        {
+          "title": "Global economy tipping towards a sharp slowdown, India ‘may lose a step’ too: Moody's Analytics",
+          "summary": "Moody's Analytics has predicted that the global economy is headed for a slower growth phase over the next two years, with India also expected to lose momentum. This slowdown is attributed to factors such as an extended US-Iran conflict and potential energy shocks. This forecast is significant for understanding the global economic outlook and its implications for India.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/news/moodys-analytics-global-slowdown-india-ai-boom-11784192376799.html"
+        }
+      ],
+      "Business": [
+        {
+          "title": "How an Ex-Bank Clerk Built India’s Olympic Medal Factory",
+          "summary": "A former bank clerk has sparked a ₹100-crore multi-sport revolution in India by replacing government funding with private funding, leading to the creation of Olympic medals. This initiative has transformed the sports landscape in India. The model has been successful in producing Olympic medal winners.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/sports/sports-insights/how-an-ex-bank-clerk-built-indias-olympic-medal-factory/4296037/"
+        },
+        {
+          "title": "Emergent Raises Series C at $1.5 Billion Valuation, Becomes Unicorn in a Year of Launch",
+          "summary": "Emergent, an AI software creation platform, has raised $130 million in Series C funding, valuing the company at $1.5 billion and making it a unicorn within a year of its launch. The funding round was led by Creaegis and included participation from prominent investors. This milestone highlights the growing importance of AI in the tech industry.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/emergent-raises-series-c-at-1-5-billion-valuation-becomes-unicorn-in-a-year-of-launch/"
+        },
+        {
+          "title": "Selective funding slows startup creation in India",
+          "summary": "The number of startups founded in India has decreased significantly, with 314 startups founded in the first half of 2026 compared to 3,222 in 2025. This decline is attributed to selective funding, which has slowed down startup creation in the country. The data highlights the challenges faced by the Indian startup ecosystem.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/selective-funding-slows-startup-creation-in-india/articleshow/132469467.cms"
+        },
+        {
+          "title": "up Ecosystem Could Be an Indirect Winner",
+          "summary": "The upcoming IPOs of OpenAI, Anthropic, and SpaceX may have a positive impact on India's startup ecosystem, as successful AI listings could revive VC funding, improve exits, and boost deep-tech investment. This could strengthen India's long-term AI ambitions and benefit the startup ecosystem. The IPOs are expected to reshape global venture capital flows.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/deeptech/ai-ipo-wave-why-indias-start-up-ecosystem-could-be-an-indirect-winner"
+        },
+        {
+          "title": "Aukera Raises Rs. 90 Cr in Fresh Funding",
+          "summary": "Aukera, a premium lab-grown diamond jewellery brand, has raised Rs. 90 crore in fresh funding, led by existing investor Alteria Capital. The funding will help the company accelerate its national expansion plans. This investment reflects the confidence of lenders and investors in Aukera's growth trajectory and the lab-grown diamond market in India.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/aukera-raises-rs-90-cr-over-usd-10-mn-in-fresh-funding-less-than-a-year-after-usd-15-mn-round-as-it-accelerates-national-expansion/"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Bill to hike number of SC judges to be introduced in Lok Sabha on Monday",
+          "summary": "A bill to increase the number of Supreme Court judges from 34 to 38, including the Chief Justice of India, is set to be introduced in the Lok Sabha. This move aims to replace an existing ordinance and is expected to be taken up for discussion. The introduction of this bill is a significant development in the country's judicial system.",
+          "source": "ThePrint",
+          "url": "https://theprint.in/india/bill-to-hike-number-of-sc-judges-to-be-introduced-in-lok-sabha-on-monday/2990734/"
+        },
+        {
+          "title": "The Government Must Make Life-Saving Medicines Affordable For The Common Man",
+          "summary": "The Supreme Court has taken up the issue of access to affordable life-saving medicines in India, highlighting the need for options like compulsory licensing and price controls to improve access to essential medicines. This move comes after concerns over costly treatments and the death of a breast cancer patient who was awaiting a decision on an expensive drug. The government is expected to take steps to make life-saving medicines more affordable for citizens.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/analysis/the-government-must-make-life-saving-medicines-affordable-for-the-common-man"
+        },
+        {
+          "title": "Kerala govt directs hospitals to form medical boards for life support withdrawal in terminally ill patients after SC order",
+          "summary": "The Kerala government has directed hospitals to establish medical boards to decide on withdrawing life support for terminally ill patients, following a Supreme Court order. These boards will comprise registered medical practitioners and will be responsible for making end-of-life care decisions. This move aims to ensure that patients receive appropriate care and that their rights are protected.",
+          "source": "Malayala Manorama",
+          "url": "https://www.onmanorama.com/news/kerala/2026/07/19/kerala-hospitals-to-set-up-medical-boards-for-withdrawal-of-life-support-in-terminally-ill-patients.html"
+        },
+        {
+          "title": "No relief for Wangchuk: Delhi HC backs government's move to shift Sonam to hospital, says no force used",
+          "summary": "The Delhi High Court has upheld the government's decision to shift climate activist Sonam Wangchuk to a hospital, stating that no force was used in the process. The court observed that the government's move was not arbitrary and declined to provide interim relief. This decision is significant as it relates to the government's handling of a high-profile case.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/no-relief-for-wangchuk-delhi-hc-backs-governments-move-to-shift-sonam-to-hospital-says-no-force-used/articleshow/132492735.cms"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-20T02:23:06.665088+00:00",
     "brief": "Tensions between the US and Iran continue to escalate, with the US preparing for a potential military operation and Iran condemning US strikes on Chabahar Port as a war crime. Meanwhile, India's economy is expected to face a volatile year ahead, with rising inflation and slowing growth predicted by Crisil, and Moody's Analytics warning of a global economic slowdown that could impact India's growth. In other news, Gujarat has been ranked as the most investment-friendly state in India, according to NITI Aayog's Investment Friendliness Index 2026, which could attract significant investor confidence and support sustained investment growth.",
     "categories": {
@@ -3642,134 +3764,6 @@
           "summary": "The Supreme Court will hear a plea by the Securities and Exchange Board of India (SEBI) challenging a relief granted to managers and the company secretary of Sahara India Commercial Corporation Ltd (SICCL) by the Securities Appellate Tribunal. The case relates to the OFCD (Optionally Fully Convertible Debentures) issue and SEBI's regulatory actions. The court's decision will have implications for the securities market and regulatory framework.",
           "source": "ThePrint",
           "url": "https://theprint.in/india/ofcd-case-sc-to-hear-sebis-plea-against-sat-relief-to-siccl-managers-on-monday/2984365/"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-13T08:56:03.822492+00:00",
-    "brief": "Tensions between the US and Iran have escalated, with both countries exchanging strikes and raising fears of a wider regional conflict, while Russia's military intelligence activities have been uncovered in Tokyo, highlighting the global reach of its operations. Meanwhile, in India, the economy is facing challenges, including a potential interest rate hike by the Reserve Bank of India and a cut in growth forecast by the Asian Development Bank due to higher oil prices. Additionally, the Indian government is introducing an index of services production to provide better insights into the economy, and the banking sector is seeing a surge in lending, outpacing deposit growth and raising concerns about funding sustainability.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "US-Iran War Live: Iran claims it destroyed Patriot missile system in tit-for-tat strikes",
-          "summary": "The conflict between the US and Iran has escalated, with both sides exchanging missile and drone strikes, raising fears of a wider regional conflict. The Strait of Hormuz, a vital shipping route, has been closed by Iran, while the US insists it remains open to commercial shipping. The escalating conflict has disrupted global energy corridors, pushing up oil prices and raising concerns over global trade.",
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/world/story/us-iran-war-live-updates-strait-of-hormuz-middle-east-tensions-ceasefire-donald-trump-west-asia-crisis-2946436-2026-07-13"
-        },
-        {
-          "title": "How Putin runs his war machine from a Tokyo high",
-          "summary": "A secretive Russian military intelligence unit is operating out of a Tokyo high-rise, helping to supply Vladimir Putin's war machine by buying and smuggling goods. This unit is playing a significant role in supporting Russia's military operations. The report highlights the global reach of Russia's military intelligence activities.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/defence/international/how-putin-runs-his-war-machine-from-a-tokyo-high-rise-report/articleshow/132349965.cms"
-        },
-        {
-          "title": "Netanyahu's remarks on India reveal a structural shift and signal defence ties: Report",
-          "summary": "Israeli President Benjamin Netanyahu's recent remarks suggest a shift in Israel's approach to developing alliances, with a focus on India. This could signal a strengthening of defence ties between the two countries. The development is significant for India's foreign policy and defence relationships.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/netanyahus-remarks-on-india-reveal-a-structural-shift-and-signal-defence-ties-report/"
-        },
-        {
-          "title": "Zelenskyy Proposes Replacing Ukraine's Prime Minister in Government Reshuffle",
-          "summary": "Ukrainian President Volodymyr Zelenskyy has proposed replacing the country's Prime Minister as part of a government reshuffle. The move is seen as an effort to reorganize the government amid ongoing challenges. The proposed changes could have significant implications for Ukraine's domestic and international relations.",
-          "source": "Outlook India",
-          "url": "https://www.outlookindia.com/international/zelenskyy-proposes-replacing-ukraines-prime-minister-in-government-reshuffle"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "E20 petrol may reduce mileage by 3-5%",
-          "summary": "The Oil Ministry has stated that E20 petrol, which contains 20% ethanol, may reduce vehicle efficiency by 3-5% but offers benefits like cleaner engines and lower carbon emissions. This information is crucial for vehicle owners and manufacturers as India plans to roll out E20 fuel. The reduction in fuel efficiency will impact vehicle mileage, but the benefits of cleaner fuel and lower emissions are significant.",
-          "source": "Malayala Manorama",
-          "url": "https://www.onmanorama.com/news/india/2026/07/10/e20-petrol-may-reduce-fuel-efficiency-says-oil-ministry.html"
-        },
-        {
-          "title": "RBI rate hike: Interest burden for Indians may go up later this year",
-          "summary": "The Reserve Bank of India is expected to keep policy rates steady in the short term, but may increase rates later this year due to rising domestic inflation concerns. This could lead to a higher interest burden for Indians, affecting their borrowing costs and overall economy. The RBI's decision will depend on the inflation trend and external accounts, including the current account deficit.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-rate-ike-chances-bank-of-america-rbirate-hike-interest-burden-for-indians-may-go-up-later-this-year-amid-inflation-risks/articleshow/132305465.cms"
-        },
-        {
-          "title": "Why India is launching an index of services production",
-          "summary": "India is introducing an index of services production to provide high-frequency information on the services economy, which will help in making better policy decisions and economic forecasting. This index will complement the existing index of industrial production, giving a more comprehensive picture of the economy. The services sector is a significant contributor to India's GDP, and this index will help track its performance.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/economy/explainer-index-of-services-production-india-services-sector-economic-indicator-indian-economy-11783658423548.html"
-        },
-        {
-          "title": "ADB cuts India FY27 growth forecast to 6.6% on higher oil prices",
-          "summary": "The Asian Development Bank has lowered India's FY27 growth forecast to 6.6% due to higher crude oil prices and transportation costs, which will impact consumer sentiment and demand. The bank expects global conditions to improve in FY28, retaining its growth forecast at 7.3%. The inflation forecast for FY27 has been raised to 5.2% due to oil and food prices, and policy measures will support India's economic momentum.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/adb-cuts-india-fy27-growth-forecast-to-6-6-on-higher-oil-prices/articleshow/132297258.cms"
-        }
-      ],
-      "Business": [
-        {
-          "title": "Aukera Raises Rs. 90 Cr in Fresh Funding",
-          "summary": "Aukera, a premium lab-grown diamond jewellery brand, has raised Rs. 90 crore in fresh funding to accelerate its national expansion. This funding comes less than a year after the company raised USD 15 million, reflecting the strength of its growth trajectory. The investment will help Aukera strengthen its balance sheet as it competes with other players in the market.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/aukera-raises-rs-90-cr-over-usd-10-mn-in-fresh-funding-less-than-a-year-after-usd-15-mn-round-as-it-accelerates-national-expansion/"
-        },
-        {
-          "title": "Bank credit growth to ease as corporates tap bond markets, overseas funding",
-          "summary": "Bank credit growth is expected to moderate as large corporations increasingly use domestic bond markets and overseas borrowings for funding. This shift is driven by the Reserve Bank of India's policy measures, which make external funding more attractive for businesses. As a result, banks will finance a smaller share of corporate financing needs.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
-        },
-        {
-          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
-          "summary": "Neuberg Diagnostics plans to launch an initial public offering in fiscal year 2028, aiming to raise approximately ₹3,500-4,000 crore. The company will use the funds to drive pan-India growth and acquire new diagnostic technologies, with the goal of becoming the second-largest player in the diagnostics market. A pre-IPO funding round will also secure Rs 5000 crore for acquisitions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
-        },
-        {
-          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
-          "summary": "Indian companies raised a record Rs 2.53 lakh crore through commercial papers in June, driven by attractive pricing, seasonal needs, and debt refinancing. This surge reflects a shift from costlier bank loans to cheaper short-term market funding, supported by ample investor demand and a stable liquidity environment. The Reserve Bank of India's liquidity infusions also contributed to favorable conditions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
-        },
-        {
-          "title": "India's banks are handing out more loans, but deposits aren't keeping up",
-          "summary": "Indian banks have seen a surge in lending, outpacing deposit growth and widening the funding gap. This trend has pushed the loan-to-deposit ratio to a decade-high, raising concerns about funding sustainability. The mismatch between loan growth and deposit growth reflects varied strategies amidst intense competition in the banking sector.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-banks-are-handing-out-more-loans-but-deposits-arent-keeping-up/articleshow/132177579.cms"
-        },
-        {
-          "title": "Almost half of UDAN routes have become non-operational",
-          "summary": "Nearly half of India's UDAN regional flight routes have become non-operational, despite the government launching a revamped phase with higher subsidies and airport funding. The viability gap support, infrastructure delays, and airline distress are reshaping the country's flagship connectivity scheme. This development raises concerns about the effectiveness of the UDAN scheme in improving regional connectivity.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/news/almost-half-of-udan-routes-have-become-non-operational-says-report"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "SC To Hear On Jul 13 Plea Seeking Guidelines To Curb 'Unpredictable Fluctuations' Of Airfares",
-          "summary": "The Supreme Court will hear a plea seeking guidelines to regulate airfares and ancillary charges imposed by private airlines in India. The plea aims to control the unpredictable fluctuations in airfares. This case is significant as it may lead to regulatory changes in the aviation industry.",
-          "source": "Daily Excelsior",
-          "url": "https://www.dailyexcelsior.com/sc-to-hear-on-jul-13-plea-seeking-guidelines-to-curb-unpredictable-fluctuations-of-airfares/"
-        },
-        {
-          "title": "OFCD case: SC to hear SEBI's plea against SAT relief to SICCL managers on Monday",
-          "summary": "The Supreme Court will hear a plea by the Securities and Exchange Board of India (SEBI) challenging a relief granted to managers and the company secretary of Sahara India Commercial Corporation Ltd. The case is related to the OFCD case and may have implications for regulatory actions in the financial sector.",
-          "source": "ThePrint",
-          "url": "https://theprint.in/india/ofcd-case-sc-to-hear-sebis-plea-against-sat-relief-to-siccl-managers-on-monday/2984365/"
-        },
-        {
-          "title": "The Goondas Act: Is India's reliance on preventive detention undermining rule of law?",
-          "summary": "The use of preventive detention in India has been a contentious issue, with the Supreme Court warning that it is repugnant to democratic ideas. The continued use of preventive detention by governments raises concerns about the rule of law in the country. This issue highlights the need for a balance between national security and individual rights.",
-          "source": "THE WEEK",
-          "url": "https://www.theweek.in/theweek/current/2026/07/11/the-goondas-act-is-indias-reliance-on-preventive-detention-undermining-rule-of-law.html"
-        },
-        {
-          "title": "Right of way: The right to walk safely demands more than urban design standards for demarcated pavements",
-          "summary": "The Supreme Court has recognized walking on demarcated footpaths as a fundamental right, which has implications for urban design and planning in India. This ruling may lead to changes in the way streets are designed to prioritize pedestrian safety. The case highlights the importance of urban planning in ensuring citizens' rights.",
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/karnataka/right-of-way-the-right-to-walk-safely-demands-more-than-urban-design-standards-for-demarcated-pavements/article71210733.ece"
-        },
-        {
-          "title": "Omar Abdullah claims BJP offered his MLA ₹20-30 crore, ministerial berth, J&K ‘statehood’ to switch sides",
-          "summary": "Omar Abdullah has alleged that the BJP offered one of his MLAs a large sum of money, a ministerial berth, and the promise of statehood for Jammu and Kashmir to defect to the BJP. This claim has significant implications for politics in Jammu and Kashmir and raises questions about political defections and horse-trading.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/omar-abdullah-claims-bjp-offered-his-mla-20-30-crore-ministerial-berth-statehood-to-switch-sides-jammu-and-kashmir-101783778618250.html"
         }
       ]
     }
