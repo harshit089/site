@@ -1,5 +1,139 @@
 [
   {
+    "generated_at": "2026-07-20T19:29:42.505856+00:00",
+    "brief": "Today's brief highlights the interconnectedness of global events and their impact on India's economy and international relations. The ongoing conflict between Ukraine and Russia, as well as the Iran war, are posing significant risks to global trade and oil supplies, which in turn are affecting India's inflation and economic growth prospects. Meanwhile, the RBI Governor has flagged these geopolitical developments as major risks to India's economy, and forecasters such as Deloitte and Crisil are predicting a moderate to volatile growth outlook for the country. Against this backdrop, India's foreign policy and international partnerships are being closely watched, with a focus on incentivizing trust and cooperation in a rapidly changing global landscape.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Why trust in international relations needs to be incentivised",
+          "summary": "India's foreign policy is based on a realist conception of trust, which emphasizes material partnerships. This approach to trust is significant in understanding India's international relations. It highlights the need to incentivize trust in international partnerships.",
+          "source": "ThePrint",
+          "url": "https://theprint.in/opinion/trust-in-international-relations-needs-to-be-incentivised/2990771/"
+        },
+        {
+          "title": "Russia Fuel Crisis: Ukrainian Strikes Trigger Petrol Shortages, Long Queues Across Regions",
+          "summary": "The ongoing conflict between Ukraine and Russia has led to a fuel crisis in Russia, resulting in petrol shortages and long queues. This crisis is affecting ordinary citizens and highlighting the impact of the war on daily life. The situation is unusual for a country that is one of the world's leading oil-producing nations.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/russia-fuel-crisis-ukrainian-strikes-trigger-petrol-shortages-long-queues-across-regions-a525/"
+        },
+        {
+          "title": "Iran war puts Hormuz, Suez trade at risk",
+          "summary": "The conflict involving Iran poses a risk to trade through the Strait of Hormuz and the Suez Canal. This could have significant implications for global trade and oil supplies. The situation is being closely monitored by the international community.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/iran-war-puts-hormuz-suez-trade-at-risk/"
+        },
+        {
+          "title": "China's missile test came while US engaged in war: Report",
+          "summary": "China recently conducted a nuclear-capable missile launch from a submarine, which has raised concerns. The timing of the test is notable, as it occurred while the US was engaged in a war. This development has significant implications for international relations and global security.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/chinas-missile-test-came-while-us-engaged-in-war-report/"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "RBI Governor flags Iran war, weak monsoon as the biggest risks to India’s inflation and economic growth",
+          "summary": "The RBI Governor has identified the Iran war and a weak monsoon as major risks to India's inflation and economic growth, despite the country's strong economic fundamentals. The RBI will monitor inflationary pressures before making any monetary policy adjustments. This highlights the potential impact of global events on India's economy.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/wealth/save/rbi-governor-flags-iran-war-weak-monsoon-as-the-biggest-risks-to-indias-inflation-and-economic-growth/articleshow/132466103.cms"
+        },
+        {
+          "title": "Deloitte Forecasts 6.5-6.8 pc GDP Expansion In Current Fiscal",
+          "summary": "Deloitte has forecast a 6.5-6.8% GDP expansion in the current fiscal year, citing a uncertain global environment and weather-related risks. The forecast takes into account recent geopolitical developments and central bank policy measures. This indicates a moderate growth outlook for the Indian economy.",
+          "source": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/business/economics/deloitte-forecasts-65-68-pc-gdp-expansion-in-current-fiscal-1972250"
+        },
+        {
+          "title": "Gujarat tops NITI Aayog's Investment Friendliness Index 2026",
+          "summary": "Gujarat has been ranked as the most investment-friendly state in India, according to NITI Aayog's Investment Friendliness Index 2026. The state's investor-friendly business environment, policy stability, and efficient single-window system have contributed to its top ranking. This highlights Gujarat's competitive advantage in attracting investments.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/gujarat-tops-niti-aayogs-investment-friendliness-index-2026/articleshow/132477319.cms"
+        },
+        {
+          "title": "Why India Needs Three Inflation Numbers To Understand One Economy",
+          "summary": "India uses three different inflation numbers - CPI, WPI, and PPI - to measure inflation at various stages of the economy. Understanding these numbers is crucial for analyzing price trends, corporate margins, and the RBI's policy decisions. This highlights the complexity of measuring inflation in a large and diverse economy like India.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/economy-and-policy/why-india-needs-three-inflation-numbers-to-understand-one-economy"
+        },
+        {
+          "title": "Crisil sees volatile FY27: Inflation to rise to 5.1%, growth to slow; RBI may hike rates",
+          "summary": "Crisil has forecast a volatile fiscal year 2027, with inflation expected to rise to 5.1% and growth slowing down. The RBI may respond to these challenges with cautious policy measures, including potential rate hikes. This indicates a potentially challenging economic environment for India in the coming year.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/business/crisil-sees-volatile-fy27-inflation-to-rise-to-5-1-growth-to-slow-rbi-may-hike-rates-4293869/"
+        },
+        {
+          "title": "Global economy tipping towards a sharp slowdown, India ‘may lose a step’ too: Moody's Analytics",
+          "summary": "Moody's Analytics has warned that the global economy is headed for a sharp slowdown, with India also expected to lose momentum. An extended US-Iran conflict could trigger a fresh energy shock, reignite inflation, and force central banks into tighter monetary policy. This highlights the potential risks to India's economy from global events.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/news/moodys-analytics-global-slowdown-india-ai-boom-11784192376799.html"
+        }
+      ],
+      "Business": [
+        {
+          "title": "India Inc is returning to banks for money, but retail borrowers aren’t keeping pace",
+          "summary": "India's largest private banks are seeing a shift in credit demand, with corporate and SME lending driving loan growth, while retail borrowing remains slow. This shift is due to stronger working capital demand and refinancing, but slower consumer credit growth is affecting banks' funding mix and margins. This trend is significant for the banking sector's growth and profitability.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/india-inc-is-returning-to-banks-for-money-but-retail-borrowers-arent-keeping-pace/articleshow/132508428.cms"
+        },
+        {
+          "title": "Selective funding slows startup creation in India",
+          "summary": "The number of startups founded in India has decreased significantly, with 314 startups founded in the first half of 2026 compared to 3,222 in 2025. This decline is attributed to selective funding, which is affecting the growth of the startup ecosystem in India. The slowdown in startup creation may have implications for innovation and job creation in the country.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/selective-funding-slows-startup-creation-in-india/articleshow/132469467.cms"
+        },
+        {
+          "title": "up Ecosystem Could Be an Indirect Winner",
+          "summary": "The upcoming IPOs of OpenAI, Anthropic, and SpaceX may reshape global venture capital flows and indirectly benefit India's startup ecosystem. Successful AI listings could revive VC funding, improve exits, and boost deep-tech investment, strengthening India's long-term AI ambitions. This development may have a positive impact on India's startup ecosystem and its growth prospects.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/deeptech/ai-ipo-wave-why-indias-start-up-ecosystem-could-be-an-indirect-winner"
+        },
+        {
+          "title": "Emergent Raises Series C at $1.5 Billion Valuation, Becomes Unicorn in a Year of Launch",
+          "summary": "Emergent, an AI software creation platform, has raised $130 million in Series C funding, valuing the company at $1.5 billion and making it a unicorn within a year of its launch. This funding round is significant for the AI and startup sectors, as it demonstrates the growing interest in AI technology and its potential for rapid growth. The investment may also have implications for the development of AI in India and globally.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/emergent-raises-series-c-at-1-5-billion-valuation-becomes-unicorn-in-a-year-of-launch/"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Employers can’t exploit their own delay to deny compassionate appointments: Supreme Court",
+          "summary": "The Supreme Court has ruled that employers cannot reject compassionate appointment claims due to their own delays, directing New India Assurance to offer a job to an eligible employee's son. This decision sets a precedent for similar cases. The court's ruling aims to prevent employers from taking advantage of their own delays to deny benefits to employees' families.",
+          "source": "Deccan Herald",
+          "url": "https://www.deccanherald.com/india/employers-cant-exploit-their-own-delay-to-deny-compassionate-appointments-supreme-court-4079979"
+        },
+        {
+          "title": "Monsoon Session Commences: A Catalyst for Constructive Debates",
+          "summary": "The Monsoon Session of Parliament has begun, with Prime Minister Narendra Modi emphasizing the need for meaningful discussions and highlighting India's economic resilience. The session will address key legislative business, including the Supreme Court Amendment Bill. The Opposition is also expected to raise important issues during the session.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/headlines/3952770-monsoon-session-commences-a-catalyst-for-constructive-debates"
+        },
+        {
+          "title": "Supreme Court steps in as Allahabad HC faults judiciary, NHRC in UP custodial death case",
+          "summary": "The Supreme Court has intervened in a long-pending case related to a custodial death in Uttar Pradesh, staying further proceedings before the Allahabad High Court. The case highlights concerns over the judiciary and NHRC's handling of the matter. The Supreme Court's involvement aims to ensure a fair investigation and justice for the victim's family.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/supreme-court-steps-in-as-allahabad-hc-faults-judiciary-nhrc-in-up-custodial-death-case-101784522754066.html"
+        },
+        {
+          "title": "India visa and passport services disrupted in Australia after Delhi High Court scraps government tender",
+          "summary": "The Delhi High Court has canceled a government tender for passport and visa services abroad, leading to disruptions in services in Australia. The decision was made after losing bidders argued that the selection process was unfair. The government has appealed the ruling to the Supreme Court and must now seek fresh bids for services in four countries.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/wealth/save/india-visa-and-passport-services-disrupted-in-australia-after-delhi-high-court-scraps-government-tender/articleshow/132465998.cms"
+        },
+        {
+          "title": "Bill to hike number of SC judges to be introduced in Lok Sabha on Monday",
+          "summary": "A bill to increase the number of Supreme Court judges from 34 to 38, including the Chief Justice of India, is set to be introduced in the Lok Sabha. The bill aims to replace an ordinance that was previously passed to increase the sanctioned strength of the Supreme Court. The introduction of the bill is expected to strengthen the judiciary and improve its functioning.",
+          "source": "ThePrint",
+          "url": "https://theprint.in/india/bill-to-hike-number-of-sc-judges-to-be-introduced-in-lok-sabha-on-monday/2990734/"
+        },
+        {
+          "title": "The Government Must Make Life-Saving Medicines Affordable For The Common Man",
+          "summary": "The Supreme Court has taken up the issue of access to affordable life-saving medicines in India, highlighting the need for options like compulsory licensing and price controls. The matter was brought to the court's attention after a breast cancer patient died while awaiting a decision on an expensive drug. The government is expected to take steps to make essential medicines more affordable for citizens.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/analysis/the-government-must-make-life-saving-medicines-affordable-for-the-common-man"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-20T13:53:16.513817+00:00",
     "brief": "The ongoing conflict in Iran continues to have far-reaching implications, with the RBI Governor citing it as a major risk to India's inflation and economic growth, alongside a weak monsoon. Meanwhile, the global economy is tipping towards a sharp slowdown, with Moody's Analytics warning that India may also lose momentum, and Deloitte forecasting a 6.5-6.8% GDP expansion in the current fiscal year. As geopolitical tensions and economic uncertainty persist, Gujarat's top ranking in NITI Aayog's Investment Friendliness Index 2026 offers a positive note, with the state's investor-friendly environment expected to attract significant investor confidence and support sustained investment growth.",
     "categories": {
@@ -3630,140 +3764,6 @@
           "summary": "A recent order by the Supreme Court of Nepal regarding the NHPC project is likely to be discussed in upcoming energy talks between Nepal and India. The order directs the government to work on increasing Nepal's share of free energy from the project. The talks aim to resolve outstanding issues and strengthen energy cooperation between the two countries.",
           "source": "Lokmat Times",
           "url": "https://www.lokmattimes.com/international/nhpc-project-order-by-sc-likely-to-feature-in-nepal-india-energy-talks-1/"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-13T19:17:01.976244+00:00",
-    "brief": "Tensions between the US and Iran have escalated, with Tehran accusing Washington of war crimes and threatening global peace, while in Ukraine, Prime Minister Yulia Svyrydenko has resigned, sparking curiosity about the reasons behind the decision. Meanwhile, in India, the Reserve Bank of India is expected to keep policy rates steady in the short term, but may increase rates later this year due to rising domestic inflation concerns, which could impact the economy and interest rates. Additionally, the Asian Development Bank has lowered India's FY27 growth forecast to 6.6% due to higher crude oil prices, which will also have implications for consumer sentiment and demand.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Britain's Princess Anne to visit South Korea to mark Korean War battles anniversary",
-          "summary": "Princess Anne will visit South Korea to commemorate the anniversary of Korean War battles, highlighting the ongoing diplomatic relations between the UK and South Korea. This visit marks a significant event in the history of the Korean War. The visit is expected to strengthen ties between the two nations.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/britains-princess-anne-to-visit-south-korea-to-mark-korean-war-battles-anniversary/"
-        },
-        {
-          "title": "Ukraine PM Yulia Svyrydenko steps down: Social media asks, ‘Why did Zelenskyy fire you?’",
-          "summary": "Ukraine's Prime Minister Yulia Svyrydenko has resigned after discussions with President Zelenskyy on improving government operations and international relations. The resignation has sparked curiosity about the reasons behind the decision. This development may impact Ukraine's political landscape and its relations with other countries.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/news/world/ukraine-pm-yulia-svyrydenko-steps-down-social-media-asks-why-did-zelenskyy-fire-you-11783922013348.html"
-        },
-        {
-          "title": "US-Iran War: Tehran Accuses Washington of War Crimes After Fresh Strikes, Warns of Threat to Global Peace",
-          "summary": "Tensions between the US and Iran have escalated after recent US strikes on Iran, with Tehran accusing Washington of war crimes and threatening global peace. The conflict has significant implications for international relations and global security. The situation may impact peace talks and the stability of the region.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/world/middle-east/us-iran-war-tehran-accuses-washington-of-war-crimes-after-fresh-strikes-warns-of-threat-to-global-peace-article-155084930"
-        },
-        {
-          "title": "Fresh US strikes hit Iran amid renewed fighting over Strait of Hormuz",
-          "summary": "The US has launched fresh strikes on Iran in response to Iranian attacks on shipping in the Strait of Hormuz, escalating the conflict in the region. The situation threatens to disrupt peace talks and impact the global economy, particularly oil prices. The conflict has significant implications for international relations and maritime security.",
-          "source": "Malayala Manorama",
-          "url": "https://www.onmanorama.com/news/world/2026/07/13/us-launches-strikes-iran-hormuz.html"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "E20 petrol may reduce mileage by 3-5%",
-          "summary": "The Oil Ministry has stated that E20 petrol, which contains 20% ethanol, may reduce vehicle efficiency by 3-5% but offers benefits like cleaner engines and lower carbon emissions. This information is crucial for vehicle owners and manufacturers as India plans to roll out E20 fuel. The reduction in fuel efficiency will impact vehicle mileage, but the benefits of cleaner fuel and lower emissions are significant.",
-          "source": "Malayala Manorama",
-          "url": "https://www.onmanorama.com/news/india/2026/07/10/e20-petrol-may-reduce-fuel-efficiency-says-oil-ministry.html"
-        },
-        {
-          "title": "The waiting game: Why the UK’s stablecoin moment is now",
-          "summary": "The global stablecoin market has exceeded $300 billion, with the US dollar dominating the market. The UK and India need to develop clear stablecoin policies to stay competitive in the evolving financial architecture. Stablecoins offer efficiency in cross-border payments and programmability for the AI economy, but regulatory frameworks are necessary to manage risks.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/wealth/invest/the-waiting-game-why-the-uks-stablecoin-moment-is-now/articleshow/132310126.cms"
-        },
-        {
-          "title": "RBI rate hike: Interest burden for Indians may go up later this year amid inflation risks",
-          "summary": "The Reserve Bank of India is expected to keep policy rates steady in the short term, but may increase rates later this year due to rising domestic inflation concerns. This could lead to a higher interest burden for Indians, with BofA Securities predicting a stronger demand trend and improved external accounts. The RBI's decision will impact the economy and inflation rates.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-rate-ike-chances-bank-of-america-rbirate-hike-interest-burden-for-indians-may-go-up-later-this-year-amid-inflation-risks/articleshow/132305465.cms"
-        },
-        {
-          "title": "BofA sees RBI holding rates near term, expects 50 bps hike from Dec 2026 amid domestic inflation risks",
-          "summary": "BofA Securities expects the Reserve Bank of India to keep policy rates unchanged in the near term, but predicts a 50 basis points rate hike from December 2026 due to rising domestic inflation risks. This forecast is based on the expectation that inflation will become increasingly driven by domestic factors, leading to a potential rate hike. The RBI's decision will impact the economy and interest rates.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/bofa-sees-rbi-holding-rates-near-term-expects-50-bps-hike-from-dec-2026-amid-domestic-inflation-risks/"
-        },
-        {
-          "title": "Why India is launching an index of services production",
-          "summary": "India is launching an index of services production to provide high-frequency information on the services economy, which will enable better policy decisions and economic forecasting. This index will complement the index of industrial production, offering a more comprehensive understanding of the economy. The new index will help policymakers make informed decisions and track the performance of the services sector.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/economy/explainer-index-of-services-production-india-services-sector-economic-indicator-indian-economy-11783658423548.html"
-        },
-        {
-          "title": "ADB cuts India FY27 growth forecast to 6.6% on higher oil prices",
-          "summary": "The Asian Development Bank has lowered India's FY27 growth forecast to 6.6% due to higher crude oil prices and transportation costs, which will impact consumer sentiment and demand. The bank has raised the inflation forecast for FY27 to 5.2% due to oil and food prices. However, policy measures and public capital expenditure are expected to support India's economic momentum, with the bank retaining its FY28 growth forecast at 7.3%.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/adb-cuts-india-fy27-growth-forecast-to-6-6-on-higher-oil-prices/articleshow/132297258.cms"
-        }
-      ],
-      "Business": [
-        {
-          "title": "Aukera Raises Rs. 90 Cr in Fresh Funding",
-          "summary": "Aukera, a premium lab-grown diamond jewellery brand, has raised Rs 90 crore in fresh funding to accelerate its national expansion. This funding comes less than a year after the company raised $15 million, reflecting the strength of its growth trajectory. The investment will help Aukera strengthen its balance sheet as it competes with larger players in the market.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/aukera-raises-rs-90-cr-over-usd-10-mn-in-fresh-funding-less-than-a-year-after-usd-15-mn-round-as-it-accelerates-national-expansion/"
-        },
-        {
-          "title": "Bank credit growth to ease as corporates tap bond markets, overseas funding",
-          "summary": "Bank credit growth is expected to slow down as large corporations opt for domestic bond markets and overseas borrowings for funding. This shift is driven by the Reserve Bank of India's policy measures, which make external funding more attractive for businesses. As a result, banks will finance a smaller share of corporate financing needs.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
-        },
-        {
-          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
-          "summary": "Neuberg Diagnostics plans to launch an initial public offering in fiscal year 2028, aiming to raise up to Rs 4,000 crore. The company will use the funds to drive pan-India growth and acquire new diagnostic technologies, with the goal of becoming the second-largest player in the diagnostics market. A pre-IPO funding round will also secure Rs 500 crore for acquisitions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
-        },
-        {
-          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
-          "summary": "Indian companies raised a record Rs 2.53 lakh crore through commercial papers in June, driven by attractive pricing, seasonal needs, and debt refinancing. This surge reflects a shift from costlier bank loans to cheaper short-term market funding, supported by ample investor demand and a stable liquidity environment. The Reserve Bank of India's liquidity infusions also contributed to favorable conditions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
-        },
-        {
-          "title": "India's banks are handing out more loans, but deposits aren't keeping up",
-          "summary": "Indian banks have seen a surge in lending, outpacing deposit growth and widening the funding gap. This trend, driven by robust demand from corporate and retail sectors, has pushed the loan-to-deposit ratio to a decade-high, raising concerns about funding sustainability. The gap between loans and deposits has varied across lenders, reflecting different strategies amidst intense competition.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-banks-are-handing-out-more-loans-but-deposits-arent-keeping-up/articleshow/132177579.cms"
-        },
-        {
-          "title": "Almost half of UDAN routes have become non-operational",
-          "summary": "Nearly half of India's UDAN regional flight routes have stopped operating, despite the government launching a revamped phase with higher subsidies and airport funding. The non-operational routes are attributed to viability gap support, infrastructure delays, and airline distress, which are reshaping the country's flagship connectivity scheme. The development has significant implications for regional air connectivity.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/news/almost-half-of-udan-routes-have-become-non-operational-says-report"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "SC stays Madras HC order directing total ban on cow slaughter during Bakrid",
-          "summary": "The Supreme Court has stayed a Madras High Court order that banned the slaughter of cows and calves during Bakrid, a significant festival for Muslims. This decision is important as it affects the rights of individuals to practice their religion and the balance between religious freedom and animal welfare. The stay will allow the Tamil Nadu government to revisit the issue and potentially find a more nuanced solution.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/sc-stays-madras-hc-order-directing-total-ban-on-cow-slaughter-during-bakrid/articleshow/132359294.cms"
-        },
-        {
-          "title": "Supreme Court's AI Rules Explained: Why India Wants Artificial Intelligence In Courts, But Not In Judicial Decisions",
-          "summary": "The Supreme Court is developing rules to regulate the use of artificial intelligence in courts, following instances of AI-generated fake judgments. The proposed framework aims to leverage AI for efficiency and accuracy in court proceedings, while ensuring that judicial decisions remain free from AI influence. This initiative reflects the Indian judiciary's efforts to adapt to technological advancements while maintaining the integrity of the legal process.",
-          "source": "Outlook India",
-          "url": "https://www.outlookindia.com/national/supreme-courts-ai-rules-explained-why-india-wants-artificial-intelligence-in-courts-but-not-in-judicial-decisions"
-        },
-        {
-          "title": "Citizenship must be decided through fair process: SC sets aside Guahati HC judgment",
-          "summary": "The Supreme Court has set aside a Gauhati High Court judgment that declared 27 individuals as foreigners, emphasizing the need for a fair process in determining citizenship. The Court's decision highlights the importance of ensuring that citizenship cases are handled with due diligence and respect for individual rights. This ruling may have implications for the handling of similar cases in the future, particularly in the context of the National Register of Citizens.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/citizenship-must-be-decided-through-fair-process-sc-sets-aside-guahati-hc-judgment/articleshow/132358421.cms"
-        },
-        {
-          "title": "CJI Surya Kant welcomes 2 law clerks from Bhutan in SC",
-          "summary": "The Chief Justice of India, Surya Kant, has welcomed two law clerks from Bhutan to work in the Supreme Court, as part of a memorandum of understanding between India and Bhutan. This exchange reflects the growing judicial cooperation between the two countries and may lead to increased collaboration and knowledge sharing in the legal sector. The presence of international law clerks can also enrich the Court's perspectives and decision-making processes.",
-          "source": "ThePrint",
-          "url": "https://theprint.in/india/cji-surya-kant-welcomes-2-law-clerks-from-bhutan-in-sc/2984876/"
         }
       ]
     }
