@@ -1,5 +1,145 @@
 [
   {
+    "generated_at": "2026-07-21T13:23:16.328721+00:00",
+    "brief": "Global conflicts and tensions continue to impact India's economy, with the country's crude oil import bill increasing by 77% in the first quarter of FY27 due to rising international prices. The ongoing US-Iran war and airspace limitations have also reduced international traffic, affecting Delhi's overseas flights and potentially keeping a newly converted international pier at IGI Airport's T3 idle until September. Meanwhile, the RBI is navigating the conflicting external conditions of an energy shock and an AI boom, adopting a wait-and-see approach to policy decisions as India's net FDI inflows are expected to reach $15 billion in FY27, driven by healthy gross inflows and moderating repatriation outflows.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Nods in, but low int’l traffic to keep T3 pier C idle till Sept",
+          "summary": "The newly converted international Pier C at IGI Airport's T3 may remain idle until September due to reduced international traffic caused by the US-Iran war and airspace limitations. This reduction in traffic is affecting Delhi's overseas flights. The situation highlights the impact of global conflicts on local economies.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/city/delhi/nods-in-but-low-intl-traffic-to-keep-t3-pier-c-idle-till-sept/articleshow/132523042.cms"
+        },
+        {
+          "title": "Ontario Wildfires Ignite International Tensions",
+          "summary": "Wildfires in Ontario have led to international tensions between Canada and the US, with the US President criticizing Canada's response to the crisis. The situation has also highlighted the climate crisis, with poor air quality affecting both countries. The tensions have sparked a defensive response from Canada's Premier.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/science-environment/3953044-ontario-wildfires-ignite-international-tensions"
+        },
+        {
+          "title": "War shock lifts India’s Q1 crude bill 77% to Rs 4.64 L-cr",
+          "summary": "India's crude oil import bill has increased by 77% in the first quarter of FY27 due to rising international prices caused by the conflict in West Asia and geopolitical tensions. Despite a 4.5% drop in volumes, the bill has soared to Rs 4.64 lakh crore. This increase highlights the impact of global conflicts on India's economy.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/policy/economy/war-shock-lifts-indias-q1-crude-bill-77-to-rs-4-64-l-cr/4297405/"
+        },
+        {
+          "title": "Moldova relations poised to enter new era of closer engagement: MEA",
+          "summary": "The Ministry of External Affairs has stated that India-Moldova relations are set to enter a new era of closer engagement. This development highlights the expanding diplomatic ties between the two countries. The new era of engagement is expected to strengthen bilateral relations.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/india-moldova-relations-poised-to-enter-new-era-of-closer-engagement-mea/"
+        },
+        {
+          "title": "Despite Trump-Xi agreement, China’s rare earth magnet exports to US remain 20% below pre-trade war levels",
+          "summary": "China's exports of rare-earth magnets to the US remain 20% below pre-trade war levels, despite an agreement between Trump and Xi. This discrepancy highlights the ongoing trade tensions between the two countries. The rare-earth magnet exports are a significant indicator of the trade relationship between the US and China.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/international-business/despite-trump-xi-agreement-chinas-rare-earth-magnet-exports-to-us-remain-20-below-pre-trade-war-levels/articleshow/132516728.cms"
+        },
+        {
+          "title": "Diplomatic Dance: Potential Meeting Between Rubio and Lavrov at ASEAN Summit",
+          "summary": "A potential meeting between US Secretary of State Marco Rubio and Russian Foreign Minister Sergei Lavrov may take place at the ASEAN summit in Manila. The meeting would be a significant development in international diplomacy between the US and Russia. Discussions are underway to arrange the diplomatic engagement, highlighting continued efforts in international diplomacy.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3952920-diplomatic-dance-potential-meeting-between-rubio-and-lavrov-at-asean-summit"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Energy shock vs AI boom: RBI should act as and when external shocks push domestic data in a direction, not until then",
+          "summary": "The RBI's monetary policy must navigate the conflicting external conditions of an energy shock and an AI boom. The energy shock is driven by conflict, impacting oil prices and shipping routes, while the AI boom supports growth, particularly in the US. The RBI is likely to adopt a wait-and-see approach to policy decisions.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/opinion/et-commentary/energy-shock-vs-ai-boom-rbi-should-act-as-and-when-external-shocks-push-domestic-data-in-a-direction-not-until-then/articleshow/132522377.cms"
+        },
+        {
+          "title": "Kerala hikes rubber support price by ₹50/kg in relief for farmers",
+          "summary": "The Kerala government has increased the rubber support price by ₹50/kg to alleviate financial pressure on rubber farmers. This move aims to help farmers cope with higher production costs. The new support price is ₹250 per kg.",
+          "source": "Malayala Manorama",
+          "url": "https://www.onmanorama.com/news/kerala/2026/07/20/kerala-hikes-rubber-support-price-by-rs-50-per-kg.html"
+        },
+        {
+          "title": "Climate change is causing structural shifts in India’s inflation dynamics-forecasting must adapt",
+          "summary": "Climate change is leading to more frequent supply shocks, which is affecting India's inflation dynamics. The country's inflation targeting framework needs to incorporate climate-driven price instability risks for effective monetary policy action. Other central banks are already taking steps in this direction.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/opinion/online-views/climate-change-structural-shifts-india-inflation-dynamics-forecasting-adapt-mpc-rbi-greenflation-11784542023742.html"
+        },
+        {
+          "title": "India's net FDI inflows likely to reach $15 bn in FY27",
+          "summary": "India's net foreign direct investment (FDI) inflows are expected to reach $15 billion in fiscal year 2027, driven by healthy gross inflows and moderating repatriation outflows. Policy measures and a nuanced FDI framework are also expected to boost foreign investment. This signals a positive outlook for India's capital account.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/finance/indias-net-fdi-inflows-likely-to-reach-15-bn-in-fy27/articleshow/132511895.cms"
+        },
+        {
+          "title": "India’s edible oil industry flags 17-fold surge in Nepal imports, seeks policy review",
+          "summary": "The Indian edible oil industry is seeking a policy review due to a 17-fold surge in duty-free refined oil imports from Nepal. This surge has led to negative repercussions for local industries and fiscal health, as significant refining operations have moved beyond India's borders.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-edible-oil-industry-flags-17-fold-surge-in-nepal-imports-seeks-policy-review/articleshow/132510957.cms"
+        },
+        {
+          "title": "RBI Governor flags Iran war, weak monsoon as the biggest risks to India’s inflation and economic growth",
+          "summary": "The RBI Governor has identified the Iran war and a weak monsoon as the biggest risks to India's inflation and economic growth. Despite these risks, India's economic fundamentals remain strong, and policymakers will monitor inflationary pressures before considering any monetary policy adjustments.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/wealth/save/rbi-governor-flags-iran-war-weak-monsoon-as-the-biggest-risks-to-indias-inflation-and-economic-growth/articleshow/132466103.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "India Inc is returning to banks for money, but retail borrowers aren’t keeping pace",
+          "summary": "India's largest private banks are seeing a shift in credit demand, with corporate and SME lending driving loan growth, while retail borrowing remains slow. This shift is due to stronger working capital demand, refinancing, and business banking. The slower consumer credit growth may impact banks' funding mix and margins.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/india-inc-is-returning-to-banks-for-money-but-retail-borrowers-arent-keeping-pace/articleshow/132508428.cms"
+        },
+        {
+          "title": "Selective funding slows startup creation in India",
+          "summary": "The number of startups founded in India has decreased significantly, with 314 startups founded in the first half of 2026 compared to 3,222 in 2025. This decline is attributed to selective funding, which is affecting the creation of new startups in the country. The data highlights a slowdown in the Indian startup ecosystem.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/selective-funding-slows-startup-creation-in-india/articleshow/132469467.cms"
+        },
+        {
+          "title": "up Ecosystem Could Be an Indirect Winner",
+          "summary": "The upcoming IPOs of OpenAI, Anthropic, and SpaceX may have a positive impact on India's startup ecosystem. Successful AI listings could revive VC funding, improve exits, and boost deep-tech investment, ultimately strengthening India's long-term AI ambitions. This could lead to increased investment and growth in the Indian startup ecosystem.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/deeptech/ai-ipo-wave-why-indias-start-up-ecosystem-could-be-an-indirect-winner"
+        },
+        {
+          "title": "Emergent Raises Series C at $1.5 Billion Valuation, Becomes Unicorn in a Year of Launch",
+          "summary": "Emergent, an AI software creation platform, has raised $130 million in Series C funding, valuing the company at $1.5 billion. This makes Emergent a unicorn in just a year of its launch, highlighting the growth potential of AI-based startups. The funding round was led by Creaegis and included participation from several prominent investors.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/emergent-raises-series-c-at-1-5-billion-valuation-becomes-unicorn-in-a-year-of-launch/"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Supreme Court orders new SIT into Ram temple donation theft, will monitor probe",
+          "summary": "The Supreme Court has taken over the investigation into the Ram temple donation theft case and will monitor the probe. The court has ousted the local police from the investigation, indicating a need for a more transparent and independent inquiry. This move aims to ensure a fair and thorough investigation into the embezzlement scam.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/supreme-court-orders-new-sit-into-ram-temple-donation-theft-will-monitor-probe/articleshow/132526201.cms"
+        },
+        {
+          "title": "Supreme Court takes exception to meagre compensation for ex-HC judges",
+          "summary": "The Supreme Court has expressed concern over the low monetary compensation provided to retired chief justices and judges of high courts. The court's intervention highlights the need for adequate compensation for judges, considering their significant contributions to the judiciary. This move may lead to a review of the compensation structure for retired judges.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/supreme-court-takes-exception-to-meagre-compensation-for-ex-hc-judges/articleshow/132524206.cms"
+        },
+        {
+          "title": "Can't force parents to create Apaar IDs for students: Supreme Court",
+          "summary": "The Supreme Court has ruled that parents cannot be forced to create Apaar IDs for their children, which are unique identifiers for students. This decision affects around 24 crore students and emphasizes the importance of protecting individual rights and freedoms. The court's ruling may have implications for the implementation of such identification systems in the future.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/cant-force-parents-to-create-apaar-ids-for-students-supreme-court/articleshow/132523935.cms"
+        },
+        {
+          "title": "Supreme Court seeks more exclusive UAPA, NDPS courts to speed up trials",
+          "summary": "The Supreme Court has suggested the establishment of more exclusive courts to handle cases under the Unlawful Activities (Prevention) Act (UAPA) and the Narcotic Drugs and Psychotropic Substances (NDPS) Act. This move aims to expedite the trial process and address the issue of long incarceration periods for accused individuals. The court's recommendation may lead to reforms in the judicial system to ensure faster and more efficient trials.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/supreme-court-seeks-more-exclusive-uapa-ndps-courts-to-speed-up-trials/articleshow/132523919.cms"
+        },
+        {
+          "title": "Indus Waters Treaty needs complete renegotiation, says government; blames Pakistan for stonewalling talks",
+          "summary": "The Indian government has stated that the Indus Waters Treaty needs to be completely renegotiated due to Pakistan's inaction and failure to utilize its water share effectively. The government also expressed concerns over Pakistan's management of the treaty's arbitration framework. The renegotiation is sought in light of changing climate and demographic realities, which may impact the treaty's effectiveness.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/indus-waters-treaty-needs-complete-renegotiation-says-government-blames-pakistan-for-stonewalling-talks/articleshow/132522397.cms"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-21T08:13:47.752755+00:00",
     "brief": "Global tensions and conflicts are having a ripple effect on the world economy, with India's crude oil import bill soaring by 77% in the first quarter of FY27 due to rising international prices. Meanwhile, the RBI is navigating conflicting external conditions, including an energy shock and an AI boom, as it prepares to make monetary policy decisions. In a separate development, the Indian government has announced plans to strengthen ties with Moldova, while diplomatic efforts are underway to maintain relations between the US and Russia.",
     "categories": {
@@ -3606,152 +3746,6 @@
           "summary": "The Supreme Court has rejected a petition filed by the Telangana government against the construction of the Polavaram project on the Godavari river, citing defects in the plea. The court has asked Telangana to rectify these defects before proceeding with the case. This decision is significant as it affects the ongoing dispute between Telangana and Andhra Pradesh over the project.",
           "source": "Hindustan Times",
           "url": "https://www.hindustantimes.com/india-news/supreme-court-askstelangana-to-to-cure-defects-in-plea-against-polavaram-project-101783971089365.html"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-14T13:17:52.047440+00:00",
-    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The US has made notable moves, investing $25 million in critical minerals and reinstating a blockade on Iranian shipping, which may escalate tensions and impact global oil prices. Meanwhile, in India, retail inflation has risen to 4.4%, driven by higher food and transport costs, which may influence the Reserve Bank of India's monetary policy decisions, with the central bank expected to keep policy rates unchanged for now but potentially hike them later in the year due to rising domestic inflation concerns. Additionally, the Supreme Court has been active, dismissing a public interest litigation on banning pornography in public places and seeking a status report on the Ram mandir fund probe, underscoring its role in shaping the country's legal and social landscape.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "US invests $25 mn in critical minerals",
-          "summary": "The US Department of War has invested $25 million in ReElement Technologies Corp, highlighting the country's efforts to secure critical minerals. This investment is significant as it showcases the US's focus on developing its mineral resources. The move is likely to have implications for the global mineral market.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/us-invests-25-mn-in-critical-minerals/"
-        },
-        {
-          "title": "Trump says US reinstates blockade of Iranian shipping, but Strait of Hormuz to remain open",
-          "summary": "The US has reinstated a blockade on Iranian shipping, with plans to charge a 20% fee for passage through the Strait of Hormuz. This move is expected to escalate tensions between the US and Iran, potentially impacting global oil prices and international relations. The decision may also affect the freedom of navigation in the region.",
-          "source": "Malayala Manorama",
-          "url": "https://www.onmanorama.com/news/world/2026/07/13/trump-says-us-reinstates-blockade-of-iranian-shipping-in-hormuz.html"
-        },
-        {
-          "title": "Pakistan embroiled in massive, never-ending war within its own borders: Report",
-          "summary": "Pakistan has been ranked first in the 2026 Global Terrorism Index, indicating that the country is struggling with a massive and ongoing war within its own borders. This situation has significant implications for regional stability and global security. The report highlights the need for Pakistan to address its internal security challenges.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/pakistan-embroiled-in-massive-never-ending-war-within-its-own-borders-report/"
-        },
-        {
-          "title": "Trump Administration Targets International Criminal Court: Sovereignty Showdown",
-          "summary": "The Trump administration is planning to undermine the International Criminal Court (ICC), citing concerns over US sovereignty. The move may involve sanctions and diplomatic isolation, and has significant implications for international law and global governance. The ICC's role in prosecuting war crimes is likely to be affected by this development.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/law-order/3949582-trump-administration-targets-international-criminal-court-sovereignty-showdown"
-        },
-        {
-          "title": "Iraq's Energy Diplomacy: Prime Minister Zaidi's Bold U.S. Investment Drive",
-          "summary": "Iraq's Prime Minister Ali al-Zaidi is seeking major investments in Iraq's oil, gas, and power sectors during his visit to the US. The move is part of Iraq's efforts to diversify its international partnerships and strengthen its energy ties with the US. The visit has significant implications for regional energy security and economic cooperation between Iraq and the US.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/science-environment/3949533-iraqs-energy-diplomacy-prime-minister-zaidis-bold-us-investment-drive"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Retail Inflation up to 4.4% on costlier food, transport",
-          "summary": "India's retail inflation has increased to 4.4% in June, driven by higher food and transport costs, with food inflation reaching 5.3%. This rise may influence the Reserve Bank of India's monetary policy decisions. The central bank is expected to maintain its current policy rate due to the inflation surge.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/indicators/retail-inflation-up-to-4-4-on-costlier-food-transport/articleshow/132376055.cms"
-        },
-        {
-          "title": "RBI likely to keep rates unchanged till October, India's GDP to moderate to 6.6",
-          "summary": "The Reserve Bank of India is expected to keep policy rates unchanged until October 2026, while India's GDP is projected to grow at a steady pace of 6.6-6.8% in FY27. This forecast is based on Bank of Baroda's economic outlook, which considers global uncertainties and their impact on India's economy.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/rbi-likely-to-keep-rates-unchanged-till-october-indias-gdp-to-moderate-to-6-6-6-8-in-fy27-bob-outlook/"
-        },
-        {
-          "title": "E20 petrol may reduce mileage by 3-5%",
-          "summary": "The introduction of E20 petrol, which contains 20% ethanol, may reduce vehicle mileage by 3-5%. However, it offers benefits such as cleaner engines and lower carbon emissions. The Oil Ministry has conducted extensive testing to assess the impact of E20 fuel on vehicle efficiency.",
-          "source": "Malayala Manorama",
-          "url": "https://www.onmanorama.com/news/india/2026/07/10/e20-petrol-may-reduce-fuel-efficiency-says-oil-ministry.html"
-        },
-        {
-          "title": "RBI rate hike: Interest burden for Indians may go up later this year amid inflation risks",
-          "summary": "The Reserve Bank of India is expected to keep policy rates steady in the short term, but may increase rates later in the year due to rising domestic inflation concerns. This could lead to a higher interest burden for Indians, as economic growth projections indicate a stronger demand trend.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-rate-ike-chances-bank-of-america-rbirate-hike-interest-burden-for-indians-may-go-up-later-this-year-amid-inflation-risks/articleshow/132305465.cms"
-        },
-        {
-          "title": "BofA sees RBI holding rates near term, expects 50 bps hike from Dec 2026 amid domestic inflation risks",
-          "summary": "The Reserve Bank of India is likely to maintain its policy rates in the near term, but a 50 basis points rate hike is expected from December 2026 due to increasing domestic inflation risks. This forecast is based on BofA Securities' analysis of India's economic trends and monetary policy.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/bofa-sees-rbi-holding-rates-near-term-expects-50-bps-hike-from-dec-2026-amid-domestic-inflation-risks/"
-        }
-      ],
-      "Business": [
-        {
-          "title": "IPO funding from WhiteOak Capital, 3P India, others",
-          "summary": "SBI Funds has raised Rs 1880 crore in pre-IPO funding from investors including WhiteOak Capital and 3P India. The funding was raised through a private placement of equity shares at an issue price of Rs 574 per share. This investment will likely support the company's growth plans.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/sbi-funds-raises-rs-1880-crore-in-pre-ipo-funding-from-whiteoak-capital-3p-india-others/"
-        },
-        {
-          "title": "Aukera Raises Rs. 90 Cr in Fresh Funding",
-          "summary": "Aukera, a premium lab-grown diamond jewellery brand, has raised Rs 90 crore in fresh funding from investors including Alteria Capital and InnoVen Capital. This funding round comes less than a year after the company raised $15 million in equity funding. The investment will support Aukera's national expansion plans.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/aukera-raises-rs-90-cr-over-usd-10-mn-in-fresh-funding-less-than-a-year-after-usd-15-mn-round-as-it-accelerates-national-expansion/"
-        },
-        {
-          "title": "Bank credit growth to ease as corporates tap bond markets, overseas funding",
-          "summary": "Bank credit growth is expected to slow down as large corporations increasingly use domestic bond markets and overseas borrowings for funding. This shift is driven by the Reserve Bank of India's policy measures, which make external funding more attractive for businesses. As a result, banks will finance a smaller share of corporate financing needs.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
-        },
-        {
-          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
-          "summary": "Neuberg Diagnostics plans to launch an initial public offering in fiscal year 2028, aiming to raise up to Rs 4,000 crore. The company also plans to secure Rs 5000 crore in pre-IPO funding for acquisitions, targeting pan-India growth and new diagnostic technologies. Neuberg aims to become the second-largest player in the diagnostics market.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
-        },
-        {
-          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
-          "summary": "Indian companies raised a record Rs 2.53 lakh crore through commercial papers in June, driven by attractive pricing, seasonal needs, and debt refinancing. This surge reflects a shift from costlier bank loans to cheaper short-term market funding, supported by ample investor demand and a stable liquidity environment. The Reserve Bank of India's liquidity infusions also contributed to favorable conditions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
-        },
-        {
-          "title": "India's banks are handing out more loans, but deposits aren't keeping up",
-          "summary": "Indian banks have seen a surge in lending, outpacing deposit growth and widening the funding gap. This trend, driven by robust demand from corporate and retail sectors, has pushed the loan-to-deposit ratio to a decade-high, raising concerns about funding sustainability. The varied strategies of lenders have resulted in some seeing deposits decline, while others have maintained a balance.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-banks-are-handing-out-more-loans-but-deposits-arent-keeping-up/articleshow/132177579.cms"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "SC Junks PIL Seeking Porn Viewing At Public Places, Says Plea Concerns Policy Issue",
-          "summary": "The Supreme Court has dismissed a public interest litigation seeking a ban on pornography in public places, stating that it is a policy matter. This decision highlights the distinction between legal and policy issues in India. The court's stance may have implications for future public interest litigations.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/india/supreme-court-junks-pil-seeking-porn-viewing-at-public-places-says-plea-concerns-policy-issue-article-155092645"
-        },
-        {
-          "title": "Supreme Court seeks Ram mandir fund probe status report in a week",
-          "summary": "The Supreme Court has taken over the supervision of the investigation into the Ayodhya Ram mandir donation embezzlement controversy. The court has asked for a status report on the probe within a week, indicating its intent to monitor the progress of the case. This development may impact the ongoing controversy surrounding the temple's construction funds.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/supreme-court-seeks-ram-mandir-fund-probe-status-report-in-a-week/articleshow/132376491.cms"
-        },
-        {
-          "title": "'Comprehensive sex education' coming soon to schools, government tells Supreme Court",
-          "summary": "The Indian government has informed the Supreme Court that comprehensive sex education will be introduced in schools soon. This move aims to end the taboo surrounding sex education in India and make it a formal part of the school curriculum. The introduction of sex education may have a significant impact on the country's approach to sexual health and awareness.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/comprehensive-sex-education-coming-soon-to-schools-government-tells-supreme-court/articleshow/132376299.cms"
-        },
-        {
-          "title": "Supreme Court To Hear Pleas Against MP High Court Verdict On Bhojshala Complex",
-          "summary": "The Supreme Court will hear pleas against the Madhya Pradesh High Court's verdict on the Bhojshala Complex, a protected 11th-century monument. The High Court had ruled that the site is a temple dedicated to Goddess Saraswati and quashed an order allowing Hindus and Muslims to worship there. The Supreme Court's decision may resolve the dispute over the site's religious character.",
-          "source": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/indore/supreme-court-to-hear-pleas-against-mp-high-court-verdict-on-bhojshala-complex"
-        },
-        {
-          "title": "Supreme Court quashes Guwahati high court order on 27 'foreigners'",
-          "summary": "The Supreme Court has quashed a Guwahati High Court order declaring 27 individuals as foreigners, citing the significant consequences of such a declaration, including detention and deportation. The court's decision highlights the importance of careful consideration in cases involving foreign nationals. This ruling may have implications for the treatment of individuals suspected of being foreigners in India.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/supreme-court-quashes-gauhati-high-court-order-on-27-foreigners/articleshow/132376257.cms"
-        },
-        {
-          "title": "Dignity of constitutional bodies must be respected: CJI Surya Kant",
-          "summary": "Chief Justice of India Surya Kant has emphasized the importance of respecting the dignity of constitutional institutions, following a recent incident of a litigant's abusive outburst in the Supreme Court. The Chief Justice's statement underscores the need for maintaining decorum and respect in interactions with constitutional bodies. This may have implications for the behavior expected from individuals interacting with the judiciary and other constitutional institutions.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/india/dignity-of-constitutional-bodies-must-be-respected-cji-surya-kant/"
         }
       ]
     }
