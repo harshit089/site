@@ -1,5 +1,109 @@
 [
   {
+    "generated_at": "2026-07-22T19:02:34.428206+00:00",
+    "brief": "Tensions are escalating globally, with Iran warning of regional escalation if the US strikes its nuclear sites, while Indian seafarers face growing dangers amid armed hostilities, as evident from the recent attack on a merchant vessel. Meanwhile, India is taking steps to enhance its energy security and protect maritime corridors, with National Security Advisor Ajit Doval discussing these issues during his visit to Riyadh. On the economic front, India is making strides to improve its data collection, with the release of monthly production indices for service industries, which could lead to better GDP forecasting and investment research, and is aiming for 9% annual economic growth to become a developed nation by 2047.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Iran's Top Military Command Warns of Regional Escalation if U.S. Strikes Nuclear Sites",
+          "summary": "Iran's top military command has warned that a US attack on its nuclear sites would lead to a regional escalation, targeting US and allied interests. This statement highlights the increased tensions surrounding Iran's nuclear program and regional geopolitics. The warning suggests a potential expansion of conflict in the region.",
+          "source": "scanx.trade",
+          "url": "https://scanx.trade/stock-market-news/global/iran-s-top-military-command-warns-of-regional-escalation-if-u-s-strikes-nuclear-sites/46229066"
+        },
+        {
+          "title": "Odesa tragedy : Wars taking their toll on Indian seafarers",
+          "summary": "A merchant vessel with Indian crew members was hit by Russian cruise missiles, resulting in the death of four Indian seafarers. This incident highlights the growing dangers faced by civilian maritime workers amid armed hostilities. The attack on commercial ships threatens the freedom of navigation that underpins the global economy.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/editorials/odesa-tragedy-wars-taking-their-toll-on-indian-seafarers/"
+        },
+        {
+          "title": "NSA Doval discusses enhancing energy security, protecting maritime corridors during Riyadh visit",
+          "summary": "National Security Advisor Ajit Doval discussed enhancing energy security and protecting maritime corridors during his visit to Riyadh. The meeting reviewed the progress in India-Saudi bilateral relations and focused on key security issues. The discussion highlights the importance of energy security and maritime protection in the region.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/nsa-doval-discusses-enhancing-energy-security-protecting-maritime-corridors-during-riyadh-visit/"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "India ran a $4-trillion economy half-blind for decades. That just ended",
+          "summary": "The Indian government has started releasing monthly production indices for 19 service industries, which could improve GDP forecasting, monetary policy analysis, and investment research. This move is expected to fill a significant gap in the country's economic data, as services account for more than half of the economy. The new data will be based on GST returns and regulatory data.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/prime/india-ran-a-4-trillion-economy-half-blind-for-decades-that-just-ended/primearticleshow/132542817.cms"
+        },
+        {
+          "title": "Can India become a developed economy by 2047? Why 9% growth, $200 billion FDI and AI matter",
+          "summary": "To become a developed nation by 2047, India needs to sustain 9% annual economic growth, according to former NITI Aayog CEO Amitabh Kant. This will require significant investment, a strong manufacturing sector, and leadership in emerging technologies like AI and semiconductors. Achieving this goal will also depend on policy stability and globally competitive companies.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/economy/can-india-become-developed-economy-by-2047-why-9-percent-growth-200-billion-fdi-and-ai-matter-19950853.htm"
+        },
+        {
+          "title": "Energy shock vs AI boom: RBI should act as and when external shocks push domestic data in a direction, not until then",
+          "summary": "The global economy is facing conflicting pressures from an energy shock and an AI boom, which will impact India's monetary policy. The Reserve Bank of India (RBI) is likely to adopt a wait-and-see approach to policy decisions, acting only when external shocks significantly affect domestic data. This approach will help the RBI navigate the uncertain external environment.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/opinion/et-commentary/energy-shock-vs-ai-boom-rbi-should-act-as-and-when-external-shocks-push-domestic-data-in-a-direction-not-until-then/articleshow/132522377.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "MS Dhoni’s latest startup bet isn’t gaming or fintech. It’s rooftop solar",
+          "summary": "MS Dhoni has invested in SolarSquare, a rooftop solar company, and joined as its brand ambassador, marking a significant development in India's clean energy sector. This investment is part of a $53 million funding round, highlighting the growing interest in renewable energy in India. The move is expected to boost India's clean energy growth.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/business/news/ms-dhonis-latest-startup-bet-isnt-gaming-or-fintech-its-rooftop-solar/4298377/"
+        },
+        {
+          "title": "India needs $22.7 trillion for net zero, faces $6.5-trillion funding gap: IEEFA",
+          "summary": "India requires a massive investment of $22.7 trillion by 2070 to achieve its net-zero targets, but it faces a significant funding gap of $6.5 trillion. To address this, the country needs to strengthen its climate-transition disclosures and business reporting to attract global funding. This investment is crucial for India's transition to a low-carbon economy.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/policy/economy/india-needs-22-7-trillion-for-net-zero-faces-65-trillion-funding-gap-ieefa/4298370/"
+        },
+        {
+          "title": "India's Banking Sector Eyes Sustainable Growth as Retail Lending and Capex Shape FY27 Outlook",
+          "summary": "India's banking sector is expected to experience sustainable growth in FY27, driven by strong asset quality, stable funding costs, and healthy credit growth. The sector's performance will depend on balanced retail lending, a revival in corporate capex, and prudent regulatory oversight. This growth is crucial for maintaining financial stability in the country.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/other/3952828-indias-banking-sector-eyes-sustainable-growth-as-retail-lending-and-capex-shape-fy27-outlook"
+        },
+        {
+          "title": "India Inc is returning to banks for money, but retail borrowers aren’t keeping pace",
+          "summary": "India's largest private banks are witnessing a shift in credit demand, with corporate and SME lending driving loan growth, while retail borrowing remains subdued. This trend is expected to impact banks' funding mix and margins, as they rely on stronger working capital demand, refinancing, and business banking to boost advances. The slower consumer credit growth may weigh on banks' overall performance.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/india-inc-is-returning-to-banks-for-money-but-retail-borrowers-arent-keeping-pace/articleshow/132508428.cms"
+        },
+        {
+          "title": "Emergent Raises Series C at $1.5 Billion Valuation, Becomes Unicorn in a Year of Launch",
+          "summary": "Emergent, an AI software creation platform, has raised $130 million in Series C funding, valuing the company at $1.5 billion and making it a unicorn within a year of its launch. The funding round was led by Creaegis, with participation from prominent investors such as Khosla Ventures and SoftBank Vision Fund 2. This development highlights the growing interest in AI-powered software creation platforms.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/emergent-raises-series-c-at-1-5-billion-valuation-becomes-unicorn-in-a-year-of-launch/"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Bhojshala row: SC to hear Muslim side's plea on alternate namaz site on Friday",
+          "summary": "The Supreme Court will hear a plea related to the Bhojshala complex in Dhar, where a dispute has arisen over the site's use for namaz. The petitioners have alleged certain issues and the court has agreed to hear their plea. This case highlights the ongoing tensions and disputes over religious sites in India.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/bhojshala-row-sc-to-hear-muslim-sides-plea-on-alternate-namaz-site-on-friday/articleshow/132553052.cms"
+        },
+        {
+          "title": "Delhi protesters want to plunge India into chaos: Zoho's Sridhar Vembu calls for defeating the 'malicious agenda'",
+          "summary": "Zoho CEO Sridhar Vembu has stated that Delhi protesters aim to cause chaos and halt national progress, sparking a debate on social media about the nature of protests and democratic rights. Many users argued that peaceful protest is a fundamental right and that citizens need accountability between elections. The Supreme Court declined an urgent listing for a plea against police action, stating it was not interested in viewing videos at the mentioning stage.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/delhi-protesters-want-to-plunge-india-into-chaos-zohos-sridhar-vembu-calls-for-defeating-the-malicious-agenda/articleshow/132552911.cms"
+        },
+        {
+          "title": "'Don't Want To Watch Any Videos': SC On Plea Against Delhi Police For Alleged Crackdown",
+          "summary": "The Supreme Court declined to hear a petition against Delhi Police for their alleged crackdown during a protest, stating that it did not want to watch videos related to the case at the mentioning stage. This decision highlights the court's approach to handling pleas related to protests and police action. The case is significant as it raises questions about the balance between maintaining law and order and protecting citizens' rights.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/dont-want-to-watch-any-videos-sc-on-plea-against-delhi-police-for-alleged-crackdown-article-155148767"
+        },
+        {
+          "title": "Why is India adding more Supreme Court judges? Explained",
+          "summary": "The Indian government is seeking to increase the number of Supreme Court judges, excluding the Chief Justice of India, from 33 to 37. This move aims to address the court's workload and improve its efficiency. The expansion of the court's strength is significant as it may impact the judiciary's ability to handle cases and deliver justice in a timely manner.",
+          "source": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/india/why-is-india-adding-more-supreme-court-judges-explained-13980134.html"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-22T13:27:42.170873+00:00",
     "brief": "Today's brief highlights the interconnectedness of global events, with tensions between the US and Iran threatening to escalate into a regional conflict, while the killing of Indian seafarers near Ukraine's Odesa port underscores the human cost of war on international trade. Meanwhile, India's economic growth trajectory remains a key focus, with the government releasing new monthly production indices to improve GDP forecasting and the RBI adopting a wait-and-see approach to monetary policy amidst conflicting global pressures. As India aims to become a developed economy by 2047, significant investments in energy security, maritime protection, and emerging technologies like AI will be crucial, with the country's net FDI inflows expected to rebound to $15 billion in FY27.",
     "categories": {
@@ -3546,146 +3650,6 @@
           "summary": "The Aircraft Accident Investigation Bureau has informed the Supreme Court that a draft final report on the Air India crash will be ready by October. The report aims to enhance aviation safety by identifying the causes of the crash. The Supreme Court is monitoring the investigation's progress.",
           "source": "The Hindu",
           "url": "https://www.thehindu.com/news/national/air-india-crash-draft-final-report-will-be-ready-by-october-aaib-tells-supreme-court/article71224177.ece"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-15T19:00:27.342175+00:00",
-    "brief": "Today's brief highlights key developments across geopolitics, economy, business, and national affairs. The ongoing conflict in Sudan has led to a severe hunger crisis, while in Iran, war and economic crises are threatening the country's endangered wildlife. In India, economists expect the Reserve Bank of India to hold interest rates steady, and the country's startup ecosystem may benefit from the upcoming IPOs of AI companies such as OpenAI and Anthropic. Additionally, Indian companies have raised significant funds through commercial papers and pre-IPO funding, with SBI Funds and Aukera being notable examples, and Neuberg Diagnostics plans to launch an IPO in FY28.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Sudan's Deepening Hunger Crisis Amid Ongoing Conflict",
-          "summary": "Sudan is facing a severe hunger crisis due to ongoing internal conflict, reduced aid funding, and agricultural challenges, leaving 5 million people experiencing severe hunger. The war between Sudan's army and paramilitary groups has displaced millions, and international aid efforts are hampered by financial shortages and logistical challenges. This crisis is worsening the humanitarian situation in the country.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/science-environment/3950206-sudans-deepening-hunger-crisis-amid-ongoing-conflict"
-        },
-        {
-          "title": "War and economic crisis complicate efforts to protect Iran's endangered wildlife",
-          "summary": "Iran's endangered wildlife populations are being severely impacted by war and economic crises, with conservationists facing challenges in preserving biodiversity. Smuggling and habitat degradation are further endangering species, and international sanctions are restricting funding for conservation organizations. Despite these obstacles, conservation groups continue to work to protect Iran's wildlife.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/war-and-economic-crisis-complicate-efforts-to-protect-irans-endangered-wildlife/articleshow/132384387.cms"
-        },
-        {
-          "title": "Iran War: Why Russia’s ‘Doomsday Plane’ Is So Special? Know Features",
-          "summary": "Russia's 'Doomsday Plane' is a special aircraft built to function during severe emergencies, including a potential nuclear conflict. It serves as an airborne command centre, allowing top leaders to maintain communication and coordinate national defence under extreme conditions. The plane has unique features that enable it to operate in emergency situations.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/us-iran-war-why-russias-doomsday-plane-is-so-special-know-features-a525/"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "UK CETA, not quite the king's ransom expected from a landmark trade deal",
-          "summary": "The India-Britain CETA trade deal may provide new market opportunities for Indian exporters, but it also poses challenges for small businesses to comply with British regulations and could limit India's policy-making abilities in areas like affordable medications and digital economy. This trade deal has significant implications for India's trade and economic policies. The agreement may impact India's development goals and access to affordable medications.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/opinion/et-commentary/india-uk-ceta-not-quite-the-kings-ransom-expected-from-a-landmark-trade-deal/articleshow/132398530.cms"
-        },
-        {
-          "title": "Economists expect RBI to hold rates steady, rule out near",
-          "summary": "Economists expect the Reserve Bank of India (RBI) to keep interest rates unchanged in its upcoming Monetary Policy Committee meeting due to a tight operational balancing act. The RBI is likely to maintain the current interest rates, and a rate hike is not expected in the near term. This decision will have implications for the Indian economy and monetary policy.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/economists-expect-rbi-to-hold-rates-steady-rule-out-near-term-policy-hike/"
-        },
-        {
-          "title": "Citi, others dial back India rate hike calls as inflation expected to stay moderate",
-          "summary": "Economists have delayed their expectations for interest rate hikes in India due to moderate inflation, with retail inflation rising to 4.38% in June. Core inflation remains around 4%, suggesting a lower annual average, which may lead the RBI to avoid tightening policy soon. The decision to hike rates will depend on sustained core inflation above 4.5%.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/citi-others-dial-back-india-rate-hike-calls-as-inflation-expected-to-stay-moderate/articleshow/132387513.cms"
-        },
-        {
-          "title": "India's CPI inflation may average 5% in FY27; stable rupee, RBI policy to help contain price pressures: SBI Research",
-          "summary": "SBI Research predicts that India's CPI inflation will average 5% in FY27, driven by a stable rupee and RBI policy. This forecast suggests that the RBI's policy and a stable rupee will help contain price pressures. The inflation rate is expected to remain moderate, which will have implications for the Indian economy and monetary policy.",
-          "source": "The Hindu Business Line",
-          "url": "https://www.thehindubusinessline.com/economy/indias-cpi-inflation-may-average-5-in-fy27-stable-rupee-rbi-policy-to-help-contain-price-pressures-sbi-research/article71220364.ece"
-        },
-        {
-          "title": "Retail inflation may harden in FY27, RBI could hike rates: Crisil",
-          "summary": "Crisil predicts that retail inflation in India may increase in FY27 due to elevated fuel costs, input prices, and weather-related risks to food prices. The RBI may consider hiking interest rates if inflationary pressures persist. This forecast suggests that the RBI will closely monitor inflation and may take policy action to control it.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/indicators/retail-inflation-may-harden-in-fy27-rbi-could-hike-rates-crisil/articleshow/132387049.cms"
-        },
-        {
-          "title": "India's retail inflation may average 5.1% in FY27; Crisil sees possibility of 25 bps RBI rate hike",
-          "summary": "Crisil expects India's retail inflation to average 5.1% in FY27, driven by higher fuel costs, input prices, and weather-related risks to food prices. The RBI may consider a 25 basis point rate hike if inflationary pressures persist. This forecast suggests that the RBI will closely monitor inflation and may take policy action to control it.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/indias-retail-inflation-may-average-5-1-in-fy27-crisil-sees-possibility-of-25-bps-rbi-rate-hike/"
-        }
-      ],
-      "Business": [
-        {
-          "title": "AI IPO Wave: Why India's Start-up Ecosystem Could Be an Indirect Winner",
-          "summary": "The upcoming IPOs of OpenAI, Anthropic, and SpaceX may benefit India's startup ecosystem by reviving VC funding, improving exits, and boosting deep-tech investment. This could strengthen India's long-term AI ambitions and reshape global venture capital flows. Successful AI listings may have a positive impact on India's startup ecosystem.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/deeptech/ai-ipo-wave-why-indias-start-up-ecosystem-could-be-an-indirect-winner"
-        },
-        {
-          "title": "SBI Funds Raises Rs 1880 Crore in Pre-IPO Funding",
-          "summary": "SBI Funds has raised Rs 1880 crore in pre-IPO funding from investors including WhiteOak Capital and 3P India. The funding was raised through a private placement of equity shares at an issue price of Rs 574 per share. This investment will support the company's growth plans.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/sbi-funds-raises-rs-1880-crore-in-pre-ipo-funding-from-whiteoak-capital-3p-india-others/"
-        },
-        {
-          "title": "Aukera Raises Rs 90 Cr in Fresh Funding",
-          "summary": "Aukera, a premium lab-grown diamond jewellery brand, has raised Rs 90 crore in fresh funding from investors including Alteria Capital and InnoVen Capital. The funding will support the company's national expansion plans and strengthen its balance sheet. This is the company's second funding round in less than a year, reflecting its strong growth trajectory.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/aukera-raises-rs-90-cr-over-usd-10-mn-in-fresh-funding-less-than-a-year-after-usd-15-mn-round-as-it-accelerates-national-expansion/"
-        },
-        {
-          "title": "Bank Credit Growth to Ease as Corporates Tap Bond Markets",
-          "summary": "Bank credit growth is expected to moderate as large corporations increasingly use domestic bond markets and overseas borrowings for funding. This shift is driven by the Reserve Bank of India's policy measures, which make external funding more attractive for businesses. As a result, banks will finance a smaller share of corporate financing needs.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
-        },
-        {
-          "title": "Neuberg Diagnostics Plans IPO in FY28",
-          "summary": "Neuberg Diagnostics plans to launch an initial public offering in fiscal year 2028, aiming to raise approximately Rs 3,500-4,000 crore. The company will also undertake a pre-IPO funding round to secure Rs 5000 crore for acquisitions, targeting pan-India growth and new diagnostic technologies. This expansion strategy aims to make Neuberg the second-largest player in the diagnostics market.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
-        },
-        {
-          "title": "Corporate Paper Issuances Touch 5-yr High",
-          "summary": "Indian companies raised Rs 2.53 lakh crore through commercial papers in June, a near five-year high. This surge is driven by attractive pricing, seasonal needs, and debt refinancing, with companies shifting from costlier bank loans to cheaper short-term market funding. The Reserve Bank of India's liquidity infusions have also contributed to favorable conditions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Air India crash: Draft final report will be ready by October, AAIB tells Supreme Court",
-          "summary": "The Aircraft Accident Investigation Bureau (AAIB) has informed the Supreme Court that the final report on the Air India crash will be ready by October, aiming to enhance aviation safety. This report is crucial in understanding the cause of the crash and implementing measures to prevent such incidents in the future. The AAIB's investigation is ongoing, and the report's completion is a significant step towards improving air travel safety.",
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/air-india-crash-draft-final-report-will-be-ready-by-october-aaib-tells-supreme-court/article71224177.ece"
-        },
-        {
-          "title": "'Lost 8.25 Kg, May Lose Life In 2 Days': Delhi HC Seeks Centre's Reply On Plea On Wangchuk's Hunger-Strike",
-          "summary": "The Delhi High Court has sought responses from the Centre and the Delhi government regarding Sonam Wangchuk's hunger strike, which has led to significant weight loss and potential health risks. The court's intervention highlights the need for the government to address the concerns raised by Wangchuk and ensure his safety. The case has sparked concerns about the impact of hunger strikes on individuals and the role of the government in responding to such protests.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/india/lost-8-25-kg-may-lose-life-in-2-days-delhi-hc-seeks-centres-reply-on-plea-on-sonam-wangchuks-hunger-strike-article-155103404"
-        },
-        {
-          "title": "Pilot blame narrative affecting Air India crash probe, SC told",
-          "summary": "The AAIB has informed the Supreme Court that the narrative of blaming pilots for the Air India crash is affecting the investigation, as witnesses are becoming hesitant to come forward. This development highlights the challenges faced by investigators in determining the cause of the crash. The AAIB's concern emphasizes the need for a fair and unbiased investigation to ensure that the truth is uncovered and that measures are taken to prevent similar incidents in the future.",
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/legal-news/air-india-crash-investigation-aaib-supreme-court-pilot-blame-10787214/"
-        },
-        {
-          "title": "What Counts As Attempt To Rape? Supreme Court Issues Fresh Directions After Controversial HC Orders",
-          "summary": "The Supreme Court has issued new guidelines for handling sexual offence cases, including attempt to rape, in response to a controversial ruling by the Patna High Court. The guidelines aim to clarify the definition of attempt to rape and ensure that courts, police, and prosecutors follow a standardized approach in handling such cases. This move is expected to improve the handling of sexual offence cases and provide greater clarity for investigators and courts.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/india/supreme-court-sexual-offence-guidelines-patna-high-court-attempt-to-rape-ruling-article-155102977"
-        },
-        {
-          "title": "Supreme Court Agrees To Examine Plea For Ensuring 24x7 Availability Of Courts To Protect 'Life And Liberty'",
-          "summary": "The Supreme Court has agreed to examine a petition seeking the establishment of a Standard Operating Procedure (SOP) to enable citizens to access courts at any hour for urgent matters related to life and liberty. The petition aims to ensure that citizens have access to justice at all times, particularly in emergency situations. The court's decision to examine the plea highlights the importance of ensuring that the justice system is accessible and responsive to the needs of citizens.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/india/supreme-court-agrees-to-examine-plea-for-ensuring-24x7-availability-of-courts-to-protect-life-and-liberty-article-155102201"
-        },
-        {
-          "title": "Acid attack survivors with internal injuries to get RPwD benefits: Centre to SC",
-          "summary": "The Centre has informed the Supreme Court that acid attack survivors who suffer internal injuries will now be entitled to benefits under the Rights of Persons with Disabilities (RPwD) Act, 2016. This decision follows a recent amendment that recognizes internal disfigurement as a form of disability. The move aims to provide support and protection to acid attack survivors who have suffered internal injuries, ensuring they receive the benefits and assistance they need.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/acid-attack-survivors-with-internal-injuries-to-get-rpwd-benefits-centre-to-sc-101784055117132.html"
         }
       ]
     }
