@@ -1,5 +1,115 @@
 [
   {
+    "generated_at": "2026-07-23T13:40:24.857100+00:00",
+    "brief": "Tensions between the US and Iran are escalating in the Strait of Hormuz, a critical global oil passage, with significant implications for international relations and oil prices. Meanwhile, in India, the economy is showing resilience, with record exports and a growing space sector, but the country faces challenges in reducing launch costs and increasing local manufacturing to achieve its ambitious vision of becoming the world's third-largest space economy. Additionally, India's banking sector is experiencing a surge in credit flow, driven by a decline in capital market mobilization, highlighting the changing dynamics of the country's financial landscape.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Legal Tussle: NYC Mayor's Ambitions and International Immunity",
+          "summary": "New York City Mayor Zohran Mamdani cannot arrest Israeli PM Netanyahu due to international immunity laws, despite an ICC arrest warrant. US law and non-membership in the ICC prevent enforcement of such warrants. This highlights the complexities of international law and jurisdiction.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/law-order/3954275-legal-tussle-nyc-mayors-ambitions-and-international-immunity"
+        },
+        {
+          "title": "Tensions Surge: U.S.-Iran Confrontation Escalates in Strategic Waters",
+          "summary": "The US and Iran are experiencing escalating tensions in the Strait of Hormuz, a vital global oil passage. The situation has led to rerouted oil shipments, military responses, and strained international relations. This confrontation has significant implications for global oil prices and international relations.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3954236-tensions-surge-us-iran-confrontation-escalates-in-strategic-waters"
+        },
+        {
+          "title": "Iran's demands over the Strait of Hormuz would set a dangerous precedent, Rubio warns Asian leaders",
+          "summary": "US Secretary of State Marco Rubio has warned Asian leaders about the potential consequences of Iran's actions in the Strait of Hormuz. Rubio emphasized the global economic threat and the need to counter China's growing regional influence. He also plans to discuss the Ukraine war with Russia's foreign minister.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/defence/irans-demands-over-the-strait-of-hormuz-would-set-a-dangerous-precedent-rubio-warns-asian-leaders/articleshow/132561250.cms"
+        },
+        {
+          "title": "Pakistan's deadly airstrikes on Kabul rehab centre should be investigated as possible 'war crime'",
+          "summary": "Amnesty International has called for an investigation into Pakistan's airstrikes on a Kabul rehab centre, which could be considered a war crime. The incident highlights the need for accountability in conflict zones and the importance of protecting civilians.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/pakistans-deadly-airstrikes-on-kabul-rehab-centre-should-be-investigated-as-possible-war-crime/"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Satcom set to play a transformative role; opportunities ahead vast: Trai Chairman",
+          "summary": "The Chairman of the Telecom Regulatory Authority of India (Trai) believes that satellite communications will play a crucial role in expanding connectivity across India, supporting strategic areas, and bridging the digital divide. This is expected to contribute to the growth of India's space economy, which is projected to grow significantly by 2030. The space sector is seeing rapid private participation and innovation, driven by agile policy frameworks and collaboration.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/satcom-set-to-play-a-transformative-role-opportunities-ahead-vast-trai-chairman/articleshow/132563504.cms"
+        },
+        {
+          "title": "Foreign banks show strongest rate transmission in current RBI easing cycle: Bulletin",
+          "summary": "Foreign banks in India have shown the strongest transmission of policy easing during the current rate-cut cycle, with sharper reductions in lending rates and deposit rates. This is according to a bulletin, which notes that the Reserve Bank of India reduced its repo rate by 1.25 percentage points between February 2025 and May 2026. The strong transmission by foreign banks is a significant development in the Indian banking sector.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/foreign-banks-show-strongest-rate-transmission-in-current-rbi-easing-cycle-bulletin/articleshow/132562087.cms"
+        },
+        {
+          "title": "RBI sold $6 billion in May to defend oil-hit Indian rupee, data shows",
+          "summary": "The Reserve Bank of India (RBI) sold $6.1 billion in foreign exchange in May to defend the Indian rupee, which had fallen to a record low due to surging oil prices. The RBI also implemented policy measures to encourage dollar inflows into India. This intervention is aimed at stabilizing the rupee and mitigating the impact of external factors on the Indian economy.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-sold-6-billion-in-may-to-defend-oil-hit-indian-rupee-data-shows/articleshow/132560366.cms"
+        },
+        {
+          "title": "India must cut launch costs, boost local manufacturing to become world's third-largest space economy: DoT official",
+          "summary": "To become the world's third-largest space economy by 2033, India needs to reduce launch costs and increase local manufacturing of space-related materials. A Department of Telecommunications (DoT) official emphasized the importance of these factors, as well as the need to strengthen regulatory functions and emphasize satellite applications in the downstream sector. This will help India achieve its ambitious vision for the space sector.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/science/india-must-cut-launch-costs-boost-local-manufacturing-to-become-worlds-third-largest-space-economy-dot-official/articleshow/132556414.cms"
+        },
+        {
+          "title": "Commerce Secretary highlights resilient economy, record exports at WTO Trade Policy Review",
+          "summary": "The Commerce Secretary highlighted India's resilient economy and record exports at the World Trade Organisation (WTO) Trade Policy Review. India has reaffirmed its support for a balanced, rules-based, development-oriented, and transparent WTO. The country's strong export performance is a significant aspect of its economic growth and trade policy.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/technology/commerce-secretary-highlights-resilient-economy-record-exports-at-wto-trade-policy-review/"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Q1 bank credit flow surges 10x as market mop-up collapses",
+          "summary": "India's bank credit has seen a significant surge in the first quarter due to a sharp decline in capital market mobilization, making bank credit a primary source of funding for the commercial sector. This shift highlights the changing dynamics of India's financial landscape. The surge in bank credit indicates a growing reliance on traditional banking channels for funding.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/q1-bank-credit-flow-surges-10x-as-market-mop-up-collapses/articleshow/132569873.cms"
+        },
+        {
+          "title": "India needs $22.7 trillion for net zero, faces $6.5-trillion funding gap: IEEFA",
+          "summary": "India requires a substantial investment of $22.7 trillion by 2070 to achieve its net-zero targets, but it faces a significant funding gap of $6.5 trillion. To address this, the country needs to strengthen its climate-transition disclosures and business reporting to attract global funding. This investment is crucial for India's transition to a low-carbon economy.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/policy/economy/india-needs-22-7-trillion-for-net-zero-faces-65-trillion-funding-gap-ieefa/4298370/"
+        },
+        {
+          "title": "India's Banking Sector Eyes Sustainable Growth as Retail Lending and Capex Shape FY27 Outlook",
+          "summary": "India's banking sector is expected to experience sustainable growth in FY27, driven by strong asset quality, stable funding costs, and healthy credit growth. The sector's performance will depend on balanced retail lending, a revival in corporate capex, and prudent regulatory oversight. This growth is crucial for maintaining financial stability in the country.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/other/3952828-indias-banking-sector-eyes-sustainable-growth-as-retail-lending-and-capex-shape-fy27-outlook"
+        },
+        {
+          "title": "India Inc is returning to banks for money, but retail borrowers aren’t keeping pace",
+          "summary": "India's largest private banks are witnessing a shift in credit demand, with corporate and SME lending driving loan growth, while retail borrowing remains subdued. This shift highlights the changing credit landscape in India, with businesses increasingly relying on banks for funding. However, slower consumer credit growth and weaker CASA ratios continue to impact banks' funding mix and margins.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/india-inc-is-returning-to-banks-for-money-but-retail-borrowers-arent-keeping-pace/articleshow/132508428.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "SC gives no interim relief to Sena UBT over MPs' merger with Shinde camp, says will issue notice",
+          "summary": "The Supreme Court has refused to provide interim relief to the Shiv Sena (UBT) in their plea challenging the Speaker's recognition of six MPs' merger with the Shinde camp. The court will issue a notice in the matter. This decision is significant as it affects the political dynamics in Maharashtra.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/sc-gives-no-interim-relief-to-sena-ubt-over-mps-merger-with-shinde-camp-says-will-issue-notice-101784768687534.html"
+        },
+        {
+          "title": "SC seeks Speaker response to UBT plea against MPs' merger with Sena",
+          "summary": "The Supreme Court has agreed to examine the validity of the Lok Sabha Speaker's decision to recognize the merger of six Sena UBT MPs with the Shinde camp. The court has sought a response from the Speaker in this matter. This case has implications for the political landscape in India.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/sc-seeks-speaker-response-to-ubt-plea-against-mps-merger-with-sena/articleshow/132569933.cms"
+        },
+        {
+          "title": "SC acquits blast accused in jail for 23 years",
+          "summary": "The Supreme Court has acquitted a man who was accused in the 1996 Rajasthan bomb blast case and had been in jail for 23 years. The court found no evidence against him, highlighting the importance of ensuring justice and protecting human rights in India.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/sc-acquits-blast-accused-in-jail-for-23-years/articleshow/132567930.cms"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-23T08:17:48.610696+00:00",
     "brief": "Tensions between the US and Iran are escalating in the Strait of Hormuz, a vital global oil passage, with potential implications for global oil prices and international relations. Meanwhile, in India, the Reserve Bank of India has been taking measures to defend the Indian rupee, which has been impacted by surging oil prices, including selling $6.1 billion in foreign exchange in May. The Indian economy is also seeing growth in the space sector, with the Chairman of Trai believing that satellite communications will play a significant role in expanding connectivity across India, and the government aiming to make India the world's third-largest space economy by 2033.",
     "categories": {
@@ -3492,158 +3602,6 @@
           "summary": "The Supreme Court has extended the deadline for the Pharmacy Council of India to grant approvals to pharmacy colleges for the 2026-27 academic session. The new deadline is September 15, and the council must provide an undertaking that no further extensions will be sought. This extension gives the council more time to verify colleges and ensure compliance with regulations.",
           "source": "Hindustan Times",
           "url": "https://www.hindustantimes.com/india-news/sc-grants-more-time-for-pharmacy-council-to-verify-colleges-101784139675829.html"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-16T13:28:20.394677+00:00",
-    "brief": "This week saw significant developments across various categories, with global tensions and economic trends dominating the headlines. The ongoing tensions in the Strait of Hormuz and leadership changes in Ukraine have highlighted the complex nature of global politics, while the US stock market's resilience despite these tensions underscores the interplay between geopolitics and economics. Meanwhile, in India, the Reserve Bank of India's upcoming monetary policy decision is being closely watched, with economists expecting interest rates to remain steady due to moderate inflation, and the country's startup ecosystem is poised to benefit from the upcoming IPOs of AI companies such as OpenAI and Anthropic.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Global Tensions and Triumphs: A Week of Critical Developments",
-          "summary": "This week saw significant international developments, including Ukraine's leadership changes, tensions in the Strait of Hormuz, and high-stakes diplomacy. These events highlight the complex and interconnected nature of global politics. The week's events also underscore the impact of geopolitics on various aspects of life, including sports.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/politics/3950981-global-tensions-and-triumphs-a-week-of-critical-developments"
-        },
-        {
-          "title": "US stocks today: Markets open in green despite Iran war tensions, oil price swings",
-          "summary": "Despite rising tensions with Iran and fluctuations in oil prices, US stock markets opened higher due to strong quarterly earnings from major companies and new inflation data. This development shows how global events can influence financial markets. The situation highlights the complex interplay between geopolitics and economics.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/international-business/us-stocks-today-15-july-2026-markets-open-in-green-despite-iran-war-tensions-oil-price-swings/articleshow/132421177.cms"
-        },
-        {
-          "title": "U.S. Advocacy Groups Challenge Trump's ICC Sanctions",
-          "summary": "Two advocacy groups are suing the Trump administration over sanctions targeting the International Criminal Court, arguing they violate free speech and impede investigations into potential war crimes. The European Union and Netherlands have expressed support for the ICC. This challenge reflects the ongoing debate about the role of international institutions in promoting justice and accountability.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/law-order/3950800-us-advocacy-groups-challenge-trumps-icc-sanctions"
-        },
-        {
-          "title": "Global Conflicts and Trade Transformations: Today's World News",
-          "summary": "The global landscape is marked by various conflicts, including a deadly Russian attack in Ukraine, and efforts to address war crimes in Congo. Additionally, a trade pact between India and the UK has been operationalized, highlighting the evolving nature of international trade. These developments demonstrate the complexity and interconnectedness of global issues.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/politics/3950718-global-conflicts-and-trade-transformations-todays-world-news"
-        },
-        {
-          "title": "Drone warfare 2.0: Unmanned vehicles outfitted with long-range missiles",
-          "summary": "Advances in automation and autonomy are transforming modern warfare, with unmanned vehicles being equipped with long-range missiles. This development has significant implications for the future of warfare and global security. The use of drones and other unmanned systems is likely to continue shaping the nature of conflict.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/defence/international/drone-warfare-2-0-unmanned-vehicles-outfitted-with-long-range-missiles-deliver-deep-strikes/articleshow/132414112.cms"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "UK CETA, not quite the king's ransom expected from a landmark trade deal",
-          "summary": "The India-Britain CETA trade deal may provide new market opportunities for Indian exporters, but it also poses challenges for small businesses and could limit India's policy-making abilities in areas like affordable medications and digital economy. The deal's impact on India's development goals is a concern. Britain's Department of International Trade predicts significant trade growth by 2040.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/opinion/et-commentary/india-uk-ceta-not-quite-the-kings-ransom-expected-from-a-landmark-trade-deal/articleshow/132398530.cms"
-        },
-        {
-          "title": "Economists expect RBI to hold rates steady, rule out near",
-          "summary": "Economists expect the Reserve Bank of India to keep interest rates unchanged in its upcoming Monetary Policy Committee meeting due to a tight operational balancing act. This decision is based on the current economic conditions and the need for the RBI to balance its goals. The RBI's decision will have implications for the economy and monetary policy.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/economists-expect-rbi-to-hold-rates-steady-rule-out-near-term-policy-hike/"
-        },
-        {
-          "title": "Citi, others dial back India rate hike calls as inflation expected to stay moderate",
-          "summary": "Economists have delayed their expectations for interest rate hikes in India due to moderate inflation, with retail inflation rising to 4.38% in June. Core inflation remains around 4%, suggesting a lower annual average, which may lead the Reserve Bank of India to avoid tightening policy soon. Future rate hikes depend on sustained core inflation above 4.5%.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/citi-others-dial-back-india-rate-hike-calls-as-inflation-expected-to-stay-moderate/articleshow/132387513.cms"
-        },
-        {
-          "title": "India's CPI inflation may average 5% in FY27; stable rupee, RBI policy to help contain price pressures: SBI Research",
-          "summary": "SBI Research predicts that India's CPI inflation will average 5% in FY27, driven by a stable rupee and the Reserve Bank of India's policy. This forecast suggests that the RBI's efforts to manage inflation will be effective in containing price pressures. A stable rupee is also expected to contribute to this outcome.",
-          "source": "The Hindu Business Line",
-          "url": "https://www.thehindubusinessline.com/economy/indias-cpi-inflation-may-average-5-in-fy27-stable-rupee-rbi-policy-to-help-contain-price-pressures-sbi-research/article71220364.ece"
-        },
-        {
-          "title": "Retail inflation may harden in FY27, RBI could hike rates: Crisil",
-          "summary": "Crisil predicts that retail inflation in India will increase in FY27 due to elevated fuel costs, higher input prices, and weather-related risks to food prices. The Reserve Bank of India may hike interest rates if inflationary pressures persist, as it closely monitors inflation for policy adjustments. This forecast suggests that the RBI may take action to manage inflation.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/indicators/retail-inflation-may-harden-in-fy27-rbi-could-hike-rates-crisil/articleshow/132387049.cms"
-        },
-        {
-          "title": "India's retail inflation may average 5.1% in FY27; Crisil sees possibility of 25 bps RBI rate hike",
-          "summary": "Crisil forecasts that India's retail inflation will average 5.1% in FY27, driven by higher fuel costs, input prices, and weather-related risks to food prices. The Reserve Bank of India may consider a 25 basis point rate hike if inflationary pressures persist, as it closely monitors inflation before taking further policy action. This forecast suggests that the RBI may take action to manage inflation.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/indias-retail-inflation-may-average-5-1-in-fy27-crisil-sees-possibility-of-25-bps-rbi-rate-hike/"
-        }
-      ],
-      "Business": [
-        {
-          "title": "AI IPO wave: Why India's start-up ecosystem could be an indirect winner",
-          "summary": "The upcoming IPOs of OpenAI, Anthropic, and SpaceX may benefit India's startup ecosystem by reviving VC funding, improving exits, and boosting deep-tech investment. This could strengthen India's long-term AI ambitions and reshape global venture capital flows. Successful AI listings may have a positive impact on India's startup ecosystem.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/deeptech/ai-ipo-wave-why-indias-start-up-ecosystem-could-be-an-indirect-winner"
-        },
-        {
-          "title": "SBI Funds raises Rs 1880 crore in pre-IPO funding",
-          "summary": "SBI Funds has raised Rs 1880 crore in pre-IPO funding from investors including WhiteOak Capital and 3P India. The funding was raised through a private placement of equity shares at an issue price of Rs 574 per share. This funding round is a significant development ahead of the company's IPO.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/sbi-funds-raises-rs-1880-crore-in-pre-ipo-funding-from-whiteoak-capital-3p-india-others/"
-        },
-        {
-          "title": "Aukera raises Rs 90 crore in fresh funding",
-          "summary": "Aukera, a premium lab-grown diamond jewellery brand, has raised Rs 90 crore in fresh funding from investors including Alteria Capital and InnoVen Capital. This funding round comes less than a year after the company raised $15 million in equity funding. The investment reflects the confidence of lenders and investors in Aukera's growth trajectory.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/aukera-raises-rs-90-cr-over-usd-10-mn-in-fresh-funding-less-than-a-year-after-usd-15-mn-round-as-it-accelerates-national-expansion/"
-        },
-        {
-          "title": "Bank credit growth to ease as corporates tap bond markets",
-          "summary": "Bank credit growth is expected to moderate as large corporations increasingly use domestic bond markets and overseas borrowings for funding. This shift is driven by the Reserve Bank of India's policy measures, which make external funding more attractive for businesses. As a result, banks will finance a smaller share of corporate financing needs.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
-        },
-        {
-          "title": "Neuberg Diagnostics plans IPO in FY28",
-          "summary": "Neuberg Diagnostics plans to launch an initial public offering in fiscal year 2028, aiming to raise approximately Rs 3,500-4,000 crore. The company will also secure Rs 5000 crore in pre-IPO funding for acquisitions, targeting pan-India growth and new diagnostic technologies. Neuberg expects to become the second-largest player in the diagnostics market.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
-        },
-        {
-          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore",
-          "summary": "Indian companies raised Rs 2.53 lakh crore through commercial papers in June, a near five-year high. This surge is driven by attractive pricing, seasonal needs, and debt refinancing, with companies shifting from costlier bank loans to cheaper short-term market funding. The Reserve Bank of India's liquidity infusions have contributed to favorable conditions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Supreme Court approves country’s first night safari in UP's Lucknow",
-          "summary": "The Supreme Court has given its approval for the country's first night safari in Lucknow, Uttar Pradesh, after the state government obtained necessary clearances from the Central Zoo Authority and the Ministry of Environment. This development is significant for tourism and conservation efforts in the region. The night safari is expected to boost local economy and provide a unique experience for visitors.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/supreme-court-approves-country-s-first-night-safari-in-ups-lucknow-101784163743651.html"
-        },
-        {
-          "title": "Patna high court ruling on groping draws criticism from top court",
-          "summary": "The Supreme Court has criticized a recent order by the Patna High Court that seemed to downplay the severity of groping, stating that removing a woman's clothing and pressing her breasts does not constitute a serious offense. The Supreme Court's reaction highlights the importance of proper interpretation of laws related to women's safety and dignity. This case underscores the need for consistent and sensitive application of the law in such matters.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/patna-high-court-ruling-on-groping-draws-criticism-from-top-court/articleshow/132427381.cms"
-        },
-        {
-          "title": "Move high court on SIR-linked ration card cancellation: Supreme Court to petitioner",
-          "summary": "The Supreme Court has directed a petitioner to approach the high court regarding the cancellation of ration cards linked to the Swasthya Sathi scheme in West Bengal. This decision indicates that the Supreme Court prefers that such state-specific matters be addressed at the high court level first, before potentially being escalated to the apex court. The case involves the petitioner challenging the state government's decision on ration card cancellations.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/move-high-court-on-sir-linked-ration-card-cancellation-supreme-court-to-petitioner/articleshow/132427273.cms"
-        },
-        {
-          "title": "Supreme Court asks CBSE for details of steps taken to curb digital evaluation flubs",
-          "summary": "The Supreme Court has asked the Central Board of Secondary Education (CBSE) to provide details on the measures taken to address irregularities in digital evaluation processes. This inquiry follows concerns over errors and inconsistencies in the digital assessment system used by the CBSE. The Supreme Court's intervention aims to ensure fairness and transparency in the evaluation process for students.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/supreme-court-asks-cbse-for-details-of-steps-taken-to-curb-digital-evaluation-flubs/articleshow/132426247.cms"
-        },
-        {
-          "title": "SC flags 'frustration' of students in CBSE's OSM",
-          "summary": "The Supreme Court has taken note of the frustration expressed by students regarding the CBSE's on-screen marking (OSM) system, which is part of the digital evaluation process. A Public Interest Litigation sought regulations for on-screen marking to address these concerns. The Chief Justice of India acknowledged the distress faced by young students due to issues with the digital marking system.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/india/sc-flags-frustration-of-students-in-cbses-osm/articleshow/132423710.cms"
-        },
-        {
-          "title": "SC orders Uttarakhand govt to grant land for new HC building",
-          "summary": "The Supreme Court has directed the Uttarakhand government to allocate land for the construction of a new high court building in Nainital within six weeks. This order overrides a previous referendum and aims to expedite the relocation of the high court. The Supreme Court's directive is significant for the infrastructure development of the judiciary in the state and ensures the timely establishment of the new high court premises.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/sc-orders-uttarakhand-govt-to-grant-land-for-new-hc-building-101784131694420.html"
         }
       ]
     }
