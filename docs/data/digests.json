@@ -1,5 +1,127 @@
 [
   {
+    "generated_at": "2026-07-23T02:07:00.775507+00:00",
+    "brief": "Tensions are escalating globally, with the US and Iran on the brink of war, while Pakistan's airstrikes on a Kabul rehabilitation center have sparked calls for an investigation into possible war crimes. Meanwhile, in India, the economy is seeing significant developments, including the Reserve Bank of India's efforts to defend the rupee and the government's move to track service industries on a monthly basis, which is expected to improve GDP forecasting and monetary policy analysis. Additionally, India's banking sector is expected to experience sustainable growth, driven by strong asset quality and healthy credit growth, with a focus on balanced retail lending and corporate capex.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Pakistan's deadly airstrikes on Kabul rehab centre should be investigated as possible 'war crime'",
+          "summary": "Amnesty International has called for an investigation into Pakistani airstrikes on a Kabul rehabilitation center, which may be considered a war crime. The airstrikes killed many civilians, with the UN confirming the impact on healthcare facilities. Pakistan claims the targets were military zones, amid ongoing tensions with the Taliban.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/pakistans-deadly-airstrikes-on-kabul-rehab-centre-should-be-investigated-as-possible-war-crime/"
+        },
+        {
+          "title": "Mamdani Says New York Doesn’t Have Authority to Arrest Netanyahu",
+          "summary": "The New York City mayor has called the Israeli prime minister a war criminal and urged the federal government to execute an international arrest warrant. However, it is being argued that New York does not have the authority to arrest Netanyahu. This development highlights the complexities of international law and jurisdiction.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/mamdani-says-new-york-doesn-t-have-authority-to-arrest-netanyahu-101784714779711.html"
+        },
+        {
+          "title": "West Asia on the boil as US and Iran return to war",
+          "summary": "Tensions are rising in West Asia as the US and Iran are on the brink of war. This escalation has significant implications for regional and global stability. The situation is being closely watched by international observers, who are concerned about the potential consequences of a conflict.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/ht-insight/international-affairs/west-asia-on-the-boil-as-us-and-iran-return-to-war-101784713221099.html"
+        },
+        {
+          "title": "Amnesty International Calls for Probe into Deadly Airstrikes in Kabul",
+          "summary": "Amnesty International is calling for an investigation into Pakistani airstrikes on Kabul, which killed 269 civilians and damaged healthcare facilities. The organization has condemned the attacks as potential war crimes. The incident has raised concerns about the protection of civilians in conflict zones.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/law-order/3953949-amnesty-international-calls-for-probe-into-deadly-airstrikes-in-kabul"
+        },
+        {
+          "title": "South Korean President Lee Jae Myung Embarks on Multinational Diplomatic Tour",
+          "summary": "South Korean President Lee Jae Myung is embarking on a diplomatic tour to several countries, including Brazil and Germany, to strengthen international relations and expand trade. The tour aims to discuss trade agreements and enhance energy cooperation. This visit highlights the importance of diplomatic efforts in promoting economic and strategic ties between nations.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3953923-south-korean-president-lee-jae-myung-embarks-on-multinational-diplomatic-tour"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "RBI sold $6 billion in May to defend oil-hit Indian rupee, data shows",
+          "summary": "The Reserve Bank of India sold $6.1 billion in foreign exchange in May to defend the rupee from record lows caused by surging oil prices. The central bank also implemented policy measures to encourage dollar inflows into India. This intervention aims to stabilize the rupee and manage its impact on the economy.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-sold-6-billion-in-may-to-defend-oil-hit-indian-rupee-data-shows/articleshow/132560366.cms"
+        },
+        {
+          "title": "India must cut launch costs, boost local manufacturing to become world's third-largest space economy: DoT official",
+          "summary": "India aims to become the world's third-largest space economy by 2033, which requires significant changes in policy and regulatory frameworks. To achieve this, the country needs to lower launch costs and increase local manufacturing of materials, as well as emphasize satellite applications in the downstream sector. Strengthening regulatory functions will also be crucial for success.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/science/india-must-cut-launch-costs-boost-local-manufacturing-to-become-worlds-third-largest-space-economy-dot-official/articleshow/132556414.cms"
+        },
+        {
+          "title": "India ran a $4-trillion economy half-blind for decades. That just ended",
+          "summary": "India has started tracking the production of 19 service industries on a monthly basis, using GST returns and regulatory data. This move is expected to improve GDP forecasting, monetary policy analysis, and investment research, as services account for more than half of the economy. The new data will provide a more comprehensive understanding of the economy.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/prime/india-ran-a-4-trillion-economy-half-blind-for-decades-that-just-ended/primearticleshow/132542817.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "MS Dhoni’s latest startup bet isn’t gaming or fintech. It’s rooftop solar",
+          "summary": "MS Dhoni has invested in SolarSquare, a rooftop solar company, and joined as its brand ambassador, highlighting the growth potential of India's clean energy sector. This investment is part of a $53 million funding round, indicating increasing interest in renewable energy. The move is expected to boost India's clean energy growth and promote sustainable development.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/business/news/ms-dhonis-latest-startup-bet-isnt-gaming-or-fintech-its-rooftop-solar/4298377/"
+        },
+        {
+          "title": "India needs $22.7 trillion for net zero, faces $6.5-trillion funding gap: IEEFA",
+          "summary": "India requires a significant investment of $22.7 trillion by 2070 to achieve its net-zero targets, but faces a substantial funding gap of $6.5 trillion. To address this, the country needs to strengthen climate-transition disclosures and business reporting to secure capital and global funding. Meeting this target is crucial for India's sustainable development and reducing its carbon footprint.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/policy/economy/india-needs-22-7-trillion-for-net-zero-faces-65-trillion-funding-gap-ieefa/4298370/"
+        },
+        {
+          "title": "India's Banking Sector Eyes Sustainable Growth as Retail Lending and Capex Shape FY27 Outlook",
+          "summary": "India's banking sector is expected to experience sustainable growth in FY27, driven by strong asset quality, stable funding costs, and healthy credit growth. The sector's performance will depend on balanced retail lending, a revival in corporate capex, and prudent regulatory oversight. This growth is crucial for maintaining financial stability and supporting the country's economic development.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/other/3952828-indias-banking-sector-eyes-sustainable-growth-as-retail-lending-and-capex-shape-fy27-outlook"
+        },
+        {
+          "title": "India Inc is returning to banks for money, but retail borrowers aren’t keeping pace",
+          "summary": "India's largest private banks are witnessing a shift in credit demand, with corporate and SME lending driving loan growth, while retail borrowing remains subdued. This trend is driven by stronger working capital demand, refinancing, and business banking, but slower consumer credit growth and weaker CASA ratios continue to impact banks' funding mix and margins. The disparity between corporate and retail lending may affect the overall growth of the banking sector.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/india-inc-is-returning-to-banks-for-money-but-retail-borrowers-arent-keeping-pace/articleshow/132508428.cms"
+        },
+        {
+          "title": "How an Ex-Bank Clerk Built India’s Olympic Medal Factory",
+          "summary": "A former bank clerk has played a crucial role in building India's Olympic medal factory by replacing slow government funding with private investment. This initiative has sparked a multi-sport revolution, leading to India's Olympic medal wins. The story highlights the impact of private funding and initiative in driving sports development and success in the country.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/sports/sports-insights/how-an-ex-bank-clerk-built-indias-olympic-medal-factory/4296037/"
+        },
+        {
+          "title": "Emergent Raises Series C at $1.5 Billion Valuation, Becomes Unicorn in a Year of Launch",
+          "summary": "Emergent, an AI software creation platform, has raised $130 million in Series C funding, valuing the company at $1.5 billion and making it a unicorn within a year of its launch. The funding round was led by Creaegis and included participation from prominent investors such as Khosla Ventures and SoftBank Vision Fund 2. This achievement highlights the growing interest in AI and tech startups in India and globally.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/emergent-raises-series-c-at-1-5-billion-valuation-becomes-unicorn-in-a-year-of-launch/"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "SC bar bodies condemn police action against protesters, lawyers during CJP march",
+          "summary": "The Supreme Court bar bodies have condemned the alleged police brutality against students and lawyers during a protest march, calling it unacceptable in a democratic society. This incident has sparked a debate about the use of force by police against protesters. The bar bodies' statement highlights the need for protecting the rights of protesters and ensuring that police actions are proportionate to the situation.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/unacceptable-in-a-democratic-society-sc-bar-bodies-condemn-police-action-against-protesters-lawyers-during-cjp-march/articleshow/132559050.cms"
+        },
+        {
+          "title": "Delhi HC seeks govt's response on pleas over alleged brutality during CJP march",
+          "summary": "The Delhi High Court has issued a notice to the Delhi government seeking its response to petitions alleging police brutality against students during a protest march. The court's move indicates that it is taking the allegations seriously and wants the government to provide its side of the story. This case may have implications for the way police handle protests in the future.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/delhi-hc-seeks-govts-response-on-pleas-over-alleged-brutality-during-cjp-march/articleshow/132556673.cms"
+        },
+        {
+          "title": "Preserve CCTV': Delhi HC on plea alleging police brutality during CJP protest",
+          "summary": "The Delhi High Court has directed that CCTV footage related to a protest march be preserved, as it may be relevant to allegations of police brutality. This order suggests that the court is taking steps to ensure that evidence is not destroyed or tampered with. The preservation of CCTV footage can help in investigating the allegations and determining the facts of the case.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/preserve-cctv-delhi-hc-on-plea-alleging-police-brutality-during-cjp-protest-101784715780990.html"
+        },
+        {
+          "title": "Sena vs Sena: SC Issues Notice To Lok Sabha Speaker Over His Approval Of Rebel MPs' Merger With Shinde Faction",
+          "summary": "The Supreme Court has issued a notice to the Lok Sabha Speaker over his approval of the merger of six rebel MPs with the Shinde-led faction of the Shiv Sena. This move indicates that the court is examining the legitimacy of the Speaker's decision and its implications for the party's leadership. The case may have significant implications for the political landscape of India, particularly in Maharashtra.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/sena-vs-sena-sc-issues-notice-to-lok-sabha-speaker-over-his-approval-of-rebel-mps-merger-with-shinde-faction-article-155150160"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-22T19:02:34.428206+00:00",
     "brief": "Tensions are escalating globally, with Iran warning of regional escalation if the US strikes its nuclear sites, while Indian seafarers face growing dangers amid armed hostilities, as evident from the recent attack on a merchant vessel. Meanwhile, India is taking steps to enhance its energy security and protect maritime corridors, with National Security Advisor Ajit Doval discussing these issues during his visit to Riyadh. On the economic front, India is making strides to improve its data collection, with the release of monthly production indices for service industries, which could lead to better GDP forecasting and investment research, and is aiming for 9% annual economic growth to become a developed nation by 2047.",
     "categories": {
@@ -3516,140 +3638,6 @@
           "summary": "The Supreme Court is hearing appeals related to the Bhojshala-Kamal Maula complex, which is claimed by both Hindus and Muslims as a place of worship. The case highlights the complexities of religious disputes in India and the role of the judiciary in resolving such issues. The court's decision may have significant implications for communal harmony.",
           "source": "Times Now",
           "url": "https://www.timesnownews.com/india/temple-mosque-claims-and-a-2003-asi-order-why-bhojshala-is-one-of-indias-most-contested-religious-sites-article-155104633"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-16T01:58:56.270792+00:00",
-    "brief": "Today's global landscape is marked by significant developments, including a deadly Russian attack in Ukraine and the formation of a council to address war crimes in Congo, highlighting the complex interplay of international relations and conflicts. Meanwhile, in India, the recent trade pact with the UK may provide new market opportunities for exporters, but also poses challenges for small businesses, while economists predict the Reserve Bank of India will hold interest rates steady due to moderate inflation. Additionally, India's startup ecosystem may indirectly benefit from the upcoming IPOs of major AI companies, which could revive VC funding and boost deep-tech investment, potentially reshaping global venture capital flows.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Global Conflicts and Trade Transformations: Today's World News",
-          "summary": "The global landscape is witnessing significant developments, including a deadly Russian attack in Ukraine, the formation of a council to address war crimes in Congo, and the operationalization of a trade pact between India and the UK. These events highlight the complex interplay of international relations, conflicts, and economic agreements. The situation is being closely monitored by nations around the world.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/politics/3950718-global-conflicts-and-trade-transformations-todays-world-news"
-        },
-        {
-          "title": "Congo's Quest for Justice: A New Advisory Council Leads the Charge",
-          "summary": "The Democratic Republic of Congo has established a new advisory council to pursue accountability for atrocities in its troubled east, with the help of war crimes lawyers from the US and Europe. This initiative demonstrates Congo's commitment to international justice amid long-term conflict and regional tensions. The council's efforts may have significant implications for global human rights and justice.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/law-order/3950566-congos-quest-for-justice-a-new-advisory-council-leads-the-charge"
-        },
-        {
-          "title": "Drone warfare 2.0: Unmanned vehicles outfitted with long",
-          "summary": "Advances in automation and autonomy are transforming modern warfare, with the development of unmanned vehicles equipped with long-range missiles. This technology has the potential to significantly impact the nature of conflict and global security. The use of drones in warfare raises important questions about the future of military strategy and international relations.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/defence/international/drone-warfare-2-0-unmanned-vehicles-outfitted-with-long-range-missiles-deliver-deep-strikes/articleshow/132414112.cms"
-        },
-        {
-          "title": "Why is Pickaxe Mountain at the centre of the West Asia Crisis?",
-          "summary": "Pickaxe Mountain, a heavily fortified Iranian nuclear site, has become a key point of contention in the escalating US-Iran tensions. The site's significance is closely tied to the broader West Asia crisis, with important implications for international relations and global security. Understanding the context and geography of Pickaxe Mountain is crucial for grasping the complexities of the crisis.",
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-pickaxe-mountain-iran-west-asia-crisis-upsc-10787330/"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "UK CETA, not quite the king's ransom expected from a landmark trade deal",
-          "summary": "The India-UK CETA trade deal may provide new market opportunities for Indian exporters, but it also poses challenges for small businesses in adhering to British regulations and could limit India's policy-making abilities in areas like affordable medications and digital economy. This agreement may have significant implications for India's trade and economic policies. The deal's impact on India's development goals is a concern.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/opinion/et-commentary/india-uk-ceta-not-quite-the-kings-ransom-expected-from-a-landmark-trade-deal/articleshow/132398530.cms"
-        },
-        {
-          "title": "Economists expect RBI to hold rates steady, rule out near",
-          "summary": "Economists predict that the Reserve Bank of India (RBI) will keep interest rates unchanged in its upcoming Monetary Policy Committee meeting due to a tight operational balancing act. The RBI is expected to maintain its current stance on interest rates. This decision will have implications for the Indian economy and monetary policy.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/economists-expect-rbi-to-hold-rates-steady-rule-out-near-term-policy-hike/"
-        },
-        {
-          "title": "Citi, others dial back India rate hike calls as inflation expected to stay moderate",
-          "summary": "Economists have revised their expectations for interest rate hikes in India due to moderate inflation, with retail inflation rising to 4.38% in June. Core inflation remains around 4%, suggesting a lower annual average. The Reserve Bank of India may not tighten policy soon, and future rate hikes depend on sustained core inflation above 4.5%.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/citi-others-dial-back-india-rate-hike-calls-as-inflation-expected-to-stay-moderate/articleshow/132387513.cms"
-        },
-        {
-          "title": "India's CPI inflation may average 5% in FY27; stable rupee, RBI policy to help contain price pressures: SBI Research",
-          "summary": "SBI Research predicts that India's CPI inflation will average 5% in FY27, driven by a stable rupee and the RBI's policy. This forecast suggests that the Indian economy will experience moderate inflation. The stable rupee and RBI policy are expected to help contain price pressures.",
-          "source": "The Hindu Business Line",
-          "url": "https://www.thehindubusinessline.com/economy/indias-cpi-inflation-may-average-5-in-fy27-stable-rupee-rbi-policy-to-help-contain-price-pressures-sbi-research/article71220364.ece"
-        },
-        {
-          "title": "Retail inflation may harden in FY27, RBI could hike rates: Crisil",
-          "summary": "Crisil predicts that retail inflation in India will increase in FY27, driven by elevated fuel costs and input prices. The Reserve Bank of India may hike interest rates if inflationary pressures persist. Food prices are also under pressure from weather-related risks and higher costs, which could impact the RBI's policy decisions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/indicators/retail-inflation-may-harden-in-fy27-rbi-could-hike-rates-crisil/articleshow/132387049.cms"
-        },
-        {
-          "title": "India's retail inflation may average 5.1% in FY27; Crisil sees possibility of 25 bps RBI rate hike",
-          "summary": "Crisil Ratings forecasts that India's retail inflation will average 5.1% in FY27, driven by factors like elevated fuel costs and higher input prices. The Reserve Bank of India may consider a 25 basis point rate hike if inflationary pressures persist. This prediction suggests that the RBI will closely monitor inflation before taking further policy action.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/indias-retail-inflation-may-average-5-1-in-fy27-crisil-sees-possibility-of-25-bps-rbi-rate-hike/"
-        }
-      ],
-      "Business": [
-        {
-          "title": "up Ecosystem Could Be an Indirect Winner",
-          "summary": "The upcoming IPOs of OpenAI, Anthropic, and SpaceX may indirectly benefit India's startup ecosystem by reviving VC funding, improving exits, and boosting deep-tech investment. This could strengthen India's long-term AI ambitions and reshape global venture capital flows. Successful AI listings may have a positive impact on India's startup ecosystem.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/deeptech/ai-ipo-wave-why-indias-start-up-ecosystem-could-be-an-indirect-winner"
-        },
-        {
-          "title": "Bank credit growth to ease as corporates tap bond markets, overseas funding",
-          "summary": "Bank credit growth is expected to moderate as large corporations increasingly use domestic bond markets and overseas borrowings for funding. This shift is driven by the Reserve Bank of India's policy measures, which make external funding more attractive for businesses. As a result, banks will finance a smaller share of corporate financing needs.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
-        },
-        {
-          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
-          "summary": "Neuberg Diagnostics plans to launch an initial public offering in fiscal year 2028, aiming to raise approximately ₹3,500-4,000 crore. The company will use a pre-IPO funding round to secure Rs 5000 crore for acquisitions, targeting pan-India growth and new diagnostic technologies. This expansion strategy aims to make Neuberg the second-largest player in the diagnostics market.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
-        },
-        {
-          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
-          "summary": "Indian companies raised a significant amount of funds via commercial papers in June, reaching a near five-year high of Rs 2.53 lakh crore. This surge is driven by attractive pricing, seasonal needs, and debt refinancing, with companies shifting from costlier bank loans to cheaper short-term market funding. The Reserve Bank of India's liquidity infusions also contributed to favorable conditions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
-        },
-        {
-          "title": "Aukera Raises Rs. 90 Cr in Fresh Funding",
-          "summary": "Aukera, a premium lab-grown diamond jewellery brand, has raised Rs. 90 crore in fresh funding, led by existing investor Alteria Capital. This funding round comes less than a year after the company closed a USD 15 million equity round, reflecting the strength of Aukera's growth trajectory and the confidence of lenders and investors in the business. The company will use the funds to accelerate its national expansion.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/aukera-raises-rs-90-cr-over-usd-10-mn-in-fresh-funding-less-than-a-year-after-usd-15-mn-round-as-it-accelerates-national-expansion/"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Class-action suit: SC to hear Jindal Poly Films investors’ plea on Friday",
-          "summary": "The Supreme Court will hear a plea from minority shareholders of Jindal Poly Films seeking to recall an order referring a class-action dispute to arbitration. The shareholders are seeking relief in a long-standing dispute. The hearing is scheduled for Friday.",
-          "source": "The Hindu Business Line",
-          "url": "https://www.thehindubusinessline.com/news/class-action-suit-sc-to-hear-jindal-poly-films-investors-plea-on-friday/article71225650.ece"
-        },
-        {
-          "title": "Delhi HC seeks government's response on plea seeking medical intervention for Sonam Wangchuk",
-          "summary": "The Delhi High Court has sought responses from the Centre and the Delhi government on a public interest litigation seeking medical intervention for climate activist Sonam Wangchuk. Wangchuk is on a hunger strike, prompting the court to seek urgent responses. The court's decision will determine the next course of action.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/delhi-hc-seeks-governments-response-on-plea-seeking-medical-intervention-for-sonam-wangchuk-hunger-strike/articleshow/132411970.cms"
-        },
-        {
-          "title": "Temple, Mosque Claims And A 2003 ASI Order: Why Bhojshala Is One of India's Most Contested Religious Sites",
-          "summary": "The Bhojshala-Kamal Maula complex is a contested religious site, with both Hindu and Muslim groups claiming ownership. The Supreme Court has heard appeals against a Madhya Pradesh High Court ruling that designated the site as a temple. The site's history and a 2003 ASI order are central to the dispute.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/india/temple-mosque-claims-and-a-2003-asi-order-why-bhojshala-is-one-of-indias-most-contested-religious-sites-article-155104633"
-        },
-        {
-          "title": "'Let Him Also Celebrate Independence Day': SC Gives Odisha Govt One Month To Decide On Staines Killer's Freedom",
-          "summary": "The Supreme Court has ordered the Odisha government to decide within a month on the remission plea of Ravindra Pal, convicted of murdering Australian missionary Graham Stuart Staines and his two sons. The court's order gives the state government a deadline to make a decision on Pal's freedom. The case has been pending for years.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/india/let-him-also-celebrate-independence-day-sc-gives-odisha-govt-one-month-to-decide-on-staines-killers-freedom-article-155103985"
-        },
-        {
-          "title": "Air India crash: Draft final report will be ready by October, AAIB tells Supreme Court",
-          "summary": "The Aircraft Accident Investigation Bureau has informed the Supreme Court that a draft final report on the Air India crash will be ready by October. The report aims to enhance aviation safety by identifying the causes of the crash. The Supreme Court is monitoring the investigation's progress.",
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/air-india-crash-draft-final-report-will-be-ready-by-october-aaib-tells-supreme-court/article71224177.ece"
         }
       ]
     }
