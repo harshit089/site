@@ -1,5 +1,127 @@
 [
   {
+    "generated_at": "2026-07-23T19:04:22.033282+00:00",
+    "brief": "Tensions between the US and Iran are escalating in the Strait of Hormuz, a critical global oil passage, which could impact oil prices and stability, while India's economy remains resilient with record exports, according to the Commerce Secretary. Meanwhile, the Reserve Bank of India has taken measures to defend the rupee, selling $6 billion in foreign exchange in May, and foreign banks have shown strong transmission of policy easing, lowering lending rates sharply. As India aims to become the world's third-largest space economy by 2033, it needs to reduce launch costs and boost local manufacturing, and the country also requires significant investment to meet its net-zero targets, with a substantial funding gap of $6.5 trillion.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Legal Tussle: NYC Mayor's Ambitions and International Immunity",
+          "summary": "New York City Mayor Zohran Mamdani lacks the authority to arrest Israeli PM Netanyahu due to international immunity laws, despite an ICC arrest warrant. The US is not a member of the ICC, and its laws protect heads of state from such arrests. This highlights the complexities of international law and jurisdiction.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/law-order/3954275-legal-tussle-nyc-mayors-ambitions-and-international-immunity"
+        },
+        {
+          "title": "Tensions Surge: U.S.-Iran Confrontation Escalates in Strategic Waters",
+          "summary": "The US and Iran are experiencing escalating tensions in the Strait of Hormuz, a vital global oil passage. The situation has led to rerouted oil shipments, military responses, and strained international relations. This confrontation has the potential to impact global oil prices and stability.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3954236-tensions-surge-us-iran-confrontation-escalates-in-strategic-waters"
+        },
+        {
+          "title": "Iran's demands over the Strait of Hormuz would set a dangerous precedent, Rubio warns Asian leaders",
+          "summary": "US Secretary of State Marco Rubio warned Asian leaders about the potential dangers of Iran's actions in the Strait of Hormuz, emphasizing the threat to global economic stability. Rubio also reaffirmed the US commitment to countering China's growing regional influence and will meet with Russia's foreign minister to discuss the Ukraine war.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/defence/irans-demands-over-the-strait-of-hormuz-would-set-a-dangerous-precedent-rubio-warns-asian-leaders/articleshow/132561250.cms"
+        },
+        {
+          "title": "Pakistan's deadly airstrikes on Kabul rehab centre should be investigated as possible 'war crime'",
+          "summary": "Amnesty International has called for an investigation into Pakistan's deadly airstrikes on a Kabul rehab centre, suggesting they could be considered a war crime. The incident highlights the need for accountability in conflict zones and the protection of civilians.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/pakistans-deadly-airstrikes-on-kabul-rehab-centre-should-be-investigated-as-possible-war-crime/"
+        },
+        {
+          "title": "Mamdani Says New York Doesn’t Have Authority to Arrest Netanyahu",
+          "summary": "New York City Mayor Zohran Mamdani has acknowledged that the city lacks the authority to arrest Israeli PM Netanyahu, despite calling him a war criminal. Mamdani has urged the federal government to execute an international arrest warrant, highlighting the limitations of local jurisdiction in international law.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/mamdani-says-new-york-doesn-t-have-authority-to-arrest-netanyahu-101784714779711.html"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Satcom set to play a transformative role; opportunities ahead vast: Trai Chairman",
+          "summary": "Satellite communications are expected to expand connectivity across India, supporting strategic areas and bridging the digital divide. India's space economy is projected to grow significantly by 2030, driven by rapid private participation and innovation. This growth will be supported by agile policy frameworks and collaboration.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/satcom-set-to-play-a-transformative-role-opportunities-ahead-vast-trai-chairman/articleshow/132563504.cms"
+        },
+        {
+          "title": "Foreign banks show strongest rate transmission in current RBI easing cycle: Bulletin",
+          "summary": "Foreign banks have shown the strongest transmission of policy easing during the current rate-cut cycle, lowering lending rates more sharply than other bank types. The Reserve Bank of India reduced its repo rate by 1.25 percentage points between February 2025 and May 2026. This easing cycle has also seen steeper reductions in deposit rates from foreign banks.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/foreign-banks-show-strongest-rate-transmission-in-current-rbi-easing-cycle-bulletin/articleshow/132562087.cms"
+        },
+        {
+          "title": "RBI sold $6 billion in May to defend oil-hit Indian rupee, data shows",
+          "summary": "The Reserve Bank of India sold $6.1 billion in foreign exchange in May to defend the rupee, which had fallen to a record low due to surging oil prices. The central bank also implemented policy measures to encourage dollar inflows into India. This intervention aims to stabilize the rupee and mitigate the impact of oil price volatility.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-sold-6-billion-in-may-to-defend-oil-hit-indian-rupee-data-shows/articleshow/132560366.cms"
+        },
+        {
+          "title": "India must cut launch costs, boost local manufacturing to become world's third-largest space economy: DoT official",
+          "summary": "India aims to become the world's third-largest space economy by 2033, and to achieve this, it needs to reduce launch costs and increase local manufacturing of materials. Emphasizing satellite applications in the downstream sector is also essential for revenue enhancement. Strengthening the regulatory functions of IN-SPACe will be key to the success of this sector.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/science/india-must-cut-launch-costs-boost-local-manufacturing-to-become-worlds-third-largest-space-economy-dot-official/articleshow/132556414.cms"
+        },
+        {
+          "title": "Commerce Secretary highlights resilient economy, record exports at WTO Trade Policy Review",
+          "summary": "The Commerce Secretary has highlighted India's resilient economy and record exports at the WTO Trade Policy Review, reaffirming support for a balanced, rules-based, development-oriented, and transparent World Trade Organisation. India has made significant progress in its economy and trade, with a focus on transparency and development.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/technology/commerce-secretary-highlights-resilient-economy-record-exports-at-wto-trade-policy-review/"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Environmental CSR in India: Rs. 17,000 Crore Deployed Over A Decade, But Climate-Vulnerable Regions Remain Underfunded",
+          "summary": "Corporate India has invested Rs. 17,377 crore in environmental sustainability over the past decade, but funding remains concentrated among a few companies and is not always aligned with the country's greatest environmental challenges. This investment is crucial for addressing environmental issues in India. The report highlights the need for more targeted funding to address climate change.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/environmental-csr-in-india-rs-17000-crore-deployed-over-a-decade-but-climate-vulnerable-regions-remain-underfunded/"
+        },
+        {
+          "title": "Q1 bank credit flow surges 10x as market mop-up collapses",
+          "summary": "Bank credit has surged in the first quarter due to a sharp collapse in capital market mobilisation, making it the primary source of funding for the commercial sector. This shift highlights the changing dynamics of the Indian economy. The surge in bank credit is expected to have a significant impact on the country's economic growth.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/q1-bank-credit-flow-surges-10x-as-market-mop-up-collapses/articleshow/132569873.cms"
+        },
+        {
+          "title": "MS Dhoni’s latest startup bet isn’t gaming or fintech. It’s rooftop solar",
+          "summary": "Mahendra Singh Dhoni has invested in SolarSquare, a rooftop solar company, and will also be its brand ambassador. This investment is expected to boost India's clean energy growth. The $53M funding round highlights the growing interest in renewable energy in India.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/business/news/ms-dhonis-latest-startup-bet-isnt-gaming-or-fintech-its-rooftop-solar/4298377/"
+        },
+        {
+          "title": "India needs $22.7 trillion for net zero, faces $6.5-trillion funding gap: IEEFA",
+          "summary": "India requires a significant investment of $22.7 trillion by 2070 to meet its net-zero targets, but faces a substantial funding gap of $6.5 trillion. The country needs to strengthen its climate-transition disclosures and business reporting to secure capital and global funding. This investment is crucial for India's transition to a low-carbon economy.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/policy/economy/india-needs-22-7-trillion-for-net-zero-faces-65-trillion-funding-gap-ieefa/4298370/"
+        },
+        {
+          "title": "India's Banking Sector Eyes Sustainable Growth as Retail Lending and Capex Shape FY27 Outlook",
+          "summary": "India's banking sector is expected to experience sustainable growth in FY27, driven by strong asset quality, stable funding costs, and healthy credit growth. The sector's performance will depend on balanced retail lending, a revival in corporate capex, and prudent regulatory oversight. This growth is crucial for maintaining financial stability in the country.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/other/3952828-indias-banking-sector-eyes-sustainable-growth-as-retail-lending-and-capex-shape-fy27-outlook"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Honeymoon murder case: SC cancels Sonam Raghuvanshi's bail, orders her to surrender in two weeks",
+          "summary": "The Supreme Court has cancelled the bail of Sonam Raghuvanshi, the prime accused in the alleged murder of her husband, and ordered her to surrender within two weeks. This decision highlights the court's stance on serious crimes and the importance of ensuring justice is served. The case has garnered significant attention due to its unusual circumstances.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/honeymoon-murder-case-sc-cancels-sonam-raghuvanshis-bail-orders-her-to-surrender-in-two-weeks/articleshow/132574048.cms"
+        },
+        {
+          "title": "Will intervene if Supreme Court metro station is not opened by lunch: Chief Justice",
+          "summary": "Chief Justice of India Surya Kant has stated that he will intervene if the issue of closed Delhi Metro stations, affecting access to the Supreme Court, is not resolved by lunchtime. This assurance was made in response to a plea by the Bar Association, highlighting the difficulties faced by lawyers and litigants. The Chief Justice also directed that lawyers' absence due to the protests should not result in adverse orders.",
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/india/law-news/story/delhi-metro-station-closures-cji-surya-kant-may-intervene-over-supreme-court-access-ptag-2954178-2026-07-23"
+        },
+        {
+          "title": "4 Chandigarh University Law Graduates Become Judicial Officers, 244 Secure Jobs at Corporate Law Firms",
+          "summary": "Four law graduates from Chandigarh University have been appointed as Civil Judges cum Judicial Magistrates, while over 244 have secured jobs at corporate law firms. This achievement highlights the university's efforts in providing practical legal training and career guidance to its students, resulting in successful placements and careers in the legal profession.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/4-chandigarh-university-law-graduates-become-judicial-officers-244-secure-jobs-at-corporate-law-firms/"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-23T13:40:24.857100+00:00",
     "brief": "Tensions between the US and Iran are escalating in the Strait of Hormuz, a critical global oil passage, with significant implications for international relations and oil prices. Meanwhile, in India, the economy is showing resilience, with record exports and a growing space sector, but the country faces challenges in reducing launch costs and increasing local manufacturing to achieve its ambitious vision of becoming the world's third-largest space economy. Additionally, India's banking sector is experiencing a surge in credit flow, driven by a decline in capital market mobilization, highlighting the changing dynamics of the country's financial landscape.",
     "categories": {
@@ -3474,134 +3596,6 @@
           "summary": "The Supreme Court has directed all states and union territories to develop a policy for the early release of prisoners aged over 70 or those who are terminally ill. The policy must be developed within three months, and the court's decision aims to provide relief to elderly and terminally ill prisoners.",
           "source": "Times Now",
           "url": "https://www.timesnownews.com/india/supreme-court-seeks-policy-for-early-release-of-terminally-ill-aged-prisoners-across-india-article-155111356"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-16T19:00:56.178088+00:00",
-    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The US has approved the sale of 20,000 laser-guided rockets to Saudi Arabia, while Chinese President Xi Jinping is set to outline China's AI governance vision, underscoring the growing importance of advanced technology in global relations. Meanwhile, in India, economists expect the Reserve Bank of India to hold interest rates steady, and the startup ecosystem may benefit from the upcoming IPOs of AI companies, potentially reviving VC funding and boosting deep-tech investment. Additionally, the Supreme Court has cleared the way for India's first night safari in Lucknow's Kukrail Reserve Forest, and the government is being urged to monitor the health of Sonam Wangchuk, who is on a hunger strike.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Lessons from Iran war? Saudi Arabia to buy 20,000 laser guided rockets to counter drones",
-          "summary": "The US has approved the sale of 20,000 laser-guided rockets to Saudi Arabia, which aims to counter drone threats. This development is significant in the context of the Iran war and highlights the growing importance of advanced weaponry in the region. The sale is also a reflection of the strategic alliance between the US and Saudi Arabia.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/defence/international/lessons-from-iran-war-saudi-arabia-to-buy-20000-laser-guided-rockets-to-counter-drones/articleshow/132431765.cms"
-        },
-        {
-          "title": "China's Xi to outline AI diplomacy vision at key Shanghai forum",
-          "summary": "Chinese President Xi Jinping will outline China's AI governance vision at a Shanghai forum, where Huawei will debut its advanced AI computing system. This event marks a key moment for China's global AI influence and competition, as Beijing aims to promote open-source AI models as a low-cost alternative. The forum will be attended by international leaders, highlighting China's growing AI diplomacy.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-xi-to-outline-ai-diplomacy-vision-at-key-shanghai-forum/articleshow/132429969.cms"
-        },
-        {
-          "title": "Military is one tool, diplomacy is another: Vance warns against endless Iran bombing",
-          "summary": "US Vice President J.D. Vance has defended negotiations with Iran, warning against the dangers of endless bombing. Vance's comments highlight the importance of diplomacy in resolving conflicts, and the need for a balanced approach that combines military and diplomatic tools. This development is significant in the context of the ongoing tensions between the US and Iran.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/military-is-one-tool-diplomacy-is-another-vance-warns-against-endless-iran-bombing/"
-        },
-        {
-          "title": "Global Tensions and Triumphs: A Week of Critical Developments",
-          "summary": "The past week has seen significant developments in international relations, including strategic military maneuvers, political shifts, and high-stakes diplomacy. Key events include Ukraine's internal leadership changes, tensions in the Strait of Hormuz, and international diplomatic efforts. These developments highlight the complex and dynamic nature of global geopolitics.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/politics/3950981-global-tensions-and-triumphs-a-week-of-critical-developments"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Former RBI governor Raghuram Rajan, 2 other Indians appointed in key US Federal Reserve task forces",
-          "summary": "Raghuram Rajan, former RBI governor, and two other Indians have been appointed to key US Federal Reserve task forces to review US monetary policy. This move indicates the recognition of Indian expertise in global monetary policy. The appointments may influence US monetary policy decisions, which can have global implications.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/former-rbi-governor-raghuram-rajan-2-other-indians-appointed-in-key-us-federal-reserve-task-forces-101784180018931.html"
-        },
-        {
-          "title": "UK CETA, not quite the king's ransom expected from a landmark trade deal",
-          "summary": "The India-UK Comprehensive Economic Trade Agreement (CETA) may not be as beneficial as expected, as it could restrict India's policy-making abilities and create challenges for small export businesses. The agreement may also impact India's access to affordable medications and control over the digital economy. However, it could still provide new market avenues for Indian exporters.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/opinion/et-commentary/india-uk-ceta-not-quite-the-kings-ransom-expected-from-a-landmark-trade-deal/articleshow/132398530.cms"
-        },
-        {
-          "title": "Economists expect RBI to hold rates steady, rule out near",
-          "summary": "Economists expect the Reserve Bank of India (RBI) to keep interest rates unchanged in its upcoming Monetary Policy Committee (MPC) meeting. The RBI is facing a tight operational balancing act, and a rate hike is unlikely in the near term. This decision will be influenced by various economic factors, including inflation and growth prospects.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/economists-expect-rbi-to-hold-rates-steady-rule-out-near-term-policy-hike/"
-        },
-        {
-          "title": "Citi, others dial back India rate hike calls as inflation expected to stay moderate",
-          "summary": "Economists have delayed their expectations of an interest rate hike in India due to moderate inflation. Retail inflation rose to 4.38% in June, but core inflation remained stable, suggesting that the RBI may not tighten policy soon. Future rate hikes will depend on sustained core inflation above 4.5%.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/citi-others-dial-back-india-rate-hike-calls-as-inflation-expected-to-stay-moderate/articleshow/132387513.cms"
-        },
-        {
-          "title": "India's CPI inflation may average 5% in FY27; stable rupee, RBI policy to help contain price pressures: SBI Research",
-          "summary": "SBI Research has projected that India's CPI inflation will average 5% in FY27, driven by a stable rupee and RBI policy. This forecast suggests that the RBI's policy decisions and the stability of the rupee will play a crucial role in containing price pressures in the economy.",
-          "source": "The Hindu Business Line",
-          "url": "https://www.thehindubusinessline.com/economy/indias-cpi-inflation-may-average-5-in-fy27-stable-rupee-rbi-policy-to-help-contain-price-pressures-sbi-research/article71220364.ece"
-        }
-      ],
-      "Business": [
-        {
-          "title": "AI IPO Wave: Why India's Start-up Ecosystem Could Be an Indirect Winner",
-          "summary": "The upcoming IPOs of OpenAI, Anthropic, and SpaceX may benefit India's startup ecosystem by reviving VC funding, improving exits, and boosting deep-tech investment. This could strengthen India's long-term AI ambitions and reshape global venture capital flows. Successful AI listings may have a positive impact on India's startup ecosystem.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/deeptech/ai-ipo-wave-why-indias-start-up-ecosystem-could-be-an-indirect-winner"
-        },
-        {
-          "title": "Bank Credit Growth to Ease as Corporates Tap Bond Markets, Overseas Funding",
-          "summary": "Bank credit growth is expected to slow down as large corporations opt for domestic bond markets and overseas borrowings for funding. The Reserve Bank of India's policy measures make external funding more attractive, reducing reliance on traditional bank loans. Overall credit demand remains healthy, but banks will finance a smaller share.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
-        },
-        {
-          "title": "Neuberg Readies for IPO in FY28, to Seek Up to Rs 4,000 Cr",
-          "summary": "Neuberg Diagnostics plans to go public in fiscal year 2028, aiming to raise approximately ₹3,500-4,000 crore. The company will use a pre-IPO funding round to secure Rs 5000 crore for acquisitions, targeting pan-India growth and new diagnostic technologies. Neuberg expects to become the second-largest player in the diagnostics market.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
-        },
-        {
-          "title": "Corporate Paper Issuances Touch 5-yr High at Rs 2.53 Lakh Crore in June",
-          "summary": "Indian companies raised a record ₹2.53 lakh crore through commercial papers in June, driven by attractive pricing, seasonal needs, and debt refinancing. This surge reflects a shift from costlier bank loans to cheaper short-term market funding, supported by ample investor demand and a stable liquidity environment. The Reserve Bank of India's liquidity infusions contributed to favorable conditions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Govt's first reaction to Sonam Wangchuk's hunger strike: ‘Can give medical assistance based on doctor's report'",
-          "summary": "The Delhi High Court has directed the government to monitor Sonam Wangchuk's health daily and provide medical assistance as needed. Wangchuk is on a hunger strike, and the court's order aims to ensure his health is protected. The government will provide medical assistance based on a doctor's report.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/govt-first-reaction-sonam-wangchuk-hunger-strike-health-medical-assistance-doctor-report-cjp-abhijit-dipke-delhi-hc-101784181791723.html"
-        },
-        {
-          "title": "'Life is precious': Delhi HC urges Centre to regularly examine Sonam Wangchuk's health",
-          "summary": "The Delhi High Court has urged the Centre to regularly monitor Sonam Wangchuk's health due to his deteriorating condition from a hunger strike. The court emphasized the importance of preserving life and encouraged the government to take necessary measures. Wangchuk's health is a concern, and the court's order aims to ensure he receives proper care.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/life-is-precious-delhi-hc-urges-centre-to-regularly-examine-sonam-wangchuks-health/articleshow/132430821.cms"
-        },
-        {
-          "title": "SC to hear plea against Orissa HC stay on 'Mahaprabhu Jagannath' film",
-          "summary": "The Supreme Court will hear a plea challenging the Orissa High Court's order to stay the release of the animated film 'Mahaprabhu Jagannath'. The plea aims to overturn the stay order, allowing the film to be released. The Supreme Court's decision will determine the film's fate.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/sc-to-hear-plea-against-orissa-hc-stay-on-mahaprabhu-jagannath-film/articleshow/132430709.cms"
-        },
-        {
-          "title": "'Not in good shape but…': Sonam Wangchuk refuses to end fast, calls for Parliament march",
-          "summary": "Sonam Wangchuk has refused to end his hunger strike despite his deteriorating health, and has called for a march to Parliament. The Delhi High Court is scheduled to hear a public interest litigation regarding Wangchuk's health. Wangchuk's decision to continue his fast and plan a march to Parliament highlights his determination to bring attention to his cause.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/not-in-good-shape-but-sonam-wangchuk-refuses-to-end-fast-hunger-strike-calls-for-parliament-march-cjp-protest-101784173539572.html"
-        },
-        {
-          "title": "Supreme Court clears road for country’s first night safari in Lucknow’s Kukrail Reserve Forest",
-          "summary": "The Supreme Court has cleared the way for India's first night safari in Lucknow's Kukrail Reserve Forest. The court directed the state to comply with all conditions and prior clearances before starting the project. The night safari is expected to become a reality, subject to the state meeting the required conditions.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/supreme-court-clears-road-for-country-s-first-night-safari-in-lucknow-s-kukrail-reserve-forest-101784141236399.html"
-        },
-        {
-          "title": "SC grants more time for pharmacy council to verify colleges",
-          "summary": "The Supreme Court has extended the deadline for the Pharmacy Council of India to grant approvals to pharmacy colleges for the 2026-27 academic session. The new deadline is September 15, and the council must provide an undertaking that no further extensions will be sought. This extension gives the council more time to verify colleges and ensure compliance with regulations.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/sc-grants-more-time-for-pharmacy-council-to-verify-colleges-101784139675829.html"
         }
       ]
     }
