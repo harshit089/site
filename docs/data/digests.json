@@ -1,5 +1,151 @@
 [
   {
+    "generated_at": "2026-07-24T08:13:30.134026+00:00",
+    "brief": "Tensions in the Middle East continue to escalate, with the US threatening military action against Iran and Houthi rebels threatening to blockade the Bab el-Mandeb Strait, a vital trade route. These developments have significant implications for global trade and oil prices, with India's economy also feeling the impact, as thousands of international flights have been cancelled due to airspace restrictions. Meanwhile, the Reserve Bank of India has warned that the Iran war and an uneven monsoon are two key risks that could impact India's economic growth, inflation, and policy outlook, highlighting the need for careful monitoring of these risks to ensure the country's economic stability.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "U.N. Demands Probe into War Crime Allegations in Mali",
+          "summary": "The UN human rights office is calling for an investigation into allegations of war crimes in Mali, including torture and execution of surrendering soldiers by insurgents and separatists. These acts could constitute war crimes under international law. The investigation is necessary to hold perpetrators accountable and ensure justice for the victims.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/law-order/3954887-un-demands-probe-into-war-crime-allegations-in-mali"
+        },
+        {
+          "title": "New threat by Yemen's Houthis could widen Iran war, put another trade chokepoint at risk",
+          "summary": "Houthi rebels have threatened to blockade the Bab el-Mandeb Strait, a vital trade route that connects the Red Sea to the Gulf of Aden. This action could disrupt international shipping and oil supplies, escalating tensions and risking a wider regional conflict. The threat has significant implications for global trade and oil prices.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/defence/new-threat-by-yemens-houthis-could-widen-iran-war-put-another-trade-chokepoint-at-risk/articleshow/132586657.cms"
+        },
+        {
+          "title": "Pakistan rejects Amnesty call for war crimes probe into Kabul airstrike",
+          "summary": "Pakistan has rejected Amnesty International's call for an investigation into a recent airstrike on a drug rehabilitation center in Kabul, which the rights group alleges could be a war crime. Pakistan claims the operation was lawful self-defense against terrorists, but Amnesty International found no evidence to support this claim. The incident has heightened tensions between Pakistan and neighboring countries.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/pakistan-rejects-amnesty-call-for-war-crimes-probe-into-kabul-airstrike/articleshow/132584065.cms"
+        },
+        {
+          "title": "Escalating Tensions: Trump Threatens Iran Amidst Rising Oil Prices",
+          "summary": "US President Donald Trump has threatened military action against Iran following attacks on Saudi oil tankers by Houthi fighters, escalating the conflict in the Middle East. The situation has led to rising oil prices, inflation, and disruptions to global shipping routes, with significant implications for international trade and diplomacy. The threat of military action has heightened tensions in the region.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3954694-escalating-tensions-trump-threatens-iran-amidst-rising-oil-prices"
+        },
+        {
+          "title": "26,000 flights cancelled, longer routes and higher fuel bills: How a war far away has hit Indian flyers",
+          "summary": "The crisis in West Asia has affected Indian airlines, with thousands of international flights cancelled due to airspace restrictions. The cancellations have resulted in rising fuel costs, longer journeys, and schedule disruptions for Indian carriers. The situation has significant implications for the Indian aviation industry and passengers.",
+          "source": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/world/26-000-flights-cancelled-longer-routes-and-higher-fuel-bills-how-a-war-far-away-has-hit-indian-flyers-article-13982006.html"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "RBI Says India's Economy Is Strong; But Two Risks Could Change Everything",
+          "summary": "The Reserve Bank of India has stated that India's economy remains strong, but two key risks - the Iran war and an uneven monsoon - could impact growth, inflation, and policy outlook. These factors have the potential to alter the country's economic trajectory. The RBI's warning highlights the need for careful monitoring of these risks.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/business-economy/economy/rbi-says-indias-economy-is-strong-but-two-risks-could-change-everything-article-155156142"
+        },
+        {
+          "title": "Satcom set to play a transformative role; opportunities ahead vast: Trai Chairman",
+          "summary": "According to the Trai Chairman, satellite communications are poised to play a significant role in expanding connectivity across India, supporting strategic areas, and bridging the digital divide. The space economy is expected to grow substantially by 2030, driven by private participation and innovation. This growth is anticipated to drive technological advancement and inclusive growth.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/satcom-set-to-play-a-transformative-role-opportunities-ahead-vast-trai-chairman/articleshow/132563504.cms"
+        },
+        {
+          "title": "Foreign banks show strongest rate transmission in current RBI easing cycle: Bulletin",
+          "summary": "Foreign banks have demonstrated the strongest transmission of policy easing during the current rate-cut cycle, with sharper reductions in lending rates and deposit rates. The Reserve Bank of India's 1.25 percentage point reduction in the repo rate between February 2025 and May 2026 led to this easing cycle. Foreign banks' response to the rate cuts has been more pronounced than other bank types.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/foreign-banks-show-strongest-rate-transmission-in-current-rbi-easing-cycle-bulletin/articleshow/132562087.cms"
+        },
+        {
+          "title": "RBI sold $6 billion in May to defend oil-hit Indian rupee, data shows",
+          "summary": "The Reserve Bank of India sold $6.1 billion in foreign exchange during May to defend the Indian rupee, which had been impacted by surging oil prices. The central bank's intervention aimed to stabilize the currency, which had reached a record low. The RBI also implemented measures to encourage dollar inflows into India.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-sold-6-billion-in-may-to-defend-oil-hit-indian-rupee-data-shows/articleshow/132560366.cms"
+        },
+        {
+          "title": "India must cut launch costs, boost local manufacturing to become world's third-largest space economy: DoT official",
+          "summary": "To become the world's third-largest space economy by 2033, India must reduce launch costs and increase local manufacturing of materials. The Department of Telecommunications has emphasized the need for policy and regulatory changes to support this goal. Strengthening the regulatory functions of IN-SPACe and emphasizing satellite applications will also be crucial for the sector's success.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/science/india-must-cut-launch-costs-boost-local-manufacturing-to-become-worlds-third-largest-space-economy-dot-official/articleshow/132556414.cms"
+        },
+        {
+          "title": "Commerce Secretary highlights resilient economy, record exports at WTO Trade Policy Review",
+          "summary": "The Commerce Secretary has highlighted India's resilient economy and record exports at the WTO Trade Policy Review, reaffirming the country's support for a balanced and development-oriented World Trade Organisation. The secretary's statement underscores India's commitment to a rules-based and transparent global trade framework.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/national/commerce-secretary-highlights-resilient-economy-record-exports-at-wto-trade-policy-review-1/"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Environmental CSR in India: Rs. 17,000 Crore Deployed Over A Decade, But Climate-Vulnerable Regions Remain Underfunded",
+          "summary": "Corporate India has invested Rs. 17,377 crore in environmental sustainability over the past decade, but the funding remains concentrated among a few companies and is not always aligned with the country's greatest environmental challenges. This investment is crucial for addressing environmental issues in India. The report highlights the need for more targeted funding to address climate change.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/environmental-csr-in-india-rs-17000-crore-deployed-over-a-decade-but-climate-vulnerable-regions-remain-underfunded/"
+        },
+        {
+          "title": "Q1 bank credit flow surges 10x as market mop-up collapses",
+          "summary": "Bank credit has surged in the first quarter due to a sharp collapse in capital market mobilisation, making it a primary source of funding for the commercial sector. This shift highlights the importance of bank credit in times of market volatility. The surge in bank credit flow is a significant development in India's financial sector.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/q1-bank-credit-flow-surges-10x-as-market-mop-up-collapses/articleshow/132569873.cms"
+        },
+        {
+          "title": "MS Dhoni’s latest startup bet isn’t gaming or fintech. It’s rooftop solar",
+          "summary": "Mahendra Singh Dhoni has invested in SolarSquare, a rooftop solar company, and will be its brand ambassador, boosting India's clean energy growth. This investment highlights the growing interest in renewable energy in India. The $53M funding round will support the growth of rooftop solar in the country.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/business/news/ms-dhonis-latest-startup-bet-isnt-gaming-or-fintech-its-rooftop-solar/4298377/"
+        },
+        {
+          "title": "India needs $22.7 trillion for net zero, faces $6.5-trillion funding gap: IEEFA",
+          "summary": "India requires $22.7 trillion in investment by 2070 to meet its net-zero targets, but faces a significant funding gap of $6.5 trillion. The country needs to strengthen climate-transition disclosures and business reporting to secure capital and global funding. Addressing this funding gap is crucial for India's transition to a low-carbon economy.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/policy/economy/india-needs-22-7-trillion-for-net-zero-faces-65-trillion-funding-gap-ieefa/4298370/"
+        },
+        {
+          "title": "India's Banking Sector Eyes Sustainable Growth as Retail Lending and Capex Shape FY27 Outlook",
+          "summary": "India's banking sector is expected to experience sustainable growth in FY27, driven by strong asset quality, stable funding costs, and healthy credit growth. The sector's performance will depend on balanced retail lending, a revival in corporate capex, and prudent regulatory oversight. This growth is crucial for maintaining financial stability in the country.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/other/3952828-indias-banking-sector-eyes-sustainable-growth-as-retail-lending-and-capex-shape-fy27-outlook"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Delhi University issues advisory cautioning students against unlawful gatherings at Jantar Mantar",
+          "summary": "Delhi University has issued an advisory warning students about the risks of participating in unlawful gatherings at Jantar Mantar, citing the Supreme Court's directives on regulated demonstrations.",
+          "source": "ANI (Asian News International)",
+          "url": "https://www.aninews.in/news/national/general-news/delhi-university-issues-advisory-cautioning-students-against-unlawful-gatherings-at-jantar-mantar20260723223147/"
+        },
+        {
+          "title": "‘Can’t remain silent anymore’: Hundreds gather in Kochi in solidarity with CJP protesters",
+          "summary": "Hundreds of people gathered in Kochi to show solidarity with protesters at Jantar Mantar, who are demanding justice and protesting against alleged exam leaks and police action.",
+          "source": "Malayala Manorama",
+          "url": "https://www.onmanorama.com/news/kerala/2026/07/23/can-t-remain-silent-anymore-hundreds-gather-in-kochi-in-solidarity-with-cjp-protesters.html"
+        },
+        {
+          "title": "CJP protest shines spotlight on Jantar Mantar's history of dissent",
+          "summary": "The ongoing protests at Jantar Mantar have highlighted the landmark's history as a site for democratic dissent, dating back to 1993 when protests were shifted from Boat Club to Jantar Mantar.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/cjp-protest-shines-spotlight-on-jantar-mantars-history-of-dissent/articleshow/132587635.cms"
+        },
+        {
+          "title": "Supreme Court lawyers recite Constitution's Preamble seeking justice for students, CJP thanks them",
+          "summary": "Senior lawyers at the Supreme Court recited the Constitution's Preamble to show solidarity with students protesting at Jantar Mantar, seeking justice and opposing police action.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/supreme-court-lawyers-recite-constitutions-preamble-seeking-justice-for-students-cjp-thanks-them-101784805678763.html"
+        },
+        {
+          "title": "Supreme Court Advocates Recite Preamble, Back Jantar Mantar Protesters, Oppose Police Action",
+          "summary": "Supreme Court advocates participated in a campaign supporting protesters at Jantar Mantar and opposing police actions against them, reciting the Constitution's Preamble as a symbol of solidarity.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/supreme-court-advocates-recite-preamble-back-jantar-mantar-protesters-oppose-police-action-as-part-of-save-democracy-save-constitution-campaign-article-155156725"
+        },
+        {
+          "title": "Delhi metro stations closed: CJI Kant says he will intervene if issue not resolved by lunch",
+          "summary": "The Chief Justice of India, Surya Kant, has warned that he will intervene if the issue of closed Delhi metro stations, affecting access to the Supreme Court, is not resolved by lunchtime.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/delhi-metro-stations-closed-cji-kant-says-he-will-intervene-if-issue-not-resolved-by-lunch/articleshow/132575263.cms"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-24T02:02:23.949286+00:00",
     "brief": "Tensions between the US and Iran continue to escalate, with President Trump threatening military action, which has led to rising oil prices and impacted global trade, including the Indian aviation industry with thousands of flight cancellations. Meanwhile, the Reserve Bank of India has warned that the Iran war and an uneven monsoon could alter India's economic trajectory, despite the economy remaining strong. The Indian government is also focusing on strengthening its space economy, with the aim of becoming the world's third-largest space economy by 2033, and has highlighted its resilient economy and record exports at the WTO Trade Policy Review, showcasing the country's commitment to a balanced and rules-based trade policy.",
     "categories": {
@@ -3474,134 +3620,6 @@
           "summary": "A special NIA court sentenced a HuJI operative to five years of rigorous imprisonment for his involvement in a 2013 terror conspiracy case. The court also imposed a fine and awarded additional imprisonment for other offenses. This verdict is a result of the court's decision on the case",
           "source": "Hindustan Times",
           "url": "https://www.hindustantimes.com/cities/lucknow-news/nia-court-sentences-huji-operative-to-5-years-ri-in-2013-terror-conspiracy-case-101784222050995.html"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-17T07:57:48.576604+00:00",
-    "brief": "Global tensions are escalating, with the US and Iran engaging in military exchanges and disrupting global shipping, while Ukraine's new Prime Minister, Serhii Koretskyi, faces a difficult phase in the country's war with Russia. Meanwhile, the global economy is heading for a slower growth phase, with India also expected to lose momentum, potentially triggered by an extended US-Iran conflict and a fresh energy shock. In India, the RBI may respond with cautious policy measures, including possible rate hikes, to address rising inflation and slowing growth, while the country's startup ecosystem may benefit from the upcoming IPOs of AI companies.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Iran condemns US strikes as war crimes, warns Gulf neighbours against allowing territorial access",
-          "summary": "Iran has condemned US strikes as war crimes and warned its Gulf neighbours against allowing the US to use their territories for military aggression. This escalation in tensions between the US and Iran could have significant implications for global oil routes and international relations. The situation is being closely watched by the international community.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/world/iran-condemns-us-strikes-as-war-crimes-warns-gulf-neighbours-against-allowing-territorial-access/"
-        },
-        {
-          "title": "Escalation in the Gulf: U.S.-Iran Conflict Reignites",
-          "summary": "The conflict between the US and Iran has escalated, with both countries engaging in military exchanges and challenging each other's claims. This escalation has raised concerns about the impact on global oil routes and international relations. Diplomatic efforts are ongoing to try to resolve the situation.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/law-order/3951558-escalation-in-the-gulf-us-iran-conflict-reignites"
-        },
-        {
-          "title": "Ukraine PM Serhii Koretskyi takes charge amid war, energy crisis and political turmoil",
-          "summary": "Ukraine's new Prime Minister, Serhii Koretskyi, has taken charge amid a difficult phase in the country's war with Russia. He has been tasked with securing energy supplies, managing international aid, and stabilizing the economy. The situation in Ukraine has significant implications for European security and the global economy.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/world/serhii-koretskyi-appointed-ukraine-new-prime-minister-19947645.htm"
-        },
-        {
-          "title": "Gulf Tensions Flare: U.S.-Iran Skirmish Escalates Amid Looming Diplomacy",
-          "summary": "Tensions between the US and Iran have escalated, with both countries engaging in military exchanges and disrupting global shipping. Despite this, the release of a US citizen by Iran has raised hopes for potential diplomatic resolutions. The conflict has significant implications for international relations and the global economy.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/politics/3951533-gulf-tensions-flare-us-iran-skirmish-escalates-amid-looming-diplomacy"
-        },
-        {
-          "title": "Balochistan has declared 'independence' from Pakistan. But can it really become a country?",
-          "summary": "The Balochistan region has declared independence from Pakistan, but its path to statehood is uncertain. The region would need to navigate international law and diplomacy to gain recognition from other countries and potentially join the UN. The situation has significant implications for regional stability and global politics.",
-          "source": "Moneycontrol",
-          "url": "https://www.moneycontrol.com/world/balochistan-has-declared-independence-from-pakistan-but-can-it-really-become-a-country-article-13976050.html"
-        },
-        {
-          "title": "Global rights group calls for war crimes probe into Pakistani strikes in Afghanistan",
-          "summary": "A global rights group has called for an investigation into Pakistani strikes in Afghanistan, citing potential war crimes. The situation has raised concerns about regional stability and the protection of human rights. An impartial investigation is being sought to determine the facts and hold those responsible accountable.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/global-rights-group-calls-for-war-crimes-probe-into-pakistani-strikes-in-afghanistan/"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Crisil sees volatile FY27: Inflation to rise to 5.1%, growth to slow; RBI may hike rates",
-          "summary": "Crisil has warned that India's macroeconomic outlook for 2026-27 faces challenges due to rising inflation and slowing growth, despite easing geopolitical tensions and lower crude oil prices. The RBI may respond with cautious policy measures, including possible rate hikes. This could impact the country's economic growth and stability.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/business/crisil-sees-volatile-fy27-inflation-to-rise-to-5-1-growth-to-slow-rbi-may-hike-rates-4293869/"
-        },
-        {
-          "title": "Global economy tipping towards a sharp slowdown, India ‘may lose a step’ too: Moody's Analytics",
-          "summary": "Moody's Analytics has predicted that the global economy is headed for a slower growth phase over the next two years, with India also expected to lose momentum. This slowdown could be triggered by an extended US-Iran conflict, leading to a fresh energy shock, reignited inflation, and tighter monetary policy. India's economy may be impacted as a result.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/news/moodys-analytics-global-slowdown-india-ai-boom-11784192376799.html"
-        },
-        {
-          "title": "Former RBI governor Raghuram Rajan, 2 other Indians appointed in key US Federal Reserve task forces",
-          "summary": "Former RBI governor Raghuram Rajan, along with two other Indians, has been appointed to key US Federal Reserve task forces. These task forces will review key areas of US monetary policy, and the appointments reflect the expertise and recognition of Indian economists in global economic circles. This could potentially influence US monetary policy and have implications for global economic trends.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/former-rbi-governor-raghuram-rajan-2-other-indians-appointed-in-key-us-federal-reserve-task-forces-101784180018931.html"
-        },
-        {
-          "title": "UK CETA, not quite the king's ransom expected from a landmark trade deal",
-          "summary": "The India-UK Comprehensive Economic Trade Agreement (CETA) may not bring the expected benefits, as small export businesses may struggle with British regulations. The agreement could also restrict India's policy-making abilities, particularly concerning access to affordable medications and control over the digital economy. This could have significant implications for India's trade and economic policies.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/opinion/et-commentary/india-uk-ceta-not-quite-the-kings-ransom-expected-from-a-landmark-trade-deal/articleshow/132398530.cms"
-        }
-      ],
-      "Business": [
-        {
-          "title": "AI IPO wave: Why India's start-up ecosystem could be an indirect winner",
-          "summary": "The upcoming IPOs of OpenAI, Anthropic, and SpaceX may benefit India's startup ecosystem by reviving VC funding, improving exits, and boosting deep-tech investment. This could strengthen India's long-term AI ambitions and reshape global venture capital flows. Successful AI listings may have a positive impact on India's startup ecosystem.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/deeptech/ai-ipo-wave-why-indias-start-up-ecosystem-could-be-an-indirect-winner"
-        },
-        {
-          "title": "Bank credit growth to ease as corporates tap bond markets, overseas funding",
-          "summary": "Bank credit growth is expected to slow down as large corporations opt for domestic bond markets and overseas borrowings for funding. The Reserve Bank of India's policy measures make external funding more attractive, reducing reliance on traditional bank loans. This shift will change the way businesses finance their needs.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
-        },
-        {
-          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
-          "summary": "Neuberg Diagnostics plans to go public in fiscal year 2028, aiming to raise ₹3,500-4,000 crore. The company will use the funds to expand its operations and acquire new technologies, targeting pan-India growth. This move could make Neuberg the second-largest player in the diagnostics market.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
-        },
-        {
-          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
-          "summary": "Indian companies raised a record ₹2.53 lakh crore through commercial papers in June, driven by attractive pricing and seasonal needs. This surge reflects a shift from costlier bank loans to cheaper short-term market funding, supported by ample investor demand and a stable liquidity environment. The Reserve Bank of India's liquidity infusions also contributed to the favorable conditions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Formulate policy to free elderly, terminally ill prisoners: Supreme Court",
-          "summary": "The Supreme Court has directed the government to formulate a policy to release elderly and terminally ill prisoners, emphasizing that a person's right to life and dignity cannot be denied upon conviction. This move aims to bring about a more humane approach to the prison system. The court's directive is expected to impact the lives of many prisoners who are serving sentences despite being elderly or terminally ill.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/formulate-policy-to-free-elderly-terminally-ill-prisoners-supreme-court/articleshow/132447646.cms"
-        },
-        {
-          "title": "NIA court sentences HuJI operative to 5 years’ RI in 2013 terror conspiracy case",
-          "summary": "A special NIA court has sentenced a HuJI operative to five years of rigorous imprisonment for his involvement in a 2013 terror conspiracy case. The accused was found guilty of criminal conspiracy, waging war against the government, and other offenses. The sentence reflects the country's efforts to combat terrorism and bring perpetrators to justice.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/cities/lucknow-news/nia-court-sentences-huji-operative-to-5-years-ri-in-2013-terror-conspiracy-case-101784222050995.html"
-        },
-        {
-          "title": "'Everyone does naarebaazi in democracy but ... ': Why Supreme Court told Chandigarh admin to 'argue on merits' in Bhagwant Mann case",
-          "summary": "The Supreme Court has instructed the Chandigarh administration to argue on the merits of a case related to Punjab Chief Minister Bhagwant Mann. The court's directive suggests that it wants the administration to focus on the core issues of the case rather than engaging in unnecessary arguments. This approach is expected to streamline the legal process and ensure a more effective resolution.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/everyone-does-naarebaazi-in-democracy-but-why-supreme-court-told-chandigarh-admin-to-argue-on-merits-in-bhagwant-mann-case/articleshow/132442699.cms"
-        },
-        {
-          "title": "Landmark Car Replacement Ruling Ignites Scrutiny on India's E20 Fuel Policy",
-          "summary": "A consumer court has ordered Maruti Suzuki to replace a customer's car due to alleged damage caused by E20 fuel, sparking scrutiny of India's E20 fuel policy. The ruling may lead to further legal challenges from vehicle owners and has raised questions about the policy's implementation. The government's emission strategy, which relies on E20 fuel, is facing criticism for its rapid rollout without alternative options.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/law-order/3951424-landmark-car-replacement-ruling-ignites-scrutiny-on-indias-e20-fuel-policy"
-        },
-        {
-          "title": "20 Years, No Justice: Merchant Navy Captain's Brother Appeals To PM Modi To Extradite Murder Accused From UAE",
-          "summary": "The brother of a murdered Merchant Navy captain has appealed to Prime Minister Narendra Modi to extradite the accused from the UAE, where the trial has been stalled since 2006. The case has been revived by the Supreme Court in 2023, but the accused remains in the UAE. The family is seeking urgent help to bring the accused to justice and end their 20-year wait.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/india/20-years-no-justice-merchant-navy-captains-brother-appeals-to-pm-modi-to-extradite-murder-accused-from-uae-article-155112061"
         }
       ]
     }
