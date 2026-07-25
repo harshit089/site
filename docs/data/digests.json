@@ -1,5 +1,151 @@
 [
   {
+    "generated_at": "2026-07-25T02:02:24.865273+00:00",
+    "brief": "Tensions between the US and Canada are escalating over the Gordie Howe International Bridge, while the US has launched new strikes on Iran amid clashes over shipping routes, posing significant risks to international trade and stability. Meanwhile, in India, the economy remains resilient, but the Reserve Bank of India has warned that the Iran war and an uneven monsoon could pose risks to growth, inflation, and policy outlook. The Indian government is also focusing on strengthening its integration with the global economy, with the Commerce Secretary highlighting the country's efforts to achieve public policy objectives through tariff reforms and Free Trade Agreement strategies.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Bridge of Contentions: Canada and U.S. Clash Over Gordie Howe International Bridge",
+          "summary": "Canada and the US are experiencing tensions over the opening of the Gordie Howe International Bridge, with disagreements over toll revenues and trade disputes. The $4.7 billion bridge's opening was overshadowed by these challenges, highlighting difficulties in US-Canada relations. This clash affects bilateral trade and cooperation between the two nations.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3955127-bridge-of-contentions-canada-and-us-clash-over-gordie-howe-international-bridge"
+        },
+        {
+          "title": "US military launches new strikes on Iran as clashes escalate over shipping routes",
+          "summary": "The US has launched new strikes on Iran amid escalating clashes over shipping routes, following attacks by Houthi rebels on Saudi oil tankers in the Red Sea. This escalation could widen the conflict and impact global oil prices, which have already topped $100. The situation poses significant risks to international trade and stability in the region.",
+          "source": "The New Indian Express",
+          "url": "https://www.newindianexpress.com/world/2026/Jul/24/us-military-launches-new-strikes-on-iran-as-clashes-escalate-over-shipping-routes-2"
+        },
+        {
+          "title": "U.N. Demands Probe into War Crime Allegations in Mali",
+          "summary": "The UN human rights office is calling for an investigation into allegations of torture and execution of surrendering Malian soldiers by insurgents and separatists. These acts could constitute war crimes under international law, emphasizing the need for accountability and protection of human rights in conflict zones. The situation highlights the challenges in maintaining peace and security in Mali.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/law-order/3954887-un-demands-probe-into-war-crime-allegations-in-mali"
+        },
+        {
+          "title": "New threat by Yemen's Houthis could widen Iran war, put another trade chokepoint at risk",
+          "summary": "Yemen's Houthi rebels are threatening to blockade the Bab el-Mandeb Strait, a vital trade route connecting the Red Sea to the Gulf of Aden. This action could significantly impact international shipping and oil supplies, escalating tensions and risking a wider regional conflict. The situation poses a new challenge to global trade and stability in the region.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/defence/new-threat-by-yemens-houthis-could-widen-iran-war-put-another-trade-chokepoint-at-risk/articleshow/132586657.cms"
+        },
+        {
+          "title": "Pakistan rejects Amnesty call for war crimes probe into Kabul airstrike",
+          "summary": "Pakistan has rejected Amnesty International's call for an investigation into a recent airstrike on a drug rehabilitation center in Kabul, which the rights group alleges could be a war crime. Pakistan claims the operation was lawful self-defense against terrorists, but Amnesty found no evidence to support this claim. The incident has escalated cross-border hostilities between Pakistan and the affected nation.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/pakistan-rejects-amnesty-call-for-war-crimes-probe-into-kabul-airstrike/articleshow/132584065.cms"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Quality control orders intended to achieve public policy objectives: India at WTO",
+          "summary": "India has strengthened its integration with the global economy through tariff reforms, customs simplification, and ambitious Free Trade Agreement strategies. The country's Commerce Secretary stated this at the WTO, highlighting India's efforts to achieve public policy objectives. This integration is expected to have a significant impact on India's economy.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/economy/quality-control-orders-intended-to-achieve-public-policy-objectives-india-at-wto/article71260884.ece"
+        },
+        {
+          "title": "India faces rising food and fuel risks from El Niño",
+          "summary": "The developing El Niño phenomenon poses a threat to India's agriculture and food prices, which could impact the country's growth and inflation outlook. The effects of El Niño will depend on rainfall and policy responses. This could have significant implications for India's economy and food security.",
+          "source": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/opinion/india-faces-rising-food-and-fuel-risks-from-el-ni-o-13982423.html"
+        },
+        {
+          "title": "RBI Says India's Economy Is Strong; But Two Risks Could Change Everything",
+          "summary": "The Reserve Bank of India has stated that India's economy remains resilient, but warned that the Iran war and an uneven monsoon could pose risks to growth, inflation, and policy outlook. These two factors could potentially change the country's economic trajectory. The RBI's assessment highlights the need for careful monitoring of these risks.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/business-economy/economy/rbi-says-indias-economy-is-strong-but-two-risks-could-change-everything-article-155156142"
+        },
+        {
+          "title": "Satcom set to play a transformative role; opportunities ahead vast: Trai Chairman",
+          "summary": "Satellite communications are expected to play a transformative role in expanding seamless connectivity across India, supporting strategic areas, and bridging the digital divide. The space economy is projected to grow significantly by 2030, with new ventures reflecting rapid private participation and innovation. This growth is expected to drive technological advancement and inclusive growth.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/satcom-set-to-play-a-transformative-role-opportunities-ahead-vast-trai-chairman/articleshow/132563504.cms"
+        },
+        {
+          "title": "Foreign banks show strongest rate transmission in current RBI easing cycle: Bulletin",
+          "summary": "Foreign banks have shown the strongest transmission of policy easing during the current rate-cut cycle, lowering lending rates more sharply than other bank types. They also reduced deposit rates more steeply, following the Reserve Bank of India's reduction of the repo rate by 1.25 percentage points. This easing cycle occurred between February 2025 and May 2026.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/foreign-banks-show-strongest-rate-transmission-in-current-rbi-easing-cycle-bulletin/articleshow/132562087.cms"
+        },
+        {
+          "title": "RBI sold $6 billion in May to defend oil-hit Indian rupee, data shows",
+          "summary": "The Reserve Bank of India sold $6.1 billion in foreign exchange in May to defend the Indian rupee, which was impacted by surging oil prices. The central bank also implemented policy measures to encourage dollar inflows into India. This intervention aimed to stabilize the rupee and mitigate the effects of oil price volatility.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-sold-6-billion-in-may-to-defend-oil-hit-indian-rupee-data-shows/articleshow/132560366.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Milky Mist IPO set for August launch, aiming to be India's largest dairy offering",
+          "summary": "Milky Mist Dairy Food is set to launch its initial public offering in August, which is expected to be the largest by an Indian dairy company. The company has secured ₹482 crore in pre-IPO funding and is valued at approximately ₹9,300 crore. This IPO is significant for the Indian dairy industry and the market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-ipo-set-for-august-launch-aiming-to-be-indias-largest-dairy-offering/articleshow/132594441.cms"
+        },
+        {
+          "title": "Environmental CSR in India: Rs. 17,000 Crore Deployed Over A Decade, But Climate-Vulnerable Regions Remain Underfunded",
+          "summary": "Corporate India has invested ₹17,377 crore in environmental sustainability initiatives over the past decade. However, the funding remains concentrated among a few companies and is not always aligned with the regions facing the greatest environmental challenges. This highlights the need for more targeted and inclusive environmental CSR efforts.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/environmental-csr-in-india-rs-17000-crore-deployed-over-a-decade-but-climate-vulnerable-regions-remain-underfunded/"
+        },
+        {
+          "title": "Q1 bank credit flow surges 10x as market mop-up collapses",
+          "summary": "Bank credit has surged in the first quarter due to a collapse in capital market mobilization. This shift highlights the changing dynamics of funding for the commercial sector in India. As a result, banks are now playing a more significant role in providing credit.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/q1-bank-credit-flow-surges-10x-as-market-mop-up-collapses/articleshow/132569873.cms"
+        },
+        {
+          "title": "MS Dhoni’s latest startup bet isn’t gaming or fintech. It’s rooftop solar",
+          "summary": "Mahendra Singh Dhoni has invested in SolarSquare, a rooftop solar company, as part of a $53 million funding round. This investment boosts India's clean energy growth and highlights the increasing interest in renewable energy solutions. Dhoni's involvement also brings attention to the potential of rooftop solar in India.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/business/news/ms-dhonis-latest-startup-bet-isnt-gaming-or-fintech-its-rooftop-solar/4298377/"
+        },
+        {
+          "title": "India needs $22.7 trillion for net zero, faces $6.5-trillion funding gap: IEEFA",
+          "summary": "India requires $22.7 trillion in investment by 2070 to meet its net-zero targets. However, the country faces a significant funding gap of $6.5 trillion. To address this, strengthening climate-transition disclosures and business reporting is crucial for securing capital and global funding.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/policy/economy/india-needs-22-7-trillion-for-net-zero-faces-65-trillion-funding-gap-ieefa/4298370/"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Misquoted: CJI on 'don't have time to watch videos' remark amid protest crackdown",
+          "summary": "Chief Justice of India Surya Kant clarified that he was misquoted in media reports, stating that the Supreme Court is open to hearing all cases and follows judicial procedures. The clarification comes amid controversy over the court's handling of protests. The CJI emphasized the importance of following judicial procedures.",
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/india/law-news/story/i-was-misquoted-cji-surya-kant-says-supreme-court-never-refuses-to-hear-any-issue-amid-neet-protests-2955491-2026-07-24"
+        },
+        {
+          "title": "India's stray dog crisis demands urgent action as rabies deaths and bite cases surge",
+          "summary": "India is facing a stray dog crisis, with over 15 lakh people suffering dog bites in the last five years. The surge in rabies deaths and bite cases has highlighted the need for urgent action to address the issue. The crisis has significant implications for public safety and health.",
+          "source": "Malayala Manorama",
+          "url": "https://www.onmanorama.com/news/kerala/2026/07/24/kerala-rabies-deaths-stray-dogs2.html"
+        },
+        {
+          "title": "'Can't Be 24X7 Entertainment Channel': Supreme Court Bans Uploading, Sharing Of Court Proceedings On Social Media Without Permission",
+          "summary": "The Supreme Court has banned the unauthorized uploading and sharing of court proceedings on social media, citing the need for prior permission to prevent misuse. The move aims to maintain the dignity of the court and prevent proceedings from being used as entertainment. This decision has significant implications for the use of social media in the context of court proceedings.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/supreme-court-bans-uploading-sharing-of-court-proceedings-in-social-media-without-permission-says-cannot-be-24x7-entertainment-channel-article-155165752"
+        },
+        {
+          "title": "Supreme Court sends demolition contempt cases to High Courts, says facts need detailed examination",
+          "summary": "The Supreme Court has directed High Courts to examine cases related to demolitions, stating that the facts require detailed examination. The Court has requested the High Courts to decide the cases quickly, preferably within four months. This move highlights the importance of thorough examination in such cases.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/supreme-court-sends-demolition-contempt-cases-to-high-courts-says-facts-need-detailed-examination/articleshow/132605064.cms"
+        },
+        {
+          "title": "Jantar Mantar clash: Supreme Court to hear pleas on alleged police excesses on July 27",
+          "summary": "The Supreme Court will hear two petitions alleging excessive police action against students who participated in protests at Jantar Mantar. The hearing is scheduled for July 27, and the Court will examine the allegations of police excesses. This case has significant implications for the rights of protesters and the use of police force.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/jantar-mantar-clash-supreme-court-to-hear-pleas-on-alleged-police-excesses-on-july-27/articleshow/132603097.cms"
+        },
+        {
+          "title": "Bhojshala row: Supreme Court to hear Muslim side's plea over location of alternative namaz site on July 29",
+          "summary": "The Supreme Court will hear a plea from the Muslim side regarding the location of an alternative site for offering Friday prayers near the Bhojshala complex. The hearing is scheduled for July 29, and the Court will examine the plea. This case has significant implications for religious freedom and community relations.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/bhojshala-row-supreme-court-to-hear-muslim-sides-plea-over-location-of-alternative-namaz-site-on-july-29-101784887943244.html"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-24T19:16:14.306811+00:00",
     "brief": "Tensions between the US and Iran continue to escalate, with the US launching new strikes and Iran threatening to disrupt global oil supplies, which could have significant implications for India's economy, already facing risks from the El Niño phenomenon and rising oil prices. The Reserve Bank of India has warned of potential risks to the country's growth and inflation outlook, and has taken measures to defend the rupee, selling $6 billion in foreign exchange in May. Meanwhile, India's integration with the global economy is strengthening, with the country highlighting its tariff reforms and Free Trade Agreement strategies at the WTO, and the space economy is expected to play a transformative role in expanding connectivity and driving innovation.",
     "categories": {
@@ -3478,134 +3624,6 @@
         {
           "title": "Ram Mandir Donation Row: SIT Seeks More Time To File Report, May Submit It In Supreme Court",
           "summary": "A Special Investigation Team in Uttar Pradesh is probing alleged embezzlement of donations at Ayodhya's Ram Temple and has requested more time to finalize its investigation. The team may submit its report to the Supreme Court. The case involves allegations of financial irregularities and corruption.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/india/ram-mandir-donation-row-sit-seeks-more-time-to-file-report-may-submit-it-in-supreme-court-article-155115821"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-18T01:51:15.742366+00:00",
-    "brief": "Today's brief highlights key developments across geopolitics, economy, and national affairs. China's use of disinformation to secure infrastructure projects in Africa, particularly in Kenya, has significant implications for global economic competition and geopolitical influence. Meanwhile, the global economy is tipping towards a sharp slowdown, with India potentially losing a step, according to Moody's Analytics, and the country's economic growth is also expected to be impacted by rising inflation and slowing growth. In India, the Supreme Court has clarified that removal from electoral rolls does not affect citizenship status, and has also criticized doctors and hospitals for denying medical care to vulnerable victims, emphasizing the importance of fulfilling duties and upholding social responsibility.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Kenya airport deal proves China’s disinformation drive to win African infra projects",
-          "summary": "China is using disinformation and other tactics to secure infrastructure projects in Africa, as seen in a recent airport deal in Kenya. This approach involves media influence, psychological operations, and debt diplomacy to win overpriced projects. The strategy has implications for global economic competition and geopolitical influence.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/kenya-airport-deal-proves-chinas-disinformation-drive-to-win-african-infra-projects-1/"
-        },
-        {
-          "title": "Pakistan badly needs improvements in governance and water management: Report",
-          "summary": "A report highlights the need for Pakistan to improve its governance and water management. The country faces significant challenges, and addressing these issues is crucial for its security and development. Effective governance and water management are essential for Pakistan's future.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/pakistan-badly-needs-improvements-in-governance-and-water-management-report/"
-        },
-        {
-          "title": "India’s BRICS presidency is championing women-led diplomacy",
-          "summary": "India's presidency of the BRICS grouping is promoting women-led diplomacy, a significant initiative in international relations. This approach aims to increase the participation of women in diplomatic efforts and promote gender equality. The initiative has the potential to shape global diplomacy and cooperation.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/ht-insight/international-affairs/indias-brics-presidency-is-championing-women-led-diplomacy-101784286297678.html"
-        },
-        {
-          "title": "125 Nations Observe July 17 As World Day for International Justice",
-          "summary": "July 17 is observed as World Day for International Justice by 125 nations, marking the establishment of the International Criminal Court. The day aims to promote international justice and end impunity for global crimes such as genocides and war crimes. The observance highlights the importance of international cooperation in promoting justice and human rights.",
-          "source": "Deccan Chronicle",
-          "url": "https://www.deccanchronicle.com/world/125-nations-observe-july-17-as-world-day-for-international-justice-1971680"
-        },
-        {
-          "title": "Tensions in the Strait: A Call for Oil Security",
-          "summary": "The head of the International Energy Agency has warned that global energy security is at risk due to tensions in the Strait of Hormuz. The situation could impact oil flow and global energy markets, emphasizing the need for the US and Iran to resolve their differences and ensure stable oil supplies. The issue has significant implications for the global economy and energy security.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/science-environment/3951602-tensions-in-the-strait-a-call-for-oil-security"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Why India Needs Three Inflation Numbers To Understand One Economy",
-          "summary": "India uses three inflation numbers - CPI, WPI, and PPI - to measure inflation at different stages of the economy, which helps in understanding price trends, corporate margins, RBI policy, and growth outlook. These numbers provide a comprehensive view of the economy, allowing policymakers to make informed decisions. Understanding these inflation numbers is crucial for India's economic growth and development.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/economy-and-policy/why-india-needs-three-inflation-numbers-to-understand-one-economy"
-        },
-        {
-          "title": "Crisil sees volatile FY27: Inflation to rise to 5.1%, growth to slow; RBI may hike rates",
-          "summary": "Crisil has predicted a volatile economic outlook for India in 2026-27, with inflation expected to rise to 5.1% and growth slowing down. The RBI may respond to this by hiking interest rates, which could impact the country's economic growth. This prediction is based on factors such as easing geopolitical tensions and lower crude oil prices.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/business/crisil-sees-volatile-fy27-inflation-to-rise-to-5-1-growth-to-slow-rbi-may-hike-rates-4293869/"
-        },
-        {
-          "title": "Global economy tipping towards a sharp slowdown, India ‘may lose a step’ too: Moody's Analytics",
-          "summary": "Moody's Analytics has warned that the global economy is heading towards a sharp slowdown, which may also impact India's growth. The slowdown is expected to be triggered by an extended US-Iran conflict, which could lead to a fresh energy shock, inflation, and tighter monetary policy. This could force central banks to take cautious measures to mitigate the effects.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/news/moodys-analytics-global-slowdown-india-ai-boom-11784192376799.html"
-        },
-        {
-          "title": "Former RBI governor Raghuram Rajan, 2 other Indians appointed in key US Federal Reserve task forces",
-          "summary": "Former RBI governor Raghuram Rajan, along with two other Indians, has been appointed to key task forces of the US Federal Reserve. They will review key areas of US monetary policy, providing expertise and insights to shape the future of US monetary policymaking. This appointment highlights the recognition of Indian expertise in global economic matters.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/former-rbi-governor-raghuram-rajan-2-other-indians-appointed-in-key-us-federal-reserve-task-forces-101784180018931.html"
-        }
-      ],
-      "Business": [
-        {
-          "title": "AI IPO wave: Why India's start-up ecosystem could be an indirect winner",
-          "summary": "The upcoming IPOs of OpenAI, Anthropic, and SpaceX may benefit India's startup ecosystem by reviving VC funding, improving exits, and boosting deep-tech investment. This could strengthen India's long-term AI ambitions and reshape global venture capital flows. Successful AI listings may have a positive impact on India's startup ecosystem.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/deeptech/ai-ipo-wave-why-indias-start-up-ecosystem-could-be-an-indirect-winner"
-        },
-        {
-          "title": "Bank credit growth to ease as corporates tap bond markets, overseas funding",
-          "summary": "Bank credit growth is expected to slow down as large corporations opt for domestic bond markets and overseas borrowings for funding. The Reserve Bank of India's policy measures make external funding more attractive, reducing reliance on traditional bank loans. Overall credit demand remains healthy, but banks will finance a smaller share.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
-        },
-        {
-          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
-          "summary": "Neuberg Diagnostics plans to launch an initial public offering in fiscal year 2028, aiming to raise approximately ₹3,500-4,000 crore. The company plans to use the funds for acquisitions and expansion, targeting pan-India growth and new diagnostic technologies. Neuberg aims to become the second-largest player in the diagnostics market.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
-        },
-        {
-          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
-          "summary": "Indian companies raised a significant amount of funds via commercial papers in June, reaching a near five-year high of Rs 2.53 lakh crore. This surge is driven by attractive pricing, seasonal needs, and debt refinancing, with companies shifting from costlier bank loans to cheaper short-term market funding. The Reserve Bank of India's liquidity infusions also contributed to favorable conditions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Supreme Court says electoral roll deletion in SIR not loss of citizenship; plea seeks passport as 'clear pass'",
-          "summary": "The Supreme Court has clarified that being removed from electoral rolls does not affect a person's citizenship status. This ruling aims to prevent individuals from being denied welfare benefits due to incorrect assumptions about their citizenship.",
-          "source": "Moneycontrol",
-          "url": "https://www.moneycontrol.com/news/india/supreme-court-says-electoral-roll-deletion-in-sir-not-loss-of-citizenship-plea-seeks-passport-as-clear-pass-13976923.html"
-        },
-        {
-          "title": "'You ignored because she was poor?': Supreme Court lambasts doctor, hospital for denying care to 4-year-old rape victim",
-          "summary": "The Supreme Court has criticized a doctor and hospital for denying medical care to a 4-year-old rape victim, questioning their empathy and suggesting that the victim's poverty may have been a factor in the decision.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/you-ignored-because-she-was-poor-supreme-court-lambasts-doctor-hospital-for-denying-care-to-4-year-old-rape-victim-101784282079853.html"
-        },
-        {
-          "title": "Don't write 'doctor' if you don't perform your duty: SC raps doctors in minor's rape-murder case",
-          "summary": "The Supreme Court has reprimanded two private hospitals and their doctors for failing to provide timely medical care to a 4-year-old rape-and-murder victim, emphasizing the importance of doctors fulfilling their duties.",
-          "source": "ThePrint",
-          "url": "https://theprint.in/india/dont-write-doctor-if-you-dont-perform-your-duty-sc-raps-doctors-in-minors-rape-murder-case/2989078/"
-        },
-        {
-          "title": "'Exclusion Or Deletion From Voter List Under SIR Not Loss Of Citizenship': Supreme Court",
-          "summary": "The Supreme Court has clarified that being removed from electoral rolls under the Special Intensive Revision (SIR) does not affect a person's citizenship status, and has raised concerns about individuals being denied welfare benefits due to this misconception.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/india/exclusion-or-deletion-from-voter-list-under-sir-not-loss-of-citizenship-supreme-court-article-155115938"
-        },
-        {
-          "title": "SC extends deadline for conducting elections of 5 city corporations in Bengaluru",
-          "summary": "The Supreme Court has extended the deadline for conducting elections in five city corporations in Bengaluru to December 2026, citing the ongoing Special Intensive Revision (SIR) of electoral rolls.",
-          "source": "ThePrint",
-          "url": "https://theprint.in/india/sc-extends-deadline-for-conducting-elections-of-5-city-corporations-in-bengaluru/2989021/"
-        },
-        {
-          "title": "Ram Mandir Donation Row: SIT Seeks More Time To File Report, May Submit It In Supreme Court",
-          "summary": "The Uttar Pradesh government's Special Investigation Team has requested more time to finalize its investigation into alleged embezzlement of donations at the Ram Temple in Ayodhya, and may submit its report to the Supreme Court.",
           "source": "Times Now",
           "url": "https://www.timesnownews.com/india/ram-mandir-donation-row-sit-seeks-more-time-to-file-report-may-submit-it-in-supreme-court-article-155115821"
         }
