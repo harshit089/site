@@ -1,5 +1,139 @@
 [
   {
+    "generated_at": "2026-07-25T07:55:17.039390+00:00",
+    "brief": "Tensions between the US and Iran have escalated with new strikes launched by the US military, while Canada has opened a strategic bridge linking Windsor and Detroit amid tariff disputes with the US. Meanwhile, India's economy remains resilient, but the Reserve Bank of India has warned of potential risks from the Iran war and an uneven monsoon, which could impact growth and inflation. In other developments, India has concluded its Trade Policy Review at the World Trade Organization, defending its policies as consistent with WTO rules, and the country's startup funding has fallen 44% week-over-week to $186 million amid a slowdown in late-stage investments.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Bridging Borders: Canada's Strategic Move Amid Tariff Tensions",
+          "summary": "Canada has opened the Gordie Howe International Bridge linking Windsor and Detroit, a strategic move amid strained U.S.-Canada relations due to tariff disputes. The bridge's opening highlights ongoing trade negotiations and the longstanding partnership between the two countries. However, toll-sharing agreements remain a point of contention.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/law-order/3955352-bridging-borders-canadas-strategic-move-amid-tariff-tensions"
+        },
+        {
+          "title": "Tehran chose diplomacy and dialogue but was attacked in midst of negotiations: Iranian FM",
+          "summary": "Iran's Foreign Minister Seyed Abbas Araghchi stated that Iran chose diplomacy and dialogue but was attacked during negotiations. This statement highlights the challenges in international relations and the importance of diplomacy in resolving conflicts. The world's silence on the matter is also a point of concern for Iran.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/tehran-chose-diplomacy-and-dialogue-but-was-attacked-in-midst-of-negotiations-iranian-fm/"
+        },
+        {
+          "title": "US military launches new strikes on Iran as clashes escalate over shipping routes",
+          "summary": "The US military has launched new strikes on Iran, escalating clashes over shipping routes. The attacks came after Houthi rebels targeted two Saudi oil tankers in the Red Sea, potentially widening the conflict. This development has significant implications for global oil prices and international relations.",
+          "source": "The New Indian Express",
+          "url": "https://www.newindianexpress.com/world/2026/Jul/24/us-military-launches-new-strikes-on-iran-as-clashes-escalate-over-shipping-routes-2"
+        },
+        {
+          "title": "World News Today Live Updates on July 24, 2026",
+          "summary": "The Russia-Ukraine war has resulted in 10 killed and 100 wounded as Moscow hit an arms expo near Kyiv. This development is part of the ongoing conflict between the two countries, with significant implications for global politics and international relations. The situation is being closely monitored by the international community.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/news/world/total-world-latest-news-on-july-24-2026-live-updates-11784856447952.html"
+        },
+        {
+          "title": "U.N. Demands Probe into War Crime Allegations in Mali",
+          "summary": "The U.N. human rights office has urged an investigation into allegations of torture and execution of surrendering Malian soldiers by insurgents and separatists. These acts could constitute war crimes under international law, and the U.N. is emphasizing the need for accountability and justice. The situation in Mali is a significant concern for the international community.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/law-order/3954887-un-demands-probe-into-war-crime-allegations-in-mali"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "India concludes WTO Trade Policy Review; members seek clarifications on PLI, QCOs, trade policy measures",
+          "summary": "India recently concluded its eighth Trade Policy Review at the World Trade Organization, where member countries sought clarifications on various trade policies, including production-linked incentive schemes and Quality Control Orders. India defended its policies as being consistent with WTO rules and the needs of a developing economy. This review is significant as it reflects India's integration with the global economy.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/india-concludes-wto-trade-policy-review-members-seek-clarifications-on-pli-qcos-trade-policy-measures/"
+        },
+        {
+          "title": "Quality control orders intended to achieve public policy objectives: India at WTO",
+          "summary": "India stated that its quality control orders are intended to achieve public policy objectives, and its tariff reforms and customs simplification measures have strengthened the country's integration with the global economy. The country's ambitious Free Trade Agreement strategy is also a key aspect of its economic integration. This highlights India's efforts to balance its domestic policies with international trade obligations.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/economy/quality-control-orders-intended-to-achieve-public-policy-objectives-india-at-wto/article71260884.ece"
+        },
+        {
+          "title": "India faces rising food and fuel risks from El Niño",
+          "summary": "The developing El Niño phenomenon poses a threat to India's agriculture and food prices, which could impact the country's growth and inflation outlook. The effects of El Niño will depend on rainfall and policy responses, making it a significant factor to consider in India's economic forecast. This highlights the importance of monitoring climate-related risks in economic planning.",
+          "source": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/opinion/india-faces-rising-food-and-fuel-risks-from-el-ni-o-13982423.html"
+        },
+        {
+          "title": "RBI Says India's Economy Is Strong; But Two Risks Could Change Everything",
+          "summary": "The Reserve Bank of India has stated that India's economy remains resilient, but warned that the Iran war and an uneven monsoon could pose significant risks to growth, inflation, and policy outlook. These risks have the potential to alter the country's economic trajectory, making them crucial factors to consider in economic forecasting. This highlights the importance of monitoring global and domestic factors in economic planning.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/business-economy/economy/rbi-says-indias-economy-is-strong-but-two-risks-could-change-everything-article-155156142"
+        },
+        {
+          "title": "Satcom set to play a transformative role; opportunities ahead vast: Trai Chairman",
+          "summary": "The Chairman of the Telecom Regulatory Authority of India has stated that satellite communications will play a transformative role in expanding seamless connectivity across India, supporting strategic areas, and bridging the digital divide. The Indian space economy is projected to grow significantly by 2030, with new ventures reflecting rapid private participation and innovation in the space sector. This highlights the potential of satellite communications in driving technological advancement and inclusive growth.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/satcom-set-to-play-a-transformative-role-opportunities-ahead-vast-trai-chairman/articleshow/132563504.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "India startup funding falls 44% WoW to $186 million amid slowdown in big",
+          "summary": "Indian startups raised $186.1 million in funding during the week of July 17-23, a 44% decrease from the previous week. This decline is attributed to a slowdown in late-stage investments, despite a rebound in early-stage funding. The decrease in funding may impact the growth of Indian startups.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-falls-44-wow-to-186-million-amid-slowdown-in-big-ticket-deals-19953624.htm"
+        },
+        {
+          "title": "Milky Mist IPO set for August launch, aiming to be India's largest dairy offering",
+          "summary": "Milky Mist Dairy Food is planning to launch its initial public offering (IPO) in August, which is expected to be the largest by an Indian dairy company. The company has secured ₹482 crore in pre-IPO funding and has been valued at approximately ₹9,300 crore. This IPO may provide a significant opportunity for investors in the dairy sector.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-ipo-set-for-august-launch-aiming-to-be-indias-largest-dairy-offering/articleshow/132594441.cms"
+        },
+        {
+          "title": "Environmental CSR in India: Rs. 17,000 Crore Deployed Over A Decade, But Climate",
+          "summary": "Corporate India has invested ₹17,377 crore in environmental sustainability initiatives over the past decade. However, the funding remains concentrated among a few companies and is not always aligned with the regions facing the greatest environmental challenges. This highlights the need for more targeted and widespread environmental corporate social responsibility (CSR) efforts.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/environmental-csr-in-india-rs-17000-crore-deployed-over-a-decade-but-climate-vulnerable-regions-remain-underfunded/"
+        },
+        {
+          "title": "Q1 bank credit flow surges 10x as market mop-up collapses",
+          "summary": "Bank credit has become a primary source of funding for the commercial sector in the first quarter, due to a sharp decline in capital market mobilization. This shift may indicate a change in the funding landscape for businesses in India. The surge in bank credit flow may have implications for the overall economy and financial markets.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/q1-bank-credit-flow-surges-10x-as-market-mop-up-collapses/articleshow/132569873.cms"
+        },
+        {
+          "title": "MS Dhoni’s latest startup bet isn’t gaming or fintech. It’s rooftop solar",
+          "summary": "Mahendra Singh Dhoni has invested in SolarSquare, a rooftop solar company, and will also serve as its brand ambassador. This investment is part of a $53 million funding round and aims to boost India's clean energy growth. The involvement of a high-profile figure like Dhoni may help raise awareness and promote the adoption of rooftop solar energy in India.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/business/news/ms-dhonis-latest-startup-bet-isnt-gaming-or-fintech-its-rooftop-solar/4298377/"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "CJI Surya Kant Says He's Concerned About Closure Of SC Metro Station; Assures Will Take Up With Govt",
+          "summary": "Chief Justice of India Surya Kant expressed concern over the temporary closure of the Supreme Court metro station due to protests in the national capital. He assured that he will take up the matter with the government. This development highlights the impact of protests on public services and infrastructure.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/delhi/cji-surya-kant-says-he-is-concerned-about-closure-of-supreme-court-metro-station-assures-will-take-up-with-government-article-155169960"
+        },
+        {
+          "title": "India viewed as fair jurisdiction where international commercial disputes resolved efficiently: CJI",
+          "summary": "The Chief Justice of India stated that India is seen as a fair jurisdiction where international commercial disputes are resolved efficiently. He made this statement at an international conference commemorating the 60th anniversary of the United Nations Commission on International Trade Law. This reflects India's reputation in the global legal community.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/india/india-viewed-as-fair-jurisdiction-where-international-commercial-disputes-resolved-efficiently-cji-19953696.htm"
+        },
+        {
+          "title": "CJI calls out 'reckless reporting', says no plea filed in Supreme Court over police action on CJP protesters",
+          "summary": "Chief Justice of India Surya Kant dismissed media reports claiming that he had refused an urgent hearing on the police action against protesters. He stated that no plea was filed in the Supreme Court regarding this matter. This highlights the importance of accurate reporting and the need for verification of information.",
+          "source": "India TV News",
+          "url": "https://www.indiatvnews.com/news/india/cji-calls-out-reckless-reporting-says-no-plea-filed-in-supreme-court-over-police-action-on-cjp-protesters-2026-07-24-1049336"
+        },
+        {
+          "title": "CJP protest: Supreme Court to take up petitions against ‘excessive’ use of police force on Monday",
+          "summary": "The Supreme Court agreed to hear petitions alleging excessive use of police force against students protesting exam paper leaks. The court will take up the matter on Monday. This development indicates the court's willingness to address concerns about police action and ensure that the rights of protesters are protected.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/delhi/cjp-protest-supreme-court-to-take-up-petitions-against-excessive-use-of-police-force-on-monday/"
+        },
+        {
+          "title": "CJI Surya Kant promises justice to youth, says Supreme Court doors are open 24 hours a day",
+          "summary": "Chief Justice of India Surya Kant assured that the Supreme Court is committed to delivering justice to all citizens, particularly the youth. He stated that the court's doors are open 24 hours a day to ensure that justice is accessible to everyone. This reflects the court's commitment to upholding the rule of law and protecting the rights of citizens.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/cji-surya-kant-promises-justice-to-youth-says-supreme-court-doors-are-open-24-hours-a-day-101784905301536.html"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-25T02:02:24.865273+00:00",
     "brief": "Tensions between the US and Canada are escalating over the Gordie Howe International Bridge, while the US has launched new strikes on Iran amid clashes over shipping routes, posing significant risks to international trade and stability. Meanwhile, in India, the economy remains resilient, but the Reserve Bank of India has warned that the Iran war and an uneven monsoon could pose risks to growth, inflation, and policy outlook. The Indian government is also focusing on strengthening its integration with the global economy, with the Commerce Secretary highlighting the country's efforts to achieve public policy objectives through tariff reforms and Free Trade Agreement strategies.",
     "categories": {
@@ -3516,116 +3650,6 @@
           "summary": "The Supreme Court has criticized a doctor and hospital for denying medical care to a 4-year-old rape victim, questioning whether the decision was influenced by the victim's poverty. The court's strong response highlights the need for medical professionals to prioritize patient care and empathy, regardless of the patient's background. The case underscores the importance of ensuring access to medical care for all, especially vulnerable populations.",
           "source": "Hindustan Times",
           "url": "https://www.hindustantimes.com/india-news/you-ignored-because-she-was-poor-supreme-court-lambasts-doctor-hospital-for-denying-care-to-4-year-old-rape-victim-101784282079853.html"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-18T07:38:57.535508+00:00",
-    "brief": "Global economic trends and diplomatic developments are intersecting in complex ways, with the US planning to restore Hong Kong's special trading status, potentially easing trade restrictions and marking a shift in US-China relations. Meanwhile, the global economy is tipping towards a sharp slowdown, according to Moody's Analytics, which could impact India's growth, even as the country's startup ecosystem may indirectly benefit from the upcoming IPOs of AI companies. In India, economic indicators such as inflation numbers and bank credit growth are being closely watched, with the RBI's policy decisions likely to have significant implications for the country's macroeconomic outlook.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Controversy in Venice: A Diplomatic Voyage and Public Protest",
-          "summary": "The US Ambassador to Italy's visit to Venice on his yacht sparked protests against Trump's policies and criticism over mass tourism. The visit coincided with a local festival, Festa del Redentore, and highlighted international political tensions. This incident reflects the complexities of diplomatic visits and their potential impact on local communities.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/entertainment/3952048-controversy-in-venice-a-diplomatic-voyage-and-public-protest"
-        },
-        {
-          "title": "Revival of Hong Kong's Special Trade Status Marks Positive Shift in US-China Relations",
-          "summary": "The US plans to restore Hong Kong's special trading status, which was revoked in 2020 due to China's national security law. This decision follows recent trade talks between the US and China, potentially easing trade restrictions and marking a shift in their international relations. The move could have significant implications for global trade and US-China relations.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3952011-revival-of-hong-kongs-special-trade-status-marks-positive-shift-in-us-china-relations"
-        },
-        {
-          "title": "Kenya airport deal proves China’s disinformation drive to win African infra projects",
-          "summary": "China has been using disinformation and debt diplomacy to secure infrastructure projects in Africa, as seen in the Kenya airport deal. This strategy involves using media influence and psychological operations to win contracts, often at inflated prices. The practice has significant implications for African countries and their economic development.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/kenya-airport-deal-proves-chinas-disinformation-drive-to-win-african-infra-projects-1/"
-        },
-        {
-          "title": "India’s BRICS presidency is championing women-led diplomacy",
-          "summary": "India's presidency of the BRICS grouping is promoting women-led diplomacy, a significant development in international relations. This approach aims to increase the participation of women in diplomatic efforts and promote gender equality. The initiative reflects India's commitment to promoting diversity and inclusion in global governance.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/ht-insight/international-affairs/indias-brics-presidency-is-championing-women-led-diplomacy-101784286297678.html"
-        },
-        {
-          "title": "125 Nations Observe July 17 As World Day for International Justice",
-          "summary": "July 17 is observed as World Day for International Justice, marking the establishment of the International Criminal Court (ICC). The ICC was set up to prosecute global crimes such as genocides, war crimes, and crimes against humanity. The day highlights the importance of international justice and the need to end impunity for such crimes.",
-          "source": "Deccan Chronicle",
-          "url": "https://www.deccanchronicle.com/world/125-nations-observe-july-17-as-world-day-for-international-justice-1971680"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Why India Needs Three Inflation Numbers To Understand One Economy",
-          "summary": "India uses three inflation numbers - CPI, WPI, and PPI - to measure inflation at different stages of the economy, which helps in understanding price trends, corporate margins, and the RBI's policy decisions. These numbers provide a comprehensive view of the economy and are essential for policymakers. They also help in predicting India's growth outlook.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/economy-and-policy/why-india-needs-three-inflation-numbers-to-understand-one-economy"
-        },
-        {
-          "title": "Crisil sees volatile FY27: Inflation to rise to 5.1%, growth to slow; RBI may hike rates",
-          "summary": "According to a Crisil report, India's economy is expected to face challenges in 2026-27 due to rising inflation and slowing growth, despite easing geopolitical tensions and lower crude oil prices. The RBI may respond to this by hiking interest rates. This could impact the country's macroeconomic outlook.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/business/crisil-sees-volatile-fy27-inflation-to-rise-to-5-1-growth-to-slow-rbi-may-hike-rates-4293869/"
-        },
-        {
-          "title": "Global economy tipping towards a sharp slowdown, India ‘may lose a step’ too: Moody's Analytics",
-          "summary": "Moody's Analytics has warned that the global economy is headed for a slowdown, which could also impact India's growth. The slowdown is expected to be triggered by an extended US-Iran conflict, leading to a fresh energy shock, inflation, and tighter monetary policy. This could force central banks to take cautious measures.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/news/moodys-analytics-global-slowdown-india-ai-boom-11784192376799.html"
-        },
-        {
-          "title": "Former RBI governor Raghuram Rajan, 2 other Indians appointed in key US Federal Reserve task forces",
-          "summary": "Raghuram Rajan, former RBI governor, and two other Indians have been appointed to key US Federal Reserve task forces. They will review key areas of US monetary policy, providing their expertise to shape the future of US monetary policymaking. This is a significant development, as it highlights the recognition of Indian experts in global economic matters.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/former-rbi-governor-raghuram-rajan-2-other-indians-appointed-in-key-us-federal-reserve-task-forces-101784180018931.html"
-        }
-      ],
-      "Business": [
-        {
-          "title": "AI IPO wave: Why India's start-up ecosystem could be an indirect winner",
-          "summary": "The upcoming IPOs of OpenAI, Anthropic, and SpaceX may indirectly benefit India's startup ecosystem by reviving VC funding, improving exits, and boosting deep-tech investment. This could strengthen India's long-term AI ambitions and reshape global venture capital flows. Successful AI listings may have a positive impact on India's startup ecosystem.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/deeptech/ai-ipo-wave-why-indias-start-up-ecosystem-could-be-an-indirect-winner"
-        },
-        {
-          "title": "Bank credit growth to ease as corporates tap bond markets, overseas funding",
-          "summary": "Bank credit growth is expected to moderate as large corporations increasingly use domestic bond markets and overseas borrowings for funding. The Reserve Bank of India's policy measures make external funding more attractive for businesses, reducing reliance on traditional bank loans. Overall credit demand remains healthy, but banks will finance a smaller share.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms"
-        },
-        {
-          "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
-          "summary": "Neuberg Diagnostics plans an initial public offering in fiscal year 2028, aiming to raise approximately ₹3,500-4,000 crore. The company will use a pre-IPO funding round to secure Rs 5000 crore for acquisitions, targeting pan-India growth and new diagnostic technologies. Neuberg expects to become the second-largest player in the diagnostics market.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/articleshow/132227930.cms"
-        },
-        {
-          "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
-          "summary": "Indian companies raised Rs 2.53 lakh crore via commercial papers in June, a near five-year high. This surge was driven by attractive pricing, seasonal needs, and debt refinancing, with experts noting a shift from costlier bank loans to cheaper short-term market funding. The Reserve Bank of India's liquidity infusions also contributed to favorable conditions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Voter list name deletion does not mean automatic loss of citizenship",
-          "summary": "The Supreme Court has clarified that being deleted from the electoral roll does not automatically mean a person loses their citizenship status. This is because the Election Commission of India is not the final authority to determine citizenship. The status remains for other purposes until a final decision is made.",
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/legal-news/supreme-court-voter-list-deletion-citizenship-status-eci-welfare-schemes-10791704/"
-        },
-        {
-          "title": "'You ignored because she was poor?'",
-          "summary": "The Supreme Court has criticized a doctor and hospital for denying medical care to a 4-year-old rape victim, questioning their empathy and actions. The court's comments highlight concerns about access to medical care, particularly for vulnerable populations. The case has sparked a wider discussion about healthcare and social responsibility.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/you-ignored-because-she-was-poor-supreme-court-lambasts-doctor-hospital-for-denying-care-to-4-year-old-rape-victim-101784282079853.html"
-        },
-        {
-          "title": "Ram Mandir Donation Row: SIT Seeks More Time To File Report, May Submit It In Supreme Court",
-          "summary": "A Special Investigation Team in Uttar Pradesh is probing alleged embezzlement of donations at Ayodhya's Ram Temple and has requested more time to finalize its investigation. The team may submit its report to the Supreme Court. The case involves allegations of financial irregularities and corruption.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/india/ram-mandir-donation-row-sit-seeks-more-time-to-file-report-may-submit-it-in-supreme-court-article-155115821"
         }
       ]
     }
