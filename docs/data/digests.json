@@ -1,5 +1,115 @@
 [
   {
+    "generated_at": "2026-07-27T14:15:58.109758+00:00",
+    "brief": "This week, India is set to engage in a month of high-stakes diplomacy with key international summits, including the SCO Summit and the Brics Summit, where discussions will focus on terrorism, supply chains, and Global South opportunities. Meanwhile, the country's economy is expected to receive a boost from recent policy measures by the Reserve Bank of India and the government, which could shift India's balance of payments to a surplus and ease pressure on the rupee. However, the economy also faces potential risks, including the impact of the El Niño phenomenon on agriculture and food prices, as well as the ongoing conflict in the Middle East, which could have significant implications for global trade and geopolitics. As India navigates these complex global and domestic developments, the government will need to balance its diplomatic efforts with economic and social priorities.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "India gears up for month-long summit diplomacy: PM Modi to attend SCO meet, host Brics Summit & address UNGA",
+          "summary": "India is set to engage in a month of high-stakes diplomacy with key international summits, including the SCO Summit and the Brics Summit, where discussions will focus on terrorism, supply chains, and Global South opportunities. Prime Minister Modi will also address the UN General Assembly and India will seek a non-permanent UN Security Council seat for 2028-29. This diplomatic effort is expected to shape India's global relationships and influence.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/india-gears-up-for-month-long-summit-diplomacy-pm-modi-to-attend-sco-meet-host-brics-summit-address-unga/articleshow/132646443.cms"
+        },
+        {
+          "title": "Ukraine's attack on Iranian commercial vessel is to drag Europe into Israel's war: Iran FM",
+          "summary": "Iran's Foreign Minister has accused Ukraine of attacking an Iranian commercial vessel to draw Europe into Israel's war. This statement reflects the complex and escalating tensions in the region, with multiple countries involved in the conflict. The situation has significant implications for global geopolitics and international relations.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/ukraines-attack-on-iranian-commercial-vessel-is-to-drag-europe-into-israels-war-iran-fm/"
+        },
+        {
+          "title": "Trump renews tariff onslaught with a whirlwind week of threats",
+          "summary": "Former US President Donald Trump has renewed his tariff onslaught with a series of trade threats, which could have significant implications for global trade and economies. The move is seen as a missed opportunity for constructive trade negotiations and could lead to further trade tensions. The development is being closely watched by economists and trade experts.",
+          "source": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/business/trump-renews-tariff-onslaught-with-a-whirlwind-week-of-threats-13983825.html"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "RBI, govt measures could turn India's balance of payments surplus, ease pressure on rupee: HDFC",
+          "summary": "The Reserve Bank of India and government's recent policy measures may shift India's balance of payments to a surplus, attracting significant capital inflows and strengthening the external position, which could ease pressure on the Indian rupee. These developments are expected to boost foreign currency deposits and make government securities more accessible for foreign investors. This could have a positive impact on the Indian economy.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-govt-measures-could-turn-indias-balance-of-payments-surplus-ease-pressure-on-rupee-hdfc/articleshow/132622306.cms"
+        },
+        {
+          "title": "India concludes WTO Trade Policy Review; members seek clarifications on PLI, QCOs, trade policy measures",
+          "summary": "India concluded its eighth Trade Policy Review at the World Trade Organization, where member countries sought clarifications on production-linked incentive schemes, Quality Control Orders, and trade remedies. India defended its policies as being consistent with WTO rules and the needs of a developing economy. The review is an important aspect of India's engagement with the global trade community.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/india-concludes-wto-trade-policy-review-members-seek-clarifications-on-pli-qcos-trade-policy-measures"
+        },
+        {
+          "title": "Quality control orders intended to achieve public policy objectives: India at WTO",
+          "summary": "India stated that its quality control orders are intended to achieve public policy objectives, and its tariff reforms, customs simplification measures, and Free Trade Agreement strategy have strengthened the country's integration with the global economy. This statement was made during India's eighth Trade Policy Review at the World Trade Organization. The country's trade policies are under scrutiny by the global trade community.",
+          "source": "The Hindu Business Line",
+          "url": "https://www.thehindubusinessline.com/economy/quality-control-orders-intended-to-achieve-public-policy-objectives-india-at-wto/article71260884.ece"
+        },
+        {
+          "title": "India faces rising food and fuel risks from El Niño",
+          "summary": "The developing El Niño phenomenon poses a threat to India's agriculture and food prices, which could impact the country's growth and inflation outlook. The effects of El Niño will depend on rainfall and policy responses, making it a significant concern for the Indian economy. This highlights the importance of monitoring weather patterns and their potential impact on the economy.",
+          "source": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/opinion/india-faces-rising-food-and-fuel-risks-from-el-ni-o-13982423.html"
+        },
+        {
+          "title": "RBI Says India's Economy Is Strong; But Two Risks Could Change Everything",
+          "summary": "The Reserve Bank of India states that India's economy remains resilient, but warns that the Iran war and an uneven monsoon could pose risks to growth, inflation, and policy outlook. These two factors have the potential to significantly impact the Indian economy, making them crucial to monitor. The RBI's assessment highlights the importance of being prepared for potential challenges.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/business-economy/economy/rbi-says-indias-economy-is-strong-but-two-risks-could-change-everything-article-155156142"
+        }
+      ],
+      "Business": [
+        {
+          "title": "India startup funding falls 44% WoW to $186 million amid slowdown in big",
+          "summary": "Indian startups raised $186.1 million in funding during the week of July 17-23, a 44% decrease from the previous week. This decline is attributed to a slowdown in late-stage investments. Despite this, early-stage funding saw a strong rebound.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-falls-44-wow-to-186-million-amid-slowdown-in-big-ticket-deals-19953624.htm"
+        },
+        {
+          "title": "Milky Mist IPO set for August launch, aiming to be India's largest dairy offering",
+          "summary": "Milky Mist Dairy Food is set to launch its initial public offering in early August, aiming to be the largest IPO by an Indian dairy company. The company has secured ₹482 crore in pre-IPO funding and is valued at approximately ₹9,300 crore. This IPO follows a significant pre-IPO funding round in May.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-ipo-set-for-august-launch-aiming-to-be-indias-largest-dairy-offering/articleshow/132594441.cms"
+        },
+        {
+          "title": "Environmental CSR in India: Rs. 17,000 Crore Deployed Over A Decade, But Climate",
+          "summary": "Corporate India has invested Rs. 17,377 crore in environmental sustainability and conservation initiatives over the past decade. However, a new report finds that funding remains concentrated among a small group of companies and is not always aligned with the country's greatest environmental challenges. This highlights the need for more targeted environmental CSR efforts.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/environmental-csr-in-india-rs-17000-crore-deployed-over-a-decade-but-climate-vulnerable-regions-remain-underfunded/"
+        },
+        {
+          "title": "Q1 bank credit flow surges 10x as market mop-up collapses",
+          "summary": "Bank credit has become the primary source of funding for the commercial sector in the first quarter, following a sharp decline in capital market mobilization. This shift highlights the importance of bank credit in supporting business growth. The collapse in market mop-up has led to a significant increase in bank credit flow.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/q1-bank-credit-flow-surges-10x-as-market-mop-up-collapses/articleshow/132569873.cms"
+        },
+        {
+          "title": "MS Dhoni’s latest startup bet isn’t gaming or fintech. It’s rooftop solar",
+          "summary": "Mahendra Singh Dhoni has invested in SolarSquare, a rooftop solar company, and will also serve as its brand ambassador. This investment is part of a $53 million funding round, which aims to boost India's clean energy growth. Dhoni's involvement is expected to raise awareness and support for the adoption of rooftop solar energy in India.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/business/news/ms-dhonis-latest-startup-bet-isnt-gaming-or-fintech-its-rooftop-solar/4298377/"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Renting a home? Key rights every tenant and landlord should know",
+          "summary": "A recent Supreme Court ruling has clarified ownership proof requirements in eviction suits, aiding property owners. The Model Tenancy Act, 2021, aims to balance tenant and landlord rights. Clear rent agreements are crucial for minimizing disputes and ensuring transparency.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/wealth/plan/renting-a-home-key-rights-every-tenant-and-landlord-should-know/articleshow/132617967.cms"
+        },
+        {
+          "title": "India’s public space for dissent is shrinking, warns SC judge",
+          "summary": "Supreme Court Justice Ujjal Bhuyan has warned that the space for dissent in India is shrinking, citing arrests of protesters, delayed bail, and restrictive bail conditions. This is curbing freedoms and limiting personal liberties. The judge expressed concern over the treatment of individuals protesting environmental issues.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/city/bhopal/indias-public-space-for-dissent-is-shrinking-warns-sc-judge/articleshow/132643612.cms"
+        },
+        {
+          "title": "The CJP movement: From the Supreme Court to Pradhan’s Resignation",
+          "summary": "A massive youth movement was sparked by an Indian Chief Justice's analogy, which led to social media activism and protests. The movement highlighted issues such as youth unemployment, education, and the legal system. It ultimately led to the resignation of Education Minister Dharmendra Pradhan.",
+          "source": "Malayala Manorama",
+          "url": "https://www.onmanorama.com/news/india/2026/07/26/the-cjp-movement-from-the-supreme-court-to-pradhan-s-resignation.html"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-27T09:37:43.245609+00:00",
     "brief": "Today's brief highlights key developments across geopolitics, economy, and national affairs, with India's diplomatic efforts taking center stage as Prime Minister Modi prepares for a month of high-stakes summits, including the SCO and Brics Summits, and an address to the UN General Assembly. Meanwhile, the Indian economy is showing resilience, with the RBI noting its strength, but also warning of potential risks from the Iran war and an uneven monsoon, which could impact growth and inflation. Additionally, India's engagement with the global trade community continues, with the country concluding its WTO Trade Policy Review and defending its policies as consistent with WTO rules, amidst a backdrop of global trade tensions and shifting economic dynamics.",
     "categories": {
@@ -3493,146 +3603,6 @@
           "summary": "The Supreme Court has taken up the issue of access to affordable life-saving medicines in India, highlighting the need for options like compulsory licensing and price controls. The matter was brought to the court's attention after a breast cancer patient died while awaiting a decision on an expensive drug. The government is expected to take steps to make essential medicines more affordable for citizens.",
           "source": "Free Press Journal",
           "url": "https://www.freepressjournal.in/analysis/the-government-must-make-life-saving-medicines-affordable-for-the-common-man"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-20T13:53:16.513817+00:00",
-    "brief": "The ongoing conflict in Iran continues to have far-reaching implications, with the RBI Governor citing it as a major risk to India's inflation and economic growth, alongside a weak monsoon. Meanwhile, the global economy is tipping towards a sharp slowdown, with Moody's Analytics warning that India may also lose momentum, and Deloitte forecasting a 6.5-6.8% GDP expansion in the current fiscal year. As geopolitical tensions and economic uncertainty persist, Gujarat's top ranking in NITI Aayog's Investment Friendliness Index 2026 offers a positive note, with the state's investor-friendly environment expected to attract significant investor confidence and support sustained investment growth.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Iran war puts Hormuz, Suez trade at risk",
-          "summary": "The conflict in Iran has raised concerns about the impact on trade, particularly oil traffic, through the Strait of Hormuz and the Suez Canal. The Trump administration has reported a recovery in oil traffic, but the situation remains volatile. This development has significant implications for global trade and energy security.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/iran-war-puts-hormuz-suez-trade-at-risk/"
-        },
-        {
-          "title": "China's missile test came while US engaged in war: Report",
-          "summary": "China recently conducted a nuclear-capable missile launch from a submarine, which has sparked scrutiny due to its timing. The launch occurred while the US was engaged in a war, raising questions about China's intentions and the potential implications for global security. This development highlights the complexities of international relations and geopolitical tensions.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/chinas-missile-test-came-while-us-engaged-in-war-report/"
-        },
-        {
-          "title": "How Argentina’s FIFA semifinal win brought Falkland Islands back into spotlight",
-          "summary": "Argentina's recent FIFA World Cup semifinal win has brought attention back to the Falkland Islands dispute, a longstanding territorial conflict between Argentina and the UK. The historical context of the dispute and its ongoing significance are being highlighted, with implications for international relations and geopolitics. This development underscores the complex interplay between sports, politics, and diplomacy.",
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-argentinas-fifa-semifinal-win-falkland-islands-dispute-upsc-10789390/"
-        },
-        {
-          "title": "Air India Express restores 90% of West Asia flights, expects full recovery by October",
-          "summary": "Air India Express has restored about 90% of its flights to West Asia, despite disruptions caused by the conflict in the region. The airline expects to return to pre-war operations by October, citing growing demand and passenger traffic in the UAE. This development highlights the impact of geopolitical events on the aviation industry and global connectivity.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/business/aviation/air-india-express-restores-90-of-west-asia-flights-expects-full-recovery-by-october-19948918.htm"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "RBI Governor flags Iran war, weak monsoon as the biggest risks to India’s inflation and economic growth",
-          "summary": "The RBI Governor has identified the Iran war and a weak monsoon as major risks to India's inflation and economic growth, despite the country's strong economic fundamentals. The RBI will monitor inflationary pressures before making any monetary policy adjustments. This caution is due to elevated inflation and geopolitical uncertainties.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/wealth/save/rbi-governor-flags-iran-war-weak-monsoon-as-the-biggest-risks-to-indias-inflation-and-economic-growth/articleshow/132466103.cms"
-        },
-        {
-          "title": "Deloitte Forecasts 6.5-6.8 pc GDP Expansion In Current Fiscal",
-          "summary": "Deloitte has forecast a 6.5-6.8% GDP expansion in the current fiscal year, citing a more uncertain global environment. However, the report notes that weather-related uncertainties, such as the impact of El Nino on agricultural output and food prices, remain a significant downside risk. This forecast takes into account recent geopolitical developments and central bank policy measures.",
-          "source": "Deccan Chronicle",
-          "url": "https://www.deccanchronicle.com/business/economics/deloitte-forecasts-65-68-pc-gdp-expansion-in-current-fiscal-1972250"
-        },
-        {
-          "title": "Gujarat tops NITI Aayog's Investment Friendliness Index 2026",
-          "summary": "Gujarat has been ranked as the most investment-friendly state in India, according to NITI Aayog's Investment Friendliness Index 2026. The state's investor-friendly business environment, policy stability, and efficient single-window system have contributed to its top ranking. This is expected to attract significant investor confidence and support sustained investment growth.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/indicators/gujarat-tops-niti-aayogs-investment-friendliness-index-2026/articleshow/132477319.cms"
-        },
-        {
-          "title": "Why India Needs Three Inflation Numbers To Understand One Economy",
-          "summary": "India uses three different inflation numbers - CPI, WPI, and PPI - to measure inflation at various stages of the economy. Understanding these numbers is crucial for grasping price trends, corporate margins, RBI policy, and India's growth outlook. Each inflation number provides unique insights into the economy, making them all essential for a comprehensive understanding.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/economy-and-policy/why-india-needs-three-inflation-numbers-to-understand-one-economy"
-        },
-        {
-          "title": "Crisil sees volatile FY27: Inflation to rise to 5.1%, growth to slow; RBI may hike rates",
-          "summary": "Crisil has warned of a volatile fiscal year 2027, with inflation expected to rise to 5.1% and growth slowing down. Despite easing geopolitical tensions and lower crude oil prices, the macroeconomic outlook faces challenges. The RBI may respond to these developments with cautious policy measures, potentially including a hike in interest rates.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/business/crisil-sees-volatile-fy27-inflation-to-rise-to-5-1-growth-to-slow-rbi-may-hike-rates-4293869/"
-        },
-        {
-          "title": "Global economy tipping towards a sharp slowdown, India ‘may lose a step’ too: Moody's Analytics",
-          "summary": "Moody's Analytics has warned that the global economy is headed for a sharp slowdown over the next two years, with India also expected to lose momentum. An extended US-Iran conflict could trigger a fresh energy shock, reignite inflation, and force central banks into tighter monetary policy. This slowdown is expected to have a significant impact on India's economy.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/news/moodys-analytics-global-slowdown-india-ai-boom-11784192376799.html"
-        }
-      ],
-      "Business": [
-        {
-          "title": "How an Ex-Bank Clerk Built India’s Olympic Medal Factory",
-          "summary": "A former bank clerk has revolutionized India's sports landscape by introducing private funding, leading to a ₹100-crore multi-sport revolution that now produces Olympic medals. This shift from government funding to private investment has had a significant impact on India's sports ecosystem. The initiative has created a successful model for producing Olympic medal winners.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/sports/sports-insights/how-an-ex-bank-clerk-built-indias-olympic-medal-factory/4296037/"
-        },
-        {
-          "title": "Emergent Raises Series C at $1.5 Billion Valuation, Becomes Unicorn in a Year of Launch",
-          "summary": "Emergent, an AI software creation platform, has raised $130 million in Series C funding, valuing the company at $1.5 billion and making it a unicorn within a year of its launch. This funding round was led by Creaegis and included participation from prominent investors such as Khosla Ventures and SoftBank Vision Fund 2. The investment will likely support Emergent's growth and expansion plans.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/emergent-raises-series-c-at-1-5-billion-valuation-becomes-unicorn-in-a-year-of-launch/"
-        },
-        {
-          "title": "Selective funding slows startup creation in India",
-          "summary": "The number of startups founded in India has significantly decreased, with 314 startups established in the first half of 2026 compared to 3,222 in 2025. This decline is attributed to selective funding, which has slowed down startup creation in the country. The data highlights the challenges faced by the Indian startup ecosystem in terms of funding and growth.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/selective-funding-slows-startup-creation-in-india/articleshow/132469467.cms"
-        },
-        {
-          "title": "up Ecosystem Could Be an Indirect Winner",
-          "summary": "The upcoming IPOs of OpenAI, Anthropic, and SpaceX may have a positive impact on India's startup ecosystem, as successful AI listings could revive VC funding, improve exits, and boost deep-tech investment. This, in turn, could strengthen India's long-term AI ambitions and benefit the country's startup ecosystem. The IPOs are expected to reshape global venture capital flows and have a indirect effect on India's startup scene.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/deeptech/ai-ipo-wave-why-indias-start-up-ecosystem-could-be-an-indirect-winner"
-        },
-        {
-          "title": "IPO funding from WhiteOak Capital, 3P India, others",
-          "summary": "SBI Funds has raised ₹1,880 crore in pre-IPO funding from investors such as WhiteOak Capital and 3P India. The funding was raised through a private placement of equity shares at an issue price of ₹574 per share. This investment will likely support SBI Funds' growth plans and expansion strategies.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/sbi-funds-raises-rs-1880-crore-in-pre-ipo-funding-from-whiteoak-capital-3p-india-others/"
-        },
-        {
-          "title": "Aukera Raises Rs. 90 Cr in Fresh Funding",
-          "summary": "Aukera, a premium lab-grown diamond jewelry brand, has raised ₹90 crore in fresh funding from investors such as Alteria Capital and InnoVen Capital. This funding round comes less than a year after the company raised $15 million in equity funding. The investment will support Aukera's national expansion plans and strengthen its balance sheet as it competes in the growing lab-grown diamond market.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/aukera-raises-rs-90-cr-over-usd-10-mn-in-fresh-funding-less-than-a-year-after-usd-15-mn-round-as-it-accelerates-national-expansion/"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "India visa and passport services disrupted in Australia after Delhi High Court scraps government tender",
-          "summary": "The Delhi High Court has canceled a government tender for passport and visa services abroad due to a lack of fairness in the selection process, resulting in the suspension of these services in Australia. The government has appealed the decision to the Supreme Court. This disruption may affect Indians living in or traveling to Australia.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/wealth/save/india-visa-and-passport-services-disrupted-in-australia-after-delhi-high-court-scraps-government-tender/articleshow/132465998.cms"
-        },
-        {
-          "title": "Bill to hike number of SC judges to be introduced in Lok Sabha on Monday",
-          "summary": "A bill to increase the number of Supreme Court judges from 34 to 38, including the Chief Justice of India, is set to be introduced in the Lok Sabha. This move aims to replace an existing ordinance and is expected to enhance the judiciary's capacity. The Union Cabinet had previously cleared the bill in May.",
-          "source": "ThePrint",
-          "url": "https://theprint.in/india/bill-to-hike-number-of-sc-judges-to-be-introduced-in-lok-sabha-on-monday/2990734/"
-        },
-        {
-          "title": "The Government Must Make Life-Saving Medicines Affordable For The Common Man",
-          "summary": "The Supreme Court has taken up the issue of access to affordable life-saving medicines in India, highlighting the need for options like compulsory licensing and price controls. This comes after concerns over costly treatments, including the case of a breast cancer patient who died while awaiting a decision on an expensive drug. The goal is to make essential medicines more accessible to citizens.",
-          "source": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/analysis/the-government-must-make-life-saving-medicines-affordable-for-the-common-man"
-        },
-        {
-          "title": "Kerala govt directs hospitals to form medical boards for life support withdrawal in terminally ill patients after SC order",
-          "summary": "Following a Supreme Court directive, the Kerala government has instructed hospitals to establish medical boards to decide on withdrawing life support for terminally ill patients. These boards will comprise registered medical practitioners and will help make end-of-life care decisions, ensuring that patients receive appropriate palliative care.",
-          "source": "Malayala Manorama",
-          "url": "https://www.onmanorama.com/news/kerala/2026/07/19/kerala-hospitals-to-set-up-medical-boards-for-withdrawal-of-life-support-in-terminally-ill-patients.html"
-        },
-        {
-          "title": "'Every Life Is Precious': Delhi High Court Says Government's Decision To Shift Sonam Wangchuk Not Arbitrary",
-          "summary": "The Delhi High Court has upheld the government's decision to shift Sonam Wangchuk, stating that it was not arbitrary and no force was used. The court declined interim relief, emphasizing that every life is precious and must be protected. This decision may have implications for similar cases in the future.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/india/delhi-high-court-says-governments-decision-to-shift-sonam-wangchuk-not-arbitrary-every-life-is-precious-article-155132989"
         }
       ]
     }
