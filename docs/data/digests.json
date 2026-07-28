@@ -1,5 +1,139 @@
 [
   {
+    "generated_at": "2026-07-28T01:55:01.422982+00:00",
+    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The International Criminal Court is navigating a prosecutor dilemma, while UN Secretary-General Antonio Guterres' visit to Damascus signals a shift in international engagement towards Syria's reconstruction. Meanwhile, India is gearing up for a series of high-stakes diplomatic summits, including the SCO Summit and the Brics Summit, as it seeks to expand its global influence. On the economic front, the Indian rupee is expected to remain stable ahead of the RBI's Monetary Policy Committee meeting, supported by geopolitics and RBI actions, and the government's measures may lead to a surplus in India's balance of payments, easing pressure on the rupee.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "ICC's Prosecutor Dilemma: Navigating Diplomacy and Justice",
+          "summary": "The International Criminal Court is facing challenges in finding a new prosecutor after dismissing Karim Khan, with several countries withdrawing and the US exerting pressure. The court remains committed to justice despite these setbacks, functioning under interim leadership. This dilemma highlights the complexities of international justice and diplomacy.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/law-order/3955915-iccs-prosecutor-dilemma-navigating-diplomacy-and-justice"
+        },
+        {
+          "title": "How Guterres' Damascus Visit Could Reshape Syria's Recovery and International Relations",
+          "summary": "UN Secretary-General Antonio Guterres' visit to Damascus signals a shift in international engagement from humanitarian relief to Syria's long-term reconstruction and recovery. The success of this effort will depend on sustained global financing, governance reforms, and coordinated cooperation between Syria and international stakeholders. This visit could mark a new phase in Syria's recovery and international relations.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/other/3955642-how-guterres-damascus-visit-could-reshape-syrias-recovery-and-international-relations"
+        },
+        {
+          "title": "China exploiting rift among EU members to push exports: Report",
+          "summary": "China is reportedly exploiting the rift among EU members to push its exports, taking advantage of the divisions within the European Union. This move highlights China's strategic approach to expanding its economic influence in the face of strained relations with the EU. The report suggests that China is leveraging the EU's internal divisions to its advantage.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/china-exploiting-rift-among-eu-members-to-push-exports-report-1/"
+        },
+        {
+          "title": "After Mayor Mamdani's 'war criminal', ‘arrest’ remarks, Netanyahu says 'I will come to New York'",
+          "summary": "Israeli PM Benjamin Netanyahu has dismissed the International Criminal Court's war crimes charges against him as “bogus” and announced his plans to visit New York. This development highlights the ongoing tensions between Israel and the international community over issues of war crimes and accountability. Netanyahu's visit to New York is likely to be closely watched.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/after-mayor-zohran-mamdanis-war-criminal-arrest-remarks-netanyahu-says-i-will-come-to-new-york-101785126937229.html"
+        },
+        {
+          "title": "India gears up for month-long summit diplomacy: PM Modi to attend SCO meet, host Brics Summit & address UNGA",
+          "summary": "India is set to engage in a series of high-stakes diplomatic summits, with PM Modi attending the SCO Summit, hosting the Brics Summit, and addressing the UN General Assembly. These summits will focus on key issues such as terrorism, supply chains, and Global South opportunities. India is also seeking a non-permanent UN Security Council seat for 2028-29, making this a crucial period for Indian diplomacy.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/india-gears-up-for-month-long-summit-diplomacy-pm-modi-to-attend-sco-meet-host-brics-summit-address-unga/articleshow/132646443.cms"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Oil on edge, rupee steady: How geopolitics and RBI are lifting the currency ahead of Monetary policy committee meeting",
+          "summary": "The Indian rupee has been reacting to Middle East conflict and global crude oil prices, but analysts believe it will remain stable ahead of the RBI's Monetary Policy Committee meeting. Geopolitics and RBI's actions are expected to support the currency. This stability is crucial for India's economy, especially with the upcoming MPC meeting.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/oil-on-edge-rupee-steady-how-geopolitics-and-rbi-are-lifting-the-currency-ahead-of-monetary-policy-committee-meeting/articleshow/132660801.cms"
+        },
+        {
+          "title": "Gujarat unveils shipbuilding policy, eyes more than Rs 27,000 cr investment",
+          "summary": "The Gujarat government has launched a shipbuilding policy to develop the state into India's leading maritime manufacturing hub. The policy aims to attract over Rs 27,000 crore in investment through fiscal incentives, infrastructure development, and skill creation. This initiative is expected to boost the state's economy and create new opportunities.",
+          "source": "ThePrint",
+          "url": "https://theprint.in/india/gujarat-unveils-shipbuilding-policy-eyes-more-than-rs-27000-cr-investment/2997924/"
+        },
+        {
+          "title": "RBI, govt measures could turn India's balance of payments surplus, ease pressure on rupee: HDFC",
+          "summary": "Recent policy measures by the RBI and government may lead to a surplus in India's balance of payments, attracting significant capital inflows and strengthening the external position. These actions are expected to boost foreign currency deposits and make government securities more accessible to foreign investors, easing pressure on the rupee. This could have a positive impact on India's economy.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-govt-measures-could-turn-indias-balance-of-payments-surplus-ease-pressure-on-rupee-hdfc/articleshow/132622306.cms"
+        },
+        {
+          "title": "India concludes WTO Trade Policy Review; members seek clarifications on PLI, QCOs, trade policy measures",
+          "summary": "India has concluded its eighth Trade Policy Review at the World Trade Organization, with member countries seeking clarifications on issues such as production-linked incentive schemes and trade remedies. India defended its policies as being consistent with WTO rules and the needs of a developing economy. This review is an important step in ensuring India's trade policies align with global standards.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/india-concludes-wto-trade-policy-review-members-seek-clarifications-on-pli-qcos-trade-policy-measures/"
+        }
+      ],
+      "Business": [
+        {
+          "title": "India startup funding falls 44% WoW to $186 million amid slowdown in big",
+          "summary": "Indian startups raised $186.1 million in funding during the week of July 17-23, a 44% decrease from the previous week. This decline is attributed to a slowdown in late-stage investments. Despite this, early-stage funding saw a strong rebound.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-falls-44-wow-to-186-million-amid-slowdown-in-big-ticket-deals-19953624.htm"
+        },
+        {
+          "title": "Milky Mist IPO set for August launch, aiming to be India's largest dairy offering",
+          "summary": "Milky Mist Dairy Food is set to launch its initial public offering in August, aiming to be India's largest dairy IPO. The company has secured ₹482 crore in pre-IPO funding and is valued at approximately ₹9,300 crore. This IPO follows a significant pre-IPO funding round in May.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-ipo-set-for-august-launch-aiming-to-be-indias-largest-dairy-offering/articleshow/132594441.cms"
+        },
+        {
+          "title": "Environmental CSR in India: Rs. 17,000 Crore Deployed Over A Decade, But Climate",
+          "summary": "Corporate India has invested ₹17,377 crore in environmental sustainability and conservation initiatives over the past decade. However, the funding remains concentrated among a few companies and is not always aligned with the regions facing the greatest environmental challenges. This investment has grown steadily over the past decade.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/environmental-csr-in-india-rs-17000-crore-deployed-over-a-decade-but-climate-vulnerable-regions-remain-underfunded/"
+        },
+        {
+          "title": "Q1 bank credit flow surges 10x as market mop-up collapses",
+          "summary": "Bank credit has become the primary source of funding for the commercial sector in the first quarter, due to a sharp decline in capital market mobilization. This shift has led to a significant increase in bank credit flow. The collapse of market mop-up has pushed banks to the forefront of funding.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/q1-bank-credit-flow-surges-10x-as-market-mop-up-collapses/articleshow/132569873.cms"
+        },
+        {
+          "title": "MS Dhoni’s latest startup bet isn’t gaming or fintech. It’s rooftop solar",
+          "summary": "Mahendra Singh Dhoni has invested in SolarSquare, a rooftop solar company, as part of a $53 million funding round. Dhoni has also joined the company as a brand ambassador. This investment is expected to boost India's clean energy growth.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/business/news/ms-dhonis-latest-startup-bet-isnt-gaming-or-fintech-its-rooftop-solar/4298377/"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "AI Surveillance Sparks Legal Battle in India: Privacy vs. Security",
+          "summary": "A legal battle has begun in India over the use of AI-powered surveillance, with activists arguing that it violates constitutional rights to privacy. The case, brought by student activist Aishe Ghosh, challenges the government's use of mass surveillance technologies. The outcome could impact the government's powers regarding digital surveillance in India.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/law-order/3955967-ai-surveillance-sparks-legal-battle-in-india-privacy-vs-security"
+        },
+        {
+          "title": "Supreme Court reserves decision on Abu Salem plea for his release",
+          "summary": "The Supreme Court has reserved its decision on a plea by Abu Salem, who was extradited to India, for his release based on a sovereign assurance that he would not be sentenced to more than 25 years in jail. The court's decision will have implications for the government's assurances in extradition cases.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/supreme-court-reserves-decision-on-abu-salem-plea-for-his-release-101785156345202.html"
+        },
+        {
+          "title": "Evening news wrap: CJP warns of another protest; SC slams police action against students during NEET protest",
+          "summary": "The Supreme Court has stated that peaceful protest is a constitutional right and that police action against protesters must be justified. The court's statement comes after a protest by students against the NEET exam, where police action was questioned.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-cjp-warns-of-another-protest-sc-slams-police-action-against-students-during-neet-protest/articleshow/132661369.cms"
+        },
+        {
+          "title": "Setback for CM Vijay as Madras High Court Cancels TN Govt Jobs For Karur Stampede Victims",
+          "summary": "The Madras High Court has cancelled the Tamil Nadu government's decision to offer jobs to victims of the Karur stampede, citing irregularities in the decision-making process. The court's decision is a setback for the state government, led by Chief Minister Vijay.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/setback-for-tn-cm-vijay-as-madras-high-court-cancels-govt-jobs-for-karur-stampeded-victims-article-155187640"
+        },
+        {
+          "title": "Ahead of Diwali season: Central Pollution Control Board opposes 'green crackers' production over prohibited barium nitrate usage; SC to settle the dispute",
+          "summary": "The Central Pollution Control Board has opposed the production of 'green crackers' due to the use of barium nitrate, a chemical banned by the Supreme Court. The Supreme Court will now decide on the matter, which has implications for the production and sale of firecrackers in India.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/ahead-of-diwali-season-central-pollution-control-board-opposes-green-crackers-production-over-prohibited-barium-nitrate-usage-sc-to-settle-the-dispute/articleshow/132660506.cms"
+        },
+        {
+          "title": "SC rejects plea seeking direction to prevent cruelty to dogs in animal birth control centres",
+          "summary": "The Supreme Court has refused a plea seeking direction to the Animal Welfare Board of India to address cruelty to dogs in animal birth control centres and shelters. The court's decision means that the issue will not be taken up by the judiciary at this time.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/india/sc-rejects-plea-seeking-direction-to-prevent-cruelty-to-dogs-in-animal-birth-control-centres/"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-27T19:17:13.338464+00:00",
     "brief": "Today's brief highlights key developments across geopolitics, economy, business, and national affairs. Indian Prime Minister Narendra Modi is set to engage in a month of high-stakes diplomacy with key international summits, including the SCO Summit, Brics Summit, and the UN General Assembly, while the country's economy is expected to benefit from recent policy measures that could shift India's balance of payments to a surplus. Meanwhile, the Reserve Bank of India has warned of potential risks to India's economic stability, including the Iran war and an uneven monsoon, and the Indian startup funding landscape has seen a decline, with a 44% decrease in funding to $186 million.",
     "categories": {
@@ -3463,140 +3597,6 @@
           "summary": "The Supreme Court has expressed concern over the Bar Council of India granting recognition to law colleges operating from unconventional locations, such as garages. The court has criticized the council's stance on opposing the enrolment of a law graduate as a lawyer due to a pending criminal case. This development highlights the need for improved regulation and standards in legal education.",
           "source": "ThePrint",
           "url": "https://theprint.in/india/bci-granting-recognition-to-some-law-colleges-running-from-garages-matter-of-concern-says-sc/2991444/"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-21T02:01:11.942112+00:00",
-    "brief": "India's economy is facing significant challenges, with its crude oil import bill increasing by 77% to Rs 4.64 lakh crore in Q1 FY27 due to rising international prices amid geopolitical tensions, which could impact inflation dynamics. Meanwhile, the country's net FDI inflows are expected to reach $15 billion in FY27, driven by healthy gross inflows and moderating repatriation outflows, indicating a positive outlook for India's capital account. Additionally, India's diplomatic relations are expanding, with the Ministry of External Affairs stating that India-Moldova relations are set to enter a new era of closer engagement, highlighting the country's efforts to strengthen ties with European nations.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "War shock lifts India’s Q1 crude bill 77% to Rs 4.64 L-cr",
-          "summary": "India's crude oil import bill increased by 77% to Rs 4.64 lakh crore in Q1 FY27 due to rising international prices amid the West Asia conflict and geopolitical tensions. This rise occurred despite a 4.5% drop in oil volumes. The increase in the crude oil import bill is significant for India's economy.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/policy/economy/war-shock-lifts-indias-q1-crude-bill-77-to-rs-4-64-l-cr/4297405/"
-        },
-        {
-          "title": "Moldova relations poised to enter new era of closer engagement: MEA",
-          "summary": "The Ministry of External Affairs (MEA) has stated that India-Moldova relations are set to enter a new era of closer engagement. This development is significant for India's diplomatic relations with European countries. The MEA's statement indicates a potential strengthening of ties between India and Moldova.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/india-moldova-relations-poised-to-enter-new-era-of-closer-engagement-mea/"
-        },
-        {
-          "title": "Despite Trump-Xi agreement, China’s rare earth magnet exports to US remain 20% below pre-trade war levels",
-          "summary": "China's exports of rare-earth magnets to the US remain 20% below pre-trade war levels, despite an agreement between Trump and Xi. This indicates that the trade conflict between the US and China is still having a lasting impact on their trade relations. The rare-earth magnet exports are significant for the US technology industry.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/international-business/despite-trump-xi-agreement-chinas-rare-earth-magnet-exports-to-us-remain-20-below-pre-trade-war-levels/articleshow/132516728.cms"
-        },
-        {
-          "title": "Diplomatic Dance: Potential Meeting Between Rubio and Lavrov at ASEAN Summit",
-          "summary": "A potential meeting between US Secretary of State Marco Rubio and Russian Foreign Minister Sergei Lavrov may take place at the ASEAN summit in Manila. This meeting could be significant for international diplomacy between the US and Russia. The meeting would indicate continued efforts to maintain diplomatic relations between the two countries.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/politics/3952920-diplomatic-dance-potential-meeting-between-rubio-and-lavrov-at-asean-summit"
-        },
-        {
-          "title": "Relations with India rooted in shared values of freedom, dignity: Moldova's President",
-          "summary": "Moldova's President Maia Sandu has stated that relations with India are rooted in shared values of freedom and dignity. This statement highlights the significance of India-Moldova relations amid global instability. The president's statement indicates a strong foundation for the diplomatic ties between the two countries.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/relations-with-india-rooted-in-shared-values-of-freedom-dignity-moldovas-president/"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Climate change is causing structural shifts in India’s inflation dynamics-forecasting must adapt",
-          "summary": "Climate change is affecting India's inflation dynamics, and the country's inflation targeting framework needs to incorporate climate-driven price instability risks. This is necessary for effective monetary policy action, and other central banks are already taking steps in this direction. India's policymakers must adapt to these changes to manage inflation effectively.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/opinion/online-views/climate-change-structural-shifts-india-inflation-dynamics-forecasting-adapt-mpc-rbi-greenflation-11784542023742.html"
-        },
-        {
-          "title": "India's net FDI inflows likely to reach $15 bn in FY27",
-          "summary": "India's net foreign direct investment (FDI) inflows are expected to reach $15 billion in the fiscal year 2027, driven by healthy gross inflows and moderating repatriation outflows. This rebound is also supported by policy measures and a nuanced FDI framework, which are expected to boost foreign investment. The improvement in FDI inflows signals a positive outlook for India's capital account.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/finance/indias-net-fdi-inflows-likely-to-reach-15-bn-in-fy27/articleshow/132511895.cms"
-        },
-        {
-          "title": "India’s edible oil industry flags 17-fold surge in Nepal imports, seeks policy review",
-          "summary": "India's edible oil industry is facing a significant challenge due to a 17-fold surge in imports from Nepal, which has led to a decline in domestic refining operations. The industry is seeking a policy review to address this issue, as the current regulations are causing negative repercussions for local industries and fiscal health. The surge in imports is affecting the domestic edible oil industry's competitiveness.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-edible-oil-industry-flags-17-fold-surge-in-nepal-imports-seeks-policy-review/articleshow/132510957.cms"
-        },
-        {
-          "title": "RBI Governor flags Iran war, weak monsoon as the biggest risks to India’s inflation and economic growth",
-          "summary": "The Reserve Bank of India (RBI) Governor has identified the Iran war and a weak monsoon as the biggest risks to India's inflation and economic growth. The RBI is maintaining its policy rate, despite global peers making changes, and will monitor inflationary pressures before considering any adjustments. The Governor noted that India's economic fundamentals remain strong despite geopolitical uncertainties and growth forecasts.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/wealth/save/rbi-governor-flags-iran-war-weak-monsoon-as-the-biggest-risks-to-indias-inflation-and-economic-growth/articleshow/132466103.cms"
-        },
-        {
-          "title": "Deloitte Forecasts 6.5-6.8 pc GDP Expansion In Current Fiscal",
-          "summary": "Deloitte has forecast a GDP expansion of 6.5-6.8% in the current fiscal year, despite a more uncertain global environment. The forecast notes that recent geopolitical developments and central bank policy measures may help cushion some risks, but weather-related uncertainties, such as the impact of El Nino on agricultural output and food prices, remain a significant downside risk. The forecast highlights the need for policymakers to be vigilant about these risks.",
-          "source": "Deccan Chronicle",
-          "url": "https://www.deccanchronicle.com/business/economics/deloitte-forecasts-65-68-pc-gdp-expansion-in-current-fiscal-1972250"
-        },
-        {
-          "title": "Gujarat tops NITI Aayog's Investment Friendliness Index 2026",
-          "summary": "Gujarat has topped NITI Aayog's Investment Friendliness Index 2026, reflecting its investor-friendly business environment and policy stability. The state's efficient single-window system, world-class industrial infrastructure, and strong logistics have attracted significant investor confidence. The ranking highlights Gujarat's competitive advantage and robust economic fundamentals, which support sustained investment growth.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/indicators/gujarat-tops-niti-aayogs-investment-friendliness-index-2026/articleshow/132477319.cms"
-        }
-      ],
-      "Business": [
-        {
-          "title": "India Inc is returning to banks for money, but retail borrowers aren’t keeping pace",
-          "summary": "India's largest private banks are seeing a shift in credit demand, driven by corporate and SME lending, while retail borrowing remains slow. This trend is affecting banks' funding mix and margins. The stronger working capital demand and refinancing are boosting advances, but slower consumer credit growth is a concern.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/india-inc-is-returning-to-banks-for-money-but-retail-borrowers-arent-keeping-pace/articleshow/132508428.cms"
-        },
-        {
-          "title": "Selective funding slows startup creation in India",
-          "summary": "The number of startups founded in India has decreased significantly, with only 314 startups founded in the first half of 2026, compared to 3,222 in 2025. This decline is attributed to selective funding, which is slowing down startup creation in the country. The data highlights a significant drop in startup formation in India.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/selective-funding-slows-startup-creation-in-india/articleshow/132469467.cms"
-        },
-        {
-          "title": "Emergent Raises Series C at $1.5 Billion Valuation, Becomes Unicorn in a Year of Launch",
-          "summary": "Emergent, an AI software creation platform, has raised $130 million in Series C funding, valuing the company at $1.5 billion. This makes Emergent a unicorn in just a year of its launch. The funding round was led by Creaegis, with participation from several other investors.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/emergent-raises-series-c-at-1-5-billion-valuation-becomes-unicorn-in-a-year-of-launch/"
-        },
-        {
-          "title": "up Ecosystem Could Be an Indirect Winner",
-          "summary": "The upcoming IPOs of OpenAI, Anthropic, and SpaceX could have a positive impact on India's startup ecosystem. Successful AI listings may revive VC funding, improve exits, and boost deep-tech investment, ultimately strengthening India's AI ambitions. This could indirectly benefit India's startup ecosystem.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/deeptech/ai-ipo-wave-why-indias-start-up-ecosystem-could-be-an-indirect-winner"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Why the Supreme Court asked Odisha to decide Dara Singh's release plea",
-          "summary": "The Supreme Court has upheld the life sentence of Dara Singh, stating that violence against people due to their religion or caste has a dangerous effect on society. The court has asked Odisha to decide on his release plea, emphasizing the importance of maintaining secular and constitutional order. This decision highlights the court's stance on such sensitive issues.",
-          "source": "The New Indian Express",
-          "url": "https://www.newindianexpress.com/explainers/2026/Jul/20/why-the-supreme-court-asked-odisha-to-decide-dara-singhs-release-plea"
-        },
-        {
-          "title": "‘Govt ordered mobile internet shutdown till 6 pm around Jantar Mantar’",
-          "summary": "The government has ordered a mobile internet shutdown around Jantar Mantar, which has been criticized by the Internet Freedom Foundation for not making the suspension order public. This move raises concerns about internet freedom and the transparency of such orders. The Supreme Court's laws on internet shutdowns have been allegedly violated in this case.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/govt-ordered-mobile-internet-shutdown-till-6-pm-around-jantar-mantar-101784553569975.html"
-        },
-        {
-          "title": "BCI granting recognition to some law colleges running from garages matter of concern, says SC",
-          "summary": "The Supreme Court has expressed concern over the Bar Council of India granting recognition to law colleges operating from inappropriate locations, such as garages. The court criticized the council's stance on opposing the enrollment of a law graduate as a lawyer due to a pending criminal case. This issue highlights the need for improved regulation and standards in legal education.",
-          "source": "ThePrint",
-          "url": "https://theprint.in/india/bci-granting-recognition-to-some-law-colleges-running-from-garages-matter-of-concern-says-sc/2991444/"
-        },
-        {
-          "title": "‘Don’t play politics’: SC says SIT can oversee Ram Temple donation probe",
-          "summary": "The Supreme Court has stated that a Special Investigation Team (SIT) can oversee the probe into the alleged embezzlement of donations at the Ram temple in Ayodhya. The court cautioned against politicizing the issue, emphasizing the need for a thorough investigation. This decision aims to ensure a fair and impartial inquiry into the matter.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/dont-play-politics-sc-says-sit-can-oversee-ram-temple-donation-probe-101784546308259.html"
-        },
-        {
-          "title": "Supreme Court to direct CBSE to implement APAAR consent form changes across India",
-          "summary": "The Supreme Court will direct the CBSE to implement changes to the APAAR ID consent form, allowing parents to refuse consent or opt out. This decision prioritizes consent and data privacy, following an Orissa High Court ruling. The move aims to safeguard students' personal information and provide parents with more control over their data.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/services/education/supreme-court-to-direct-cbse-to-implement-apaar-consent-form-changes-across-india/articleshow/132513045.cms"
         }
       ]
     }
