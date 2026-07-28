@@ -1,5 +1,127 @@
 [
   {
+    "generated_at": "2026-07-28T19:13:33.798611+00:00",
+    "brief": "The global balance of power is shifting with the US signing agreements to boost missile production, while India is exploring new defense capabilities, including launching missiles from cargo planes. Meanwhile, diplomatic efforts are underway, with India and Hungary reaffirming their friendly relations and the UN Secretary-General visiting Damascus to discuss Syria's reconstruction and recovery. In economic news, India's growth story continues, with Assam emerging as the fastest-growing state economy and Gujarat unveiling a shipbuilding policy to attract over Rs 27,000 crore in investment, as the country seeks to simplify foreign investment rules to encourage sustained FDI.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "US strikes deals to boost missile output",
+          "summary": "The US Department of War has signed agreements with L3Harris and Lockheed to boost missile production, indicating a significant increase in the country's defense capabilities. This move is likely to impact the global balance of power and have implications for international relations. The agreements are part of a seven-year framework to enhance the US military's missile output.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/us-strikes-deals-to-boost-missile-output/"
+        },
+        {
+          "title": "In 1859, when an American farmer shot a pig for eating from his potato patch, United States and Britain were on the brink of war",
+          "summary": "A historical incident known as the Pig War in 1859 brought the United States and Britain to the brink of war over a territorial dispute. The conflict was eventually resolved peacefully through diplomacy and international arbitration, with the islands being awarded to the United States in 1872. This incident highlights the importance of diplomacy in preventing wars over territorial disputes.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/us-uk-war-in-1859-when-an-american-farmer-shot-a-pig-for-eating-from-his-potato-patch-united-states-and-britain-were-on-the-brink-of-war-with-soldiers-warships-preparing-for-conflict/articleshow/132670115.cms"
+        },
+        {
+          "title": "Hungary reaffirm warm and friendly relations",
+          "summary": "India and Hungary have reaffirmed their warm and friendly relations, with the Indian Ambassador to Hungary and the Hungarian Parliamentary State Secretary meeting to discuss bilateral ties. The meeting highlights the strong diplomatic relations between the two countries and their commitment to cooperation. This friendship is significant for both countries in terms of trade, culture, and international relations.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/india-hungary-reaffirm-warm-and-friendly-relations/"
+        },
+        {
+          "title": "ICC's Prosecutor Dilemma: Navigating Diplomacy and Justice",
+          "summary": "The International Criminal Court is facing challenges in finding a new prosecutor after dismissing Karim Khan, with several countries withdrawing and the US exerting pressure. The election process is underway, but it is fraught with difficulties, and the court is functioning under interim leadership. The ICC's ability to navigate diplomacy and justice is crucial for its effectiveness in holding individuals accountable for international crimes.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/law-order/3955915-iccs-prosecutor-dilemma-navigating-diplomacy-and-justice"
+        },
+        {
+          "title": "Missiles from cargo planes: The new strike idea that could interest India",
+          "summary": "A new concept of launching missiles from cargo planes is emerging as a potential game-changer in modern warfare, offering a high-intensity conflict capability. This technology could be of interest to India, given its geopolitical context and defense requirements. The development of such capabilities could significantly impact the balance of power in international relations.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/missiles-from-cargo-planes-the-new-strike-idea-that-could-interest-india/articleshow/132659747.cms"
+        },
+        {
+          "title": "How Guterres' Damascus Visit Could Reshape Syria's Recovery and International Relations",
+          "summary": "UN Secretary-General Antonio Guterres' visit to Damascus marks a shift in international engagement from humanitarian relief to Syria's long-term reconstruction and recovery. The success of this effort will depend on sustained global financing, governance reforms, and coordinated cooperation between Syria and international stakeholders. This development could have significant implications for Syria's future and the broader Middle East region.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/other/3955642-how-guterres-damascus-visit-could-reshape-syrias-recovery-and-international-relations"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Simpler rules can ease flows, but sustained FDI needs policy certainty",
+          "summary": "The Reserve Bank of India's proposed overhaul of foreign investment rules aims to simplify regulations and improve clarity for investors, which can encourage sustained foreign direct investment in India's growing economy. This move is expected to reduce ambiguities and make it easier for investors to put their money into India. The goal is to attract more foreign investment by making the process more straightforward.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/opinion/simpler-rules-can-ease-flows-but-sustained-fdi-needs-policy-certainty/4304074/"
+        },
+        {
+          "title": "Assam Leads India In Economic Growth Over 5 Years, Declares Bimal Borah In The Assembly",
+          "summary": "Assam has emerged as India's fastest-growing state economy over the past five years, with its GSDP at constant prices growing 45% between FY20 and FY25. This growth is attributed to infrastructure upgrades, policy reforms, and major investments. The state's economic transformation is a significant development in India's economic landscape.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/india/assam-leads-india-in-economic-growth-over-5-years-declares-bimal-borah-in-the-assembly"
+        },
+        {
+          "title": "Oil on edge, rupee steady: How geopolitics and RBI are lifting the currency ahead of Monetary policy committee meeting",
+          "summary": "The Indian rupee has been reacting to geopolitical tensions in the Middle East and fluctuations in global crude oil prices. However, analysts believe that the currency will remain stable ahead of the Reserve Bank of India's Monetary Policy Committee meeting. The RBI's actions and geopolitical developments are expected to influence the rupee's value.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/oil-on-edge-rupee-steady-how-geopolitics-and-rbi-are-lifting-the-currency-ahead-of-monetary-policy-committee-meeting/articleshow/132660801.cms"
+        },
+        {
+          "title": "Gujarat unveils shipbuilding policy, eyes more than Rs 27,000 cr investment",
+          "summary": "The Gujarat government has launched a shipbuilding policy aimed at developing the state into India's leading maritime manufacturing hub. The policy includes fiscal incentives, infrastructure development, and skill creation, and aims to attract over Rs 27,000 crore in investment. This initiative is expected to boost the state's economy and create new opportunities.",
+          "source": "ThePrint",
+          "url": "https://theprint.in/india/gujarat-unveils-shipbuilding-policy-eyes-more-than-rs-27000-cr-investment/2997924/"
+        }
+      ],
+      "Business": [
+        {
+          "title": "India startup funding falls 44% WoW to $186 million amid slowdown in big",
+          "summary": "Indian startups raised $186.1 million in funding during the week of July 17-23, a 44% decrease from the previous week. This decline is attributed to a slowdown in late-stage investments. Despite this, early-stage funding saw a strong rebound.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-falls-44-wow-to-186-million-amid-slowdown-in-big-ticket-deals-19953624.htm"
+        },
+        {
+          "title": "Milky Mist IPO set for August launch, aiming to be India's largest dairy offering",
+          "summary": "Milky Mist Dairy Food is set to launch its initial public offering in August, aiming to be India's largest dairy IPO. The company has secured ₹482 crore in pre-IPO funding and is valued at approximately ₹9,300 crore. This IPO follows a significant pre-IPO funding round in May.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-ipo-set-for-august-launch-aiming-to-be-indias-largest-dairy-offering/articleshow/132594441.cms"
+        },
+        {
+          "title": "Environmental CSR in India: Rs. 17,000 Crore Deployed Over A Decade, But Climate",
+          "summary": "Corporate India has invested Rs. 17,377 crore in environmental sustainability and conservation initiatives over the past decade. However, the funding remains concentrated among a few companies and is not always aligned with the regions facing the greatest environmental challenges. This highlights the need for more targeted environmental CSR efforts.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/environmental-csr-in-india-rs-17000-crore-deployed-over-a-decade-but-climate-vulnerable-regions-remain-underfunded/"
+        },
+        {
+          "title": "Q1 bank credit flow surges 10x as market mop-up collapses",
+          "summary": "Bank credit has become the primary source of funding for the commercial sector in the first quarter, following a sharp decline in capital market mobilization. This shift highlights the changing dynamics of the funding landscape in India. As a result, bank credit has surged significantly, with a 10x increase in flow.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/q1-bank-credit-flow-surges-10x-as-market-mop-up-collapses/articleshow/132569873.cms"
+        },
+        {
+          "title": "MS Dhoni’s latest startup bet isn’t gaming or fintech. It’s rooftop solar",
+          "summary": "Mahendra Singh Dhoni has invested in SolarSquare, a rooftop solar company, and will also serve as its brand ambassador. This investment is part of a $53 million funding round, which aims to boost India's clean energy growth. The move highlights the growing interest in renewable energy and sustainable solutions in India.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/business/news/ms-dhonis-latest-startup-bet-isnt-gaming-or-fintech-its-rooftop-solar/4298377/"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Supreme Court says student protest violence warrants independent probe, calls agitations part of democracy",
+          "summary": "The Supreme Court has called for an independent probe into allegations of police violence during student protests, emphasizing that agitations are a part of democracy. The court is examining claims of grievous injuries and assaults on women, advocates, and media personnel. This move highlights the importance of protecting the rights of protesters and ensuring accountability for any excesses committed by the authorities.",
+          "source": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/india/supreme-court-says-student-protest-violence-warrants-independent-probe-calls-agitations-part-of-democracy-13985473.html"
+        },
+        {
+          "title": "'Enormous issues in enforcing anti-defection law are making of Parliament members': Supreme Court",
+          "summary": "The Supreme Court has noted that there are significant challenges in enforcing the anti-defection law, which is meant to prevent political defections. The court has directed that a petition related to this issue be tagged with a pending challenge concerning political defections in Goa. This development highlights the complexities of India's anti-defection law and its implementation.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/enormous-issues-in-enforcing-anti-defection-law-are-making-of-parliament-members-supreme-court-101785201786207.html"
+        },
+        {
+          "title": "HC refuses to halt probe on fake certificate row",
+          "summary": "The Karnataka High Court has refused to halt a criminal investigation into a fake certificate row involving the daughter of a suspended former Karnataka Public Service Commission chairman. The petitioner had withdrawn her plea after the court questioned the legitimacy of an income certificate allegedly used to claim reservation benefits. This case highlights the importance of verifying documents and preventing fraud in government recruitment processes.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/hc-refuses-to-halt-probe-on-fake-certificate-row-101785179927633.html"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-28T13:48:10.738643+00:00",
     "brief": "The global landscape is witnessing significant developments, with the US boosting its missile production capabilities through deals with L3Harris and Lockheed, which may impact the global balance of power. Meanwhile, India is experiencing economic growth, with Assam emerging as the fastest-growing state economy over the past five years, and Gujarat unveiling a shipbuilding policy to attract over Rs 27,000 crore in investment. Additionally, the Indian rupee is reacting to geopolitical tensions and fluctuations in global crude oil prices, with the RBI's actions and oil prices expected to influence the currency's movement, while the startup funding in India has fallen 44% week-over-week to $186 million, amid a slowdown in late-stage investments.",
     "categories": {
@@ -3451,152 +3573,6 @@
           "summary": "Section 163 of the BNSS has gained attention due to the police crackdown on a recent protest march, highlighting the emergency provision and its use in regulating public protests. The Supreme Court has made rulings on this provision, emphasizing the right to protest in India while also acknowledging the need for regulation. This development is significant for understanding the balance between the right to protest and maintaining public order.",
           "source": "Outlook India",
           "url": "https://www.outlookindia.com/national/explained-section-163-of-bnss-means-and-the-right-to-protest-in-india"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-21T19:08:38.030740+00:00",
-    "brief": "Today's brief highlights the interconnectedness of global events and their impact on India's economy and politics. The ongoing Middle East crisis has led to increased diplomatic tensions in Southeast Asia and a surge in India's crude oil import bill, which has significant implications for the country's economy and trade. Meanwhile, the RBI is navigating the challenges of the global energy shock and the AI boom, adopting a wait-and-see approach to monetary policy decisions. As India's banking sector eyes sustainable growth, driven by strong asset quality and healthy credit growth, the country's startup ecosystem is also poised for a potential boost from the upcoming IPOs of AI companies, which could revive VC funding and strengthen India's long-term AI ambitions.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Diplomatic Tensions Rise in Southeast Asia Amid Middle East Crisis",
-          "summary": "The Middle East crisis has led to increased diplomatic tensions in Southeast Asia, with ASEAN foreign ministers expressing concerns about renewed hostilities and its impact on global energy supplies and inflation. This situation affects international relations and regional stability, particularly in the South China Sea. The crisis has significant implications for global politics and trade.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/politics/3953319-diplomatic-tensions-rise-in-southeast-asia-amid-middle-east-crisis"
-        },
-        {
-          "title": "War shock lifts India’s Q1 crude bill 77% to Rs 4.64 L-cr",
-          "summary": "India's crude oil import bill has increased by 77% in the first quarter of FY27 due to rising international prices amid the West Asia conflict and geopolitical tensions. Despite a 4.5% drop in volumes, the import bill soared by ₹2.02 lakh crore. This surge has significant implications for India's economy and trade.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/policy/economy/war-shock-lifts-indias-q1-crude-bill-77-to-rs-4-64-l-cr/4297405/"
-        },
-        {
-          "title": "Ontario Wildfires Ignite International Tensions",
-          "summary": "Wildfires in Ontario have strained Canada-U.S. relations, with the U.S. President criticizing Canada's response and the Canadian Premier defending their actions. The situation has highlighted the climate crisis and its impact on international relations, with poor air quality affecting both countries. This incident demonstrates how environmental issues can become geopolitical concerns.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/science-environment/3953044-ontario-wildfires-ignite-international-tensions"
-        },
-        {
-          "title": "Moldova relations poised to enter new era of closer engagement: MEA",
-          "summary": "The Indian Ministry of External Affairs has stated that India-Moldova relations are poised to enter a new era of closer engagement. This development indicates a strengthening of diplomatic ties between the two countries, with potential implications for trade, culture, and regional cooperation. The move reflects India's efforts to expand its global partnerships.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/india-moldova-relations-poised-to-enter-new-era-of-closer-engagement-mea/"
-        },
-        {
-          "title": "Despite Trump-Xi agreement, China’s rare earth magnet exports to US remain 20% below pre-trade war levels",
-          "summary": "China's exports of rare-earth magnets to the US remain significantly below pre-trade war levels, despite an agreement between Trump and Xi. This indicates that the trade conflict has had a lasting impact on the trade relationship between the two countries, with implications for the global supply chain and technology industries. The situation reflects the complexities of international trade and diplomacy.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/international-business/despite-trump-xi-agreement-chinas-rare-earth-magnet-exports-to-us-remain-20-below-pre-trade-war-levels/articleshow/132516728.cms"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Energy shock vs AI boom: RBI should act as and when external shocks push domestic data in a direction, not until then",
-          "summary": "The RBI's monetary policy must navigate between the global energy shock and AI boom, adopting a wait-and-see approach to policy decisions. The energy shock is driven by conflict, impacting oil prices and shipping routes, while the AI boom supports growth, particularly in the US. India's monetary policy will likely be influenced by these conflicting external conditions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/opinion/et-commentary/energy-shock-vs-ai-boom-rbi-should-act-as-and-when-external-shocks-push-domestic-data-in-a-direction-not-until-then/articleshow/132522377.cms"
-        },
-        {
-          "title": "Kerala hikes rubber support price by ₹50/kg to ₹250",
-          "summary": "The Kerala government has increased the rubber support price by ₹50/kg to ₹250 to alleviate financial pressure on rubber farmers. This move aims to help farmers cope with higher production costs. The price hike is part of the state's efforts to support the agricultural sector.",
-          "source": "Malayala Manorama",
-          "url": "https://www.onmanorama.com/news/kerala/2026/07/20/kerala-hikes-rubber-support-price-by-rs-50-per-kg.html"
-        },
-        {
-          "title": "Climate change is causing structural shifts in India’s inflation dynamics-forecasting must adapt",
-          "summary": "Climate change is leading to more frequent supply shocks, affecting India's inflation dynamics. The country's inflation targeting framework needs to incorporate climate-driven price instability risks for effective monetary policy action. Other central banks are already taking steps to address this issue.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/opinion/online-views/climate-change-structural-shifts-india-inflation-dynamics-forecasting-adapt-mpc-rbi-greenflation-11784542023742.html"
-        },
-        {
-          "title": "India's net FDI inflows likely to reach $15 bn in FY27",
-          "summary": "India's net FDI inflows are expected to rebound to $15 billion in fiscal year 2027, driven by healthy gross inflows and moderating repatriation outflows. Policy measures and a nuanced FDI framework are expected to boost foreign investment, signaling a positive outlook for India's capital account.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/finance/indias-net-fdi-inflows-likely-to-reach-15-bn-in-fy27/articleshow/132511895.cms"
-        },
-        {
-          "title": "India’s edible oil industry flags 17-fold surge in Nepal imports, seeks policy review",
-          "summary": "The Indian edible oil industry is seeking a policy review due to a 17-fold surge in duty-free refined oil imports from Nepal. This surge has led to significant refining operations moving beyond India's borders, negatively impacting local industries and fiscal health.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-edible-oil-industry-flags-17-fold-surge-in-nepal-imports-seeks-policy-review/articleshow/132510957.cms"
-        },
-        {
-          "title": "RBI Governor flags Iran war, weak monsoon as the biggest risks to India’s inflation and economic growth",
-          "summary": "The RBI Governor has identified the Iran war and a weak monsoon as the biggest risks to India's inflation and economic growth. Despite these risks, India's economic fundamentals remain strong, and policymakers will monitor inflationary pressures before considering any monetary policy adjustments.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/wealth/save/rbi-governor-flags-iran-war-weak-monsoon-as-the-biggest-risks-to-indias-inflation-and-economic-growth/articleshow/132466103.cms"
-        }
-      ],
-      "Business": [
-        {
-          "title": "India's Banking Sector Eyes Sustainable Growth as Retail Lending and Capex Shape FY27 Outlook",
-          "summary": "India's banking sector is poised for sustained earnings in FY27, driven by strong asset quality, stable funding costs, and healthy credit growth. The sector's performance will depend on balanced retail lending, corporate capex, and regulatory oversight. This growth is expected to position banks for long-term stability and profitability.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/other/3952828-indias-banking-sector-eyes-sustainable-growth-as-retail-lending-and-capex-shape-fy27-outlook"
-        },
-        {
-          "title": "India Inc is returning to banks for money, but retail borrowers aren’t keeping pace",
-          "summary": "India's largest private banks are seeing a shift in credit demand, with corporate and SME lending driving loan growth, while retail borrowing remains slow. This shift is driven by stronger working capital demand, refinancing, and business banking, but slower consumer credit growth is weighing on banks' funding mix and margins. As a result, banks are experiencing a mix of growth and challenges in their lending portfolios.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/india-inc-is-returning-to-banks-for-money-but-retail-borrowers-arent-keeping-pace/articleshow/132508428.cms"
-        },
-        {
-          "title": "Selective funding slows startup creation in India",
-          "summary": "The number of startups founded in India has decreased significantly, with 314 startups founded in the first half of 2026, compared to 3,222 in 2025. This decline is attributed to selective funding, which is impacting the creation of new startups in the country. The data highlights a slowdown in startup activity in India.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/selective-funding-slows-startup-creation-in-india/articleshow/132469467.cms"
-        },
-        {
-          "title": "up Ecosystem Could Be an Indirect Winner",
-          "summary": "The upcoming IPOs of OpenAI, Anthropic, and SpaceX could have a positive impact on India's startup ecosystem. Successful AI listings may revive VC funding, improve exits, and boost deep-tech investment, ultimately strengthening India's long-term AI ambitions. This could lead to increased investment and growth opportunities for Indian startups.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/deeptech/ai-ipo-wave-why-indias-start-up-ecosystem-could-be-an-indirect-winner"
-        },
-        {
-          "title": "Emergent Raises Series C at $1.5 Billion Valuation, Becomes Unicorn in a Year of Launch",
-          "summary": "Emergent, an AI software creation platform, has raised $130 million in Series C funding, valuing the company at $1.5 billion. This milestone makes Emergent a unicorn in just a year of its launch, demonstrating the company's rapid growth and potential in the AI software market. The funding will likely support the company's continued expansion and development.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/emergent-raises-series-c-at-1-5-billion-valuation-becomes-unicorn-in-a-year-of-launch/"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Right to protest in India: What the Constitution, laws and Supreme Court say",
-          "summary": "The right to protest in India has been a recurring question, with the Constitution, laws, and Supreme Court judgments providing guidelines on the legal limits of protests. The issue has been highlighted by recent clashes between protesters and police. The Supreme Court has ruled on the matter, emphasizing the need for balance between the right to protest and maintaining public order.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/politics/news/cjp-farmers-protest-right-to-protest-in-india-what-the-constitution-laws-and-supreme-court-say-dlehi-police-sonam-11784609328724.html"
-        },
-        {
-          "title": "India's Lok Sabha Faces a Packed Legislative Agenda Amidst Growing Opposition Demands",
-          "summary": "The Lok Sabha is set to discuss several key bills and resolutions, including the Supreme Court (Number of Judges) Amendment Bill, 2026. The opposition is demanding discussions on educational issues and corruption allegations, promising a heated parliamentary session. The legislative agenda is packed, with several important matters to be deliberated upon.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/politics/3953232-indias-lok-sabha-faces-a-packed-legislative-agenda-amidst-growing-opposition-demands"
-        },
-        {
-          "title": "Plea moved in SC over HC refusal to probe Adani green contracts",
-          "summary": "A petition has been filed in the Supreme Court challenging the Bombay High Court's refusal to probe the procurement of energy contracts by Adani Green Energy Limited. The petition alleges that the contracts were procured using unlawful means. The Supreme Court will hear the petition and decide on the matter.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/plea-moved-in-sc-over-hc-refusal-to-probe-adani-green-contracts-101784574823038.html"
-        },
-        {
-          "title": "Supreme Court upholds removal of commercial activity from elephant corridor",
-          "summary": "The Supreme Court has upheld the removal of commercial activity from the Segur Plateau Elephant Corridor, which was declared by the Tamil Nadu government in 2011. The court's decision aims to protect the elephant habitat and prevent human-wildlife conflict. The ruling is significant for conservation efforts in the region.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/supreme-court-upholds-removal-of-commercial-activity-from-elephant-corridor-101784597980450.html"
-        },
-        {
-          "title": "No let-up even after strict punishment for rape: Supreme Court",
-          "summary": "The Supreme Court has expressed concern that despite stringent punishment for rape and gangrape, there has been no decrease in the number of incidents. The court's observation highlights the need for more effective measures to prevent such crimes and ensure justice for victims. The issue is a major concern for women's safety in India.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/no-let-up-even-after-strict-punishment-for-rape-supreme-court/articleshow/132526365.cms"
-        },
-        {
-          "title": "Supreme Court orders new SIT into Ram temple donation theft, will monitor probe",
-          "summary": "The Supreme Court has taken over the investigation into the theft of donations meant for the Ram temple in Ayodhya, ordering a new Special Investigation Team (SIT) to probe the matter. The court will monitor the investigation, which was previously being handled by local police. The move aims to ensure a fair and transparent investigation into the embezzlement scam.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/supreme-court-orders-new-sit-into-ram-temple-donation-theft-will-monitor-probe/articleshow/132526201.cms"
         }
       ]
     }
