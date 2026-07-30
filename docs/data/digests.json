@@ -1,5 +1,115 @@
 [
   {
+    "generated_at": "2026-07-30T08:12:20.130899+00:00",
+    "brief": "Tensions in the Middle East continue to escalate, with the US-Iran conflict leading to a surge in oil prices and posing a risk to global energy markets, a concern that India has also voiced, calling for de-escalation in the region. Meanwhile, India's economic growth remains resilient despite global uncertainties, although the country still faces risks from crude oil prices and inflation. In other developments, the Indian equity market has seen strong gains, with the Sensex and Nifty rising over 1%, and the country's space sector has marked a significant milestone with the emergence of a unicorn and an orbital launcher, highlighting the potential of India's private space sector.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "US-Iran War Live: Missile strike hits residential area on Iran's Qeshm island, state media reports",
+          "summary": "The US and Iran are engaged in a conflict, with Iran launching missiles towards American forces in the Middle East and the US responding with sanctions and joint strikes with Saudi Arabia on Iran-backed forces in Iraq. The conflict has led to a significant increase in oil prices and has the potential to disrupt global energy markets. The situation is being closely monitored by countries around the world, including India, which has called for de-escalation in the region.",
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/world/story/us-iran-war-news-live-updates-trump-iran-talks-us-soldiers-attack-tehran-hormuz-blockade-jordan-bahrain-oil-prices-latest-news-2959395-2026-07-30"
+        },
+        {
+          "title": "Japan renews ₹14 crore scholarship programme for Indian government officials for third consecutive year",
+          "summary": "Japan has renewed a scholarship program for Indian government officials, which will allow them to pursue master's degrees in public policy and engineering at Japanese institutions. The program aims to enhance India's governance capabilities and strengthen international relations between the two countries. The scholarship will support India's developmental strategies and policy initiatives.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/jica-renews-jds-scholarship-for-indian-government-officials-for-third-consecutive-year/articleshow/132711799.cms"
+        },
+        {
+          "title": "India urges de-escalation as Hormuz attacks threaten trade and seafarers",
+          "summary": "India has called for immediate de-escalation in West Asia, condemning attacks on vessels in the Strait of Hormuz. The country has emphasized the importance of secure sea lanes, the protection of Indian lives, and regional stability, and has urged diplomacy and respect for international law to resolve the conflict. The situation in the Strait of Hormuz has significant implications for global trade and energy markets.",
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/world/story/india-un-security-council-strait-of-hormuz-attacks-west-asia-de-escalation-call-ptag-2958697-2026-07-29"
+        },
+        {
+          "title": "Trump Hails Positive Meetings with Zelenskiy and Netanyahu",
+          "summary": "US President Donald Trump has held meetings with Ukrainian President Volodymyr Zelenskiy and Israeli Prime Minister Benjamin Netanyahu, describing the discussions as positive. The meetings likely focused on geopolitical alliances, security concerns, and international relations, although specific details were not disclosed. The meetings are significant for understanding the current state of international relations and alliances.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3956563-trump-hails-positive-meetings-with-zelenskiy-and-netanyahu"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "India growth resilient amid global uncertainty, but crude risks linger",
+          "summary": "India's economic growth remains resilient despite global uncertainties, supported by strong domestic demand. However, the country faces risks from crude oil prices and inflation. Swift policy responses and reforms are crucial for investor confidence and stability.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/india-growth-resilient-amid-global-uncertainty-but-crude-risks-linger/articleshow/132720476.cms"
+        },
+        {
+          "title": "The world is getting riskier. Here's what the Finance Ministry says India should prepare for",
+          "summary": "The Finance Ministry warns that higher oil prices, Gulf tensions, and other global factors could pose risks to India's economy. The ministry argues that faster policy implementation will be key to boosting resilience and attracting investment. India needs to prepare for these potential risks to maintain its economic growth.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/economy/the-world-is-getting-riskier-heres-what-the-finance-ministry-says-india-should-prepare-for-19957039.htm"
+        },
+        {
+          "title": "India bonds tiptoe along ahead of Fed meet; oil prices weigh",
+          "summary": "Indian government bonds are trading cautiously ahead of the US Federal Reserve's interest rate decision, with oil prices and global economic concerns affecting investor sentiment. The Reserve Bank of India's policy decision is due next week, with interest rates expected to remain unchanged. India's economic growth is expected to slow due to oil price surges and inflation.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-tiptoe-along-ahead-of-fed-meet-oil-prices-weigh/articleshow/132703905.cms"
+        },
+        {
+          "title": "Barclays sees RBI holding rates in Aug policy as FCNR(B) inflows ease rupee concerns",
+          "summary": "Barclays expects the Reserve Bank of India to maintain current interest rates in its upcoming monetary policy meeting, as foreign capital inflows have eased concerns about the rupee's performance. However, sustained inflation levels and geopolitical factors may necessitate a cautious approach, with close attention to inflation metrics and oil price fluctuations.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/barclays-sees-rbi-holding-rates-in-aug-policy-as-fcnrb-inflows-ease-rupee-concerns/articleshow/132683939.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "India's CSR map is still not its climate map",
+          "summary": "India's corporate social responsibility investments have a disparity in funding across regions, and there is an urgent need for targeted approaches to address climate vulnerability. The current CSR map does not align with the country's climate map, indicating a need for more focused environmental initiatives. This disparity highlights the importance of aligning CSR efforts with climate goals.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/toi-blogs/planet-watch/indias-csr-map-is-still-not-its-climate-map/articleshow/132713100.cms"
+        },
+        {
+          "title": "Market Wrap: Sensex and Nifty Close Over 1% Higher as Engineering Services Lead Sectoral Gains",
+          "summary": "The Indian equity market closed with strong gains, with the Sensex and Nifty rising over 1%. The Engineering Services sector led the gains, followed by Cables and Services, while Media Entertainment faced a decline. This market trend indicates a positive outlook for certain sectors in the Indian economy.",
+          "source": "scanx.trade",
+          "url": "https://scanx.trade/stock-market-news/markets/market-wrap-sensex-and-nifty-close-over-1-higher-as-engineering-services-lead-sectoral-gains/46864889"
+        },
+        {
+          "title": "Six years after privatising space, India has a unicorn, orbital launcher and $871 million in startup funding",
+          "summary": "India's space sector has seen significant growth since its privatization in 2020, with the emergence of a unicorn and an orbital launcher. Skyroot Aerospace's Vikram-1 launch marks a major milestone, and the company plans to begin commercial launch operations after another test flight. This development highlights the potential of India's private space sector.",
+          "source": "The New Indian Express",
+          "url": "https://www.newindianexpress.com/business/2026/Jul/28/six-years-after-privatising-space-india-has-a-unicorn-orbital-launcher-and-871-million-in-startup-funding"
+        },
+        {
+          "title": "India startup funding falls 44% WoW to $186 million amid slowdown in big",
+          "summary": "Indian startups raised $186 million in funding during the week of July 17-23, a 44% decline from the previous week. The slowdown in late-stage investments outweighed a rebound in early-stage funding, indicating a potential shift in the startup funding landscape. This decline may have implications for the growth and development of Indian startups.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-falls-44-wow-to-186-million-amid-slowdown-in-big-ticket-deals-19953624.htm"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "SC rejects J&K plea challenging quashing of FIR against Olympic judge Bilquis Mir",
+          "summary": "The Supreme Court has dismissed a petition by the Jammu and Kashmir administration challenging the quashing of an FIR against Bilquis Mir, a judge for kayaking and canoeing at the 2024 Paris Olympics. This decision is significant as it upholds the lower court's order quashing the FIR. The case is related to a corruption allegation against Mir.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/j-k/sc-rejects-jk-plea-challenging-quashing-of-fir-against-olympic-judge-bilquis-mir/"
+        },
+        {
+          "title": "Sonam Raghuvanshi Surrenders After Supreme Court Cancels Bail in Honeymoon Murder Case",
+          "summary": "The Supreme Court has revoked the bail of Sonam Raghuvanshi, who is accused of murdering her husband during their honeymoon in 2025. Following the court's decision, Raghuvanshi surrendered to a Meghalaya trial court. The case is a high-profile one, with the Supreme Court intervening to cancel her bail.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/sonam-raghuvanshi-surrenders-after-supreme-court-cancels-bail-in-honeymoon-murder-case-article-155214441"
+        },
+        {
+          "title": "Rahul Gandhi demands Amit Shah's sacking, seeks SC-monitored probe into protest crackdown",
+          "summary": "Congress leader Rahul Gandhi has demanded the sacking of Home Minister Amit Shah and a Supreme Court-monitored probe into the crackdown on protests. Gandhi's demand comes amid allegations of excessive force used by the government against protesters. The opposition leader is seeking accountability and transparency in the investigation.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/rahul-gandhi-demands-amit-shahs-sacking-seeks-sc-monitored-probe-into-protest-crackdown/articleshow/132718444.cms"
+        },
+        {
+          "title": "Criticising govt is necessary, but never denigrate India on social media: Harish Salve urges citizens to discourse responsibly",
+          "summary": "Senior lawyer Harish Salve has urged citizens to criticize the government responsibly, without denigrating India on social media. Salve emphasized that public criticism is necessary, but it should not come at the cost of the nation's image. He reminded citizens that India commands global respect and should be preserved.",
+          "source": "Republic World",
+          "url": "https://www.republicworld.com/india/criticising-govt-is-necessary-but-never-denigrate-india-on-social-media-harish-salve-urges-citizens-to-discourse-responsibly-2026-07-29-133687"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-30T01:49:23.483271+00:00",
     "brief": "Tensions in the Strait of Hormuz continue to escalate, with Iran warning countries against accepting its confiscated assets, while India has called for de-escalation to protect its trade and citizens. Meanwhile, the Indian economy is bracing for potential risks, including higher oil prices and global trade disruptions, as highlighted in the Finance Ministry's July Economic Review. As the US Federal Reserve's interest rate decision looms, Indian investors are watching closely, with the outcome expected to impact the country's economic growth, inflation, and financial markets.",
     "categories": {
@@ -3469,146 +3579,6 @@
           "summary": "The Supreme Court has acquitted a man who was accused in the 1996 Rajasthan bomb blast case and had been in jail for 23 years. The court found no evidence against him, highlighting the importance of ensuring justice and protecting human rights in India.",
           "source": "Times of India",
           "url": "https://timesofindia.indiatimes.com/india/sc-acquits-blast-accused-in-jail-for-23-years/articleshow/132567930.cms"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-23T08:17:48.610696+00:00",
-    "brief": "Tensions between the US and Iran are escalating in the Strait of Hormuz, a vital global oil passage, with potential implications for global oil prices and international relations. Meanwhile, in India, the Reserve Bank of India has been taking measures to defend the Indian rupee, which has been impacted by surging oil prices, including selling $6.1 billion in foreign exchange in May. The Indian economy is also seeing growth in the space sector, with the Chairman of Trai believing that satellite communications will play a significant role in expanding connectivity across India, and the government aiming to make India the world's third-largest space economy by 2033.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Jurisdiction Struggles: New York Mayor vs. Netanyahu's Immunity",
-          "summary": "New York Mayor Zohran Mamdani acknowledged that he cannot arrest Israeli Prime Minister Benjamin Netanyahu for war crimes due to international legal immunities. This highlights the complexities of international law and jurisdiction limitations. The US is not a member of the International Criminal Court, and laws protect heads of state from such arrests.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/law-order/3954260-jurisdiction-struggles-new-york-mayor-vs-netanyahus-immunity"
-        },
-        {
-          "title": "Tensions Surge: U.S.-Iran Confrontation Escalates in Strategic Waters",
-          "summary": "Tensions between the US and Iran are escalating in the Strait of Hormuz, a vital global oil passage. The US has threatened to strike Iranian infrastructure, prompting rerouted oil shipments and military responses. This escalation is impacting global oil prices and straining international relations.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/politics/3954236-tensions-surge-us-iran-confrontation-escalates-in-strategic-waters"
-        },
-        {
-          "title": "Iran's demands over the Strait of Hormuz would set a dangerous precedent, Rubio warns Asian leaders",
-          "summary": "US Secretary of State Marco Rubio warned Asian leaders that Iran's demands in the Strait of Hormuz would set a dangerous international precedent. He emphasized the global economic threat and reaffirmed the US commitment to countering China's growing regional influence. Rubio also plans to discuss the Ukraine war with Russia's foreign minister.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/defence/irans-demands-over-the-strait-of-hormuz-would-set-a-dangerous-precedent-rubio-warns-asian-leaders/articleshow/132561250.cms"
-        },
-        {
-          "title": "Pakistan's deadly airstrikes on Kabul rehab centre should be investigated as possible 'war crime'",
-          "summary": "Amnesty International has called for an investigation into Pakistan's deadly airstrikes on a Kabul rehab centre, which could be considered a possible war crime. The incident highlights the need for accountability in conflict zones and the protection of civilians. An investigation would help determine the circumstances surrounding the airstrikes.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/pakistans-deadly-airstrikes-on-kabul-rehab-centre-should-be-investigated-as-possible-war-crime/"
-        },
-        {
-          "title": "West Asia on the boil as US and Iran return to war",
-          "summary": "The US and Iran are escalating tensions in West Asia, with potential implications for global oil prices and international relations. The conflict is complex, involving strategic waters and regional influence. The situation is being closely watched by scholars and diplomats, who are concerned about the potential consequences of a wider conflict.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/ht-insight/international-affairs/west-asia-on-the-boil-as-us-and-iran-return-to-war-101784713221099.html"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Satcom set to play a transformative role; opportunities ahead vast: Trai Chairman",
-          "summary": "The Chairman of Trai believes that satellite communications will play a significant role in expanding connectivity across India, supporting strategic areas, and bridging the digital divide. This is expected to contribute to the growth of India's space economy, which is projected to grow significantly by 2030. The space sector is seeing rapid private participation and innovation, driven by agile policy frameworks and collaboration.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/satcom-set-to-play-a-transformative-role-opportunities-ahead-vast-trai-chairman/articleshow/132563504.cms"
-        },
-        {
-          "title": "Foreign banks show strongest rate transmission in current RBI easing cycle: Bulletin",
-          "summary": "Foreign banks in India have shown the strongest transmission of policy easing during the current rate-cut cycle, lowering their lending rates more sharply than other banks. They have also reduced their deposit rates more steeply. This comes after the Reserve Bank of India reduced its repo rate by 1.25 percentage points between February 2025 and May 2026.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/foreign-banks-show-strongest-rate-transmission-in-current-rbi-easing-cycle-bulletin/articleshow/132562087.cms"
-        },
-        {
-          "title": "RBI sold $6 billion in May to defend oil-hit Indian rupee, data shows",
-          "summary": "The Reserve Bank of India sold $6.1 billion in foreign exchange in May to defend the Indian rupee, which had fallen to a record low due to surging oil prices. The central bank also implemented policy measures to encourage dollar inflows into India. This intervention aims to stabilize the rupee and mitigate the impact of oil price volatility on the economy.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-sold-6-billion-in-may-to-defend-oil-hit-indian-rupee-data-shows/articleshow/132560366.cms"
-        },
-        {
-          "title": "India must cut launch costs, boost local manufacturing to become world's third-largest space economy: DoT official",
-          "summary": "To become the world's third-largest space economy by 2033, India needs to reduce launch costs and increase local manufacturing of space-related materials. The government also aims to promote satellite applications in the downstream sector to enhance revenue. Strengthening the regulatory functions of IN-SPACe will be crucial to achieving this goal.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/science/india-must-cut-launch-costs-boost-local-manufacturing-to-become-worlds-third-largest-space-economy-dot-official/articleshow/132556414.cms"
-        },
-        {
-          "title": "Commerce Secretary highlights resilient economy, record exports at WTO Trade Policy Review",
-          "summary": "The Commerce Secretary has highlighted India's resilient economy and record exports at the WTO Trade Policy Review, reaffirming the country's support for a balanced and rules-based World Trade Organisation. India has seen significant economic growth and export performance, and the government is committed to maintaining this momentum.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/technology/commerce-secretary-highlights-resilient-economy-record-exports-at-wto-trade-policy-review/"
-        }
-      ],
-      "Business": [
-        {
-          "title": "MS Dhoni’s latest startup bet isn’t gaming or fintech. It’s rooftop solar",
-          "summary": "MS Dhoni has invested in SolarSquare, a rooftop solar company, and joined as its brand ambassador in a $53M funding round. This investment aims to boost India's clean energy growth. The move highlights the growing interest in renewable energy in India.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/business/news/ms-dhonis-latest-startup-bet-isnt-gaming-or-fintech-its-rooftop-solar/4298377/"
-        },
-        {
-          "title": "India needs $22.7 trillion for net zero, faces $6.5-trillion funding gap: IEEFA",
-          "summary": "India requires $22.7 trillion in investments by 2070 to meet its net-zero targets, but faces a significant funding gap of $6.5 trillion. To address this, the country needs to strengthen climate-transition disclosures and business reporting to secure capital and global funding. This gap poses a significant challenge to India's climate goals.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/policy/economy/india-needs-22-7-trillion-for-net-zero-faces-65-trillion-funding-gap-ieefa/4298370/"
-        },
-        {
-          "title": "India's Banking Sector Eyes Sustainable Growth as Retail Lending and Capex Shape FY27 Outlook",
-          "summary": "India's banking sector is expected to see sustainable growth in FY27, driven by strong asset quality, stable funding costs, and healthy credit growth. The sector's performance will depend on balanced retail lending, a revival in corporate capex, and prudent regulatory oversight. This growth is crucial for maintaining financial stability in the country.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/other/3952828-indias-banking-sector-eyes-sustainable-growth-as-retail-lending-and-capex-shape-fy27-outlook"
-        },
-        {
-          "title": "India Inc is returning to banks for money, but retail borrowers aren’t keeping pace",
-          "summary": "India's largest private banks are seeing a shift in credit demand, with corporate and SME lending driving loan growth, while retail borrowing remains subdued. This shift is driven by stronger working capital demand, refinancing, and business banking, but slower consumer credit growth and weaker CASA ratios are affecting banks' funding mix and margins.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/india-inc-is-returning-to-banks-for-money-but-retail-borrowers-arent-keeping-pace/articleshow/132508428.cms"
-        },
-        {
-          "title": "Emergent Raises Series C at $1.5 Billion Valuation, Becomes Unicorn in a Year of Launch",
-          "summary": "Emergent, an AI software creation platform, has raised $130 million in Series C funding, valuing the company at $1.5 billion and making it a unicorn within a year of its launch. This funding round was led by Creaegis and saw participation from prominent investors like Khosla Ventures and SoftBank Vision Fund 2. The company enables founders and business owners to build full-stack, production-ready web and mobile applications.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/emergent-raises-series-c-at-1-5-billion-valuation-becomes-unicorn-in-a-year-of-launch/"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Don’t waste time: SC rejects plea over ‘brutality’ during CJP protest",
-          "summary": "The Supreme Court rejected a petition against alleged police brutality during a protest by the Cockroach Janta Party, with the Chief Justice of India advising the petitioner not to waste time. The protest was held to demand the resignation of Union Education Minister Dharmendra Pradhan over a NEET paper leak. The court's decision indicates that it does not consider the matter urgent or worthy of immediate attention.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/india/dont-waste-time-sc-rejects-plea-over-brutality-during-cjp-protest/"
-        },
-        {
-          "title": "India Cements receives ₹18.95 crore demand notice from Tirunelveli Collector",
-          "summary": "India Cements has received a demand notice from the Tirunelveli Collector for ₹18.95 crore due to alleged environmental clearance violations at its limestone mining leases. The notice follows a Supreme Court judgment on mining without prior clearance. The company is reviewing the matter and expects the financial impact to be limited to the compensation amount.",
-          "source": "scanx.trade",
-          "url": "https://scanx.trade/stock-market-news/companies/india-cements-receives-18-95-crore-demand-notice-from-tirunelveli-collector/46284373"
-        },
-        {
-          "title": "After trader’s death in bull attack, stray cattle at Solan’s Kumarhatti being shifted to cow shelters",
-          "summary": "Following a fatal bull attack on a trader, the Animal Husbandry Department is shifting stray bulls from Solan's Kumarhatti to a cow shelter. The initiative is supported by the National Highways Authority of India and is in line with a Supreme Court directive to relocate stray animals to shelters. The move aims to prevent similar incidents and ensure public safety.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/himachal/after-traders-death-in-bull-attack-stray-cattle-at-solans-kumarhatti-being-shifted-to-cow-shelters/"
-        },
-        {
-          "title": "'Unacceptable in a democratic society': SC bar bodies condemn police action against protesters, lawyers during CJP march",
-          "summary": "Two Supreme Court bar bodies have condemned the alleged police brutality against students and lawyers during a protest march by the Cockroach Janta Party. The bar bodies consider the police action unacceptable in a democratic society. The incident has sparked concerns about the treatment of protesters and the role of law enforcement in maintaining public order.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/unacceptable-in-a-democratic-society-sc-bar-bodies-condemn-police-action-against-protesters-lawyers-during-cjp-march/articleshow/132559050.cms"
-        },
-        {
-          "title": "Kerala HC adds Road Safety Commissioner as party in Safe Kerala Project payment row",
-          "summary": "The Kerala High Court has added the Road Safety Commissioner as a party in a payment dispute related to the Safe Kerala Project, which involves the installation and maintenance of AI traffic cameras. The court's decision is aimed at resolving the payment issue and ensuring the effective implementation of the project. The case highlights the importance of road safety initiatives and the need for timely payments to contractors.",
-          "source": "Malayala Manorama",
-          "url": "https://www.onmanorama.com/news/kerala/2026/07/22/kerala-hc-adds-road-safety-commissioner-as-party-in-safe-kerala-project-payment-case.html"
-        },
-        {
-          "title": "Delhi HC seeks govt's response on pleas over alleged brutality during CJP march",
-          "summary": "The Delhi High Court has issued a notice to the Delhi government seeking its response to petitions alleging police brutality against students during a protest march by the Cockroach Janta Party. The court's decision indicates that it is taking the allegations seriously and wants the government to provide an explanation for the actions of the police. The case is likely to have implications for the handling of protests and the protection of citizens' rights in the national capital.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/delhi-hc-seeks-govts-response-on-pleas-over-alleged-brutality-during-cjp-march/articleshow/132556673.cms"
         }
       ]
     }
