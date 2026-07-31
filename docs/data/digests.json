@@ -1,5 +1,115 @@
 [
   {
+    "generated_at": "2026-07-31T02:07:19.404292+00:00",
+    "brief": "Global tensions and economic uncertainty continue to shape the news, with the Middle East war driving a surge in electric car sales and pushing oil prices higher. Meanwhile, India's role in the global arms trade has come under scrutiny, with Amnesty International alleging significant arms shipments to Israel during the Gaza war. Amidst these developments, the Indian government has emphasized the need for swifter policy responses to address global shifts and secure long-term strategic leverage, citing upside risks to inflation and the fiscal deficit, as well as downside risks to growth.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Amnesty says India supplied 2,596 arms shipments to Israel during Gaza war",
+          "summary": "Amnesty International has alleged that India supplied a significant number of arms shipments to Israel during the Gaza war, with 2,596 shipments documented. This development highlights India's role in the global arms trade and its relationship with Israel. The report may have implications for India's foreign policy and international relations.",
+          "source": "The News Minute",
+          "url": "https://www.thenewsminute.com/news/amnesty-says-india-supplied-2596-arms-shipments-to-israel-during-gaza-war"
+        },
+        {
+          "title": "Mideast war supercharges electric car sales: IEA",
+          "summary": "The Middle East war has led to a surge in electric car sales, with the International Energy Agency reporting a significant increase in sales in the second quarter. Soaring fuel prices due to the war have made electric cars a more attractive option for consumers. This trend may have implications for the global energy market and the automotive industry.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/renewables/mideast-conflict-fuels-electric-car-sales-surge-iea-reports-35-jump-amidst-soaring-fuel-prices/articleshow/132728087.cms"
+        },
+        {
+          "title": "US-Iran War Live: Missile strike hits residential area on Iran's Qeshm island, state media reports",
+          "summary": "The conflict between the US and Iran has escalated, with missile strikes and drone attacks reported in the region. The situation has led to a significant increase in oil prices, with Brent crude jumping over 8% due to fears of disruptions to global energy supplies. The conflict may have far-reaching implications for global politics and the economy.",
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/world/story/us-iran-war-news-live-updates-trump-iran-talks-us-soldiers-attack-tehran-hormuz-blockade-jordan-bahrain-oil-prices-latest-news-2959395-2026-07-30"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Finance Ministry Calls for Swifter Policy Response Amid AI, Trade Weaponisation Risks",
+          "summary": "The Finance Ministry has called for swifter policy responses to address global shifts driven by AI and trade weaponisation, citing upside risks to inflation and the fiscal deficit, as well as downside risks to growth. The ministry notes that domestic fundamentals and structural reforms have kept the economic outlook resilient. However, it urges for better-implemented policy action to secure long-term strategic leverage.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/economy-and-policy/finance-ministry-calls-for-swifter-policy-response-amid-ai-trade-weaponisation-risks"
+        },
+        {
+          "title": "Finance ministry calls for faster policy action to sustain growth amid global uncertainty",
+          "summary": "The finance ministry has stressed the need for faster policy responses and stronger implementation to sustain growth amid global uncertainty. Rising crude oil prices pose a risk to fiscal and current account balances, and the ministry notes that India must strengthen its long-term resilience and strategic leverage. Domestic fundamentals and policy support continue to bolster the economic outlook.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/finance/finance-ministry-calls-for-faster-policy-action-to-sustain-growth-amid-global-uncertainty/articleshow/132730789.cms"
+        },
+        {
+          "title": "The world is getting riskier. Here's what the Finance Ministry says India should prepare for",
+          "summary": "The Finance Ministry's July Economic Review highlights potential risks to India's economy, including higher oil prices, Gulf tensions, AI, and the weaponisation of supply chains. The ministry argues that faster policy implementation will be key to boosting resilience and attracting investment. It notes that domestic fundamentals and structural reforms have kept the economic outlook resilient despite global uncertainties.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/economy/the-world-is-getting-riskier-heres-what-the-finance-ministry-says-india-should-prepare-for-19957039.htm"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Indore Gets Smart Seed Incubation Centre To Boost Startups And Innovation",
+          "summary": "The Indore Smart Seed Incubation Centre has been inaugurated to support startups and innovation in Madhya Pradesh, offering incubation seats, mentorship, and funding support. This initiative aims to drive economic growth in Central India. The centre is a collaboration between IIM Lucknow Enterprise Incubation Centre and Indore Smart City Development Limited.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/indore/indore-gets-smart-seed-incubation-centre-to-boost-startups-and-innovation"
+        },
+        {
+          "title": "India's CSR map is still not its climate map",
+          "summary": "India's corporate social responsibility investments are not aligned with the country's climate vulnerability, resulting in a disparity in funding across regions. This highlights the need for targeted approaches to address environmental initiatives. The current CSR investments are not effectively addressing climate-related issues.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/toi-blogs/planet-watch/indias-csr-map-is-still-not-its-climate-map/articleshow/132713100.cms"
+        },
+        {
+          "title": "Market Wrap: Sensex and Nifty Close Over 1% Higher as Engineering Services Lead Sectoral Gains",
+          "summary": "The Indian equity markets closed with strong gains, with the Sensex and Nifty rising over 1%. The Engineering Services sector led the gains, followed by Cables and Services. The market breadth remained healthy, with more advancing stocks than declining ones.",
+          "source": "scanx.trade",
+          "url": "https://scanx.trade/stock-market-news/markets/market-wrap-sensex-and-nifty-close-over-1-higher-as-engineering-services-lead-sectoral-gains/46864889"
+        },
+        {
+          "title": "Six years after privatising space, India has a unicorn, orbital launcher and $871 million in startup funding",
+          "summary": "India's space sector has seen significant growth since its privatization in 2020, with the launch of Skyroot Aerospace's Vikram-1 and $871 million in startup funding. Skyroot plans to begin commercial launch operations after another test flight. This marks a major milestone for India's private space industry.",
+          "source": "The New Indian Express",
+          "url": "https://www.newindianexpress.com/business/2026/Jul/28/six-years-after-privatising-space-india-has-a-unicorn-orbital-launcher-and-871-million-in-startup-funding"
+        },
+        {
+          "title": "Space startups raise $113M in ’26; funding since ’21 nears $900M",
+          "summary": "India's private space sector has attracted $113 million in equity funding so far in 2026, taking the cumulative investment since 2021 to nearly $900 million. This significant funding highlights the growth and potential of India's space startups.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/space-startups-raise-113m-in-26-funding-since-21-nears-900m/articleshow/132680681.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Top stories and biggest developments from July 30",
+          "summary": "The Supreme Court has sought records on alleged pellet gun use during protests, the CBI has filed its first chargesheet in the NEET paper leak case, and India's first Vande Bharat freight train has been launched. These developments highlight key issues in law and order, education, and infrastructure. The cases are being closely watched for their impact on the country.",
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/daily-catch-up-neet-paper-leak-chargesheet-vande-bharat-trial-sc-pellet-guns-10810848/"
+        },
+        {
+          "title": "Relief For Jantar Mantar Protesters, But Those With Criminal History To Face Law: Delhi Govt",
+          "summary": "The Delhi government has announced that it will not pursue legal action against participants in the recent protest at Jantar Mantar, except for those with criminal records. This decision follows guidance from the Supreme Court. The move aims to balance the right to protest with the need to maintain law and order.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/relief-for-jantar-mantar-protesters-but-those-with-criminal-history-to-face-law-delhi-govt-article-155218398"
+        },
+        {
+          "title": "SC Allots Namaz Site Near Bhojshala Complex, Permits Muslims to Offer Friday Prayers",
+          "summary": "The Supreme Court has allowed Muslims to conduct Friday prayers at a dargah near the Bhojshala complex in Madhya Pradesh, specifying the time as between 1 and 3 pm. This decision aims to balance the rights of different religious groups. The ruling is significant for its implications on communal harmony and the judiciary's role in resolving such disputes.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/supreme-court-allots-namaz-site-near-bhojshala-complex-permits-muslims-to-offer-friday-prayers-article-155218306"
+        },
+        {
+          "title": "Appointment of CEC, ECs: SC reserves order on need to refer matter to larger bench",
+          "summary": "The Supreme Court has reserved its judgment on a legal challenge to the appointment law for election commissioners, which currently excludes the Chief Justice of India from the selection panel. The petitioners argue that this exclusion undermines the independence of the process. The court's decision will have significant implications for the functioning of the Election Commission.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/appointment-of-cec-ecs-sc-reserves-order-on-need-to-refer-matter-to-larger-bench/articleshow/132737404.cms"
+        },
+        {
+          "title": "Manmohan Singh ‘did not need SC certificate’: Tharoor on posthumous clean chit by Supreme Court in coal block case",
+          "summary": "The Supreme Court has formally exonerated the late former Prime Minister Manmohan Singh in the coal block case, quashing the 2015 trial order against him. This decision brings closure to a long-standing legal issue. The ruling highlights the judiciary's role in ensuring that public figures are held accountable while also protecting their rights.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/did-not-need-sc-certificate-tharoor-on-posthumous-clean-chit-for-manmohan-singh-by-supreme-court-in-coal-block-case-101785406320145.html"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-07-30T19:15:10.646261+00:00",
     "brief": "Global uncertainty and rising crude oil prices are posing significant risks to India's economy, with the finance ministry calling for faster policy action to sustain growth. The ongoing Middle East conflict has led to a surge in electric car sales, with the International Energy Agency reporting a 35% jump in sales in the second quarter, and has also disrupted global energy markets, causing Brent crude prices to rise above $90 a barrel. Meanwhile, India's space sector has seen significant growth since its privatization, with $871 million in startup funding and the launch of Skyroot Aerospace's Vikram-1, indicating a positive trend in the country's business landscape.",
     "categories": {
@@ -3463,140 +3573,6 @@
           "summary": "The Chief Justice of India, Surya Kant, has warned that he will intervene if the issue of closed Delhi metro stations, affecting access to the Supreme Court, is not resolved by lunchtime.",
           "source": "The Economic Times",
           "url": "https://economictimes.indiatimes.com/news/india/delhi-metro-stations-closed-cji-kant-says-he-will-intervene-if-issue-not-resolved-by-lunch/articleshow/132575263.cms"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-24T02:02:23.949286+00:00",
-    "brief": "Tensions between the US and Iran continue to escalate, with President Trump threatening military action, which has led to rising oil prices and impacted global trade, including the Indian aviation industry with thousands of flight cancellations. Meanwhile, the Reserve Bank of India has warned that the Iran war and an uneven monsoon could alter India's economic trajectory, despite the economy remaining strong. The Indian government is also focusing on strengthening its space economy, with the aim of becoming the world's third-largest space economy by 2033, and has highlighted its resilient economy and record exports at the WTO Trade Policy Review, showcasing the country's commitment to a balanced and rules-based trade policy.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Escalating Tensions: Trump Threatens Iran Amidst Rising Oil Prices",
-          "summary": "US President Donald Trump has threatened military action against Iran, escalating the Middle Eastern conflict and affecting global oil prices, inflation, and shipping routes. This situation has significant implications for international trade and diplomatic relations. The conflict is being closely watched by the global community.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/politics/3954694-escalating-tensions-trump-threatens-iran-amidst-rising-oil-prices"
-        },
-        {
-          "title": "26,000 flights cancelled, longer routes and higher fuel bills: How a war far away has hit Indian flyers",
-          "summary": "The West Asia crisis has impacted Indian airlines, resulting in thousands of flight cancellations, increased fuel costs, and longer journey times due to airspace restrictions. This has significant consequences for the Indian aviation industry and passengers. The situation is being monitored by airlines and regulatory bodies.",
-          "source": "Moneycontrol",
-          "url": "https://www.moneycontrol.com/world/26-000-flights-cancelled-longer-routes-and-higher-fuel-bills-how-a-war-far-away-has-hit-indian-flyers-article-13982006.html"
-        },
-        {
-          "title": "Russia revives 28,000 tonne Cold War nuclear giant with hypersonic missiles, returns to Arctic port",
-          "summary": "Russia's nuclear-powered battlecruiser Admiral Nakhimov has returned to its home port after completing sea trials, marking a significant development in the country's military capabilities. The ship is equipped with hypersonic missiles, indicating Russia's efforts to enhance its naval power. This move is being closely watched by the international community.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/defence/international/russia-revives-28000-tonne-cold-war-nuclear-giant-with-hypersonic-missiles-returns-to-arctic-port/articleshow/132579342.cms"
-        },
-        {
-          "title": "ICC Drops Charges: Darfur's Legal Battle Unfolds",
-          "summary": "The International Criminal Court has dropped charges against Abdallah Banda, a former Darfur militia leader, due to insufficient evidence. However, outstanding warrants remain, including one for Omar al-Bashir, indicating that the legal battle in Darfur is ongoing. This development has implications for international justice and accountability.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/law-order/3954614-icc-drops-charges-darfurs-legal-battle-unfolds"
-        },
-        {
-          "title": "Navigating Diplomatic Waters: US-China Relations",
-          "summary": "US Secretary of State Marco Rubio has emphasized the importance of maintaining strong alliances while fostering a positive relationship with China. The US seeks to balance its diplomatic approach, supporting allies while pursuing amicable ties with China. This reflects the complex nature of international relations and the need for nuanced diplomacy.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/politics/3954498-navigating-diplomatic-waters-us-china-relations"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "RBI Says India's Economy Is Strong; But Two Risks Could Change Everything",
-          "summary": "The Reserve Bank of India has stated that India's economy remains strong, but two potential risks - the Iran war and an uneven monsoon - could impact growth, inflation, and policy outlook. These risks could alter the country's economic trajectory. The RBI's warning highlights the need for careful monitoring of global and domestic factors.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/business-economy/economy/rbi-says-indias-economy-is-strong-but-two-risks-could-change-everything-article-155156142"
-        },
-        {
-          "title": "Satcom set to play a transformative role; opportunities ahead vast: Trai Chairman",
-          "summary": "The Chairman of the Telecom Regulatory Authority of India (TRAI) believes that satellite communications will play a significant role in expanding connectivity across India, supporting strategic areas, and bridging the digital divide. This technology is expected to drive growth in the space sector, with India's space economy projected to grow significantly by 2030. The sector is witnessing rapid private participation and innovation.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/satcom-set-to-play-a-transformative-role-opportunities-ahead-vast-trai-chairman/articleshow/132563504.cms"
-        },
-        {
-          "title": "Foreign banks show strongest rate transmission in current RBI easing cycle: Bulletin",
-          "summary": "Foreign banks in India have shown the strongest transmission of policy easing during the current rate-cut cycle, with sharper reductions in lending and deposit rates. The Reserve Bank of India had reduced its repo rate by 1.25 percentage points between February 2025 and May 2026. This easing cycle has had a significant impact on the banking sector.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/foreign-banks-show-strongest-rate-transmission-in-current-rbi-easing-cycle-bulletin/articleshow/132562087.cms"
-        },
-        {
-          "title": "RBI sold $6 billion in May to defend oil-hit Indian rupee, data shows",
-          "summary": "The Reserve Bank of India sold $6.1 billion in foreign exchange during May to defend the Indian rupee, which had weakened due to surging oil prices. The central bank intervened in the foreign exchange market to stabilize the currency and also implemented policy measures to encourage dollar inflows into India. This move aims to mitigate the impact of oil price volatility on the rupee.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-sold-6-billion-in-may-to-defend-oil-hit-indian-rupee-data-shows/articleshow/132560366.cms"
-        },
-        {
-          "title": "India must cut launch costs, boost local manufacturing to become world's third-largest space economy: DoT official",
-          "summary": "To become the world's third-largest space economy by 2033, India needs to reduce launch costs and increase local manufacturing of materials. The government must also emphasize satellite applications in the downstream sector to enhance revenue. Strengthening the regulatory functions of IN-SPACe will be crucial to the sector's success. These changes are essential for India to achieve its ambitious vision in the space sector.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/science/india-must-cut-launch-costs-boost-local-manufacturing-to-become-worlds-third-largest-space-economy-dot-official/articleshow/132556414.cms"
-        },
-        {
-          "title": "Commerce Secretary highlights resilient economy, record exports at WTO Trade Policy Review",
-          "summary": "The Commerce Secretary has highlighted India's resilient economy and record exports at the WTO Trade Policy Review, reaffirming the country's support for a balanced and rules-based World Trade Organisation. The secretary's statement emphasizes India's commitment to a transparent and development-oriented trade policy. This comes as India aims to strengthen its position in global trade.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/national/commerce-secretary-highlights-resilient-economy-record-exports-at-wto-trade-policy-review-1/"
-        }
-      ],
-      "Business": [
-        {
-          "title": "Environmental CSR in India: Rs. 17,000 Crore Deployed Over A Decade, But Climate-Vulnerable Regions Remain Underfunded",
-          "summary": "Corporate India has invested Rs. 17,377 crore in environmental sustainability over the past decade, but the funding is concentrated among a few companies and not aligned with the country's greatest environmental challenges. This investment is crucial for the country's environmental sustainability, but more needs to be done to address the environmental challenges. The report highlights the need for more targeted funding to address climate change.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/environmental-csr-in-india-rs-17000-crore-deployed-over-a-decade-but-climate-vulnerable-regions-remain-underfunded/"
-        },
-        {
-          "title": "Q1 bank credit flow surges 10x as market mop-up collapses",
-          "summary": "Bank credit has surged in the first quarter due to a sharp collapse in capital market mobilisation, making it the primary source of funding for the commercial sector. This shift highlights the importance of bank credit in the Indian economy. The surge in bank credit is expected to continue, driven by the commercial sector's funding needs.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/q1-bank-credit-flow-surges-10x-as-market-mop-up-collapses/articleshow/132569873.cms"
-        },
-        {
-          "title": "MS Dhoni’s latest startup bet isn’t gaming or fintech. It’s rooftop solar",
-          "summary": "Mahendra Singh Dhoni has invested in SolarSquare, a rooftop solar company, and will be its brand ambassador, boosting India's clean energy growth. The investment is part of a $53M funding round, highlighting the growing interest in clean energy in India. This investment is expected to contribute to India's renewable energy goals.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/business/news/ms-dhonis-latest-startup-bet-isnt-gaming-or-fintech-its-rooftop-solar/4298377/"
-        },
-        {
-          "title": "India needs $22.7 trillion for net zero, faces $6.5-trillion funding gap: IEEFA",
-          "summary": "India requires $22.7 trillion in investment to meet its net-zero targets by 2070, but faces a significant funding gap of $6.5 trillion. To address this gap, India needs to strengthen its climate-transition disclosures and business reporting to secure capital and global funding. This investment is crucial for India's transition to a low-carbon economy.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/policy/economy/india-needs-22-7-trillion-for-net-zero-faces-65-trillion-funding-gap-ieefa/4298370/"
-        },
-        {
-          "title": "India's Banking Sector Eyes Sustainable Growth as Retail Lending and Capex Shape FY27 Outlook",
-          "summary": "India's banking sector is expected to experience sustainable growth in FY27, driven by strong asset quality, stable funding costs, and healthy credit growth. The sector's performance will depend on balanced retail lending, a revival in corporate capex, and prudent regulatory oversight. This growth is crucial for maintaining financial stability in the Indian economy.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/other/3952828-indias-banking-sector-eyes-sustainable-growth-as-retail-lending-and-capex-shape-fy27-outlook"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Supreme Court lawyers recite Constitution's Preamble seeking justice for students, CJP thanks them",
-          "summary": "Lawyers at the Supreme Court recited the Constitution's Preamble to seek justice for students, emphasizing their duty to stand with them. The issue concerns the rights of students, and the lawyers' action is a show of solidarity. The Chief Justice of India thanked the lawyers for their gesture.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/supreme-court-lawyers-recite-constitutions-preamble-seeking-justice-for-students-cjp-thanks-them-101784805678763.html"
-        },
-        {
-          "title": "Delhi metro stations closed: CJI Kant says he will intervene if issue not resolved by lunch",
-          "summary": "The closure of several Delhi metro stations has affected access to the Supreme Court, causing difficulties for lawyers and litigants. The Chief Justice of India has stated that he will intervene if the issue is not resolved by lunchtime. The Chief Justice has also assured that no adverse orders will be passed due to lawyer absences.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/india/delhi-metro-stations-closed-cji-kant-says-he-will-intervene-if-issue-not-resolved-by-lunch/articleshow/132575263.cms"
-        },
-        {
-          "title": "'Bite incidents every day': Delhi HC takes up stray dog issue, launches suo motu PIL",
-          "summary": "The Delhi High Court has initiated a public interest litigation to oversee the implementation of the Supreme Court's directives on stray dog management. The move comes amid concerns over the increasing number of dog bite incidents in the city. The court's intervention aims to address the issue and ensure public safety.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/bite-incidents-every-day-delhi-hc-takes-up-stray-dog-issue-launches-suo-motu-pil/articleshow/132574316.cms"
-        },
-        {
-          "title": "Honeymoon murder case: SC cancels Sonam Raghuvanshi's bail, orders her to surrender in two weeks",
-          "summary": "The Supreme Court has canceled the bail granted to Sonam Raghuvanshi, the prime accused in the alleged murder of her husband. The court has ordered her to surrender within two weeks, marking a significant development in the high-profile case. The decision underscores the judiciary's commitment to ensuring justice in sensitive and complex cases.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/honeymoon-murder-case-sc-cancels-sonam-raghuvanshis-bail-orders-her-to-surrender-in-two-weeks/articleshow/132574048.cms"
         }
       ]
     }
