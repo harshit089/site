@@ -1,5 +1,133 @@
 [
   {
+    "generated_at": "2026-08-03T14:23:19.083218+00:00",
+    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The Saudi Crown Prince's call for the US to avoid new strikes on Iran and pursue diplomacy instead has significant implications for regional and international security, while the South China Sea dispute has resurfaced with China introducing new management measures. In India, the Reserve Bank of India's Monetary Policy Committee is expected to maintain its current interest rate and neutral stance, with economists anticipating no change in interest rates due to inflation forecasts and economic conditions. Meanwhile, the Indian startup funding landscape has seen a significant decline, with total investments plunging 57% from the previous week, and companies like Zepto are raising pre-IPO funding amid delayed listing plans.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Saudi Crown Prince calls on Trump to avoid new Iran strikes, pursue diplomacy to prevent wider Middle East war: Report",
+          "summary": "The Saudi Crown Prince has urged the US to avoid new strikes on Iran and instead pursue diplomacy to prevent a wider conflict in the Middle East. This warning highlights the complex geopolitics of the region and the potential for escalation. The situation has significant implications for regional and international security and stability.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/news/us-news/saudi-crown-prince-calls-on-trump-to-avoid-new-iran-strikes-pursue-diplomacy-to-prevent-wider-middle-east-war-report-11785670259301.html"
+        },
+        {
+          "title": "Knowledge Nugget | South China Sea back in spotlight: What’s happening and why it matters",
+          "summary": "The South China Sea dispute has resurfaced, with China introducing new management measures for Huangyan Dao, which could impact international relations and regional stability. The dispute involves several countries, including the Philippines, and has significant implications for global trade and security. The situation is being closely watched by the international community.",
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-south-china-sea-dispute-islands-philippines-upsc-10814514/"
+        },
+        {
+          "title": "Waging war against God': Iran hangs 20-year-old protester, third anti-regime demonstrator executed in a week",
+          "summary": "Iran has executed a 20-year-old protester, the third anti-regime demonstrator to be executed in a week, sparking concerns about human rights and the treatment of detainees. The executions have been widely condemned, with the UN calling for a halt to such actions. The situation highlights the ongoing tensions and unrest in Iran.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/news/world/waging-war-against-god-iran-hangs-20-year-old-protester-third-anti-regime-demonstrator-executed-in-a-week-11785648210771.html"
+        },
+        {
+          "title": "Scorching heat, prolonged power outages deepen hardships in Khartoum",
+          "summary": "The city of Khartoum in Sudan is facing significant hardships due to scorching heat and prolonged power outages, exacerbating the effects of the ongoing war. The situation has led to a humanitarian crisis, with the city struggling to recover from the devastating effects of the conflict. The international community is watching the situation closely.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/scorching-heat-prolonged-power-outages-deepen-hardships-in-khartoum/"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Index snub to test Indian bonds; rupee, RBI policy and US-Iran war in focus",
+          "summary": "The rupee has gained significantly due to the Reserve Bank of India's interventions, and its performance will be closely watched in relation to Indian bonds, RBI policy, and global events like the US-Iran war. The rupee's gain is its biggest weekly gain since March, reaching a three-week high. This development is crucial for India's economy and financial markets.",
+          "source": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/business/markets/index-snub-to-test-indian-bonds-rupee-rbi-policy-and-us-iran-war-in-focus-13991405.html"
+        },
+        {
+          "title": "August MPC huddle: why the Reserve Bank of India must change its stance at the very least",
+          "summary": "India's economic growth versus inflation trade-off has been shifting, and the Reserve Bank of India's Monetary Policy Committee needs to act quickly to address this. The committee's stance is crucial for the country's economic growth and inflation management. A change in stance could help the central bank respond to emerging economic challenges.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/opinion/online-views/august-mpc-huddle-reserve-bank-of-india-rbi-change-stance-neutral-accommodative-hawkish-11785678808898.html"
+        },
+        {
+          "title": "RBI likely to extend rate pause; neutral stance seen unchanged",
+          "summary": "The Reserve Bank of India is expected to maintain its current interest rate and neutral monetary policy stance due to inflation forecasts and economic conditions. Economists anticipate no change in interest rates, but some foresee a potential rate hike in the second half of the fiscal year. The central bank's decision will be influenced by inflation forecasts and economic growth prospects.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-likely-to-extend-rate-pause-neutral-stance-seen-unchanged/articleshow/132815869.cms"
+        },
+        {
+          "title": "RBI likely to hold rates in Aug, maintain hawkish tone as inflation risks persist: Economists",
+          "summary": "The Reserve Bank of India is expected to keep interest rates unchanged in its August monetary policy review due to elevated inflation risks. Economists believe that the central bank will maintain a hawkish tone to address inflation concerns. The decision will be influenced by factors like inflation risks and the closure of the FCNR(B) deposit scheme.",
+          "source": "Daily Excelsior",
+          "url": "https://www.dailyexcelsior.com/rbi-likely-to-hold-rates-in-aug-maintain-hawkish-tone-as-inflation-risks-persist-economists-2/"
+        },
+        {
+          "title": "counterpoint: MPC's external members must have the courage to dissent, disagreement drives course correction",
+          "summary": "The Reserve Bank of India's Monetary Policy Committee must balance inflation concerns with the need to support economic growth. External factors are largely blamed for India's current economic challenges, and greater dissent among committee members could lead to better policy decisions. The committee's actions and communication are crucial for market stability and driving course correction.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/opinion/et-commentary/count-counterpoint-mpcs-external-members-must-have-the-courage-to-dissent-disagreement-drives-course-correction/articleshow/132811489.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Zepto to raise pre-IPO funding amid delayed listing",
+          "summary": "Zepto is raising funds through a pre-IPO financing due to a tepid response from investors to its public listing, delaying its listing plans. This move indicates the company's efforts to secure funding before going public. The development is significant for India's startup ecosystem, particularly in the quick commerce sector.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-to-raise-pre-ipo-funding-amid-delayed-listing/articleshow/132791582.cms"
+        },
+        {
+          "title": "India startup funding slumps 57% in a week as big",
+          "summary": "Indian startups saw a significant decline in funding, with total investments plunging 57% from the previous week. This slowdown is attributed to a decrease in early- and late-stage funding, despite an increase in seed-stage activity. The trend is crucial for understanding the current state of India's startup funding landscape.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-slumps-57-in-a-week-as-big-ticket-deals-dry-up-19959001.htm"
+        },
+        {
+          "title": "Swiggy, Eternal Surge As Zepto's IPO Valuation Reset Raises Market Share Hopes",
+          "summary": "Swiggy and Eternal shares have rallied as investors believe Zepto's proposed IPO valuation cut and funding constraints could slow its expansion. This development may help listed rivals gain market share in India's quick commerce sector, making it an important trend to watch in the industry.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/markets/swiggy-eternal-surge-as-zeptos-ipo-valuation-reset-raises-market-share-hopes"
+        },
+        {
+          "title": "wheeler business becomes unicorn with fresh investment",
+          "summary": "Mahindra Last Mile Mobility has entered the unicorn club after raising ₹322 crore in a funding round, taking its valuation to ₹10,822 crore. This investment strengthens the company's lead in India's electric three-wheeler market, highlighting the growth potential of the EV segment in the country.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/business/companies/mahindra-last-mile-mobility-unicorn-lightrock-funding-electric-three-wheeler-ev-business-19958563.htm"
+        },
+        {
+          "title": "Mahindra Last Mile Mobility turns unicorn after Rs 322-crore funding at Rs 10,822 crore valuation",
+          "summary": "Mahindra Last Mile Mobility has turned into a unicorn after a ₹322-crore funding round, valuing the company at ₹10,822 crore. This investment underscores investor confidence in India's electric three-wheeler segment, which is one of the fastest-growing EV segments in the country.",
+          "source": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/automobile/mahindra-last-mile-mobility-turns-unicorn-after-rs-322-crore-funding-at-rs-10-822-crore-valuation-article-13989369.html"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "No law for private detectives: Supreme Court flags privacy concerns",
+          "summary": "The Supreme Court has highlighted the absence of a law regulating private detectives in India, raising concerns about privacy and urging the government to fill the legislative gap. This could lead to the creation of a new law to oversee private investigations. The court's move aims to protect individuals' privacy rights.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/india/no-law-for-private-detectives-supreme-court-flags-privacy-concerns/"
+        },
+        {
+          "title": "'Verify, demarcate wetlands in SAC Atlas within 2 months': Supreme Court issues directives for states",
+          "summary": "The Supreme Court has directed states and Union territories to verify and demarcate wetlands identified in the SAC Atlas within two months. This move aims to protect wetlands and ensure their conservation. The court's directive is expected to help in preserving these sensitive ecosystems.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/verify-demarcate-wetlands-in-sac-atlas-within-2-months-supreme-court-issues-directives-for-states-101785698755045.html"
+        },
+        {
+          "title": "SC warns Punjab for ignoring 15-yr-old ruling on dues to Himachal Pradesh",
+          "summary": "The Supreme Court has warned the Punjab government for ignoring a 15-year-old ruling on paying dues to Himachal Pradesh. The court's warning comes after the Punjab government resisted implementing the ruling, which could lead to a resolution of the long-standing dispute between the two states.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/sc-warns-punjab-for-ignoring-15-yr-old-ruling-on-dues-to-himachal-pradesh/articleshow/132813376.cms"
+        },
+        {
+          "title": "Families seek nodal officer in Moscow after SC order",
+          "summary": "Families of individuals killed in the Russia-Ukraine war have requested the Centre to appoint a nodal officer at the Indian Embassy in Moscow. This follows a Supreme Court order directing the Ministry of External Affairs to designate a nodal officer in Delhi to coordinate with families across India, aiming to provide support and assistance to those affected.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/punjab/families-seek-nodal-officer-in-moscow-after-sc-order/"
+        },
+        {
+          "title": "Supreme Court's Justice Bhuyan backs more transparency in collegium’s operation",
+          "summary": "Supreme Court Justice Ujjal Bhuyan has advocated for more transparency in the collegium's operation, stating that not providing reasons for decisions is a disservice to outstanding judges. This could lead to increased transparency and accountability in the judicial system.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/supreme-court-justice-ujjal-bhuyan-backs-more-transparency-in-collegium-operation-101785638404268.html"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-08-03T09:30:30.905037+00:00",
     "brief": "Today's brief highlights key developments across geopolitics, economy, and national affairs. In geopolitics, Saudi Crown Prince's call to avoid new Iran strikes and pursue diplomacy has significant implications for regional stability, while the South China Sea dispute and Iran's execution of a young protester have raised concerns globally. Meanwhile, in economy, the Reserve Bank of India's upcoming monetary policy review is expected to maintain a hawkish tone due to elevated inflation risks, and SBI Research has raised India's Q1 FY27 GDP growth estimate to around 7%. These developments are set to influence market sentiment and investor decisions in the coming week.",
     "categories": {
@@ -3427,116 +3555,6 @@
           "summary": "A recent Supreme Court ruling has clarified ownership proof requirements in eviction suits, aiding property owners. The Model Tenancy Act, 2021, aims to balance tenant and landlord rights. Understanding these rights and responsibilities is crucial for minimizing disputes and ensuring transparency in the rental market.",
           "source": "The Economic Times",
           "url": "https://economictimes.indiatimes.com/wealth/plan/renting-a-home-key-rights-every-tenant-and-landlord-should-know/articleshow/132617967.cms"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-27T14:15:58.109758+00:00",
-    "brief": "This week, India is set to engage in a month of high-stakes diplomacy with key international summits, including the SCO Summit and the Brics Summit, where discussions will focus on terrorism, supply chains, and Global South opportunities. Meanwhile, the country's economy is expected to receive a boost from recent policy measures by the Reserve Bank of India and the government, which could shift India's balance of payments to a surplus and ease pressure on the rupee. However, the economy also faces potential risks, including the impact of the El Niño phenomenon on agriculture and food prices, as well as the ongoing conflict in the Middle East, which could have significant implications for global trade and geopolitics. As India navigates these complex global and domestic developments, the government will need to balance its diplomatic efforts with economic and social priorities.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "India gears up for month-long summit diplomacy: PM Modi to attend SCO meet, host Brics Summit & address UNGA",
-          "summary": "India is set to engage in a month of high-stakes diplomacy with key international summits, including the SCO Summit and the Brics Summit, where discussions will focus on terrorism, supply chains, and Global South opportunities. Prime Minister Modi will also address the UN General Assembly and India will seek a non-permanent UN Security Council seat for 2028-29. This diplomatic effort is expected to shape India's global relationships and influence.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/india/india-gears-up-for-month-long-summit-diplomacy-pm-modi-to-attend-sco-meet-host-brics-summit-address-unga/articleshow/132646443.cms"
-        },
-        {
-          "title": "Ukraine's attack on Iranian commercial vessel is to drag Europe into Israel's war: Iran FM",
-          "summary": "Iran's Foreign Minister has accused Ukraine of attacking an Iranian commercial vessel to draw Europe into Israel's war. This statement reflects the complex and escalating tensions in the region, with multiple countries involved in the conflict. The situation has significant implications for global geopolitics and international relations.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/ukraines-attack-on-iranian-commercial-vessel-is-to-drag-europe-into-israels-war-iran-fm/"
-        },
-        {
-          "title": "Trump renews tariff onslaught with a whirlwind week of threats",
-          "summary": "Former US President Donald Trump has renewed his tariff onslaught with a series of trade threats, which could have significant implications for global trade and economies. The move is seen as a missed opportunity for constructive trade negotiations and could lead to further trade tensions. The development is being closely watched by economists and trade experts.",
-          "source": "Moneycontrol",
-          "url": "https://www.moneycontrol.com/news/business/trump-renews-tariff-onslaught-with-a-whirlwind-week-of-threats-13983825.html"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "RBI, govt measures could turn India's balance of payments surplus, ease pressure on rupee: HDFC",
-          "summary": "The Reserve Bank of India and government's recent policy measures may shift India's balance of payments to a surplus, attracting significant capital inflows and strengthening the external position, which could ease pressure on the Indian rupee. These developments are expected to boost foreign currency deposits and make government securities more accessible for foreign investors. This could have a positive impact on the Indian economy.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-govt-measures-could-turn-indias-balance-of-payments-surplus-ease-pressure-on-rupee-hdfc/articleshow/132622306.cms"
-        },
-        {
-          "title": "India concludes WTO Trade Policy Review; members seek clarifications on PLI, QCOs, trade policy measures",
-          "summary": "India concluded its eighth Trade Policy Review at the World Trade Organization, where member countries sought clarifications on production-linked incentive schemes, Quality Control Orders, and trade remedies. India defended its policies as being consistent with WTO rules and the needs of a developing economy. The review is an important aspect of India's engagement with the global trade community.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/india-concludes-wto-trade-policy-review-members-seek-clarifications-on-pli-qcos-trade-policy-measures"
-        },
-        {
-          "title": "Quality control orders intended to achieve public policy objectives: India at WTO",
-          "summary": "India stated that its quality control orders are intended to achieve public policy objectives, and its tariff reforms, customs simplification measures, and Free Trade Agreement strategy have strengthened the country's integration with the global economy. This statement was made during India's eighth Trade Policy Review at the World Trade Organization. The country's trade policies are under scrutiny by the global trade community.",
-          "source": "The Hindu Business Line",
-          "url": "https://www.thehindubusinessline.com/economy/quality-control-orders-intended-to-achieve-public-policy-objectives-india-at-wto/article71260884.ece"
-        },
-        {
-          "title": "India faces rising food and fuel risks from El Niño",
-          "summary": "The developing El Niño phenomenon poses a threat to India's agriculture and food prices, which could impact the country's growth and inflation outlook. The effects of El Niño will depend on rainfall and policy responses, making it a significant concern for the Indian economy. This highlights the importance of monitoring weather patterns and their potential impact on the economy.",
-          "source": "Moneycontrol",
-          "url": "https://www.moneycontrol.com/news/opinion/india-faces-rising-food-and-fuel-risks-from-el-ni-o-13982423.html"
-        },
-        {
-          "title": "RBI Says India's Economy Is Strong; But Two Risks Could Change Everything",
-          "summary": "The Reserve Bank of India states that India's economy remains resilient, but warns that the Iran war and an uneven monsoon could pose risks to growth, inflation, and policy outlook. These two factors have the potential to significantly impact the Indian economy, making them crucial to monitor. The RBI's assessment highlights the importance of being prepared for potential challenges.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/business-economy/economy/rbi-says-indias-economy-is-strong-but-two-risks-could-change-everything-article-155156142"
-        }
-      ],
-      "Business": [
-        {
-          "title": "India startup funding falls 44% WoW to $186 million amid slowdown in big",
-          "summary": "Indian startups raised $186.1 million in funding during the week of July 17-23, a 44% decrease from the previous week. This decline is attributed to a slowdown in late-stage investments. Despite this, early-stage funding saw a strong rebound.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-falls-44-wow-to-186-million-amid-slowdown-in-big-ticket-deals-19953624.htm"
-        },
-        {
-          "title": "Milky Mist IPO set for August launch, aiming to be India's largest dairy offering",
-          "summary": "Milky Mist Dairy Food is set to launch its initial public offering in early August, aiming to be the largest IPO by an Indian dairy company. The company has secured ₹482 crore in pre-IPO funding and is valued at approximately ₹9,300 crore. This IPO follows a significant pre-IPO funding round in May.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-ipo-set-for-august-launch-aiming-to-be-indias-largest-dairy-offering/articleshow/132594441.cms"
-        },
-        {
-          "title": "Environmental CSR in India: Rs. 17,000 Crore Deployed Over A Decade, But Climate",
-          "summary": "Corporate India has invested Rs. 17,377 crore in environmental sustainability and conservation initiatives over the past decade. However, a new report finds that funding remains concentrated among a small group of companies and is not always aligned with the country's greatest environmental challenges. This highlights the need for more targeted environmental CSR efforts.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/environmental-csr-in-india-rs-17000-crore-deployed-over-a-decade-but-climate-vulnerable-regions-remain-underfunded/"
-        },
-        {
-          "title": "Q1 bank credit flow surges 10x as market mop-up collapses",
-          "summary": "Bank credit has become the primary source of funding for the commercial sector in the first quarter, following a sharp decline in capital market mobilization. This shift highlights the importance of bank credit in supporting business growth. The collapse in market mop-up has led to a significant increase in bank credit flow.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/q1-bank-credit-flow-surges-10x-as-market-mop-up-collapses/articleshow/132569873.cms"
-        },
-        {
-          "title": "MS Dhoni’s latest startup bet isn’t gaming or fintech. It’s rooftop solar",
-          "summary": "Mahendra Singh Dhoni has invested in SolarSquare, a rooftop solar company, and will also serve as its brand ambassador. This investment is part of a $53 million funding round, which aims to boost India's clean energy growth. Dhoni's involvement is expected to raise awareness and support for the adoption of rooftop solar energy in India.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/business/news/ms-dhonis-latest-startup-bet-isnt-gaming-or-fintech-its-rooftop-solar/4298377/"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Renting a home? Key rights every tenant and landlord should know",
-          "summary": "A recent Supreme Court ruling has clarified ownership proof requirements in eviction suits, aiding property owners. The Model Tenancy Act, 2021, aims to balance tenant and landlord rights. Clear rent agreements are crucial for minimizing disputes and ensuring transparency.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/wealth/plan/renting-a-home-key-rights-every-tenant-and-landlord-should-know/articleshow/132617967.cms"
-        },
-        {
-          "title": "India’s public space for dissent is shrinking, warns SC judge",
-          "summary": "Supreme Court Justice Ujjal Bhuyan has warned that the space for dissent in India is shrinking, citing arrests of protesters, delayed bail, and restrictive bail conditions. This is curbing freedoms and limiting personal liberties. The judge expressed concern over the treatment of individuals protesting environmental issues.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/city/bhopal/indias-public-space-for-dissent-is-shrinking-warns-sc-judge/articleshow/132643612.cms"
-        },
-        {
-          "title": "The CJP movement: From the Supreme Court to Pradhan’s Resignation",
-          "summary": "A massive youth movement was sparked by an Indian Chief Justice's analogy, which led to social media activism and protests. The movement highlighted issues such as youth unemployment, education, and the legal system. It ultimately led to the resignation of Education Minister Dharmendra Pradhan.",
-          "source": "Malayala Manorama",
-          "url": "https://www.onmanorama.com/news/india/2026/07/26/the-cjp-movement-from-the-supreme-court-to-pradhan-s-resignation.html"
         }
       ]
     }
