@@ -1,5 +1,133 @@
 [
   {
+    "generated_at": "2026-08-03T02:07:31.601639+00:00",
+    "brief": "Tensions in the Middle East and the South China Sea continue to escalate, with Saudi Crown Prince urging the US to avoid new strikes on Iran and China introducing new management measures for Huangyan Dao, affecting regional stability and global trade. Meanwhile, in India, the Reserve Bank of India is expected to hold interest rates in its August monetary policy review due to elevated inflation risks, and the Indian stock market is likely to be influenced by the RBI's decision, earnings reports, and global events. Additionally, the Indian startup ecosystem is experiencing a slowdown in funding, with a 57% decline in funding last week, although seed-stage activity remains strong, indicating a continued interest in new ideas and ventures.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Saudi Crown Prince calls on Trump to avoid new Iran strikes, pursue diplomacy to prevent wider Middle East war: Report",
+          "summary": "Saudi Crown Prince has urged the US to avoid new strikes on Iran and instead pursue diplomacy to prevent a wider conflict in the Middle East. This warning highlights the region's fragile security and stability. The situation has significant implications for global security and international relations.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/news/us-news/saudi-crown-prince-calls-on-trump-to-avoid-new-iran-strikes-pursue-diplomacy-to-prevent-wider-middle-east-war-report-11785670259301.html"
+        },
+        {
+          "title": "Knowledge Nugget | South China Sea back in spotlight: What’s happening and why it matters",
+          "summary": "The South China Sea dispute has resurfaced with China introducing new management measures for Huangyan Dao, affecting international relations and regional stability. This development has significant implications for global trade and security. The dispute involves several countries, including the Philippines, and has the potential to escalate tensions in the region.",
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-south-china-sea-dispute-islands-philippines-upsc-10814514/"
+        },
+        {
+          "title": "Waging war against God': Iran hangs 20-year-old protester, third anti-regime demonstrator executed in a week",
+          "summary": "Iran has executed a 20-year-old protester, sparking concerns for other detainees on death row. The execution has drawn international attention and criticism, with the UN calling for a halt to such executions. This incident highlights the ongoing human rights concerns and tensions in Iran.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/news/world/waging-war-against-god-iran-hangs-20-year-old-protester-third-anti-regime-demonstrator-executed-in-a-week-11785648210771.html"
+        },
+        {
+          "title": "Scorching heat, prolonged power outages deepen hardships in Khartoum",
+          "summary": "Sudan's capital Khartoum is facing significant hardships due to scorching heat and prolonged power outages, exacerbating the effects of the ongoing war. The situation has severe implications for the city's residents, who are struggling to access basic necessities. The crisis highlights the need for urgent humanitarian assistance and support.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/scorching-heat-prolonged-power-outages-deepen-hardships-in-khartoum/"
+        },
+        {
+          "title": "North Korea decries NATO fuel network overhaul as 'unprecedented' war preparations",
+          "summary": "North Korea has condemned NATO's recently approved fuel network overhaul, describing it as 'unprecedented' war preparations. This statement reflects the ongoing tensions between North Korea and the international community, with significant implications for global security and stability. The situation has the potential to escalate tensions in the region.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/north-korea-decries-nato-fuel-network-overhaul-as-unprecedented-war-preparations/"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "RBI likely to hold rates in August, maintain hawkish tone as inflation risks persist: Economists",
+          "summary": "The Reserve Bank of India is expected to keep interest rates unchanged in its August monetary policy review due to elevated inflation risks. This decision is based on a poll of economists and treasury heads. The RBI's stance is likely to remain hawkish, indicating a cautious approach to monetary policy.",
+          "source": "Greater Kashmir",
+          "url": "https://www.greaterkashmir.com/national/rbi-likely-to-hold-rates-in-august-maintain-hawkish-tone-as-inflation-risks-persist-economists-12221206"
+        },
+        {
+          "title": "Stock market outlook: RBI policy, earnings and Middle East tensions to set Dalal Street mood this week",
+          "summary": "The Indian stock market is expected to be influenced by several domestic and global events, including the RBI's monetary policy review and earnings reports. Middle East tensions are also likely to impact investor sentiment. The market ended the previous week on a strong note, but its mood this week will depend on these factors.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-outlook-rbi-policy-earnings-and-middle-east-tensions-to-set-dalal-street-mood-this-week/articleshow/132804366.cms"
+        },
+        {
+          "title": "More dialogue needed between youth & policymakers as AI creating uncertainty about jobs: Ex - NITI Aayog VC",
+          "summary": "Former NITI Aayog Vice Chairman Rajiv Kumar emphasized the need for more dialogue between policymakers and youth, as Artificial Intelligence is creating uncertainty about job prospects. He also stressed the importance of India achieving higher economic growth to become an upper-middle-income country. Kumar suggested state-specific export policies to boost manufacturing and employment.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/more-dialogue-needed-between-youth-policymakers-as-ai-creating-uncertainty-about-jobs-ex-niti-aayog-vc/articleshow/132800723.cms"
+        },
+        {
+          "title": "SBI Research raises India's Q1 FY27 GDP growth estimate to around 7%",
+          "summary": "SBI Research has revised its estimate for India's GDP growth in the first quarter of FY27 to around 7%, citing stronger economic indicators, improved industrial activity, and a recovery in exports. This is higher than earlier expectations, indicating a positive outlook for the Indian economy. The revision is based on a Pre-Monetary Policy Committee report released by SBI Research.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3958302-sbi-research-raises-indias-q1-fy27-gdp-growth-estimate-to-around-7"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Zepto to raise pre-IPO funding amid delayed listing",
+          "summary": "Zepto is raising funds through a pre-IPO financing due to a tepid response from investors to its public listing, delaying its listing plans. This move indicates the company's efforts to secure funding before going public. The development is significant for India's startup ecosystem, particularly in the quick commerce sector.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-to-raise-pre-ipo-funding-amid-delayed-listing/articleshow/132791582.cms"
+        },
+        {
+          "title": "India startup funding slumps 57% in a week as big",
+          "summary": "Indian startups raised $80 million across nine funding rounds during July 24–30, marking a 57% decline from the previous week. The slowdown in early- and late-stage funding is a significant trend in the Indian startup ecosystem. Despite this, seed-stage activity remains strong, indicating a continued interest in new ideas and ventures.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-slumps-57-in-a-week-as-big-ticket-deals-dry-up-19959001.htm"
+        },
+        {
+          "title": "Swiggy, Eternal Surge As Zepto's IPO Valuation Reset Raises Market Share Hopes",
+          "summary": "Swiggy and Eternal shares have rallied as investors bet that Zepto's proposed IPO valuation cut and funding constraints could slow its expansion. This development could help listed rivals gain market share in India's quick commerce sector, indicating a shift in the competitive landscape. The outcome will depend on how these companies adapt to changing market conditions.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/markets/swiggy-eternal-surge-as-zeptos-ipo-valuation-reset-raises-market-share-hopes"
+        },
+        {
+          "title": "wheeler business becomes unicorn with fresh investment",
+          "summary": "Mahindra Last Mile Mobility has entered the unicorn club after raising ₹322 crore in a funding round, taking its valuation to ₹10,822 crore. This investment strengthens the company's lead in India's electric three-wheeler market, underscoring investor confidence in the EV segment. The development highlights the growth potential of India's electric vehicle industry.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/business/companies/mahindra-last-mile-mobility-unicorn-lightrock-funding-electric-three-wheeler-ev-business-19958563.htm"
+        },
+        {
+          "title": "Mahindra Last Mile Mobility turns unicorn after Rs 322-crore funding at Rs 10,822 crore valuation",
+          "summary": "Mahindra Last Mile Mobility has turned unicorn after a ₹322-crore funding round, valuing the company at ₹10,822 crore. This investment reflects investor confidence in India's electric three-wheeler market, which is one of the fastest-growing EV segments. The development is significant for the Indian automotive industry and the broader EV ecosystem.",
+          "source": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/automobile/mahindra-last-mile-mobility-turns-unicorn-after-rs-322-crore-funding-at-rs-10-822-crore-valuation-article-13989369.html"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Supreme Court's Justice Bhuyan backs more transparency in collegium’s operation",
+          "summary": "Supreme Court Justice Ujjal Bhuyan has called for more transparency in the collegium's operation, stating that not providing reasons for decisions is a disservice to outstanding judges. This statement highlights the need for greater accountability within the judiciary. The Judicial Transparency Index report was released to emphasize this point.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/supreme-court-justice-ujjal-bhuyan-backs-more-transparency-in-collegium-operation-101785638404268.html"
+        },
+        {
+          "title": "How smooth are govt websites like IRCTC, EPFO, Digilocker in India, the land of techies?",
+          "summary": "Many government websites in India, such as IRCTC and EPFO, are slow, glitchy, and difficult to navigate, despite being used by millions daily. This issue affects various services, including train ticket booking, RTI filing, and accessing court records. Experts and users have expressed concerns about the usability of these portals.",
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/sunday-special/story/indian-government-websites-irctc-railone-ugc-net-rti-epfo-umang-glitches-2939953-2026-08-02"
+        },
+        {
+          "title": "DMK Moves SC Seeking Immediate Release of Cauvery Water To Tamil Nadu",
+          "summary": "The DMK has approached the Supreme Court, requesting the Karnataka government to immediately release Cauvery water to Tamil Nadu. This move is based on the Supreme Court's 2018 ruling and directives from the Cauvery Water Management Authority. The DMK is seeking compliance with these existing orders.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/dmk-moves-sc-seeking-immediate-release-of-cauvery-water-to-tamil-nadu-article-155229039"
+        },
+        {
+          "title": "SC flags absence of law regulating private detectives, urges Parliament, govt to act",
+          "summary": "The Supreme Court has highlighted the lack of legislation regulating private detectives in India and has urged the government and Parliament to address this issue. The court is seeking to fill the legislative gap regarding the investigations conducted by private detectives.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/india/sc-flags-absence-of-law-regulating-private-detectives-urges-parliament-govt-to-act/"
+        },
+        {
+          "title": "Wife not entitled to interim maintenance if adultery allegation is prima facie true: SC",
+          "summary": "The Supreme Court has ruled that a wife is not entitled to interim maintenance if an allegation of adultery against her is found to be prima facie true. This decision sets a precedent for similar cases, emphasizing the importance of considering allegations of adultery in maintenance claims.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/wife-not-entitled-to-interim-maintenance-if-adultery-allegation-is-prima-facie-true-sc/articleshow/132792673.cms"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-08-02T18:59:48.681840+00:00",
     "brief": "Tensions are escalating globally, with Iran executing a 20-year-old protester, its third anti-regime demonstrator in a week, and North Korea condemning NATO's fuel network overhaul as \"unprecedented\" war preparations. Meanwhile, in India, the economy is showing signs of growth, with SBI Research revising the country's Q1 FY27 GDP growth estimate to around 7%, and Mahindra Last Mile Mobility becoming a unicorn after a fresh investment. However, the Indian startup funding scene has slumped 57% in a week, with Zepto raising pre-IPO funding amid a delayed listing, which may impact the quick commerce sector and the broader startup ecosystem.",
     "categories": {
@@ -3397,134 +3525,6 @@
           "summary": "The Federation of All India Medical Association (FAIMA) has urged the government and the Supreme Court to fast-track admissions for NEET SS counselling, which has been stalled for five months. This delay is affecting the careers of medical students and the healthcare system as a whole. The association is seeking a prompt resolution to the issue.",
           "source": "Times of India",
           "url": "https://timesofindia.indiatimes.com/education/news/neet-ss-counselling-stalemate-enters-fifth-month-faima-urges-supreme-court-centre-to-fast-track-admissions/articleshow/132638630.cms"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-27T02:13:46.049438+00:00",
-    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The US-China trade tensions are escalating with Trump's renewed tariff threats, while the Russia-Ukraine conflict may intensify with Putin's plans to mobilize more troops. In India, the RBI's measures to shift the balance of payments to a surplus and ease pressure on the rupee are being closely watched, as the country also navigates the challenges posed by the El Niño phenomenon to its agriculture and food prices. Meanwhile, the Indian startup funding scene has seen a decline, and the country's medical education system is facing uncertainty due to the delayed NEET SS counselling.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Trump renews tariff onslaught with a whirlwind week of threats",
-          "summary": "US President Trump has renewed his tariff threats, which could potentially escalate trade tensions. This move is seen as a significant development in global trade policies. The implications of these threats are being closely watched by economists and trade experts.",
-          "source": "Moneycontrol",
-          "url": "https://www.moneycontrol.com/news/business/trump-renews-tariff-onslaught-with-a-whirlwind-week-of-threats-13983825.html"
-        },
-        {
-          "title": "Putin preparing to send more Russians to war': Zelenskyy claims losses now exceed recruitment",
-          "summary": "Ukrainian President Volodymyr Zelenskyy has claimed that Russian President Vladimir Putin is planning to mobilize more troops for the ongoing conflict. This development suggests that the war between Russia and Ukraine may intensify. The situation is being closely monitored by the international community.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/defence/international/putin-preparing-to-send-more-russians-to-war-zelenskyy-claims-losses-now-exceed-recruitment/articleshow/132640076.cms"
-        },
-        {
-          "title": "Residents profit from Dubai real estate cooldown amid Mideast war",
-          "summary": "The real estate market in Dubai has cooled down due to the ongoing Middle East war, allowing residents to purchase properties at lower prices. This development is significant for the regional economy. The cooldown in the property market may have implications for the global economy as well.",
-          "source": "The New Indian Express",
-          "url": "https://www.newindianexpress.com/business/2026/Jul/26/residents-profit-from-dubai-real-estate-cooldown-amid-mideast-war"
-        },
-        {
-          "title": "What's Behind The UN Chief's Syria Visit?",
-          "summary": "UN Secretary-General António Guterres has visited Syria, signaling renewed international engagement with the country's transitional government. The visit aims to support the country's recovery after years of civil war. The international community is watching the developments in Syria closely.",
-          "source": "Outlook India",
-          "url": "https://www.outlookindia.com/national/outlook-explains-whats-behind-the-un-chiefs-syria-visit"
-        },
-        {
-          "title": "UN chief in Syria on solidarity visit as post",
-          "summary": "UN Secretary-General Antonio Guterres has visited Syria to show solidarity with the country, which is facing severe poverty and war damage. The visit highlights the need for global support for Syria's recovery. The country's reconstruction costs are estimated to be around USD 216 billion.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/world/un-chief-in-syria-on-solidarity-visit-as-post-assad-recovery-falters"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "RBI, govt measures could turn India's balance of payments surplus, ease pressure on rupee: HDFC",
-          "summary": "Recent policy measures by the RBI and government may shift India's balance of payments to a surplus, attracting significant capital inflows and strengthening the external position, which could ease pressure on the Indian rupee. These developments are expected to boost foreign currency deposits and make government securities more accessible to foreign investors. This could have a positive impact on the Indian economy.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-govt-measures-could-turn-indias-balance-of-payments-surplus-ease-pressure-on-rupee-hdfc/articleshow/132622306.cms"
-        },
-        {
-          "title": "India concludes WTO Trade Policy Review; members seek clarifications on PLI, QCOs, trade policy measures",
-          "summary": "India concluded its eighth Trade Policy Review at the World Trade Organization, where member countries sought clarifications on issues such as production-linked incentive schemes and trade remedies. India defended its policies as being consistent with WTO rules and the needs of a developing economy. The review is an important aspect of India's engagement with the global trade community.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/india-concludes-wto-trade-policy-review-members-seek-clarifications-on-pli-qcos-trade-policy-measures"
-        },
-        {
-          "title": "Quality control orders intended to achieve public policy objectives: India at WTO",
-          "summary": "India stated that its quality control orders are intended to achieve public policy objectives, and its tariff reforms and customs simplification measures have strengthened the country's integration with the global economy. The country's ambitious Free Trade Agreement strategy is also a key aspect of its global trade engagement. This is an important aspect of India's trade policy and its interaction with the WTO.",
-          "source": "The Hindu Business Line",
-          "url": "https://www.thehindubusinessline.com/economy/quality-control-orders-intended-to-achieve-public-policy-objectives-india-at-wto/article71260884.ece"
-        },
-        {
-          "title": "India faces rising food and fuel risks from El Niño",
-          "summary": "The developing El Niño phenomenon poses a threat to India's agriculture and food prices, which could have an impact on the country's growth and inflation outlook. The effects of El Niño will depend on rainfall and policy responses, making it a key factor to watch in the coming months. This could have significant implications for India's economy and food security.",
-          "source": "Moneycontrol",
-          "url": "https://www.moneycontrol.com/news/opinion/india-faces-rising-food-and-fuel-risks-from-el-ni-o-13982423.html"
-        },
-        {
-          "title": "RBI Says India's Economy Is Strong; But Two Risks Could Change Everything",
-          "summary": "The RBI has stated that India's economy remains resilient, but has warned that the Iran war and an uneven monsoon could pose risks to growth, inflation, and policy outlook. These two factors have the potential to impact India's economic trajectory and require close monitoring. The RBI's assessment is an important indicator of the country's economic health and potential challenges.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/business-economy/economy/rbi-says-indias-economy-is-strong-but-two-risks-could-change-everything-article-155156142"
-        }
-      ],
-      "Business": [
-        {
-          "title": "India startup funding falls 44% WoW to $186 million amid slowdown in big",
-          "summary": "Indian startups raised $186.1 million in funding during the week of July 17-23, a 44% decrease from the previous week. The decline was mainly due to a slowdown in late-stage investments. Despite this, early-stage funding saw a strong rebound.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-falls-44-wow-to-186-million-amid-slowdown-in-big-ticket-deals-19953624.htm"
-        },
-        {
-          "title": "Milky Mist IPO set for August launch, aiming to be India's largest dairy offering",
-          "summary": "Milky Mist Dairy Food is set to launch its initial public offering (IPO) in August, which is expected to be the largest by an Indian dairy company. The company has secured ₹482 crore in pre-IPO funding and has been valued at approximately ₹9,300 crore. This IPO follows a significant pre-IPO funding round in May.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-ipo-set-for-august-launch-aiming-to-be-indias-largest-dairy-offering/articleshow/132594441.cms"
-        },
-        {
-          "title": "Environmental CSR in India: Rs. 17,000 Crore Deployed Over A Decade, But Climate",
-          "summary": "Corporate India has invested ₹17,377 crore in environmental sustainability and conservation initiatives over the past decade. However, a report by Sattva Consulting found that funding remains concentrated among a few companies and is not always aligned with regions facing environmental challenges. This highlights the need for more targeted environmental CSR efforts.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/environmental-csr-in-india-rs-17000-crore-deployed-over-a-decade-but-climate-vulnerable-regions-remain-underfunded/"
-        },
-        {
-          "title": "Q1 bank credit flow surges 10x as market mop-up collapses",
-          "summary": "Bank credit has become a primary source of funding for the commercial sector in the first quarter, following a sharp decline in capital market mobilization. This shift highlights the changing dynamics of the funding landscape in India. As a result, bank credit has surged significantly, with a 10x increase in flow.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/q1-bank-credit-flow-surges-10x-as-market-mop-up-collapses/articleshow/132569873.cms"
-        },
-        {
-          "title": "MS Dhoni’s latest startup bet isn’t gaming or fintech. It’s rooftop solar",
-          "summary": "Mahendra Singh Dhoni has invested in SolarSquare, a rooftop solar company, and will also serve as its brand ambassador. The investment is part of a $53 million funding round, which aims to boost India's clean energy growth. This move highlights the growing interest in renewable energy startups in India.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/business/news/ms-dhonis-latest-startup-bet-isnt-gaming-or-fintech-its-rooftop-solar/4298377/"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "The CJP movement: From the Supreme Court to Pradhan’s Resignation",
-          "summary": "A movement sparked by an Indian Chief Justice's comment has led to widespread protests and calls for action on issues like youth unemployment and education. The movement, which began on social media, has gained significant traction and led to the resignation of the Education Minister. The protests highlight the growing concerns of India's youth and their demands for change.",
-          "source": "Malayala Manorama",
-          "url": "https://www.onmanorama.com/news/india/2026/07/26/the-cjp-movement-from-the-supreme-court-to-pradhan-s-resignation.html"
-        },
-        {
-          "title": "'No Law Bans Eating Chicken Over Ganga': SC Judge Says Space For Dissent Shrinking In India",
-          "summary": "Supreme Court Justice Ujjal Bhuyan has expressed concern over the shrinking space for dissent in India, citing the arrest and prolonged incarceration of peaceful protesters. He highlighted the need for protecting democratic rights and ensuring that ordinary activities are not criminalized. This statement comes at a time when there is a growing debate about the state of democracy in India.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/india/no-law-bans-eating-chicken-over-ganga-sc-judge-says-space-for-dissent-shrinking-in-india-article-155181843"
-        },
-        {
-          "title": "NEET SS counselling stalemate enters fifth month; FAIMA urges Supreme Court, Centre to fast-track admissions",
-          "summary": "The Federation of All India Medical Association (FAIMA) has urged the government and the Supreme Court to intervene in the ongoing stalemate over NEET SS counselling, which has been delayed for five months. The delay has caused uncertainty for medical students and has prompted calls for a speedy resolution. The issue highlights the challenges faced by India's medical education system.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/education/news/neet-ss-counselling-stalemate-enters-fifth-month-faima-urges-supreme-court-centre-to-fast-track-admissions/articleshow/132638630.cms"
-        },
-        {
-          "title": "UP govt reconstitutes SIT in Ram temple donation ‘theft’ case after Supreme Court order",
-          "summary": "The Uttar Pradesh government has reconstituted a Special Investigation Team (SIT) to probe the alleged theft of donations meant for the Ram temple, following a Supreme Court order. The SIT is expected to submit its first progress report to the court soon. The case has sparked controversy and raised questions about the management of temple donations.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/up-govt-reconstitutes-sit-in-ram-temple-donation-theft-case-after-supreme-court-order-101785026753822.html"
         }
       ]
     }
