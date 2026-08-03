@@ -1,5 +1,121 @@
 [
   {
+    "generated_at": "2026-08-03T19:22:47.610006+00:00",
+    "brief": "Today's brief highlights key developments across geopolitics, economy, and national affairs. The South China Sea dispute has regained attention due to China's new management measures, while the Saudi Crown Prince has urged the US to pursue diplomacy with Iran to prevent a wider conflict in the Middle East. Meanwhile, in India, the rupee has climbed to a one-month peak against the US dollar, driven by a decline in oil prices and stronger foreign inflows, as the Reserve Bank of India's Monetary Policy Committee begins its meeting to weigh inflation risks and growth concerns.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "South Korea, US launch joint underwater survey for Korean War aircraft wreckage",
+          "summary": "South Korea and the US have launched a joint underwater excavation project to locate and recover the wreckage of Korean War aircraft. This project aims to honor the memories of those who served in the war. The joint effort highlights the ongoing cooperation between the two countries.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/south-korea-us-launch-joint-underwater-survey-for-korean-war-aircraft-wreckage/"
+        },
+        {
+          "title": "Saudi Crown Prince calls on Trump to avoid new Iran strikes, pursue diplomacy to prevent wider Middle East war: Report",
+          "summary": "The Saudi Crown Prince has urged the US to avoid new strikes on Iran and instead pursue diplomatic efforts to prevent a wider conflict in the Middle East. This warning comes as tensions between the US and Iran remain high. The Prince's call for diplomacy aims to maintain regional stability and security.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/news/us-news/saudi-crown-prince-calls-on-trump-to-avoid-new-iran-strikes-pursue-diplomacy-to-prevent-wider-middle-east-war-report-11785670259301.html"
+        },
+        {
+          "title": "Knowledge Nugget | South China Sea back in spotlight: What’s happening and why it matters",
+          "summary": "The South China Sea dispute has gained attention again due to China's new management measures for Huangyan Dao. This development has implications for international relations and regional stability. The dispute involves several countries, including the Philippines, and affects global trade and security.",
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-south-china-sea-dispute-islands-philippines-upsc-10814514/"
+        },
+        {
+          "title": "Waging war against God': Iran hangs 20-year-old protester, third anti-regime demonstrator executed in a week",
+          "summary": "Iran has executed a 20-year-old protester, Arvin Kheirkhah, who was arrested during anti-government demonstrations in January. This execution has sparked concerns for other detainees on death row and has been condemned by the international community. The incident highlights the ongoing human rights issues in Iran.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/news/world/waging-war-against-god-iran-hangs-20-year-old-protester-third-anti-regime-demonstrator-executed-in-a-week-11785648210771.html"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Rupee climbs to one-month peak of 95.13 vs USD on oil slump, stronger inflows",
+          "summary": "The Indian rupee reached a one-month high due to a decline in oil prices and an increase in foreign inflows. The Reserve Bank of India is expected to maintain current interest rates, and analysts anticipate a cautious policy statement regarding inflation. This development is significant as it reflects the impact of global events on India's economy.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/forex/rupee-climbs-to-one-month-peak-on-oil-slump-stronger-inflows/articleshow/132819760.cms"
+        },
+        {
+          "title": "RBI MPC meeting begins today; Rate pause likely as policymakers balance inflation risks and growth concerns",
+          "summary": "The Reserve Bank of India's Monetary Policy Committee has begun its three-day policy meeting, with market participants expecting the central bank to keep the benchmark repo rate unchanged. The decision will be influenced by domestic inflation dynamics and global uncertainties. This meeting is crucial as it will impact the country's economic growth and inflation.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3958656-rbi-mpc-meeting-begins-today-rate-pause-likely-as-policymakers-balance-inflation-risks-and-growth-concerns"
+        },
+        {
+          "title": "RBI MPC begins today as policymakers weigh inflation, crude risks",
+          "summary": "The Reserve Bank of India's Monetary Policy Committee has started its meeting, with market participants expecting the benchmark repo rate to remain unchanged. The central bank will focus on domestic inflation and growth, while closely monitoring global uncertainties and crude oil prices. This meeting will consider evolving domestic and external factors to inform future policy decisions.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-mpc-begins-today-as-policymakers-weigh-inflation-crude-risks/articleshow/132817892.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Zepto to raise pre-IPO funding amid delayed listing",
+          "summary": "Zepto is raising funds through a pre-IPO financing due to a tepid response from investors to its public listing. This move indicates a delay in its listing plans. The company is seeking to raise around $105 million in pre-IPO funding.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-to-raise-pre-ipo-funding-amid-delayed-listing/articleshow/132791582.cms"
+        },
+        {
+          "title": "India startup funding slumps 57% in a week as big",
+          "summary": "Indian startups raised $80 million across nine funding rounds during July 24–30, marking a 57% decline from the previous week. This decline is attributed to a slowdown in early- and late-stage funding. Despite this, seed-stage activity remained strong.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-slumps-57-in-a-week-as-big-ticket-deals-dry-up-19959001.htm"
+        },
+        {
+          "title": "Swiggy, Eternal Surge As Zepto's IPO Valuation Reset Raises Market Share Hopes",
+          "summary": "Swiggy and Eternal shares have rallied as investors believe Zepto's proposed IPO valuation cut and funding constraints could slow its expansion. This could help listed rivals gain market share in India's quick commerce sector. The development indicates a shift in market dynamics.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/markets/swiggy-eternal-surge-as-zeptos-ipo-valuation-reset-raises-market-share-hopes"
+        },
+        {
+          "title": "wheeler business becomes unicorn with fresh investment",
+          "summary": "Mahindra Last Mile Mobility has entered the unicorn club after raising ₹322 crore in a funding round, taking its valuation to ₹10,822 crore. This investment strengthens its lead in India's electric three-wheeler market. The funding underscores investor confidence in the EV segment.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/business/companies/mahindra-last-mile-mobility-unicorn-lightrock-funding-electric-three-wheeler-ev-business-19958563.htm"
+        },
+        {
+          "title": "Mahindra Last Mile Mobility turns unicorn after Rs 322-crore funding at Rs 10,822 crore valuation",
+          "summary": "Mahindra Last Mile Mobility has turned unicorn after a ₹322-crore funding round, valuing the company at ₹10,822 crore. The investment highlights the growth potential of India's electric three-wheeler market. The funding is expected to support the company's expansion plans.",
+          "source": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/automobile/mahindra-last-mile-mobility-turns-unicorn-after-rs-322-crore-funding-at-rs-10-822-crore-valuation-article-13989369.html"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "'Wherever There Is Road, There Should Be Walkers' Space': Supreme Court To Centre On Footpaths",
+          "summary": "The Supreme Court has directed the Centre to ensure that every road has demarcated, encroachment-free pedestrian space, reinforcing the right to walk on footpaths as a fundamental right. This move aims to promote pedestrian safety and convenience. The Centre has been given two weeks to comply with the directive.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/supreme-court-to-centre-on-footpaths-wherever-there-is-road-there-should-be-walkers-space-article-155235427"
+        },
+        {
+          "title": "No more protests at Jantar Mantar? Supreme Court to hear plea against suitability of Delhi site",
+          "summary": "The Supreme Court is set to hear a plea regarding the suitability of Jantar Mantar as a protest site in Delhi. The court has asked the Solicitor General to take instructions and reply to the plea, which seeks alternative arrangements for agitations. This development may impact the future of protests at Jantar Mantar.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/no-more-protests-at-jantar-mantar-supreme-court-to-hear-plea-pil-against-suitability-of-delhi-site-cjp-protests-neet-101785738931320.html"
+        },
+        {
+          "title": "Live-in partners can seek protection under Section 498A, says Supreme Court",
+          "summary": "The Supreme Court has ruled that live-in partners can seek protection under Section 498A of the Indian Penal Code, which deals with cruelty by a husband or his relatives. This judgment expands the scope of protection for live-in partners. The court's decision aims to provide relief to live-in partners who face cruelty or harassment.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/live-in-partners-can-seek-protection-under-section-498a-says-supreme-court/articleshow/132820042.cms"
+        },
+        {
+          "title": "Over 10,000 SC Cases Pending For A Decade; 80,660 High Court Cases Unresolved for 30 Years",
+          "summary": "The Centre has informed Parliament that over 10,000 Supreme Court cases have been pending for a decade, while 80,660 High Court cases remain unresolved for 30 years. This highlights the significant backlog of cases in the Indian judiciary. The delay in resolving these cases can impact the delivery of justice and affect the lives of those involved.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/over-10000-sc-cases-pending-for-a-decade-80660-high-court-cases-unresolved-for-30-years-article-155234773"
+        },
+        {
+          "title": "'Link to vehicle key proof for Motor Vehicles Act claim': Supreme Court answers victim families' question",
+          "summary": "The Supreme Court has clarified that families of victims must prove that the vehicle was directly involved in the accident to claim compensation under the Motor Vehicles Act. This ruling aims to establish a clear link between the vehicle and the accident, ensuring that compensation is awarded to genuine claimants. The court's decision provides guidance on the requirements for claiming compensation under the Act.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/need-to-prove-vehicle-link-for-mva-compensation-supreme-court-101785698383656.html"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-08-03T14:23:19.083218+00:00",
     "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The Saudi Crown Prince's call for the US to avoid new strikes on Iran and pursue diplomacy instead has significant implications for regional and international security, while the South China Sea dispute has resurfaced with China introducing new management measures. In India, the Reserve Bank of India's Monetary Policy Committee is expected to maintain its current interest rate and neutral stance, with economists anticipating no change in interest rates due to inflation forecasts and economic conditions. Meanwhile, the Indian startup funding landscape has seen a significant decline, with total investments plunging 57% from the previous week, and companies like Zepto are raising pre-IPO funding amid delayed listing plans.",
     "categories": {
@@ -3427,134 +3543,6 @@
           "summary": "The Supreme Court has refused a plea seeking direction to the Animal Welfare Board of India to address cruelty to dogs in animal birth control centres and shelters. The court's decision means that the issue will not be taken up by the judiciary at this time.",
           "source": "The Tribune",
           "url": "https://www.tribuneindia.com/news/india/sc-rejects-plea-seeking-direction-to-prevent-cruelty-to-dogs-in-animal-birth-control-centres/"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-27T19:17:13.338464+00:00",
-    "brief": "Today's brief highlights key developments across geopolitics, economy, business, and national affairs. Indian Prime Minister Narendra Modi is set to engage in a month of high-stakes diplomacy with key international summits, including the SCO Summit, Brics Summit, and the UN General Assembly, while the country's economy is expected to benefit from recent policy measures that could shift India's balance of payments to a surplus. Meanwhile, the Reserve Bank of India has warned of potential risks to India's economic stability, including the Iran war and an uneven monsoon, and the Indian startup funding landscape has seen a decline, with a 44% decrease in funding to $186 million.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "After Mayor Mamdani's 'war criminal', ‘arrest’ remarks, Netanyahu says 'I will come to New York'",
-          "summary": "Israeli PM Benjamin Netanyahu has dismissed the International Criminal Court's war crimes charges against him as “bogus” and plans to visit New York despite being called a 'war criminal' by Mayor Zohran Mamdani. This development highlights the ongoing tensions between Israel and the international community. The situation is being closely watched globally, especially in the context of Middle East geopolitics.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/world-news/after-mayor-zohran-mamdanis-war-criminal-arrest-remarks-netanyahu-says-i-will-come-to-new-york-101785126937229.html"
-        },
-        {
-          "title": "India gears up for month-long summit diplomacy: PM Modi to attend SCO meet, host Brics Summit & address UNGA",
-          "summary": "India is set to engage in a month of high-stakes diplomacy with key international summits, including the SCO Summit, Brics Summit, and the UN General Assembly. These events will focus on discussions around terrorism, supply chains, and opportunities for the Global South. India also aims to secure a non-permanent UN Security Council seat for 2028-29, underscoring its growing role in global affairs.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/india/india-gears-up-for-month-long-summit-diplomacy-pm-modi-to-attend-sco-meet-host-brics-summit-address-unga/articleshow/132646443.cms"
-        },
-        {
-          "title": "Ukraine's attack on Iranian commercial vessel is to drag Europe into Israel's war: Iran FM",
-          "summary": "Iran's Foreign Minister has accused Ukraine of attempting to draw Europe into the conflict between Israel and Iran by attacking an Iranian commercial vessel. This statement reflects the complex and escalating tensions in the Middle East, with multiple countries being drawn into the conflict. The situation has significant implications for global geopolitics and regional stability.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/ukraines-attack-on-iranian-commercial-vessel-is-to-drag-europe-into-israels-war-iran-fm/"
-        },
-        {
-          "title": "Pirelli's calendar, India's soft power",
-          "summary": "The new Pirelli calendar features an entirely Indian cast and backdrop, highlighting India's cultural and artistic heritage on a global stage. This showcases India's soft power and its growing influence in international culture. The inclusion of Indian talent in prestigious international platforms demonstrates the increasing recognition and acceptance of Indian creators globally.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/opinion/et-editorial/pirellis-calendar-indias-soft-power/articleshow/132645152.cms"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "RBI, govt measures could turn India's balance of payments surplus, ease pressure on rupee: HDFC",
-          "summary": "The Reserve Bank of India and government's recent policy measures may shift India's balance of payments to a surplus, attracting significant capital inflows and strengthening the external position, which could ease pressure on the Indian rupee. These developments are expected to boost foreign currency deposits and make government securities more accessible for foreign investors. This could have a positive impact on India's economy.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-govt-measures-could-turn-indias-balance-of-payments-surplus-ease-pressure-on-rupee-hdfc/articleshow/132622306.cms"
-        },
-        {
-          "title": "India concludes WTO Trade Policy Review; members seek clarifications on PLI, QCOs, trade policy measures",
-          "summary": "India concluded its eighth Trade Policy Review at the World Trade Organization, where member countries sought clarifications on production-linked incentive schemes, Quality Control Orders, and trade remedies. India defended its policies as being consistent with WTO rules and the needs of a developing economy. The review is an important aspect of India's engagement with the global trade community.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/india-concludes-wto-trade-policy-review-members-seek-clarifications-on-pli-qcos-trade-policy-measures/"
-        },
-        {
-          "title": "Quality control orders intended to achieve public policy objectives: India at WTO",
-          "summary": "India stated that its quality control orders are intended to achieve public policy objectives, and its tariff reforms and customs simplification measures have strengthened the country's integration with the global economy. The country also has an ambitious Free Trade Agreement strategy. This indicates India's efforts to balance its domestic policies with its international trade commitments.",
-          "source": "The Hindu Business Line",
-          "url": "https://www.thehindubusinessline.com/economy/quality-control-orders-intended-to-achieve-public-policy-objectives-india-at-wto/article71260884.ece"
-        },
-        {
-          "title": "India faces rising food and fuel risks from El Niño",
-          "summary": "The developing El Niño phenomenon poses a threat to India's agriculture and food prices, which could impact the country's growth and inflation outlook. The effects of El Niño will depend on rainfall and policy responses, making it a significant factor to consider in India's economic planning. This highlights the importance of monitoring and preparing for climate-related risks.",
-          "source": "Moneycontrol",
-          "url": "https://www.moneycontrol.com/news/opinion/india-faces-rising-food-and-fuel-risks-from-el-ni-o-13982423.html"
-        },
-        {
-          "title": "RBI Says India's Economy Is Strong; But Two Risks Could Change Everything",
-          "summary": "The Reserve Bank of India states that India's economy remains resilient, but warns that the Iran war and an uneven monsoon could pose significant risks to growth, inflation, and policy outlook. These risks have the potential to impact India's economic stability and require careful monitoring and planning. The RBI's assessment highlights the importance of being prepared for potential challenges.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/business-economy/economy/rbi-says-indias-economy-is-strong-but-two-risks-could-change-everything-article-155156142"
-        }
-      ],
-      "Business": [
-        {
-          "title": "India startup funding falls 44% WoW to $186 million amid slowdown in big",
-          "summary": "Indian startups raised $186.1 million in funding during the week of July 17-23, a 44% decrease from the previous week, due to a slowdown in late-stage investments. This decline outweighed a strong rebound in early-stage funding. The slowdown in big-ticket deals has impacted the overall funding landscape for Indian startups.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-falls-44-wow-to-186-million-amid-slowdown-in-big-ticket-deals-19953624.htm"
-        },
-        {
-          "title": "Milky Mist IPO set for August launch, aiming to be India's largest dairy offering",
-          "summary": "Milky Mist Dairy Food is planning to launch its initial public offering (IPO) in early August, which is expected to be the largest by an Indian dairy company. The company has secured ₹482 crore in pre-IPO funding and has been valued at approximately ₹9,300 crore. This IPO will be a significant development in the Indian dairy industry.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-ipo-set-for-august-launch-aiming-to-be-indias-largest-dairy-offering/articleshow/132594441.cms"
-        },
-        {
-          "title": "Environmental CSR in India: Rs. 17,000 Crore Deployed Over A Decade, But Climate",
-          "summary": "Corporate India has invested Rs. 17,377 crore in environmental sustainability and conservation initiatives over the past decade. However, a new report finds that the funding remains concentrated among a small group of companies and is not always aligned with the regions facing the greatest environmental challenges. This highlights the need for more targeted and effective environmental CSR initiatives.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/environmental-csr-in-india-rs-17000-crore-deployed-over-a-decade-but-climate-vulnerable-regions-remain-underfunded/"
-        },
-        {
-          "title": "Q1 bank credit flow surges 10x as market mop-up collapses",
-          "summary": "Bank credit has surged in the first quarter as a sharp collapse in capital market mobilization has pushed companies to rely on banks for funding. This shift has made bank credit a crucial source of funding for the commercial sector. The surge in bank credit flow is a significant development in the Indian financial landscape.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/q1-bank-credit-flow-surges-10x-as-market-mop-up-collapses/articleshow/132569873.cms"
-        },
-        {
-          "title": "MS Dhoni’s latest startup bet isn’t gaming or fintech. It’s rooftop solar",
-          "summary": "Mahendra Singh Dhoni has invested in SolarSquare, a rooftop solar company, and will also be its brand ambassador. This investment is part of a $53 million funding round and aims to boost India's clean energy growth. The investment in rooftop solar highlights the growing interest in renewable energy in India.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/business/news/ms-dhonis-latest-startup-bet-isnt-gaming-or-fintech-its-rooftop-solar/4298377/"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Just Because There Is Agitation, Does Not Mean There Should Be Lathi Charge: Supreme Court",
-          "summary": "The Supreme Court stated that peaceful protest is a fundamental right and questioned the police's use of lathi charge during a protest. The court agreed to hear pleas regarding alleged excesses and injuries to both protesters and police. This decision aims to protect the right to peaceful protest in India.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/india/cjp-protest-just-because-there-is-agitation-does-not-mean-there-should-be-lathi-charge-supreme-court-says-article-155185797"
-        },
-        {
-          "title": "'Peaceful Protest Is A Constitutional Right, Lathi Charge Can't Be The Answer': CJI Surya Kant's Strong Message On Jantar Mantar Police Action",
-          "summary": "Chief Justice of India Surya Kant emphasized that peaceful protests are constitutionally protected and cannot be justification for a lathi charge. The Supreme Court will hear petitions alleging police excess during a student protest. This highlights the importance of protecting the right to peaceful protest.",
-          "source": "Republic World",
-          "url": "https://www.republicworld.com/india/peaceful-protest-is-a-constitutional-right-lathi-charge-can-t-be-the-answer-cji-surya-kant-s-strong-message-on-jantar-mantar-police-action-2026-07-27-133568"
-        },
-        {
-          "title": "Right to peaceful protest guaranteed in Constitution, observes CJI, says agitation can't justify police excess",
-          "summary": "The Supreme Court observed that the right to peaceful protest is a constitutional guarantee and indicated that it may consider evolving a national protocol for peaceful protests. This decision aims to balance the right to protest with maintaining public order.",
-          "source": "ANI (Asian News International)",
-          "url": "https://www.aninews.in/news/national/general-news/right-to-peaceful-protest-guaranteed-in-constitution-observes-cji-says-agitation-cant-justify-police-excess20260727111716/"
-        },
-        {
-          "title": "'Agitation does not mean lathicharge': SC on police action against students protesting paper leak",
-          "summary": "The Supreme Court stated that the right to peaceful protest is constitutionally guaranteed and that agitation does not justify a lathi charge. The court's decision aims to protect the rights of protesters and ensure that police actions are proportionate to the situation.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/agitation-does-not-mean-lathicharge-sc-on-police-action-against-students-protesting-paper-leak/articleshow/132653360.cms"
-        },
-        {
-          "title": "Renting a home? Key rights every tenant and landlord should know",
-          "summary": "A recent Supreme Court ruling has clarified ownership proof requirements in eviction suits, aiding property owners. The Model Tenancy Act, 2021, aims to balance tenant and landlord rights. Understanding these rights and responsibilities is crucial for minimizing disputes and ensuring transparency in the rental market.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/wealth/plan/renting-a-home-key-rights-every-tenant-and-landlord-should-know/articleshow/132617967.cms"
         }
       ]
     }
