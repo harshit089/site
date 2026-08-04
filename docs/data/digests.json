@@ -1,5 +1,115 @@
 [
   {
+    "generated_at": "2026-08-04T13:53:54.708191+00:00",
+    "brief": "This week saw significant developments across various sectors, with escalating tensions in the Middle East and Eastern Europe, as Saudi Arabia joined US strikes in Iraq and Ukraine targeted a Russian e-commerce giant. Meanwhile, in the economic sphere, the Indian rupee reached a one-month high against the US dollar, driven by a decline in oil prices and increased foreign inflows, and the Reserve Bank of India's Monetary Policy Committee began its meeting, with a rate pause expected. Additionally, the startup funding landscape in India witnessed a 57% decline, with companies like Zepto exploring alternative funding options, highlighting the challenges faced by the sector amidst global uncertainties.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "The week that was in international affairs: Saudi joins US strikes in Iraq, Ukraine targets Russian e-commerce giant",
+          "summary": "Saudi Arabia joined the US in strikes against Iraq, while Ukraine targeted a Russian e-commerce giant, highlighting the escalating tensions in the Middle East and Eastern Europe. These developments have significant implications for global security and diplomacy. The US-Iran conflict has been a major concern for the international community, with many countries trying to avoid being drawn into the conflict.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/the-week-that-was-in-international-affairs-saudi-joins-us-strikes-in-iraq-ukraine-targets-russian-e-commerce-giant/articleshow/132836578.cms"
+        },
+        {
+          "title": "South Korea, US launch joint underwater survey for Korean War aircraft wreckage",
+          "summary": "South Korea and the US have launched a joint underwater excavation project to locate and recover the wreckage of Korean War aircraft. This project aims to provide closure for the families of missing soldiers and highlight the ongoing cooperation between the two countries. The joint project also underscores the enduring legacy of the Korean War and its impact on international relations.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/south-korea-us-launch-joint-underwater-survey-for-korean-war-aircraft-wreckage/"
+        },
+        {
+          "title": "Saudi Crown Prince calls on Trump to avoid new Iran strikes, pursue diplomacy to prevent wider Middle East war: Report",
+          "summary": "The Saudi Crown Prince has reportedly urged the US to avoid new strikes against Iran and instead pursue diplomatic efforts to prevent a wider conflict in the Middle East. This development highlights the complex web of alliances and rivalries in the region, with Saudi Arabia seeking to balance its own interests with the need for regional stability. The Crown Prince's warning underscores the potential risks of escalation and the need for careful diplomacy.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/news/us-news/saudi-crown-prince-calls-on-trump-to-avoid-new-iran-strikes-pursue-diplomacy-to-prevent-wider-middle-east-war-report-11785670259301.html"
+        },
+        {
+          "title": "Knowledge Nugget | South China Sea back in spotlight: What’s happening and why it matters",
+          "summary": "The South China Sea dispute has resurfaced, with China introducing new management measures for Huangyan Dao and the Philippines responding with concerns about regional stability. This development has significant implications for international relations, as the South China Sea is a critical trade route and a potential flashpoint for conflict. The dispute highlights the complex interplay between territorial claims, economic interests, and regional security.",
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-south-china-sea-dispute-islands-philippines-upsc-10814514/"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Will FD investors get higher interest rates as Iran",
+          "summary": "Banks in India may increase fixed deposit rates due to rising inflation and increased credit demand, as well as competition from small savings schemes and government securities. The widening gap between deposit growth and credit demand may compel banks to attract more deposits through better rates. This decision may be influenced by the Reserve Bank of India's policy changes.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/wealth/invest/bank-post-office-fd-interest-rate-2026-rbi-mpc-august-5-will-fd-investors-get-higher-interest-rates-as-iran-us-war-continues-and-inflation-shoots/articleshow/132819810.cms"
+        },
+        {
+          "title": "Rupee climbs to one-month peak of 95.13 vs USD on oil slump, stronger inflows",
+          "summary": "The Indian rupee reached a one-month high due to a decline in oil prices and an increase in foreign inflows. The Reserve Bank of India is expected to maintain current interest rates, and analysts anticipate a cautious policy statement regarding inflation. The rupee's climb is also influenced by foreign investors returning to Indian stocks and a slight increase in bond yields.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/forex/rupee-climbs-to-one-month-peak-on-oil-slump-stronger-inflows/articleshow/132819760.cms"
+        },
+        {
+          "title": "RBI MPC meeting begins today; Rate pause likely as policymakers balance inflation risks and growth concerns",
+          "summary": "The Reserve Bank of India's Monetary Policy Committee has begun its three-day meeting, with market participants expecting the central bank to keep the benchmark repo rate unchanged. The decision will be influenced by the need to balance inflation risks and growth concerns amid domestic and global uncertainties. The meeting's outcome will be closely watched by market participants.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3958656-rbi-mpc-meeting-begins-today-rate-pause-likely-as-policymakers-balance-inflation-risks-and-growth-concerns"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Stage VCs Are Rethinking Investing as AI Rewrites Startup Economics",
+          "summary": "The rise of AI is changing the way early-stage venture capitalists invest in startups, with a shift towards sector-focused investing and deeper engagement. This change is driven by the need for specialized expertise in India's maturing ecosystem. As a result, VCs are adapting their strategies to stay relevant.",
+          "source": "Forbes India",
+          "url": "https://www.forbesindia.com/article/news/deep-dive/why-ai-could-lead-to-an-existential-crisis-for-early-stage-investors/2996635/1"
+        },
+        {
+          "title": "Zepto to raise pre-IPO funding amid delayed listing",
+          "summary": "Zepto is raising funds through a pre-IPO financing round due to a delayed public listing. The company is seeking to raise capital amid a tepid response from investors. This move indicates that Zepto is exploring alternative funding options to support its growth.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-to-raise-pre-ipo-funding-amid-delayed-listing/articleshow/132791582.cms"
+        },
+        {
+          "title": "India startup funding slumps 57% in a week as big",
+          "summary": "Indian startups saw a significant decline in funding, with a 57% drop in investments to $80 million across nine funding rounds. This decline is attributed to a slowdown in early- and late-stage funding, despite an increase in seed-stage activity. The decrease in funding may impact the growth of Indian startups.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-slumps-57-in-a-week-as-big-ticket-deals-dry-up-19959001.htm"
+        },
+        {
+          "title": "Swiggy, Eternal Surge As Zepto's IPO Valuation Reset Raises Market Share Hopes",
+          "summary": "Zepto's proposed IPO valuation cut and funding constraints may slow its expansion, potentially allowing listed rivals like Swiggy and Eternal to gain market share in India's quick commerce sector. This development has led to a surge in the shares of Swiggy and Eternal. The reset in Zepto's valuation may impact the competitive landscape of the sector.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/markets/swiggy-eternal-surge-as-zeptos-ipo-valuation-reset-raises-market-share-hopes"
+        },
+        {
+          "title": "wheeler business becomes unicorn with fresh investment",
+          "summary": "Mahindra Last Mile Mobility has become a unicorn after raising ₹322 crore in a funding round, taking its valuation to ₹10,822 crore. The investment strengthens the company's lead in India's electric three-wheeler market. This development highlights the growth potential of the electric vehicle sector in India.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/business/companies/mahindra-last-mile-mobility-unicorn-lightrock-funding-electric-three-wheeler-ev-business-19958563.htm"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Clear Pending DA Within Fortnight, Restrains Unproductive Expenditure",
+          "summary": "The Punjab and Haryana High Court has directed the Punjab government to clear pending dearness allowance (DA) within two weeks and avoid unproductive spending until employees are paid. This order aims to address the financial concerns of government employees. The court's directive is expected to bring relief to the affected employees.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/clear-pending-da-within-fortnight-restrains-unproductive-expenditure-hc-to-punjab-govt-article-155244703"
+        },
+        {
+          "title": "SC Broadens Domestic Cruelty Law, Expands Scope Of Section 498A To Live-In Relations",
+          "summary": "The Supreme Court has expanded the scope of Section 498A to cover marriage-like live-in relationships, providing legal protection against cruelty to consenting partners with intent to marry. This move aims to protect individuals in live-in relationships from domestic violence. The court's decision is a significant development in the country's domestic violence laws.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/sc-broadens-domestic-cruelty-law-expands-scope-of-section-498a-to-live-in-relations-article-155244651"
+        },
+        {
+          "title": "Withdraw cases, allow youngsters to continue studies",
+          "summary": "The Supreme Court has permitted state governments to withdraw cases against student protesters, allowing them to continue their studies. This move is expected to provide relief to students who were facing legal action for participating in protests. The court's decision aims to balance the need for law and order with the rights of students to express themselves.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/withdraw-cases-allow-youngsters-to-continue-studies-sc-to-states/articleshow/132843056.cms"
+        },
+        {
+          "title": "SC Releases First-of-Its-Kind Guide to Stop Gender-Insensitive Comments by Judges In Sexual Assault Cases",
+          "summary": "The Supreme Court has released guidelines to sensitize judges and prevent gender-insensitive comments in sexual assault cases. The guidelines aim to promote a more sensitive and respectful approach to handling such cases. This move is expected to contribute to a more supportive environment for victims of sexual assault.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/sc-releases-first-of-its-kind-guide-to-stop-gender-insensitive-comments-by-judges-in-sexual-assault-cases-article-155237964"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-08-04T08:26:27.520982+00:00",
     "brief": "This week saw significant developments in international affairs, with Saudi Arabia joining US strikes in Iraq and Ukraine targeting a Russian e-commerce giant, while the Saudi Crown Prince urged the US to pursue diplomacy with Iran to prevent a wider conflict. In India, the Reserve Bank of India's Monetary Policy Committee began its meeting, with expectations of a rate pause as policymakers balance inflation risks and growth concerns, amidst a decline in oil prices and a strengthening rupee. Meanwhile, the Indian startup ecosystem saw a 57% drop in funding, with companies like Zepto raising pre-IPO funding amid delayed listings, and Mahindra Last Mile Mobility becoming a unicorn with fresh investment, highlighting the complexities of the current economic landscape.",
     "categories": {
@@ -3373,152 +3483,6 @@
           "summary": "The Karnataka High Court has refused to halt a criminal investigation into a fake certificate row involving the daughter of a suspended former Karnataka Public Service Commission chairman. The petitioner had withdrawn her plea after the court questioned the legitimacy of an income certificate allegedly used to claim reservation benefits. This case highlights the importance of verifying documents and preventing fraud in government recruitment processes.",
           "source": "Hindustan Times",
           "url": "https://www.hindustantimes.com/india-news/hc-refuses-to-halt-probe-on-fake-certificate-row-101785179927633.html"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-28T13:48:10.738643+00:00",
-    "brief": "The global landscape is witnessing significant developments, with the US boosting its missile production capabilities through deals with L3Harris and Lockheed, which may impact the global balance of power. Meanwhile, India is experiencing economic growth, with Assam emerging as the fastest-growing state economy over the past five years, and Gujarat unveiling a shipbuilding policy to attract over Rs 27,000 crore in investment. Additionally, the Indian rupee is reacting to geopolitical tensions and fluctuations in global crude oil prices, with the RBI's actions and oil prices expected to influence the currency's movement, while the startup funding in India has fallen 44% week-over-week to $186 million, amid a slowdown in late-stage investments.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "US strikes deals to boost missile output",
-          "summary": "The US Department of War has signed agreements with L3Harris and Lockheed to boost missile production, indicating a significant increase in the country's defense capabilities. This move is likely to impact the global balance of power and have implications for international relations. The deals are part of a seven-year framework agreement.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/us-strikes-deals-to-boost-missile-output/"
-        },
-        {
-          "title": "In 1859, when an American farmer shot a pig for eating from his potato patch, United States and Britain were on the brink of war",
-          "summary": "A historical incident known as the Pig War in 1859 brought the United States and Britain to the brink of war over a territorial dispute. The conflict was eventually resolved peacefully through diplomacy and international arbitration, with the islands being awarded to the United States in 1872. This incident highlights the importance of diplomacy in resolving international conflicts.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/new-updates/us-uk-war-in-1859-when-an-american-farmer-shot-a-pig-for-eating-from-his-potato-patch-united-states-and-britain-were-on-the-brink-of-war-with-soldiers-warships-preparing-for-conflict/articleshow/132670115.cms"
-        },
-        {
-          "title": "Hungary reaffirm warm and friendly relations",
-          "summary": "India and Hungary have reaffirmed their warm and friendly relations, with the Indian Ambassador to Hungary meeting with the Parliamentary State Secretary. This meeting highlights the strong diplomatic ties between the two countries and their commitment to maintaining a positive relationship.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/india-hungary-reaffirm-warm-and-friendly-relations/"
-        },
-        {
-          "title": "ICC's Prosecutor Dilemma: Navigating Diplomacy and Justice",
-          "summary": "The International Criminal Court is facing challenges in finding a new prosecutor after dismissing Karim Khan, with several countries withdrawing and the US exerting pressure. The court remains committed to justice despite these setbacks and is functioning under interim leadership. The election process is underway but fraught with challenges.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/law-order/3955915-iccs-prosecutor-dilemma-navigating-diplomacy-and-justice"
-        },
-        {
-          "title": "Missiles from cargo planes: The new strike idea that could interest India",
-          "summary": "A new concept of launching missiles from cargo planes is emerging, which could potentially interest India. This technology allows for smarter, more autonomous, and increasingly lethal weapons, and could be a game-changer in high-intensity conflicts. The development of such technology could have significant implications for international relations and global security.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/defence/international/missiles-from-cargo-planes-the-new-strike-idea-that-could-interest-india/articleshow/132659747.cms"
-        },
-        {
-          "title": "How Guterres' Damascus Visit Could Reshape Syria's Recovery and International Relations",
-          "summary": "UN Secretary-General Antonio Guterres' visit to Damascus signals a shift in international engagement from humanitarian relief to Syria's long-term reconstruction and recovery. The success of this effort will depend on sustained global financing, governance reforms, and coordinated cooperation between Syria and international stakeholders. This visit could have significant implications for Syria's recovery and international relations.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/other/3955642-how-guterres-damascus-visit-could-reshape-syrias-recovery-and-international-relations"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Simpler rules can ease flows, but sustained FDI needs policy certainty",
-          "summary": "The RBI's proposed overhaul of foreign investment rules aims to simplify regulations and encourage sustained foreign direct investment in India. This move is expected to improve clarity for investors and reduce ambiguities. The goal is to support India's growing economy by attracting more foreign investment.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/opinion/simpler-rules-can-ease-flows-but-sustained-fdi-needs-policy-certainty/4304074/"
-        },
-        {
-          "title": "Assam Leads India In Economic Growth Over 5 Years, Declares Bimal Borah In The Assembly",
-          "summary": "Assam has emerged as India's fastest-growing state economy over the past five years, with a 45% growth in GSDP at constant prices. This growth is attributed to infrastructure upgrades, policy reforms, and major investments. The state's economic transformation is a significant development in India's economic landscape.",
-          "source": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/india/assam-leads-india-in-economic-growth-over-5-years-declares-bimal-borah-in-the-assembly"
-        },
-        {
-          "title": "Gujarat unveils shipbuilding policy, eyes more than Rs 27,000 cr investment",
-          "summary": "The Gujarat government has launched a shipbuilding policy to develop the state into India's leading maritime manufacturing hub. The policy aims to attract over Rs 27,000 crore in investment through fiscal incentives, infrastructure development, and skill creation. This initiative is expected to boost the state's economy and create new opportunities.",
-          "source": "ThePrint",
-          "url": "https://theprint.in/india/gujarat-unveils-shipbuilding-policy-eyes-more-than-rs-27000-cr-investment/2997924/"
-        },
-        {
-          "title": "Oil on edge, rupee steady: How geopolitics and RBI are lifting the currency ahead of Monetary policy committee meeting",
-          "summary": "The Indian rupee has been reacting to geopolitical tensions and fluctuations in global crude oil prices. However, analysts believe that the currency will remain stable ahead of the RBI's Monetary Policy Committee meeting. The RBI's actions and geopolitical developments are expected to influence the rupee's movement.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/oil-on-edge-rupee-steady-how-geopolitics-and-rbi-are-lifting-the-currency-ahead-of-monetary-policy-committee-meeting/articleshow/132660801.cms"
-        },
-        {
-          "title": "Geopolitical heat, steady currency: How Oil, RBI are steering USD/INR ahead of MPC",
-          "summary": "Geopolitical tensions and global crude oil prices are key factors influencing the Indian rupee. Analysts expect the currency to remain within a stable range ahead of the RBI's Monetary Policy Committee meeting. The RBI's actions and oil prices will continue to impact the rupee's movement.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/geopolitical-heat-steady-currency-how-oil-rbi-are-steering-usd-inr-ahead-of-mpc/"
-        }
-      ],
-      "Business": [
-        {
-          "title": "India startup funding falls 44% WoW to $186 million amid slowdown in big",
-          "summary": "Indian startups raised $186.1 million in funding during the week of July 17-23, a 44% decrease from the previous week. This decline is attributed to a slowdown in late-stage investments, despite a strong rebound in early-stage funding. The decrease in funding may impact the growth of startups in India.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-falls-44-wow-to-186-million-amid-slowdown-in-big-ticket-deals-19953624.htm"
-        },
-        {
-          "title": "Milky Mist IPO set for August launch, aiming to be India's largest dairy offering",
-          "summary": "Milky Mist Dairy Food is set to launch its initial public offering (IPO) in August, which is expected to be the largest by an Indian dairy company. The company has secured ₹482 crore in pre-IPO funding and has been valued at approximately ₹9,300 crore. This IPO may provide a significant opportunity for investors in the dairy sector.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-ipo-set-for-august-launch-aiming-to-be-indias-largest-dairy-offering/articleshow/132594441.cms"
-        },
-        {
-          "title": "Environmental CSR in India: Rs. 17,000 Crore Deployed Over A Decade, But Climate",
-          "summary": "Corporate India has invested ₹17,377 crore in environmental sustainability initiatives over the past decade. However, the funding remains concentrated among a few companies and is not always aligned with the regions facing the greatest environmental challenges. This highlights the need for more targeted and effective environmental CSR initiatives.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/environmental-csr-in-india-rs-17000-crore-deployed-over-a-decade-but-climate-vulnerable-regions-remain-underfunded/"
-        },
-        {
-          "title": "Q1 bank credit flow surges 10x as market mop-up collapses",
-          "summary": "Bank credit has surged in the first quarter as companies have turned to banks for funding due to a collapse in capital market mobilization. This shift in funding sources may have significant implications for the commercial sector and the overall economy. The surge in bank credit may also lead to changes in lending patterns and interest rates.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/q1-bank-credit-flow-surges-10x-as-market-mop-up-collapses/articleshow/132569873.cms"
-        },
-        {
-          "title": "MS Dhoni’s latest startup bet isn’t gaming or fintech. It’s rooftop solar",
-          "summary": "Mahendra Singh Dhoni has invested in SolarSquare, a rooftop solar company, and will also be the brand ambassador. This investment is part of a $53 million funding round and aims to boost India's clean energy growth. The investment in rooftop solar highlights the growing interest in renewable energy sources in India.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/business/news/ms-dhonis-latest-startup-bet-isnt-gaming-or-fintech-its-rooftop-solar/4298377/"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Enormous issues in enforcing anti-defection law are making of Parliament members",
-          "summary": "The Supreme Court has noted significant challenges in enforcing the anti-defection law, which is meant to prevent political defections. The court's observation comes as it directed a petition related to the issue to be tagged with a pending challenge concerning political defections in Goa. This highlights the complexities in maintaining parliamentary integrity.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/enormous-issues-in-enforcing-anti-defection-law-are-making-of-parliament-members-supreme-court-101785201786207.html"
-        },
-        {
-          "title": "Supreme Court says Ram temple donation case must have 'speedy, qualitative, impartial probe'",
-          "summary": "The Supreme Court has emphasized the need for a speedy, qualitative, and impartial investigation into the Ram temple donation case. This comes after the court cautioned against politicizing the controversy. The case's resolution is crucial for maintaining public trust in the judicial system.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/ram-temple-donation-case-supreme-court-says-must-have-speedy-qualitative-and-impartial-probe-in-time-bound-manner-101785199351041.html"
-        },
-        {
-          "title": "Indian Supreme Court's workload unsustainable in long run",
-          "summary": "UK Supreme Court judge Lord George Leggatt has expressed concerns that the Indian Supreme Court's workload is unsustainable in the long run. He discussed the mounting docket of the Indian Supreme Court and the challenges of judicial appointments. This highlights the need for efficient court management and judicial reforms.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/indian-supreme-court-workload-unsustainable-in-long-run-uk-judge-lord-george-leggatt-interview-101785199760746.html"
-        },
-        {
-          "title": "Rave parties in Parvati Valley: Supreme Court stays Himachal Pradesh High Court direction",
-          "summary": "The Supreme Court has stayed a direction from the Himachal Pradesh High Court to file an FIR against Kullu officials regarding rave parties in Parvati Valley. However, the court refused to interfere with the High Court's direction to transfer officials. This case involves concerns about law enforcement and governance in the region.",
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/legal-news/supreme-court-stays-fir-sit-himachal-pradesh-kullu-rave-parties-parvati-valley-10806435/"
-        },
-        {
-          "title": "Kasol raves: Supreme Court orders transfer of Kullu DC, SP",
-          "summary": "The Supreme Court has ordered the immediate transfer of the Kullu Deputy Commissioner and Superintendent of Police due to their handling of rave parties in Kasol. This decision reflects the court's efforts to address concerns about governance and law enforcement in the region.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/kasol-raves-supreme-court-orders-transfer-of-kullu-dc-sp/articleshow/132672775.cms"
-        },
-        {
-          "title": "Delay in paying land compensation proves costly for Tamil Nadu",
-          "summary": "The Supreme Court has ordered Tamil Nadu to either return nearly 970 acres of land or pay compensation to the affected parties due to delays in payment. This decision has significant financial implications for the state, which is already facing a fiscal crisis. The case highlights the importance of timely compensation in land acquisition cases.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/delay-in-paying-land-compensation-proves-costly-for-tamil-nadu/articleshow/132672753.cms"
         }
       ]
     }
