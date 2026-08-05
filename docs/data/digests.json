@@ -1,5 +1,102 @@
 [
   {
+    "generated_at": "2026-08-05T13:51:05.967627+00:00",
+    "brief": "The Reserve Bank of India's Monetary Policy Committee meeting is underway, with Governor Sanjay Malhotra expected to announce key policy decisions that will significantly impact the Indian economy. Meanwhile, the Indian startup ecosystem is experiencing a slump in funding, with a 57% drop in investments in just one week, which may be mitigated by new initiatives such as a platform to support cultural entrepreneurship. The Supreme Court has also been active, directing the RBI to frame standard operating procedures to deal with cyber frauds and tightening rules to curb digital arrests, while also suggesting measures to increase vehicle insurance compliance, all of which will have far-reaching implications for the country's economy and governance.",
+    "categories": {
+      "Geopolitics": [],
+      "Economy": [
+        {
+          "title": "RBI MPC meeting LIVE updates: RBI Governor Sanjay Malhotra to announce policy decision today",
+          "summary": "The Reserve Bank of India's Monetary Policy Committee meeting is underway, and Governor Sanjay Malhotra is expected to announce the policy decision, including the repo rate, inflation outlook, and GDP growth projections. This decision will have a significant impact on the Indian economy. The meeting is being closely watched by investors and economists.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/economy/rbi-mpc-meeting-august-2026-live-updates-repo-rate-decision-rbi-governor-sanjay-malhotra-monetary-policy-announcements-inflation-growth-outlook-liveblog-19961896.htm"
+        },
+        {
+          "title": "Banking system liquidity improves on FCNR (B) inflows",
+          "summary": "India's banking system liquidity has improved to Rs 2.4 lakh crore due to strong inflows from FCNR(B) deposits, which has eased the weighted average call rate to 5.06%. This improvement in liquidity is significant ahead of the RBI's monetary policy decision. It may have a positive impact on the overall economy.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/business/banking-finance-banking-system-liquidity-improves-on-fcnr-b-inflows-4310427/"
+        },
+        {
+          "title": "India bonds rise on position building ahead of RBI policy",
+          "summary": "Indian government bonds have seen a slight increase as traders position themselves before the RBI's policy announcement, which is expected to maintain the key policy rate unchanged. However, rising oil prices have limited the upward movement in bond yields. The RBI's guidance on liquidity and economic forecast revisions will be closely watched by traders.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-on-position-building-ahead-of-rbi-policy/articleshow/132860400.cms"
+        },
+        {
+          "title": "Competing cues, caution ahead of RBI policy decision keep rupee nearly flat",
+          "summary": "The rupee has remained stable as traders await the Reserve Bank of India's policy announcement, with foreign bank dollar sales and importer hedging demand influencing currency movements. Economists anticipate the central bank will maintain current policy rates but adopt a hawkish stance. The RBI's policy decision will have a significant impact on the rupee and the overall economy.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/competing-cues-caution-ahead-of-rbi-policy-decision-keep-rupee-nearly-flat/articleshow/132858867.cms"
+        },
+        {
+          "title": "Stable Financing Supports Housing, Luxury Inventory Build",
+          "summary": "Stable financing conditions and buyer confidence continue to support India's housing market, according to Knight Frank. However, rising luxury inventory and the RBI MPC's policy decision remain key factors to watch. The housing market is an important sector of the Indian economy, and the RBI's policy decision may have a significant impact on it.",
+          "source": "Outlook Money",
+          "url": "https://www.outlookmoney.com/invest/luxury-real-estate-inventory-build-up-a-concern-despite-stable-financing-conditions-says-knight-frank"
+        }
+      ],
+      "Business": [
+        {
+          "title": "New platform to support cultural entrepreneurship in India",
+          "summary": "A new platform aims to support entrepreneurs in India's cultural sector, which has been underserved by traditional incubation and funding networks despite the country's growing startup ecosystem. This initiative could provide much-needed resources and mentorship to founders working in craft traditions, design innovation, and community-led impact. The platform's launch highlights the potential for growth in India's cultural and creative economy.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/arts/new-platform-to-support-cultural-entrepreneurship-in-india/"
+        },
+        {
+          "title": "Stage VCs Are Rethinking Investing as AI Rewrites Startup Economics",
+          "summary": "The rise of AI is changing the way early-stage venture capitalists invest in startups, with a shift towards sector-focused investing and deeper engagement. This change is driven by the need for specialized expertise in India's maturing ecosystem. As AI rewrites startup economics, VCs are adapting their strategies to stay relevant.",
+          "source": "Forbes India",
+          "url": "https://www.forbesindia.com/article/news/deep-dive/why-ai-could-lead-to-an-existential-crisis-for-early-stage-investors/2996635/1"
+        },
+        {
+          "title": "Zepto to raise pre-IPO funding amid delayed listing",
+          "summary": "Zepto is raising funds through a pre-IPO financing round due to a delayed public listing, indicating a shift in its plans. The company's decision to raise pre-IPO funding reflects the challenges it faces in attracting investors for its public listing. This move may impact Zepto's valuation and growth prospects.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-to-raise-pre-ipo-funding-amid-delayed-listing/articleshow/132791582.cms"
+        },
+        {
+          "title": "India startup funding slumps 57% in a week as big",
+          "summary": "Indian startup funding has seen a significant decline, with a 57% drop in investments in just one week. The total investments raised by Indian startups during this period were $80 million, with early- and late-stage funding slowing down. This slump in funding may impact the growth and development of Indian startups.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-slumps-57-in-a-week-as-big-ticket-deals-dry-up-19959001.htm"
+        },
+        {
+          "title": "Swiggy, Eternal Surge As Zepto's IPO Valuation Reset Raises Market Share Hopes",
+          "summary": "The proposed IPO valuation cut and funding constraints of Zepto have raised hopes for its competitors, such as Swiggy and Eternal, to gain market share in India's quick commerce sector. The reset in Zepto's valuation may slow its expansion, allowing listed rivals to catch up. This development may lead to a shift in the market dynamics of India's quick commerce sector.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/markets/swiggy-eternal-surge-as-zeptos-ipo-valuation-reset-raises-market-share-hopes"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Supreme Court tightens rules to curb 'digital arrests', RBI to frame SOPs to deal with mule bank accounts",
+          "summary": "The Supreme Court has directed the RBI to prepare a standard operating procedure to deal with bank accounts linked to cyber frauds, including mule accounts. This move aims to curb digital arrest scams and strengthen the response to cyber-enabled financial frauds. The RBI has been given four weeks to frame the SOP.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/supreme-court-tightens-rules-to-curb-digital-arrests-rbi-to-frame-sops-to-deal-with-mule-bank-accounts-101785892734074.html"
+        },
+        {
+          "title": "Cyber crime reports down from 1.2L in 2024 to 16,377 now: Government",
+          "summary": "The government has reported a significant reduction in cyber-crime incidents, with cases decreasing from 1.2 lakh in 2024 to 16,377 currently. Despite this decline, the Supreme Court continues to push authorities for prompt action against cyber crimes. The court's efforts aim to further reduce cyber-crime incidents and improve the country's digital security.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/cyber-crime-reports-down-from-1-2l-in-2024-to-16377-now-government/articleshow/132880680.cms"
+        },
+        {
+          "title": "Computer-based NEET? Govt tells SC decision after Nilekani report",
+          "summary": "The government has informed the Supreme Court that a decision on shifting the NEET exam from pen-and-paper mode to computer-based mode will be made after considering a report by Nandan Nilekani. The proposal is currently under consideration, and the government will take a decision based on the report's recommendations. This move aims to improve the efficiency and transparency of the exam process.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/computer-based-neet-govt-tells-sc-decision-after-nilekani-report/articleshow/132879773.cms"
+        },
+        {
+          "title": "56% of vehicles not insured, SC says challan them",
+          "summary": "The Supreme Court has suggested that vehicles without insurance should be challaned, and their owners may not be able to purchase fuel from petrol pumps in the future. This move aims to increase the number of insured vehicles on the road and reduce the risk of accidents and financial losses. The court's directive is expected to improve road safety and compliance with insurance regulations.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/56-of-vehicles-not-insured-sc-says-challan-them/articleshow/132873924.cms"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-08-05T08:25:01.511690+00:00",
     "brief": "Today's brief highlights key developments across geopolitics, economy, and national affairs. The ongoing conflict between the US and Iran has depleted US missile stocks, raising concerns over readiness for a potential conflict with China, while Iran's leadership has stated that it does not seek to expand the war. In India, the banking system liquidity has improved due to strong inflows from FCNR(B) deposits, and the RBI's upcoming monetary policy announcement is expected to maintain the key policy rate unchanged. Meanwhile, the Supreme Court has made significant rulings, including directing the government to prepare a pilot project to prevent uninsured vehicles from accessing fuel and extending a 10-km radius buffer zone for mining activities to all wetland reserves, prioritizing environmental conservation and wildlife protection.",
     "categories": {
@@ -3367,140 +3464,6 @@
           "summary": "The Delhi High Court has directed the Election Commission of India to ensure that government school teachers are not overburdened with Special Intensive Revision (SIR) duty, which may affect their teaching abilities. The court also criticized a threatening letter related to the assignment of SIR duty.",
           "source": "Hindustan Times",
           "url": "https://www.hindustantimes.com/cities/delhi-news/delhi-hc-tells-eci-not-to-burden-govt-school-teachers-with-sir-duty-raps-threatening-letter-101785261913658.html"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-29T13:53:18.473455+00:00",
-    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The discovery of a 19th-century shipwreck in the Baltic Sea, carrying gifts for Czar Alexander II, provides insight into historical diplomacy, while Iran's warning to deny access to the Strait of Hormuz to countries accepting confiscated Iranian assets has major implications for global trade and energy supplies. Meanwhile, in India, the Reserve Bank of India is expected to maintain current interest rates, and the US Federal Reserve's interest rate decision is being closely watched for its potential impact on Indian investors, as the country's economy continues to grow, with Assam emerging as the fastest-growing state over the past five years.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "In 2024, the Baltic Sea gave up a ship filled with royal gifts that never reached a Russian Tsar",
-          "summary": "A shipwreck discovered in the Baltic Sea may have carried gifts for Czar Alexander II, including luxury items and rare meteorites, sent by the German Duchy of Nassau as a goodwill gesture after the Crimean War. This discovery provides insight into 19th-century diplomacy and international elite relations. The find highlights the complex history of European relations and diplomacy.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/international/us/in-2024-the-baltic-sea-gave-up-a-ship-filled-with-royal-gifts-that-never-reached-a-russian-tsar/articleshow/132693240.cms"
-        },
-        {
-          "title": "Iran Joint Military Command Issues Strait of Hormuz Access Warning Over Confiscated Assets",
-          "summary": "Iran's Joint Military Command has warned that countries or companies accepting confiscated Iranian assets will be denied access through the Strait of Hormuz, a critical maritime chokepoint. This warning has significant implications for international shipping, energy markets, and diplomatic relations involving Iranian assets. The move could impact global trade and energy supplies.",
-          "source": "scanx.trade",
-          "url": "https://scanx.trade/stock-market-news/global/iran-joint-military-command-issues-strait-of-hormuz-access-warning-over-confiscated-assets/46796754"
-        },
-        {
-          "title": "Inside America: Challenges in Governance and Geopolitical Tensions",
-          "summary": "The US is facing challenges in governance, including aid program management, immigration policies, and international relations, which are being impacted by geopolitical tensions. The country's relations with other nations, particularly in the Middle East and Ukraine, are also being closely watched. These challenges have significant implications for global politics and diplomacy.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/law-order/3956343-inside-america-challenges-in-governance-and-geopolitical-tensions"
-        },
-        {
-          "title": "The dual-attrition trap in the Russia-Ukraine war",
-          "summary": "The Russia-Ukraine war is characterized by a dual-attrition trap, where both sides are suffering significant losses. This situation has significant implications for the conflict's outcome and the broader geopolitical landscape. The war's dynamics are being closely watched by international observers, who are assessing its impact on global security and stability.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/ht-insight/international-affairs/the-dual-attrition-trap-in-the-russia-ukraine-war-101785239460000.html"
-        },
-        {
-          "title": "US strikes deals to boost missile output",
-          "summary": "The US Department of War has signed agreements with L3Harris and Lockheed to boost missile production, aiming to increase its military capabilities. This move is likely to have significant implications for global defense and security, particularly in the context of rising geopolitical tensions. The increased missile production could impact the balance of power in various regions.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/us-strikes-deals-to-boost-missile-output/"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Barclays sees RBI holding rates in Aug policy as FCNR(B) inflows ease rupee concerns",
-          "summary": "The Reserve Bank of India is likely to maintain current interest rates in its upcoming monetary policy meeting due to recent foreign capital inflows easing concerns about the rupee. However, sustained inflation levels and geopolitical factors may still impact the bank's decisions. The RBI will need to closely monitor inflation metrics and oil price fluctuations.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/barclays-sees-rbi-holding-rates-in-aug-policy-as-fcnrb-inflows-ease-rupee-concerns/articleshow/132683939.cms"
-        },
-        {
-          "title": "US Fed Meeting Begins Today: What Rate Pause or Surprise Move Could Mean for Indian Investors",
-          "summary": "The US Federal Reserve's interest rate decision could have significant implications for Indian investors, affecting the stock market, rupee, gold prices, and the RBI's future decisions. The outcome of the meeting may lead to fluctuations in these areas, making it crucial for Indian investors to stay informed. The decision will be closely watched by Indian markets and policymakers.",
-          "source": "NewsX",
-          "url": "https://www.newsx.com/business/us-fed-meeting-begins-today-what-rate-pause-or-surprise-move-could-mean-for-indian-investors-253602/"
-        },
-        {
-          "title": "Simpler rules can ease flows, but sustained FDI needs policy certainty",
-          "summary": "The Reserve Bank of India's proposed overhaul of foreign investment rules aims to simplify regulations and encourage sustained foreign direct investment in India. The new rules aim to reduce ambiguities and improve clarity for investors, which could lead to increased investment in the country. However, policy certainty is also necessary to attract long-term investment.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/opinion/simpler-rules-can-ease-flows-but-sustained-fdi-needs-policy-certainty/4304074/"
-        },
-        {
-          "title": "Assam Leads India In Economic Growth Over 5 Years, Declares Bimal Borah In The Assembly",
-          "summary": "Assam has emerged as India's fastest-growing state economy over the past five years, with a 45% growth in GSDP at constant prices. The state's economic transformation is attributed to infrastructure upgrades, policy reforms, and major investments. This growth is significant, outpacing the national growth rate of 29% during the same period.",
-          "source": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/india/assam-leads-india-in-economic-growth-over-5-years-declares-bimal-borah-in-the-assembly"
-        },
-        {
-          "title": "Oil on edge, rupee steady: How geopolitics and RBI are lifting the currency ahead of Monetary policy committee meeting",
-          "summary": "The Indian rupee has been reacting to geopolitical tensions and fluctuations in global crude oil prices, but analysts believe the currency will remain stable ahead of the RBI's Monetary Policy Committee meeting. The RBI's actions and geopolitical developments are expected to influence the rupee's performance. The currency's stability is crucial for India's economy, especially in the face of global uncertainties.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/oil-on-edge-rupee-steady-how-geopolitics-and-rbi-are-lifting-the-currency-ahead-of-monetary-policy-committee-meeting/articleshow/132660801.cms"
-        },
-        {
-          "title": "Geopolitical heat, steady currency: How Oil, RBI are steering USD/INR ahead of MPC",
-          "summary": "Geopolitical tensions and global crude oil price fluctuations are key factors influencing the Indian rupee, but analysts expect the currency to remain stable ahead of the RBI's Monetary Policy Committee meeting. The RBI's actions and oil prices will continue to impact the rupee's performance. A stable currency is essential for India's economic growth and stability, particularly in the face of global uncertainties.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/geopolitical-heat-steady-currency-how-oil-rbi-are-steering-usd-inr-ahead-of-mpc/"
-        }
-      ],
-      "Business": [
-        {
-          "title": "Six years after privatising space, India has a unicorn, orbital launcher and $871 million in startup funding",
-          "summary": "India's private space sector has seen significant growth since the government opened it up to private companies in 2020, with Skyroot Aerospace's Vikram-1 launch being a notable outcome. The sector has attracted $871 million in startup funding, with Skyroot planning another test flight before commercial launch operations. This growth marks a major milestone for India's space industry.",
-          "source": "The New Indian Express",
-          "url": "https://www.newindianexpress.com/business/2026/Jul/28/six-years-after-privatising-space-india-has-a-unicorn-orbital-launcher-and-871-million-in-startup-funding"
-        },
-        {
-          "title": "India startup funding falls 44% WoW to $186 million amid slowdown in big",
-          "summary": "Indian startups raised $186.1 million in funding during the week of July 17-23, a 44% decrease from the previous week. The slowdown was largely due to a decrease in late-stage investments, despite a rebound in early-stage funding. This decline may indicate a shift in investor sentiment towards Indian startups.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-falls-44-wow-to-186-million-amid-slowdown-in-big-ticket-deals-19953624.htm"
-        },
-        {
-          "title": "Milky Mist IPO set for August launch, aiming to be India's largest dairy offering",
-          "summary": "Milky Mist Dairy Food is set to launch its initial public offering in August, which is expected to be the largest by an Indian dairy company. The company has secured ₹482 crore in pre-IPO funding and is valued at approximately ₹9,300 crore. This IPO will be a significant development in India's dairy industry.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-ipo-set-for-august-launch-aiming-to-be-indias-largest-dairy-offering/articleshow/132594441.cms"
-        },
-        {
-          "title": "Environmental CSR in India: Rs. 17,000 Crore Deployed Over A Decade, But Climate",
-          "summary": "Corporate India has invested ₹17,377 crore in environmental sustainability and conservation initiatives over the past decade. However, a report by Sattva Consulting finds that the funding is concentrated among a few companies and is not always aligned with the regions and sectors facing the greatest environmental challenges. This highlights the need for more targeted and effective environmental CSR initiatives in India.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/environmental-csr-in-india-rs-17000-crore-deployed-over-a-decade-but-climate-vulnerable-regions-remain-underfunded/"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Cable TV body withdraws challenge to TV ratings policy",
-          "summary": "The All India Digital Cable Federation has withdrawn its petition against the Centre's Television Ratings Policy, paving the way for the resumption of television ratings. The policy excludes landing-page viewership from television audience measurement. The Broadcast Audience Research Council (BARC) is awaiting registration under the new policy framework.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/media/entertainment/media/cable-tv-body-withdraws-challenge-to-tv-ratings-policy/articleshow/132697502.cms"
-        },
-        {
-          "title": "SC bars coercive action against protesters with no criminal record",
-          "summary": "The Supreme Court has restrained states from taking coercive action against protesters with no criminal record, directing the release of those under 18 without any criminal antecedents. The court has also called for a fair and independent probe into allegations of police brutality during recent student-led agitations. This decision aims to protect the rights of peaceful protesters.",
-          "source": "The Hitavada",
-          "url": "https://www.thehitavada.com/Encyc/2026/7/29/sc-bars-coercive-action-against-protesters-with-no-criminal-record.html"
-        },
-        {
-          "title": "Don't touch water bodies under garb of beautification, Supreme Court tells Bihar government",
-          "summary": "The Supreme Court has warned the Bihar government against filling or altering historic ponds in Darbhanga under the pretext of beautification. The court's directive aims to preserve the state's water bodies and cultural heritage. This decision highlights the importance of balancing development with environmental and cultural conservation.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/dont-touch-water-bodies-under-garb-of-beautification-supreme-court-tells-bihar-government/articleshow/132694515.cms"
-        },
-        {
-          "title": "Ahmedabad tragedy: Supreme Court accepts pilot dad's plea not to make Air India crash report public",
-          "summary": "The Supreme Court has accepted a plea from the father of a pilot who died in the Ahmedabad air crash, requesting that the crash report not be made public. The report is currently being investigated by the Aircraft Accident Investigation Bureau. The court's decision aims to respect the privacy and sentiments of the affected families.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/ahmedabad-tragedy-supreme-court-accepts-pilot-dads-plea-not-to-make-air-india-crash-report-public/articleshow/132694428.cms"
-        },
-        {
-          "title": "Will file AI crash probe report draft in Oct, Centre tells SC",
-          "summary": "The government has informed the Supreme Court that it will file the draft report of the Air India crash probe in October. The report is being prepared by the Aircraft Accident Investigation Bureau and will be submitted in a sealed cover. This development is a significant step towards determining the cause of the crash and ensuring accountability.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/india/will-file-ai-crash-probe-report-draft-in-oct-centre-tells-sc/"
         }
       ]
     }
