@@ -1,5 +1,127 @@
 [
   {
+    "generated_at": "2026-08-06T01:55:47.359604+00:00",
+    "brief": "Today's brief highlights the ongoing tensions in the Middle East, with the Hormuz blockade keeping oil prices volatile and the US rushing to rebuild its missile stock amid the conflict with Iran. Meanwhile, in India, the Reserve Bank of India's decision to keep policy rates unchanged has led to a rally in government bonds and a positive response from the stock market, with the Sensex gaining 152 points. The Indian economy also saw a decline in startup funding, with a 57% drop in investments in just one week, while the government and judiciary made significant moves, including the Rajya Sabha passing a bill to increase the number of Supreme Court judges and the Supreme Court considering a plea to expand consumers' right to know product and seller details.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Oil price today: Crude steadies below $80 as Hormuz blockade keeps investors on edge",
+          "summary": "Oil prices have risen slightly after two days of steep losses, with markets closely watching efforts to end the US-Iran war and restore shipping. The Hormuz blockade is keeping investors on edge, affecting global oil prices. This development has significant implications for the global economy, particularly for oil-importing countries.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-crude-steadies-below-80-as-hormuz-blockade-keeps-investors-on-edge/articleshow/132884487.cms"
+        },
+        {
+          "title": "Iran war depletes US missile stocks, raising concerns over readiness for conflict with China: Report",
+          "summary": "The US Army has used up most of its stockpile of long-range precision missiles due to the war with Iran, raising concerns over its readiness for a potential conflict with China. This depletion of missile stocks has significant implications for US military strategy and global security. The report highlights the need for the US to replenish its missile stockpiles.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/us-has-nearly-emptied-its-stock-of-long-range-precision-weapons-in-war-with-iran-report/articleshow/132862107.cms"
+        },
+        {
+          "title": "Arsenal of Freedom': US rushes to rebuild missile stock amid Iran war",
+          "summary": "The United States military is working to rebuild its missile stock amid the ongoing conflict in Iran, as stockpiles have dwindled due to extensive use. The US is rushing to replenish its missile stockpiles to ensure its military readiness. This development highlights the challenges faced by the US military in maintaining its weapon systems during prolonged conflicts.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/arsenal-of-freedom-us-rushes-to-rebuild-missile-stock-amid-iran-war/articleshow/132847730.cms"
+        },
+        {
+          "title": "Iran's Pezeshkian Says Tehran Does Not Seek To Expand The War",
+          "summary": "Iranian leader Pezeshkian has stated that Tehran does not seek to expand the war, marking a clear declaration of restraint from Iran's leadership. This statement is significant, as it indicates Iran's intention to avoid escalating the current conflict. The remarks are directed at both domestic and international audiences amid ongoing regional tensions.",
+          "source": "scanx.trade",
+          "url": "https://scanx.trade/stock-market-news/global/iran-s-pezeshkian-says-tehran-does-not-seek-to-expand-the-war/47372056"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Lower real interest rates have not hurt deposit growth in India: SBI Research",
+          "summary": "Despite declining real interest rates, deposit growth in India has improved, according to SBI Research. The report notes that deposit mobilisation remained resilient even with lower real returns. This suggests that the Indian banking system has been able to attract deposits even in a low-interest-rate environment.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/lower-real-interest-rates-have-not-hurt-deposit-growth-in-india-sbi-research/articleshow/132929479.cms"
+        },
+        {
+          "title": "India bonds rally on 'dovish' RBI hold, lower oil prices",
+          "summary": "The Reserve Bank of India's decision to keep the repo rate steady has led to a rally in Indian government bonds, with yields falling below important levels. A drop in oil prices has also helped ease inflation fears, supporting the economy. This has resulted in reduced overnight index swap rates and stimulated capital inflows.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rally-on-dovish-rbi-hold-lower-oil-prices/articleshow/132927259.cms"
+        },
+        {
+          "title": "Sensex gains 152 pts in volatile session as RBI keeps policy rates unchanged",
+          "summary": "The BSE Sensex closed higher by 152 points in a volatile session after the Reserve Bank of India kept its key policy rates unchanged. The decision has led to a positive response from the stock market, with the Sensex rising by 0.19%. The RBI's decision to maintain status quo on policy rates has been seen as a positive move by the market.",
+          "source": "ThePrint",
+          "url": "https://theprint.in/economy/sensex-gains-152-pts-in-volatile-session-as-rbi-keeps-policy-rates-unchanged/3006241/"
+        },
+        {
+          "title": "CREDAI, NAREDCO hail RBI policy, stable home loan interest rate to help sustain housing demand",
+          "summary": "The real estate industry has welcomed the Reserve Bank of India's decision to maintain the repo rate, which is expected to sustain housing demand. The stability in home loan interest rates will provide developers and homebuyers with planning certainty. The RBI's decision is seen as a positive move for the housing sector.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/credai-naredco-hail-rbi-policy-stable-home-loan-interest-rate-to-help-sustain-housing-demand/articleshow/132921831.cms"
+        },
+        {
+          "title": "RBI policy balanced as growth outlook improves, inflation risks remain contained: Equirus",
+          "summary": "The Reserve Bank of India's decision to keep the policy repo rate unchanged has been seen as a balanced move by brokerage firm Equirus. The central bank's commentary has been viewed as more balanced compared to its previous policy, with the growth outlook improving and inflation risks remaining contained. This suggests that the RBI is taking a cautious approach to monetary policy.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/business/3959940-rbi-policy-balanced-as-growth-outlook-improves-inflation-risks-remain-contained-equirus"
+        }
+      ],
+      "Business": [
+        {
+          "title": "New platform to support cultural entrepreneurship in India",
+          "summary": "A new platform has been launched to support cultural entrepreneurship in India, aiming to address the gap in traditional incubation, mentorship, and funding networks for startups in the cultural sector. This initiative recognizes the growth potential of India's cultural and creative economy. It will provide necessary support to entrepreneurs building ventures rooted in craft traditions and cultural knowledge systems.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/arts/new-platform-to-support-cultural-entrepreneurship-in-india/"
+        },
+        {
+          "title": "Stage VCs Are Rethinking Investing as AI Rewrites Startup Economics",
+          "summary": "The rise of AI is changing the startup funding landscape, with early-stage VCs shifting towards sector-focused investing and seeking deeper engagement and specialized expertise. This change is driven by AI's impact on startup economics, particularly in India's maturing ecosystem. As a result, VCs are adapting their investment strategies to stay relevant.",
+          "source": "Forbes India",
+          "url": "https://www.forbesindia.com/article/news/deep-dive/why-ai-could-lead-to-an-existential-crisis-for-early-stage-investors/2996635/1"
+        },
+        {
+          "title": "Zepto to raise pre-IPO funding amid delayed listing",
+          "summary": "Zepto is planning to raise funds through a pre-IPO financing round due to a delayed public listing. The company is seeking alternative funding options amid a tepid response from investors. This move indicates the challenges faced by startups in securing funding through traditional IPO routes.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-to-raise-pre-ipo-funding-amid-delayed-listing/articleshow/132791582.cms"
+        },
+        {
+          "title": "India startup funding slumps 57% in a week as big",
+          "summary": "Indian startup funding has seen a significant decline, with a 57% drop in investments in just one week. The total funding raised was $80 million across nine rounds, with early- and late-stage funding slowing down. This slump highlights the challenges faced by startups in securing funding, despite stronger seed-stage activity.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-slumps-57-in-a-week-as-big-ticket-deals-dry-up-19959001.htm"
+        },
+        {
+          "title": "Swiggy, Eternal Surge As Zepto's IPO Valuation Reset Raises Market Share Hopes",
+          "summary": "The proposed IPO valuation cut and funding constraints of Zepto have raised hopes for its competitors, such as Swiggy and Eternal, to gain market share in India's quick commerce sector. The valuation reset and funding challenges may slow down Zepto's expansion, allowing listed rivals to surge ahead. This development highlights the competitive dynamics in the Indian startup ecosystem.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/markets/swiggy-eternal-surge-as-zeptos-ipo-valuation-reset-raises-market-share-hopes"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Rajya Sabha passes bill to increase number of SC judges, returns it to Lok Sabha",
+          "summary": "The Rajya Sabha has passed a bill to increase the number of Supreme Court judges from 30 to 37, which will now be sent back to the Lok Sabha for further consideration. This move aims to reduce the backlog of cases in the Supreme Court. The bill's passage is a significant development in the country's judicial system.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/rajya-sabha-passes-bill-to-increase-sc-judge-strength-to-37-returns-it-to-lok-sabha/articleshow/132923413.cms"
+        },
+        {
+          "title": "What the Supreme Court's 'right to know' plea means",
+          "summary": "The Supreme Court is considering a plea to expand consumers' right to know product and seller details, which could lead to increased transparency in India. This move has the potential to reshape the country's consumer protection laws and impact businesses. The court's decision will be closely watched by consumers and industries alike.",
+          "source": "NewsX",
+          "url": "https://www.newsx.com/business/from-product-labels-to-seller-identity-what-the-supreme-courts-right-to-know-plea-means-257029/"
+        },
+        {
+          "title": "'No blanket ban on reporting': SC clarifies order restricting use of audio-video clips of court proceedings",
+          "summary": "The Supreme Court has clarified that its recent order restricting the use of audio-video clips of court proceedings does not impose a blanket ban on reporting. The court's clarification aims to balance the need for transparency with the need to maintain the dignity of the court. This development is significant for media organizations and the public's right to know.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/no-blanket-ban-on-reporting-sc-clarifies-order-restricting-use-of-audio-video-clips-of-court-proceedings/articleshow/132912228.cms"
+        },
+        {
+          "title": "‘Heavens will not fall if Vande Mataram sung in madrasas': Calcutta High Court",
+          "summary": "The Calcutta High Court has ruled that singing Vande Mataram in madrasas will not have any adverse consequences. The court was hearing a petition challenging a government notification that made singing the national song mandatory in these institutions. The court's decision highlights the importance of national integration and the need to promote unity.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/heavens-will-not-fall-if-vande-mataram-sung-in-madrasas-calcutta-high-court-west-bengal-101785922343399.html"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-08-05T19:20:08.868936+00:00",
     "brief": "Tensions in the Middle East continue to impact global markets, with oil prices steadying below $80 due to the ongoing US-Iran conflict and blockade of the Hormuz Strait. Meanwhile, the Reserve Bank of India has maintained a neutral stance, keeping interest rates unchanged amidst global uncertainties, a decision welcomed by economists who see lower inflation and stable rates supporting economic growth. In other news, the Indian startup ecosystem is experiencing a slump in funding, with a 57% decline in just a week, while the Supreme Court has made several key rulings, including ordering automatic challans for uninsured vehicles and prohibiting mining activities near wetland conservation reserves.",
     "categories": {
@@ -3336,134 +3458,6 @@
           "summary": "Senior lawyer Harish Salve has urged citizens to criticize the government responsibly, without denigrating India on social media. Salve emphasized that public criticism is necessary, but it should not come at the cost of the nation's image. He reminded citizens that India commands global respect and should be preserved.",
           "source": "Republic World",
           "url": "https://www.republicworld.com/india/criticising-govt-is-necessary-but-never-denigrate-india-on-social-media-harish-salve-urges-citizens-to-discourse-responsibly-2026-07-29-133687"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-30T01:49:23.483271+00:00",
-    "brief": "Tensions in the Strait of Hormuz continue to escalate, with Iran warning countries against accepting its confiscated assets, while India has called for de-escalation to protect its trade and citizens. Meanwhile, the Indian economy is bracing for potential risks, including higher oil prices and global trade disruptions, as highlighted in the Finance Ministry's July Economic Review. As the US Federal Reserve's interest rate decision looms, Indian investors are watching closely, with the outcome expected to impact the country's economic growth, inflation, and financial markets.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Japan renews ₹14 crore scholarship programme for Indian government officials for third consecutive year",
-          "summary": "Japan has renewed its scholarship program for Indian government officials, financing their master's degrees in public policy and engineering at Japanese institutions. This aims to enhance India's governance capabilities and strengthen international relations. The program supports India's developmental strategies and policy initiatives.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/india/jica-renews-jds-scholarship-for-indian-government-officials-for-third-consecutive-year/articleshow/132711799.cms"
-        },
-        {
-          "title": "India urges de-escalation as Hormuz attacks threaten trade and seafarers",
-          "summary": "India has called for de-escalation in West Asia and condemned attacks on vessels in the Strait of Hormuz at the UN Security Council. The country emphasized the need for secure sea lanes and respect for international law to ensure regional stability. This is crucial for India's trade and the safety of its citizens.",
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/world/story/india-un-security-council-strait-of-hormuz-attacks-west-asia-de-escalation-call-ptag-2958697-2026-07-29"
-        },
-        {
-          "title": "Iran Joint Military Command Issues Strait of Hormuz Access Warning Over Confiscated Assets",
-          "summary": "Iran's Joint Military Command has warned that countries or companies accepting confiscated Iranian assets will be denied access through the Strait of Hormuz. This warning has significant implications for international shipping, energy markets, and diplomatic relations involving Iranian assets. The move could impact global trade and geopolitical tensions.",
-          "source": "scanx.trade",
-          "url": "https://scanx.trade/stock-market-news/global/iran-joint-military-command-issues-strait-of-hormuz-access-warning-over-confiscated-assets/46796754"
-        },
-        {
-          "title": "In 2024, the Baltic Sea gave up a ship filled with royal gifts that never reached a Russian Tsar",
-          "summary": "A shipwreck discovered in the Baltic Sea may have carried gifts for Czar Alexander II, including luxury items and rare meteorites. The vessel sank after the Crimean War, and its cargo highlights 19th-century diplomacy and international elite relations. The discovery provides insights into historical geopolitical alliances and gift-giving practices.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/international/us/in-2024-the-baltic-sea-gave-up-a-ship-filled-with-royal-gifts-that-never-reached-a-russian-tsar/articleshow/132693240.cms"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "The world is getting riskier. Here's what the Finance Ministry says India should prepare for",
-          "summary": "The Finance Ministry's July Economic Review highlights potential risks to India's economy, including higher oil prices, Gulf tensions, and the impact of AI and supply chain disruptions. To boost resilience and attract investment, the ministry emphasizes the need for faster policy implementation. These factors could affect India's economic growth and stability.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/economy/the-world-is-getting-riskier-heres-what-the-finance-ministry-says-india-should-prepare-for-19957039.htm"
-        },
-        {
-          "title": "India bonds tiptoe along ahead of Fed meet; oil prices weigh",
-          "summary": "Indian government bonds are trading cautiously as investors await the US Federal Reserve's interest rate decision. Rising oil prices are reviving concerns about the Gulf conflict and its impact on the global economy, which could affect India's economic growth and inflation. The Reserve Bank of India's upcoming policy decision is also being closely watched.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-tiptoe-along-ahead-of-fed-meet-oil-prices-weigh/articleshow/132703905.cms"
-        },
-        {
-          "title": "Barclays sees RBI holding rates in Aug policy as FCNR(B) inflows ease rupee concerns",
-          "summary": "Barclays expects the Reserve Bank of India to maintain current interest rates in its upcoming monetary policy meeting. The recent influx of foreign capital has alleviated concerns about the rupee's performance, but sustained inflation levels remain a challenge. The RBI will need to balance these factors in its decision-making.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/barclays-sees-rbi-holding-rates-in-aug-policy-as-fcnrb-inflows-ease-rupee-concerns/articleshow/132683939.cms"
-        },
-        {
-          "title": "US Fed Meeting Begins Today: What Rate Pause or Surprise Move Could Mean for Indian Investors",
-          "summary": "The US Federal Reserve's interest rate decision could have significant implications for Indian investors, affecting the stock market, rupee, gold prices, and the Reserve Bank of India's policies. The outcome of the meeting will be closely watched by investors and policymakers in India. The decision could influence India's economic growth and financial markets.",
-          "source": "NewsX",
-          "url": "https://www.newsx.com/business/us-fed-meeting-begins-today-what-rate-pause-or-surprise-move-could-mean-for-indian-investors-253602/"
-        },
-        {
-          "title": "Simpler rules can ease flows, but sustained FDI needs policy certainty",
-          "summary": "The Reserve Bank of India's proposed overhaul of foreign investment rules aims to simplify regulations and improve clarity for investors. This could encourage sustained foreign direct investment in India's growing economy. However, policy certainty is also necessary to attract long-term investment.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/opinion/simpler-rules-can-ease-flows-but-sustained-fdi-needs-policy-certainty/4304074/"
-        },
-        {
-          "title": "Assam Leads India In Economic Growth Over 5 Years, Declares Bimal Borah In The Assembly",
-          "summary": "Assam has emerged as India's fastest-growing state economy over the past five years, with a 45% growth in GSDP at constant prices. The state's economic transformation is attributed to infrastructure upgrades, policy reforms, and major investments. This growth is significant for India's overall economic development.",
-          "source": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/india/assam-leads-india-in-economic-growth-over-5-years-declares-bimal-borah-in-the-assembly"
-        }
-      ],
-      "Business": [
-        {
-          "title": "India's CSR map is still not its climate map",
-          "summary": "India's corporate social responsibility investments have not been effectively aligned with environmental initiatives, leading to a disparity in funding across regions. This disparity highlights the need for targeted approaches to address climate vulnerability. The mismatch between CSR investments and climate initiatives can have significant environmental implications.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/toi-blogs/planet-watch/indias-csr-map-is-still-not-its-climate-map/articleshow/132713100.cms"
-        },
-        {
-          "title": "Six years after privatising space, India has a unicorn, orbital launcher and $871 million in startup funding",
-          "summary": "India's space sector has seen significant growth since its privatization in 2020, with Skyroot Aerospace becoming a unicorn and securing $871 million in startup funding. The sector is expected to continue growing, with Skyroot planning another test flight and commercial launch operations. This growth is a result of policy changes introduced in 2020.",
-          "source": "The New Indian Express",
-          "url": "https://www.newindianexpress.com/business/2026/Jul/28/six-years-after-privatising-space-india-has-a-unicorn-orbital-launcher-and-871-million-in-startup-funding"
-        },
-        {
-          "title": "Space startups raise $113M in ’26; funding since ’21 nears $900M",
-          "summary": "India's private space sector has attracted $113 million in equity funding in 2026, bringing the cumulative investment since 2021 to nearly $900 million. This significant investment indicates the growing interest in India's space sector. The funding will likely support the development of new technologies and services in the sector.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/space-startups-raise-113m-in-26-funding-since-21-nears-900m/articleshow/132680681.cms"
-        },
-        {
-          "title": "India startup funding falls 44% WoW to $186 million amid slowdown in big",
-          "summary": "Indian startups raised $186.1 million in funding during the week of July 17-23, a 44% decrease from the previous week. The slowdown in late-stage investments outweighed a strong rebound in early-stage funding, indicating a potential shift in investor sentiment. This decrease may have implications for the growth and development of Indian startups.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-falls-44-wow-to-186-million-amid-slowdown-in-big-ticket-deals-19953624.htm"
-        },
-        {
-          "title": "Milky Mist IPO set for August launch, aiming to be India's largest dairy offering",
-          "summary": "Milky Mist Dairy Food is planning to launch its initial public offering in August, which is expected to be the largest by an Indian dairy company. The company has secured ₹482 crore in pre-IPO funding and has been valued at approximately ₹9,300 crore. The IPO will provide an opportunity for investors to participate in the growth of the Indian dairy industry.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-ipo-set-for-august-launch-aiming-to-be-indias-largest-dairy-offering/articleshow/132594441.cms"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "SC grants bail to two alleged Indian Mujahideen operatives after 12 years",
-          "summary": "The Supreme Court has granted bail to two alleged Indian Mujahideen operatives, Mohd Saquib Ansari and Waqar Azhar, after they spent nearly 12 years in custody without trial. This decision was made as their detention violated their right to liberty under Article 21 of the Constitution. The move highlights the importance of a fair and timely trial in the Indian justice system.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/sc-grants-bail-to-two-alleged-indian-mujahideen-operatives-after-12-years/articleshow/132712281.cms"
-        },
-        {
-          "title": "Govt proposes court nod for birth, death registration after 2-year delay",
-          "summary": "The government has introduced a bill to amend the Registration of Births and Deaths Act, proposing that court approval be required for delayed birth and death registrations. This move aims to strengthen India's civil registration system and prevent fraud. The bill encourages timely reporting of vital events and improves data integrity.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/news/centre-proposes-judicial-scrutiny-for-birth-death-registrations-delayed-beyond-two-years-11785324565595.html"
-        },
-        {
-          "title": "As FDA goes after Maharashtra eateries, HC flags those run by govt, semi-govt, seeks inspection details",
-          "summary": "The High Court has asked for inspection details of government and semi-government run eateries in Maharashtra, after the FDA cracked down on private eateries for food safety violations. The court's move ensures that all establishments, including those run by the government, are held to the same standards. This highlights the need for equal enforcement of food safety regulations across all types of establishments.",
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/cities/mumbai/as-fda-goes-after-maharashtra-eateries-hc-flags-those-run-by-govt-semi-govt-seeks-inspection-details-10808870/"
-        },
-        {
-          "title": "CJI Mutes Audio Of Virtual Link During ‘Mentioning’ Of Urgent Cases In Supreme Court",
-          "summary": "The Chief Justice of India has started muting the audio of virtual links during the 'mentioning' of urgent cases in the Supreme Court. This 'mentioning' is a daily routine where lawyers request urgent case listings from the CJI. The move may be intended to maintain the dignity of the court proceedings and ensure that only necessary information is shared.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/india/cji-mutes-audio-of-virtual-link-during-mentioning-of-urgent-cases-in-supreme-court-article-155211478"
         }
       ]
     }
