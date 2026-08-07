@@ -1,5 +1,133 @@
 [
   {
+    "generated_at": "2026-08-07T12:45:47.877614+00:00",
+    "brief": "The global landscape is witnessing significant developments, with the 80th anniversary of the Hiroshima atomic bombing serving as a reminder of the devastating consequences of war and scientific power. Meanwhile, India is emerging as a key player in global digital governance, with its Digital Public Infrastructure framework gaining prominence, and its economy is being influenced by the Reserve Bank of India's dovish stance on prices and the ongoing US-Iran negotiations over the Strait of Hormuz. As a result, crude oil prices are steadying below $80, and the Indian stock market is ending higher, with the RBI's policy decisions and global commodity prices playing a crucial role in shaping the domestic market.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Hiroshima 1945: Why the atomic explosion that transformed war, peace and global power still matters 80 years later",
+          "summary": "The atomic bombing of Hiroshima 80 years ago remains a defining moment in history, marking the end of World War II and the beginning of the nuclear age. This event has had a lasting impact on international politics, leading to a global arms race and ongoing security concerns. It serves as a reminder of the devastating consequences of war and scientific power.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/international/global-trends/hiroshima-1945-why-the-atomic-explosion-that-transformed-war-peace-and-global-power-still-matters-80-years-later/articleshow/133010376.cms"
+        },
+        {
+          "title": "India's DPI model emerging as key pillar of digital diplomacy amid AI push: Report",
+          "summary": "India's Digital Public Infrastructure (DPI) framework is emerging as a key tool of international digital diplomacy, particularly with the push for artificial intelligence. This development highlights India's growing role in global digital governance and its efforts to promote digital cooperation. The DPI model has the potential to shape the country's digital diplomacy efforts in the future.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/technology/indias-dpi-model-emerging-as-key-pillar-of-digital-diplomacy-amid-ai-push-report-1/"
+        },
+        {
+          "title": "Iran, US say Strait of Hormuz deal is close, but one or both would have to back down",
+          "summary": "Iran and the US are nearing a deal regarding the Strait of Hormuz, a critical waterway for international oil trade. However, an agreement would require one or both parties to compromise on their demands, with Iran seeking some control over the strait. The outcome of these negotiations could have significant implications for global energy markets and regional security.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/world/iran-us-say-strait-of-hormuz-deal-is-close-but-one-or-both-would-have-to-back-down-19962887.htm"
+        },
+        {
+          "title": "Oil price today: Crude steadies below $80 as Hormuz blockade keeps investors on edge",
+          "summary": "The blockade of the Strait of Hormuz has led to uncertainty in the global oil market, with crude prices steadying below $80. The situation is being closely watched by investors, who are awaiting the outcome of US-Iran negotiations to restore shipping and end the war. The blockade has significant implications for global energy markets and the economy.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-crude-steadies-below-80-as-hormuz-blockade-keeps-investors-on-edge/articleshow/132884487.cms"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Banks tone down rate-hike bets as RBI sounds dovish on prices",
+          "summary": "Some banks have revised their forecasts for fewer policy rate increases by the Reserve Bank of India, citing the central bank's dovish stance on prices. This change in forecast is influenced by inflation projections that remain sensitive to crude oil price movements. The revision indicates a potential shift in the monetary policy outlook.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/banks-tone-down-rate-hike-bets-as-rbi-sounds-dovish-on-prices/articleshow/133018263.cms"
+        },
+        {
+          "title": "Indian markets end higher on easing crude prices, RBI policy support; Sensex gains 374 pts",
+          "summary": "The Indian stock market ended on a positive note due to easing crude oil prices and the Reserve Bank of India's steady policy stance. The market also saw selective buying in heavyweight, banking, and energy stocks. This development suggests that the RBI's policy decisions and global commodity prices are influencing the domestic market.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/indian-markets-end-higher-on-easing-crude-prices-rbi-policy-support-sensex-gains-374-pts/"
+        },
+        {
+          "title": "RBI policy-led India bond rally continues; Friday's debt sale in focus",
+          "summary": "The Indian government bond market saw a rally following the Reserve Bank of India's dovish stance and falling oil prices. However, investors are cautious ahead of a significant bond auction, which will test market demand and the sustainability of the recent bond price gains. The outcome of the auction will be crucial for the bond market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/rbi-policy-led-india-bond-rally-continues-fridays-debt-sale-in-focus/articleshow/132993202.cms"
+        },
+        {
+          "title": "When is your home loan EMI increasing? RBI rate hike calls pushed back after dovish pause",
+          "summary": "Economists now expect the Reserve Bank of India to raise interest rates in December or later, contrary to earlier expectations. The central bank's decision to maintain current rates and lower inflation forecasts has led to this shift. The move may impact home loan borrowers, as their EMI payments may not increase as soon as previously anticipated.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/when-is-your-home-loan-emi-increasing-rbi-rate-hike-calls-pushed-back-after-dovish-pause/articleshow/132987769.cms"
+        },
+        {
+          "title": "FMCG price hikes could rewrite India’s inflation story: Report",
+          "summary": "Planned price hikes by consumer goods companies may put pressure on inflation, despite the RBI's outlook. The Reserve Bank of India is expected to maintain interest rates through 2026, with a potential rate hike possible in early 2027 if inflation pressures intensify. The central bank's future policy decisions may be influenced by global central bank actions.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/fmcg-price-hikes-could-rewrite-indias-inflation-story-report/articleshow/132983766.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "No government grants yet, but IPA says corporate is funding Indian pickleball",
+          "summary": "The Indian Pickleball Association is relying on private sponsors and franchise owners to build the sport's ecosystem in India, as it has not received any government funding yet. This approach is being led by teams like the Lucknow Leopards, which is setting a benchmark for others to follow. The development of pickleball in India is thus being driven by corporate investments.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/sports/others/no-government-grants-yet-but-ipa-says-corporate-is-funding-indian-pickleball-lucknow-leopards-setting-the-benchmark-101786004485977.html"
+        },
+        {
+          "title": "New platform to support cultural entrepreneurship in India",
+          "summary": "A new platform has been launched to support cultural entrepreneurship in India, aiming to address the gap in funding and mentorship for startups in the cultural sector. This initiative recognizes the growth of India's startup ecosystem and seeks to provide necessary support to founders working in the cultural sector. The platform will focus on craft traditions, cultural knowledge systems, design innovation, and community-led impact.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/arts/new-platform-to-support-cultural-entrepreneurship-in-india/"
+        },
+        {
+          "title": "Stage VCs Are Rethinking Investing as AI Rewrites Startup Economics",
+          "summary": "The rise of AI is changing the way early-stage venture capitalists invest in startups, with a shift towards sector-focused investing and deeper engagement. This change is driven by the need for specialized expertise in India's maturing ecosystem. As a result, VCs are adapting their strategies to stay relevant in the changing startup landscape.",
+          "source": "Forbes India",
+          "url": "https://www.forbesindia.com/article/news/deep-dive/why-ai-could-lead-to-an-existential-crisis-for-early-stage-investors/2996635/1"
+        },
+        {
+          "title": "Zepto to raise pre-IPO funding amid delayed listing",
+          "summary": "Zepto has announced plans to raise funds through a pre-IPO financing round, citing a delayed public listing due to a tepid response from investors. This move indicates that the company is seeking alternative funding options to support its growth. The pre-IPO funding round will help Zepto to raise capital before its eventual public listing.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-to-raise-pre-ipo-funding-amid-delayed-listing/articleshow/132791582.cms"
+        },
+        {
+          "title": "India startup funding slumps 57% in a week as big-ticket deals dry up",
+          "summary": "Indian startups have seen a significant decline in funding, with a 57% drop in investments in just one week. The total funding raised during this period was $80 million, with only nine funding rounds taking place. This slowdown is attributed to a decline in early- and late-stage funding, despite an increase in seed-stage activity.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-slumps-57-in-a-week-as-big-ticket-deals-dry-up-19959001.htm"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Land-grab case: Supreme Court grants interim bail to Abhishek's PA",
+          "summary": "The Supreme Court has granted interim bail to Sumit Roy, the personal assistant to TMC general secretary Abhishek Banerjee, in a land-grab case. This decision allows Roy to be released from custody for a week. The case is still ongoing and the court's decision may have implications for the investigation",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/land-grab-case-supeme-court-grants-interim-bail-to-abhisheks-pa/articleshow/133017915.cms"
+        },
+        {
+          "title": "Weeding out dead wood aim of compulsory retirement, says Supreme Court",
+          "summary": "The Supreme Court has stated that the purpose of compulsory retirement is to remove underperforming employees, particularly in the armed forces. This decision highlights the court's stance on the issue of compulsory retirement and its implications for government employees. The ruling may have significant effects on the way organizations manage their workforce",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/weeding-out-dead-wood-aim-of-compulsory-retirement-says-supreme-court/articleshow/133017763.cms"
+        },
+        {
+          "title": "Can't exclude SC/ST creamy layer from quotas: Government to Supreme Court",
+          "summary": "The government has argued before the Supreme Court that the 'creamy layer' criterion should not be applied to exclude affluent members of scheduled caste and scheduled tribe communities from quotas. This stance has significant implications for the country's reservation policies and the distribution of benefits to marginalized communities. The court's decision may impact the lives of many individuals",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/cant-exclude-sc/st-creamy-layer-from-quotas-government-to-supreme-court/articleshow/133016849.cms"
+        },
+        {
+          "title": "Pellet guns need clearer rules, not ban",
+          "summary": "The Supreme Court has refused to impose a blanket ban on the use of pellet guns, instead suggesting that clearer rules are needed to govern their use. The court acknowledged that pellet guns can be used in extreme situations during mass protests when other measures have failed. This decision highlights the need for more nuanced regulations around the use of pellet guns",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/comment/pellet-guns-need-clearer-rules-not-ban/"
+        },
+        {
+          "title": "Supreme Court dismisses plea challenging Delhi HC relief to Hinduja brothers in Bofors case",
+          "summary": "The Supreme Court has dismissed a plea challenging the Delhi High Court's decision to quash criminal proceedings against the Hinduja brothers in the Bofors case. This decision brings closure to a long-standing case and has implications for the individuals involved. The court's ruling may also have broader implications for similar cases in the future",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/supreme-court-dismisses-plea-challenging-delhi-hc-relief-to-hinduja-brothers-in-bofors-case/articleshow/133015674.cms"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-08-07T07:04:00.285774+00:00",
     "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The 80th anniversary of the atomic bombing of Hiroshima serves as a reminder of the devastating consequences of war, while India's emerging digital public infrastructure model is poised to play a key role in digital diplomacy. Meanwhile, the Indian economy is experiencing a rally in the bond market and a surge in the stock market, driven by easing crude oil prices and the Reserve Bank of India's dovish stance, with the central bank's policy decisions being closely watched by market participants and having implications for inflation and interest rates.",
     "categories": {
@@ -3390,134 +3518,6 @@
           "summary": "The Supreme Court has ruled that there should be no blanket ban on the use of pellet guns for crowd control. However, the court directed the Delhi government to provide treatment to those injured during students' protests. This decision highlights the need for a balanced approach to crowd control measures.",
           "source": "Times of India",
           "url": "https://timesofindia.indiatimes.com/india/supreme-court-no-blanket-ban-on-use-of-pellet-guns-for-crowd-control/articleshow/132749977.cms"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-07-31T13:48:04.384597+00:00",
-    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The US has announced a deal for Hamas to disarm in Gaza, while also signing a major contract for Patriot missiles amid the ongoing conflict with Iran, and India has been revealed as a key supplier of arms to Israel during the Gaza war. Meanwhile, the Reserve Bank of India is expected to maintain status quo on key policy rates due to global central banks' moves and sticky inflation, and the finance ministry has called for swifter policy responses to address global shifts driven by AI and trade weaponisation. Additionally, the Supreme Court has raised concerns about the fairness of the selection panel for Election Commissioners and questioned the Bihar government over the continuation of an unelected minister in office for over six months.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Trump announces a deal for Hamas to disarm in Gaza, but many hurdles and uncertainty remain",
-          "summary": "US President Donald Trump has announced a deal for Hamas to disarm in Gaza, which involves a phased withdrawal of Israeli forces and the establishment of a new Palestinian police force. The agreement aims to bring an end to the conflict in Gaza, but its success is uncertain. The deal also includes plans for the reconstruction of Gaza after the war concludes.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-announces-a-deal-for-hamas-to-disarm-in-gaza-but-many-hurdles-and-uncertainty-remain/articleshow/132753009.cms"
-        },
-        {
-          "title": "US signs mega $58.6bn deal for Patriot missiles as stock runs low amid Iran war",
-          "summary": "The United States has signed a contract worth up to $58.6 billion with Lockheed Martin to produce Patriot interceptor missiles. This deal is significant as the US stock of Patriot missiles is running low amid the ongoing conflict with Iran. The contract marks one of the largest deals for the production of Patriot missiles.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/defence/international/us-signs-mega-58-6bn-deal-for-patriot-missiles-as-stock-runs-low-amid-iran-war/articleshow/132741948.cms"
-        },
-        {
-          "title": "Amnesty says India supplied 2,596 arms shipments to Israel during Gaza war",
-          "summary": "Amnesty International has alleged that India supplied 2,596 shipments of weapons, ammunition, and military components to Israeli defense firms during the Gaza war. This makes India a key supplier in Israel's wartime defense supply chain. The report highlights India's significant role in the conflict.",
-          "source": "The News Minute",
-          "url": "https://www.thenewsminute.com/news/amnesty-says-india-supplied-2596-arms-shipments-to-israel-during-gaza-war"
-        },
-        {
-          "title": "Mideast war supercharges electric car sales: IEA",
-          "summary": "The ongoing war in the Middle East has led to a surge in electric car sales, according to the International Energy Agency. Soaring fuel prices due to the conflict have made electric cars a more attractive option, resulting in a significant increase in sales. The energy crisis sparked by the war has brought fuel price volatility back into focus.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/renewables/mideast-conflict-fuels-electric-car-sales-surge-iea-reports-35-jump-amidst-soaring-fuel-prices/articleshow/132728087.cms"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "RBI issues revised Basel Pillar 3 disclosure framework for commercial, small finance and payments banks",
-          "summary": "The Reserve Bank of India has revised its Basel Pillar 3 disclosure framework to strengthen market discipline through more comprehensive public disclosures. Banks must now provide detailed information on capital and risk exposures, and have a formal disclosure policy approved by their boards. This aims to increase transparency in the banking sector.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-issues-revised-basel-pillar-3-disclosure-framework-for-commercial-small-finance-and-payments-banks/articleshow/132744948.cms"
-        },
-        {
-          "title": "US Fed Reserve pause; Geopolitical risks to force RBI status quo as economists are Bullish on inflows: Experts",
-          "summary": "The Reserve Bank of India's Monetary Policy Committee is expected to maintain status quo on key policy rates due to global central banks' moves and sticky inflation. Economists believe that geopolitical risks and the US Fed Reserve's pause will influence the RBI's decision. The RBI will keep a watchful eye on global developments and their impact on the Indian economy.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/us-fed-reserve-pause-geopolitical-risks-to-force-rbi-status-quo-as-economists-are-bullish-on-inflows-experts/"
-        },
-        {
-          "title": "Finance Ministry Calls for Swifter Policy Response Amid AI, Trade Weaponisation Risks",
-          "summary": "India's Finance Ministry has called for swifter policy responses to address global shifts driven by AI and trade weaponisation. The ministry has flagged upside risks to inflation, the fiscal deficit, and the current account, and urged for better-implemented policy action to secure long-term strategic leverage. Domestic fundamentals and structural reforms are expected to keep the economic outlook resilient.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/economy-and-policy/finance-ministry-calls-for-swifter-policy-response-amid-ai-trade-weaponisation-risks"
-        },
-        {
-          "title": "Finance ministry calls for faster policy action to sustain growth amid global uncertainty",
-          "summary": "The finance ministry has stressed the need for faster policy responses and stronger implementation to sustain growth amid global uncertainty. Rising crude oil prices pose a risk to fiscal and current account balances, and India must strengthen its long-term resilience and strategic leverage. Domestic fundamentals and policy support continue to bolster the economic outlook.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/finance/finance-ministry-calls-for-faster-policy-action-to-sustain-growth-amid-global-uncertainty/articleshow/132730789.cms"
-        },
-        {
-          "title": "India growth resilient amid global uncertainty, but crude risks linger",
-          "summary": "India's growth momentum remains resilient despite global uncertainty, supported by domestic demand. However, upside risks to inflation and deficits persist, while growth faces downside risks. The country must reinvent itself and reimagine responses to these challenges, with swift policy responses and reforms crucial for investor confidence and stability.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/indicators/india-growth-resilient-amid-global-uncertainty-but-crude-risks-linger/articleshow/132720476.cms"
-        }
-      ],
-      "Business": [
-        {
-          "title": "Zepto delays listing, looks to raise 1,000 crore in funding",
-          "summary": "Zepto is delaying its listing plans to raise around Rs 1,000 crore in pre-IPO funding, indicating the company's need for additional capital before going public. This move suggests that Zepto is prioritizing growth and expansion over immediate listing. The funding will likely be used to support the company's operations and development.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-delays-listing-looks-to-raise-1000-crore-in-funding/articleshow/132752901.cms"
-        },
-        {
-          "title": "Mahindra Last Mile Mobility turns unicorn after Rs 322-crore funding at Rs 10,822 crore valuation",
-          "summary": "Mahindra Last Mile Mobility has achieved unicorn status after receiving Rs 322 crore in funding, valuing the company at Rs 10,822 crore. This investment underscores the confidence of investors in India's growing electric vehicle segment. The funding will likely support the company's expansion and development of its electric three-wheeler business.",
-          "source": "Moneycontrol",
-          "url": "https://www.moneycontrol.com/automobile/mahindra-last-mile-mobility-turns-unicorn-after-rs-322-crore-funding-at-rs-10-822-crore-valuation-article-13989369.html"
-        },
-        {
-          "title": "Indore Gets Smart Seed Incubation Centre To Boost Startups And Innovation",
-          "summary": "The Indore Smart Seed Incubation Centre has been inaugurated to support startups and innovation in Madhya Pradesh. The centre will provide incubation seats, mentorship, and funding support to nurture startups and drive economic growth in the region. This initiative aims to strengthen the startup ecosystem in Central India.",
-          "source": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/indore/indore-gets-smart-seed-incubation-centre-to-boost-startups-and-innovation"
-        },
-        {
-          "title": "India's CSR map is still not its climate map",
-          "summary": "India's corporate social responsibility (CSR) investments are not adequately aligned with the country's climate vulnerability. There is a disparity in funding across regions, with some areas receiving more support than others. This highlights the need for targeted approaches to address environmental initiatives and climate change.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/toi-blogs/planet-watch/indias-csr-map-is-still-not-its-climate-map/articleshow/132713100.cms"
-        },
-        {
-          "title": "Market Wrap: Sensex and Nifty Close Over 1% Higher as Engineering Services Lead Sectoral Gains",
-          "summary": "The Indian stock market closed with significant gains, driven by the engineering services sector. The Sensex and Nifty rose by over 1%, with the engineering services sector leading the charge with 5.42% gains. This indicates a positive trend in the market, with healthy market breadth and positive corporate developments.",
-          "source": "scanx.trade",
-          "url": "https://scanx.trade/stock-market-news/markets/market-wrap-sensex-and-nifty-close-over-1-higher-as-engineering-services-lead-sectoral-gains/46864889"
-        },
-        {
-          "title": "Six years after privatising space, India has a unicorn, orbital launcher and $871 million in startup funding",
-          "summary": "India's space sector has seen significant growth since its privatization in 2020, with the emergence of a unicorn and an orbital launcher. The sector has also received $871 million in startup funding, indicating a positive trend for the industry. Skyroot Aerospace's successful launch marks a major milestone in India's space sector development.",
-          "source": "The New Indian Express",
-          "url": "https://www.newindianexpress.com/business/2026/Jul/28/six-years-after-privatising-space-india-has-a-unicorn-orbital-launcher-and-871-million-in-startup-funding"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Why’s CJI not on panel to pick CEC, Supreme Court asks government",
-          "summary": "The Supreme Court has questioned the government's decision to not include the Chief Justice of India in the panel to select the Chief Election Commissioner and Election Commissioners, emphasizing the need for an independent and impartial process. This matter is significant as it relates to the appointment of key officials in the Election Commission. The court's inquiry highlights the importance of transparency and fairness in such appointments.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/whys-cji-not-on-panel-to-pick-cec-supreme-court-asks-government/articleshow/132753003.cms"
-        },
-        {
-          "title": "Shouldn't selection panel on CEC, ECs have a show of fairness? SC asks Centre",
-          "summary": "The Supreme Court has raised concerns about the fairness of the selection panel for Election Commissioners, suggesting that the inclusion of the Chief Justice of India could enhance the transparency of the process. The court's observations underscore the need for visible fairness in appointments to key positions. The matter has been reserved for a larger bench, indicating its significance.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/politics-and-nation/shouldnt-selection-panel-on-cec-ecs-have-a-show-of-fairness-sc-asks-centre/articleshow/132749589.cms"
-        },
-        {
-          "title": "Clearance in reverse: on top court, post facto clearances",
-          "summary": "The Supreme Court has made a significant observation regarding environmental clearances, suggesting that harm to the environment can be addressed after the fact. This approach has implications for how projects are approved and the potential environmental consequences are mitigated. The ruling reflects the court's stance on balancing development with environmental protection.",
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/opinion/editorial/clearance-in-reverse-on-top-court-post-facto-clearances/article71286086.ece"
-        },
-        {
-          "title": "'How is unelected minister continuing for over six months?' SC raps Bihar govt",
-          "summary": "The Supreme Court has questioned the Bihar government over the continuation of an unelected minister in office for over six months, seeking an explanation for this situation. The court's inquiry highlights the importance of adhering to constitutional norms and the principles of democratic governance. This matter pertains to the accountability of state governments to the judiciary and the public.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/how-is-unelected-minister-continuing-for-over-six-months-sc-raps-bihar-govt/articleshow/132743744.cms"
         }
       ]
     }
