@@ -1,5 +1,139 @@
 [
   {
+    "generated_at": "2026-08-08T18:26:08.302823+00:00",
+    "brief": "The US army's decision to open its testing ranges to private companies to accelerate new weapon development, amid depleted stockpiles due to the conflict with Iran, has significant implications for the global arms industry. Meanwhile, in India, a parliamentary panel has recommended increased collaboration with the US in areas like AI, quantum technology, and semiconductors to drive economic growth, which could enhance India's access to cutting-edge technologies. Additionally, the Reserve Bank of India's dovish stance on prices has led to a revision in forecasts for policy rate increases, with some banks anticipating fewer hikes, which may impact the overall monetary policy outlook and have a ripple effect on the economy.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "US army opens test grounds to private arms makers as Iran war drains weapons stockpiles",
+          "summary": "The US army is opening its testing ranges to private companies to accelerate the development of new weapons, as the ongoing conflict with Iran has depleted its stockpiles. This move aims to boost the production of missiles, drones, and other weapons. The development could have significant implications for the global arms industry.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/us-army-opens-test-grounds-to-private-arms-makers-as-iran-war-drains-weapons-stockpiles/articleshow/133046471.cms"
+        },
+        {
+          "title": "Parliament panel seeks deeper India-US collaboration in AI, quantum tech, semiconductors to boost economic growth",
+          "summary": "A parliamentary panel has recommended increased collaboration between India and the US in areas like AI, quantum technology, and semiconductors to drive economic growth. The panel suggests dedicated measures to help Indian MSMEs participate in India-US digital technology partnerships. This collaboration could enhance India's access to cutting-edge technologies and boost its economy.",
+          "source": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/business/economy/parliament-panel-seeks-deeper-india-us-collaboration-in-ai-quantum-tech-semiconductors-to-boost-economic-growth-13998379.html"
+        },
+        {
+          "title": "Global Political Landscape: A Snapshot of Key Events",
+          "summary": "A series of significant international events are scheduled to take place from August to October 2026, including presidential visits, cultural festivals, and anniversaries. These events are expected to shape global dynamics, particularly in areas of diplomacy, economic partnerships, and cultural exchange. The events may have a profound impact on international relations and global politics.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3961174-global-political-landscape-a-snapshot-of-key-events"
+        },
+        {
+          "title": "India Defends Foreign Funding Rule Amid Criticism",
+          "summary": "The Indian government has defended its foreign funding regulations amidst international criticism, stating that the rules are controlled by Parliament. The regulations aim to monitor foreign contributions and maintain religious properties, but have raised concerns among some international lawmakers. The issue may affect India's bilateral relations with other countries.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/international/3961133-india-defends-foreign-funding-rule-amid-criticism"
+        },
+        {
+          "title": "Kenya relations about shared capacity and innovation, not just financing projects",
+          "summary": "India and Kenya are shifting their focus towards shared capacity and innovation in their bilateral relations, rather than just financing projects. This new approach aims to strengthen ties between the two countries and promote mutual growth. The development could lead to increased cooperation in areas like technology and trade.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/next-phase-in-india-kenya-relations-about-shared-capacity-and-innovation-not-just-financing-projects/"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Gujarat's Bold Leap: Pioneering Green AI Data Centres for Digital Future",
+          "summary": "The Gujarat government has introduced a new policy to attract investments in hyperscale Green AI data centres, aiming to position the state as a leader in digital infrastructure and sustainable development. This initiative is expected to enhance India's digital economy. The policy focuses on cutting-edge digital infrastructure and sustainable development.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/headlines/3961303-gujarats-bold-leap-pioneering-green-ai-data-centres-for-digital-future"
+        },
+        {
+          "title": "Banks tone down rate-hike bets as RBI sounds dovish on prices",
+          "summary": "Some banks have revised their forecasts for policy rate increases by the Reserve Bank of India, anticipating fewer hikes due to the central bank's dovish stance on prices. This change in forecast is influenced by inflation projections and crude oil price movements. The revision may impact the overall monetary policy outlook.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/banks-tone-down-rate-hike-bets-as-rbi-sounds-dovish-on-prices/articleshow/133018263.cms"
+        },
+        {
+          "title": "Indian markets end higher on easing crude prices, RBI policy support; Sensex gains 374 pts",
+          "summary": "The Indian stock market ended on a positive note due to easing crude oil prices and the Reserve Bank of India's steady policy stance. Selective buying in certain sectors also contributed to the market's upward movement. The Sensex gained 374 points, indicating a positive trend in the market.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/indian-markets-end-higher-on-easing-crude-prices-rbi-policy-support-sensex-gains-374-pts"
+        },
+        {
+          "title": "RBI policy-led India bond rally continues; Friday's debt sale in focus",
+          "summary": "The Indian government bond market saw a rally following the Reserve Bank of India's dovish stance and falling oil prices. Investors are cautious ahead of a significant bond auction, which will test market demand and the sustainability of the recent bond price gains. The auction's outcome will be closely watched by market participants.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/rbi-policy-led-india-bond-rally-continues-fridays-debt-sale-in-focus/articleshow/132993202.cms"
+        },
+        {
+          "title": "When is your home loan EMI increasing? RBI rate hike calls pushed back after dovish pause",
+          "summary": "Economists now expect the Reserve Bank of India to raise interest rates later than initially anticipated, potentially in December or later. This shift is due to low core inflation and the central bank's dovish stance. The delay in rate hikes may impact home loan EMIs and the overall monetary policy outlook.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/when-is-your-home-loan-emi-increasing-rbi-rate-hike-calls-pushed-back-after-dovish-pause/articleshow/132987769.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "No government grants yet, but IPA says corporate is funding Indian pickleball",
+          "summary": "The Indian Pickleball Association is relying on private sponsors and franchise owners to build the sport's ecosystem in India, as it has not received any government funding yet. This approach is being led by teams like the Lucknow Leopards, which is setting a benchmark for others to follow. The development of pickleball in India is thus dependent on corporate funding for now.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/sports/others/no-government-grants-yet-but-ipa-says-corporate-is-funding-indian-pickleball-lucknow-leopards-setting-the-benchmark-101786004485977.html"
+        },
+        {
+          "title": "New platform to support cultural entrepreneurship in India",
+          "summary": "A new platform has been launched to support cultural entrepreneurship in India, aiming to address the gap in traditional incubation, mentorship, and funding networks for founders working in the cultural sector. This initiative recognizes the growth of India's startup ecosystem and the need for specific support for cultural ventures. It will provide necessary resources for entrepreneurs in this space.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/arts/new-platform-to-support-cultural-entrepreneurship-in-india/"
+        },
+        {
+          "title": "Stage VCs Are Rethinking Investing as AI Rewrites Startup Economics",
+          "summary": "The impact of AI on startup funding is leading to a shift in early-stage venture capital investing, with a focus on sector-focused investing and deeper engagement. This change reflects the maturing ecosystem in India, where VCs are seeking specialized expertise to navigate the evolving startup landscape. AI is thus influencing the strategy of early-stage investors.",
+          "source": "Forbes India",
+          "url": "https://www.forbesindia.com/article/news/deep-dive/why-ai-could-lead-to-an-existential-crisis-for-early-stage-investors/2996635/1"
+        },
+        {
+          "title": "Zepto to raise pre-IPO funding amid delayed listing",
+          "summary": "Zepto is planning to raise funds through a pre-IPO financing round due to a delayed public listing. The company is taking this step amid a tepid response from investors to its initial public offering. This move indicates the challenges faced by startups in securing funding through traditional listing routes.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-to-raise-pre-ipo-funding-amid-delayed-listing/articleshow/132791582.cms"
+        },
+        {
+          "title": "India startup funding slumps 57% in a week as big-ticket deals dry up",
+          "summary": "Indian startup funding has seen a significant decline, with a 57% drop in funding in one week. This decrease is attributed to a slowdown in early- and late-stage funding, despite an increase in seed-stage investments. The lack of big-ticket deals is a major contributor to this slump, indicating a challenging environment for startups seeking larger investments.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-slumps-57-in-a-week-as-big-ticket-deals-dry-up-19959001.htm"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Hospitals can’t show negligence in treating crime victims, says SC",
+          "summary": "The Supreme Court has stated that hospitals cannot show negligence in treating victims of serious crimes, emphasizing the need for immediate medical attention. The court plans to establish guidelines for hospitals and law enforcement agencies to prevent such lapses. This decision aims to ensure timely medical care for crime victims.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/hospitals-can-t-show-negligence-in-treating-crime-victims-says-sc-101786126577998.html"
+        },
+        {
+          "title": "Supreme Court to Mahua: Freedom fighters faced bullets, you fear eggs",
+          "summary": "The Supreme Court dismissed TMC MP Mahua Moitra's plea to appear virtually before police in a case against her, citing that freedom fighters had faced greater risks. The court's decision highlights the importance of facing legal proceedings in person. This case has implications for how public figures respond to legal actions.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/supeme-court-to-mahua-freedom-fighters-faced-bullets-you-fear-eggs/articleshow/133044767.cms"
+        },
+        {
+          "title": "Supreme Court seeks Bihar minister's record of appointment & nomination as MLC",
+          "summary": "The Supreme Court has requested records from the Bihar government regarding the appointment of Deepak Prakash as a minister, who was not a member of the legislative council at the time. This move aims to verify the legitimacy of his appointment and nomination. The court's action underscores the importance of transparency in government appointments.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/supreme-court-seeks-bihar-ministers-record-of-appointment-nomination-as-mlc/articleshow/133044739.cms"
+        },
+        {
+          "title": "Supreme Court dismisses Bofors appeal, 4-decade-old case closed",
+          "summary": "The Supreme Court has dismissed an appeal related to the Bofors pay-off case, effectively closing the four-decade-old case. This decision brings an end to the long-standing legal proceedings surrounding the Bofors scandal. The case's closure marks a significant development in India's legal history.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/supreme-court-dismisses-bofors-appeal-4-decade-old-case-closed/articleshow/133044399.cms"
+        },
+        {
+          "title": "‘Little hope of tracing 2 missing sailors’, Centre informs Supreme Court",
+          "summary": "The government has informed the Supreme Court that there is little hope of locating two Indian seafarers who have been missing. The court has been updated on the status of the search efforts. This case highlights the challenges and risks faced by Indian seafarers and the government's efforts to address such incidents.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/little-hope-of-tracing-2-missing-sailors-centre-informs-supreme-court/articleshow/133044178.cms"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-08-08T12:33:10.267084+00:00",
     "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. India is seeking to strengthen its collaborations with countries like the US and Kenya, focusing on areas such as AI, quantum tech, and innovation, to boost economic growth. Meanwhile, the Reserve Bank of India's dovish stance on prices has led to a revision in forecasts for policy rate increases, with some banks toning down their rate-hike bets, which in turn has positively impacted the Indian markets. Additionally, the startup funding landscape in India is witnessing a shift, with a decline in funding and a rethinking of investment strategies amidst the rise of AI, highlighting the need for specialized expertise in a maturing ecosystem.",
     "categories": {
@@ -3336,134 +3470,6 @@
           "summary": "The Supreme Court has sought the Centre's viewpoint on whether polygamy among Muslims should be banned. The court is already examining petitions challenging the practice of talaq-e-hasan and is now considering the issue of polygamy. This development highlights the ongoing debate on personal laws and their intersection with constitutional principles.",
           "source": "Times of India",
           "url": "https://timesofindia.indiatimes.com/india/should-polygamy-among-muslims-be-banned-sc-seeks-centres-viewpoint/articleshow/132776759.cms"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-08-01T18:59:25.090488+00:00",
-    "brief": "Tensions between nations continue to escalate, with North Korea condemning NATO's fuel network overhaul as \"unprecedented\" war preparations, while the US and Iran remain at odds, with diplomacy and mutual trust being touted as the only way forward. In economic news, the Reserve Bank of India is expected to hold its repo rate steady due to elevated inflation risks, with market focus shifting to policy guidance. Meanwhile, the Indian startup scene has seen a significant slump in funding, with a 57% drop in just one week, although some companies, such as Mahindra Last Mile Mobility, are still attracting significant investment and achieving unicorn status.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "North Korea decries NATO fuel network overhaul as 'unprecedented' war preparations",
-          "summary": "North Korea has condemned NATO's recent fuel network overhaul, calling it 'unprecedented' war preparations. This reaction highlights the ongoing tensions between North Korea and Western nations. The situation is being closely watched due to its potential implications for global security.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/north-korea-decries-nato-fuel-network-overhaul-as-unprecedented-war-preparations/"
-        },
-        {
-          "title": "Indian-origin US soldier killed in Iran war given hero’s funeral",
-          "summary": "An Indian-origin US soldier, Angel Rampersad, was killed in action in the Iran war and given a hero's funeral. This incident highlights the global nature of modern conflicts and the sacrifices made by individuals from diverse backgrounds. The funeral is a tribute to the soldier's bravery and service.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/indian-origin-us-soldier-killed-in-iran-war-given-heros-funeral/"
-        },
-        {
-          "title": "Dialogue, the only way forward",
-          "summary": "The ongoing confrontation between Iran and the US has been highlighted as a concern that serves no one's long-term interests. It is suggested that diplomacy and mutual trust are essential for resolving the issue, particularly with regards to Iran's nuclear program. International law and patient diplomacy are seen as key to achieving peace in the region.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/letters/dialogue-the-only-way-forward/"
-        },
-        {
-          "title": "India, Lesotho review entire spectrum of bilateral ties and cooperation",
-          "summary": "India and Lesotho have reviewed their bilateral relations and cooperation, covering various aspects of their partnership. This engagement is part of India's efforts to strengthen its ties with African nations. The review is expected to enhance cooperation between the two countries in different areas.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/india-lesotho-review-entire-spectrum-of-bilateral-ties-and-cooperation/"
-        },
-        {
-          "title": "New spy agency, higher defence spending, lethal arms exports: Japan’s security reset explained",
-          "summary": "Japan has launched a new spy agency, the National Intelligence Bureau, marking a significant shift in its post-World War II security architecture. The country is also increasing its defense spending and exporting lethal arms. These moves are part of Japan's efforts to strengthen its security and defense capabilities.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/defence/international/new-spy-agency-higher-defence-spending-lethal-arms-exports-japans-security-reset-explained/articleshow/132759623.cms"
-        },
-        {
-          "title": "Amnesty claims Indian firms sent 2,596 weapon shipments to Israel used in Gaza war",
-          "summary": "Amnesty International has reported that Indian firms have exported over 2,500 shipments of weapons to Israel, which were allegedly used in the Gaza war. This claim highlights concerns about the global arms trade and its potential impact on conflict zones. The report raises questions about the role of Indian companies in the international arms trade.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/india/amnesty-claims-indian-firms-sent-2596-weapon-shipments-to-israel-used-in-gaza-war/"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "RBI likely to hold repo rate at 5.25%, market to focus on policy guidance: Nuvama",
-          "summary": "The Reserve Bank of India is expected to keep its repo rate unchanged at 5.25% due to elevated inflation risks and tightened financial conditions. The market will focus on the policy guidance from the RBI. This decision is based on a research report by Nuvama, which suggests a cautious wait-and-watch approach by policymakers.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-likely-to-hold-repo-rate-at-5-25-market-to-focus-on-policy-guidance-nuvama/articleshow/132783688.cms"
-        },
-        {
-          "title": "RBI likely to hold rates in August MPC as Q1 growth likely to cross 7 pc: Report",
-          "summary": "The Reserve Bank of India may keep policy rates unchanged in the August Monetary Policy Committee meeting. This decision is influenced by the expected Q1 growth rate, which is likely to cross 7%. The RBI's decision will be based on various economic factors, including growth and inflation.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/national/rbi-likely-to-hold-rates-in-august-mpc-as-q1-growth-likely-to-cross-7-pc-report/"
-        }
-      ],
-      "Business": [
-        {
-          "title": "India startup funding slumps 57% in a week as big",
-          "summary": "Indian startups raised $80 million in funding during July 24-30, a 57% drop from the previous week. This decline is attributed to a slowdown in early- and late-stage funding. Despite this, seed-stage activity remained strong.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-slumps-57-in-a-week-as-big-ticket-deals-dry-up-19959001.htm"
-        },
-        {
-          "title": "Swiggy, Eternal Surge As Zepto's IPO Valuation Reset Raises Market Share Hopes",
-          "summary": "Swiggy and Eternal shares increased as investors believe Zepto's reduced IPO valuation and funding constraints could slow its expansion, allowing listed rivals to gain market share in India's quick commerce sector. This development may impact the competitive landscape of the sector.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/markets/swiggy-eternal-surge-as-zeptos-ipo-valuation-reset-raises-market-share-hopes"
-        },
-        {
-          "title": "Mahindra Last Mile Mobility turns unicorn after Rs 322-crore funding at Rs 10,822 crore valuation",
-          "summary": "Mahindra Last Mile Mobility has become a unicorn after raising ₹322 crore in funding, valuing the company at ₹10,822 crore. This investment strengthens its lead in India's electric three-wheeler market and underscores investor confidence in the segment.",
-          "source": "Moneycontrol",
-          "url": "https://www.moneycontrol.com/automobile/mahindra-last-mile-mobility-turns-unicorn-after-rs-322-crore-funding-at-rs-10-822-crore-valuation-article-13989369.html"
-        },
-        {
-          "title": "Zepto delays listing, looks to raise Rs 1,000 crore in funding",
-          "summary": "Zepto is delaying its listing plans and instead seeking to raise around ₹1,000 crore in pre-IPO funding. This move may impact the company's expansion plans and its position in the quick commerce market.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-delays-listing-looks-to-raise-1000-crore-in-funding/articleshow/132752901.cms"
-        },
-        {
-          "title": "Indore Gets Smart Seed Incubation Centre To Boost Startups And Innovation",
-          "summary": "The Indore Smart Seed Incubation Centre has been launched to support startups and drive innovation-led economic growth in Central India. The facility will offer incubation seats, mentorship, investor access, funding support, and modern infrastructure to nurture startups.",
-          "source": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/indore/indore-gets-smart-seed-incubation-centre-to-boost-startups-and-innovation"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Supreme Court asks states to stop cattle straying on roads, compensate victims of accidents",
-          "summary": "The Supreme Court has directed states to prevent cattle from straying onto roads and to compensate victims of accidents caused by such incidents. This move aims to reduce accidents and ensure road safety. The court has emphasized the need for states to enact laws or enforce regulations to address this issue.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/supreme-court-asks-states-to-stop-cattle-straying-on-roads-compensate-victims-of-accidents-101785565334882.html"
-        },
-        {
-          "title": "Supreme Court orders DNA tests for Indians killed while serving Russian army",
-          "summary": "The Supreme Court has ordered DNA tests to identify Indians killed while serving in the Russian army. The court has also directed the Centre to appoint a nodal officer to assist families in pursuing compensation claims with the Russian authorities. This decision aims to provide closure and support to the families of the deceased.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/supreme-court-orders-dna-tests-for-indians-killed-while-serving-russian-army-101785556570936.html"
-        },
-        {
-          "title": "Supreme Court says wife found living in adultery can't claim maintenance",
-          "summary": "The Supreme Court has ruled that a wife found to be living in adultery is not entitled to claim maintenance. The court has emphasized the need for clear evidence to support allegations of adultery before denying relief. The ruling also highlights the need for a regulatory framework for private investigators.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/supreme-court-says-wife-found-living-in-adultery-cant-claim-maintenance-101785549387154.html"
-        },
-        {
-          "title": "Supreme Court: Fresh public hearing must for clearance, but mining to continue",
-          "summary": "The Supreme Court has ruled that a fresh public hearing is necessary for clearance, but has allowed mining activities to continue. The judgment aims to balance environmental concerns with the need for economic activity. The court's decision has implications for the mining industry and environmental regulations.",
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/legal-news/supreme-court-fresh-public-hearing-must-for-clearance-but-mining-to-continue-10812811/"
-        },
-        {
-          "title": "Should polygamy among Muslims be banned, SC seeks Centre's viewpoint",
-          "summary": "The Supreme Court has sought the Centre's viewpoint on a petition seeking to ban polygamy among Muslims. The court is already examining petitions challenging the practice of talaq-e-hasan. The decision to seek the Centre's viewpoint indicates that the court is considering the issue of polygamy and its implications for Muslim personal law.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/should-polygamy-among-muslims-be-banned-sc-seeks-centres-viewpoint/articleshow/132776759.cms"
-        },
-        {
-          "title": "SC: How is torching a police station UAPA offence?",
-          "summary": "The Supreme Court has questioned how torching a police station can be considered an offence under the Unlawful Activities (Prevention) Act (UAPA). The court's decision to dismiss a challenge to a high court's bail order highlights the need for careful consideration of the application of anti-terror laws. The ruling has implications for the interpretation of UAPA and its application in similar cases.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/sc-how-is-torching-a-police-station-uapa-offence/articleshow/132776718.cms"
         }
       ]
     }
