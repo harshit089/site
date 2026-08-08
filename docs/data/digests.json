@@ -1,5 +1,133 @@
 [
   {
+    "generated_at": "2026-08-08T12:33:10.267084+00:00",
+    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. India is seeking to strengthen its collaborations with countries like the US and Kenya, focusing on areas such as AI, quantum tech, and innovation, to boost economic growth. Meanwhile, the Reserve Bank of India's dovish stance on prices has led to a revision in forecasts for policy rate increases, with some banks toning down their rate-hike bets, which in turn has positively impacted the Indian markets. Additionally, the startup funding landscape in India is witnessing a shift, with a decline in funding and a rethinking of investment strategies amidst the rise of AI, highlighting the need for specialized expertise in a maturing ecosystem.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Parliament panel seeks deeper India-US collaboration in AI, quantum tech, semiconductors to boost economic growth",
+          "summary": "A parliamentary panel has recommended that India and the US collaborate more closely in areas like AI, quantum tech, and semiconductors to boost economic growth. The panel suggested measures to help Indian MSMEs participate in India-US digital technology partnerships. This collaboration is expected to improve access to technology and innovation support for Indian businesses.",
+          "source": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/business/economy/parliament-panel-seeks-deeper-india-us-collaboration-in-ai-quantum-tech-semiconductors-to-boost-economic-growth-13998379.html"
+        },
+        {
+          "title": "Global Political Landscape: A Snapshot of Key Events",
+          "summary": "A range of significant global events are scheduled to take place from August to October 2026, including presidential visits, international commemorations, and cultural festivals. These events are expected to shape global dynamics, particularly in areas of diplomacy, economic partnerships, and cultural exchange. The events will have a significant impact on international relations and global politics.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3961174-global-political-landscape-a-snapshot-of-key-events"
+        },
+        {
+          "title": "Kenya relations about shared capacity and innovation, not just financing projects",
+          "summary": "India and Kenya are looking to strengthen their relations by focusing on shared capacity and innovation, rather than just financing projects. This new approach aims to take the bilateral relationship beyond the traditional donor-recipient model. The two countries are expected to collaborate in areas such as technology and innovation.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/next-phase-in-india-kenya-relations-about-shared-capacity-and-innovation-not-just-financing-projects/"
+        },
+        {
+          "title": "India Defends Foreign Funding Rule Amid Criticism",
+          "summary": "The Indian government has defended its foreign funding regulations amid international criticism, stating that the rules are necessary to monitor foreign contributions and maintain religious properties. The regulations have been criticized by some countries, including the US, which fears they could affect bilateral relations. The Indian government has clarified that the rules are controlled by Parliament.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/international/3961133-india-defends-foreign-funding-rule-amid-criticism"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Gujarat's Bold Leap: Pioneering Green AI Data Centres for Digital Future",
+          "summary": "The Gujarat government has introduced a new policy to attract investments in hyperscale Green AI data centres, aiming to position the state as a leader in digital infrastructure and sustainable development. This initiative is expected to enhance India's digital economy. The policy focuses on cutting-edge digital infrastructure and sustainable development.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/headlines/3961303-gujarats-bold-leap-pioneering-green-ai-data-centres-for-digital-future"
+        },
+        {
+          "title": "Banks tone down rate-hike bets as RBI sounds dovish on prices",
+          "summary": "Some banks have revised their forecasts for fewer policy rate increases from the Reserve Bank of India due to its dovish stance on prices. This change in forecast is influenced by inflation projections that are sensitive to future crude oil price movements. The revision indicates a potential shift in the monetary policy outlook.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/banks-tone-down-rate-hike-bets-as-rbi-sounds-dovish-on-prices/articleshow/133018263.cms"
+        },
+        {
+          "title": "Indian markets end higher on easing crude prices, RBI policy support; Sensex gains 374 pts",
+          "summary": "Indian benchmark indices ended higher due to easing crude oil prices and the Reserve Bank of India's steady policy stance. Selective buying in heavyweight, banking, and energy stocks also supported the market. The gain in the Sensex reflects the positive impact of these factors on the Indian economy.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/indian-markets-end-higher-on-easing-crude-prices-rbi-policy-support-sensex-gains-374-pts"
+        },
+        {
+          "title": "RBI policy-led India bond rally continues; Friday's debt sale in focus",
+          "summary": "Indian government bonds saw an increase due to the Reserve Bank of India's dovish stance and falling oil prices. Investors are cautious ahead of a significant bond auction, which will test market demand and the sustainability of the recent bond price gains. The outcome of the auction will be crucial for the bond market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/rbi-policy-led-india-bond-rally-continues-fridays-debt-sale-in-focus/articleshow/132993202.cms"
+        },
+        {
+          "title": "When is your home loan EMI increasing? RBI rate hike calls pushed back after dovish pause",
+          "summary": "Economists now expect the Reserve Bank of India to raise rates in December or later, due to low core inflation and the central bank's dovish stance. This shift in expectations may impact home loan EMIs, as the timing of potential rate hikes has been pushed back. The change in monetary policy outlook is significant for borrowers and the economy.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/when-is-your-home-loan-emi-increasing-rbi-rate-hike-calls-pushed-back-after-dovish-pause/articleshow/132987769.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "No government grants yet, but IPA says corporate is funding Indian pickleball",
+          "summary": "The Indian Pickleball Association is relying on private sponsors and franchise owners to build the sport's ecosystem in India, as it has not received any government funding yet. The Lucknow Leopards team is setting a benchmark for the sport in the country. This development highlights the growing importance of corporate funding for sports in India.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/sports/others/no-government-grants-yet-but-ipa-says-corporate-is-funding-indian-pickleball-lucknow-leopards-setting-the-benchmark-101786004485977.html"
+        },
+        {
+          "title": "New platform to support cultural entrepreneurship in India",
+          "summary": "A new platform has been launched to support cultural entrepreneurship in India, which is home to a growing number of entrepreneurs building ventures rooted in craft traditions and cultural knowledge systems. The platform aims to address the lack of support for founders working in the cultural sector. This initiative could boost the country's cultural and creative economy.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/arts/new-platform-to-support-cultural-entrepreneurship-in-india/"
+        },
+        {
+          "title": "Stage VCs Are Rethinking Investing as AI Rewrites Startup Economics",
+          "summary": "The rise of AI is changing the way early-stage venture capitalists invest in startups in India, with a shift towards sector-focused investing and deeper engagement. This change is driven by the need for specialized expertise in a maturing ecosystem. The development could have significant implications for the startup funding landscape in India.",
+          "source": "Forbes India",
+          "url": "https://www.forbesindia.com/article/news/deep-dive/why-ai-could-lead-to-an-existential-crisis-for-early-stage-investors/2996635/1"
+        },
+        {
+          "title": "Zepto to raise pre-IPO funding amid delayed listing",
+          "summary": "Zepto is planning to raise funds through a pre-IPO financing round due to a delayed public listing. The company is seeking to raise funds amid a tepid response from investors. This development highlights the challenges faced by startups in India's IPO market.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-to-raise-pre-ipo-funding-amid-delayed-listing/articleshow/132791582.cms"
+        },
+        {
+          "title": "India startup funding slumps 57% in a week as big-ticket deals dry up",
+          "summary": "Indian startups raised just $80 million in funding during the week of July 24-30, a 57% decline from the previous week. The decline was driven by a slowdown in early- and late-stage funding, despite an increase in seed-stage activity. This development highlights the volatility of the startup funding market in India.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-slumps-57-in-a-week-as-big-ticket-deals-dry-up-19959001.htm"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Supreme Court dismisses Bofors appeal, 4-decade-old case closed",
+          "summary": "The Supreme Court has dismissed an appeal related to the Bofors pay-off case, bringing a close to the 4-decade-old case. The appeal was challenging a 2005 Delhi High Court judgment that had quashed criminal proceedings in the case. This decision marks the end of a long-standing legal battle in India.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/supreme-court-dismisses-bofors-appeal-4-decade-old-case-closed/articleshow/133044399.cms"
+        },
+        {
+          "title": "‘Little hope of tracing 2 missing sailors’",
+          "summary": "The Indian government has informed the Supreme Court that there is little hope of locating two missing Indian seafarers. The government's statement was made in response to a case before the Supreme Court. The incident highlights concerns over the safety of Indian sailors.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/little-hope-of-tracing-2-missing-sailors-centre-informs-supreme-court/articleshow/133044178.cms"
+        },
+        {
+          "title": "Supreme Court shunts out two coal scam judges",
+          "summary": "The Supreme Court has replaced a sessions judge who was appointed to hear coal scam cases in Delhi, following an unusual request from the Delhi High Court. The move comes six months after the judge's appointment. The decision is significant in the context of the ongoing coal scam cases in India.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/supreme-court-shunts-out-two-coal-scam-judges-on-unusual-delhi-high-court-request/articleshow/133044136.cms"
+        },
+        {
+          "title": "Government in Supreme Court: Audio clips linking Biren to Manipur unrest doctored",
+          "summary": "The Indian government has told the Supreme Court that audio recordings allegedly linking former Manipur CM N Biren Singh to ethnic violence in the state are doctored. The government's statement was made in response to a case before the Supreme Court. The incident is related to the recent unrest in Manipur.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/government-in-supreme-court-audio-clips-linking-biren-to-manipur-unrest-doctored/articleshow/133044120.cms"
+        },
+        {
+          "title": "Maharashtra CET Cell Extends LLB Option Form Deadline",
+          "summary": "The Maharashtra CET Cell has extended the deadline for submitting LLB option forms after a High Court order, adding 78 new law colleges to the list. The move comes after the Bar Council of India approved several law colleges that were not initially included in the admission list. This decision affects thousands of law aspirants in the state.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/education/maharashtra-cet-cell-extends-llb-option-form-deadline-after-hc-order-78-law-colleges-added"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-08-08T06:39:20.635543+00:00",
     "brief": "The Indian government has been actively engaging in diplomatic efforts, with a parliamentary panel recommending deeper collaboration with the US in areas like AI and semiconductors to boost economic growth, while also shifting its focus with Kenya towards shared capacity and innovation. Meanwhile, the Reserve Bank of India's dovish stance on prices has led to a revision in rate hike forecasts, with some banks anticipating fewer hikes, which in turn has positively impacted the Indian stock market. Additionally, the government's initiatives to promote digital infrastructure, such as Gujarat's policy to attract investments in green AI data centres, are expected to enhance India's digital economy and contribute to overall growth.",
     "categories": {
@@ -3336,152 +3464,6 @@
           "summary": "The Supreme Court has questioned how torching a police station can be considered an offence under the Unlawful Activities (Prevention) Act (UAPA). The court's decision to dismiss a challenge to a high court's bail order highlights the need for careful consideration of the application of anti-terror laws. The ruling has implications for the interpretation of UAPA and its application in similar cases.",
           "source": "Times of India",
           "url": "https://timesofindia.indiatimes.com/india/sc-how-is-torching-a-police-station-uapa-offence/articleshow/132776718.cms"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-08-01T13:03:50.088421+00:00",
-    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The ongoing conflict between the US and Iran has sparked concerns about regional security, with experts emphasizing the need for dialogue and diplomacy to achieve a peaceful resolution. Meanwhile, India's role in global affairs is becoming increasingly prominent, with the country emerging as a key focus in the Trump administration's new public diplomacy strategy and Indian firms facing scrutiny over their exports of weapons to Israel. On the economic front, the Reserve Bank of India is expected to maintain a cautious approach to monetary policy, keeping a watchful eye on global central banks' moves and sticky inflation, while the government is reviewing its net neutrality rules to allow for 5G network slicing, which could have significant implications for the country's digital landscape.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "origin US soldier killed in Iran war given hero’s funeral",
-          "summary": "An Indian-origin US soldier, Angel Rampersad, was killed in action in the Iran war and given a hero's funeral. This incident highlights the global involvement of Indian diaspora in international conflicts. The funeral ceremony was a tribute to the soldier's bravery and sacrifice.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/indian-origin-us-soldier-killed-in-iran-war-given-heros-funeral/"
-        },
-        {
-          "title": "Dialogue, the only way forward",
-          "summary": "The ongoing conflict between Iran and the US has sparked concerns about regional security and the need for diplomacy. Experts believe that a peaceful resolution can only be achieved through dialogue and mutual trust. The international community is calling for restraint and adherence to international law to avoid further escalation.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/letters/dialogue-the-only-way-forward/"
-        },
-        {
-          "title": "India, Lesotho review entire spectrum of bilateral ties and cooperation",
-          "summary": "India and Lesotho recently reviewed their bilateral relations and cooperation, covering various aspects of their partnership. This move aims to strengthen ties between the two nations and explore new areas of cooperation. The review is expected to enhance mutual understanding and benefit both countries.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/india-lesotho-review-entire-spectrum-of-bilateral-ties-and-cooperation/"
-        },
-        {
-          "title": "New spy agency, higher defence spending, lethal arms exports: Japan’s security reset explained",
-          "summary": "Japan has launched a new spy agency, the National Intelligence Bureau, marking a significant shift in its post-World War II security architecture. The country is also increasing its defense spending and exporting lethal arms, indicating a major reset in its security strategy. This move is expected to have implications for regional and global security dynamics.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/defence/international/new-spy-agency-higher-defence-spending-lethal-arms-exports-japans-security-reset-explained/articleshow/132759623.cms"
-        },
-        {
-          "title": "Amnesty claims Indian firms sent 2,596 weapon shipments to Israel used in Gaza war",
-          "summary": "Amnesty International has reported that Indian firms exported over 2,500 shipments of weapons to Israel, which were allegedly used in the Gaza war. This revelation raises concerns about India's role in the global arms trade and its potential impact on conflict zones. The report highlights the need for greater transparency and accountability in arms exports.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/india/amnesty-claims-indian-firms-sent-2596-weapon-shipments-to-israel-used-in-gaza-war/"
-        },
-        {
-          "title": "India emerges as key focus in Trump administration’s new public diplomacy strategy",
-          "summary": "The Trump administration has identified India as a key focus in its new public diplomacy strategy, indicating a significant shift in US-India relations. This move aims to strengthen people-to-people ties and promote mutual understanding between the two nations. The new strategy is expected to have implications for bilateral cooperation and global governance.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/india-emerges-as-key-focus-in-trump-administrations-new-public-diplomacy-strategy/"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "HDFC Bank Saga: A Timeline Of MSRDC Case That Led To ₹1 Lakh Penalties",
-          "summary": "The Reserve Bank of India has sought an explanation from HDFC Bank over its decision to impose a monetary penalty of ₹1 lakh each on three of its top executives. The bank fined its Managing Director and CEO, Chief Financial Officer, and Group Head-Retail Assets in connection with the Maharashtra State Road Development Corporation deposit matter. The RBI is reviewing whether the bank's disciplinary framework is in line with standard practices.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/corporate/hdfc-bank-saga-msrdc-case-timeline-rs-1-lakh-penalties-on-leadership-rbi-scrutiny"
-        },
-        {
-          "title": "Who gets faster Internet? India's net world may soon have first class and economy",
-          "summary": "India is reviewing its net neutrality rules to allow 5G network slicing, which could enable telecom operators to offer premium connectivity with guaranteed speed, latency, and reliability. This move could transform industries like healthcare and manufacturing, but also raises concerns about a two-tier internet where businesses and consumers pay for faster network performance. The policy shift may have significant implications for the country's digital landscape.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/who-gets-faster-internet-indias-net-world-may-soon-have-first-class-and-economy-v/articleshow/132761288.cms"
-        },
-        {
-          "title": "RBI issues revised Basel Pillar 3 disclosure framework for commercial, small finance and payments banks",
-          "summary": "The Reserve Bank of India has revised its Basel Pillar 3 disclosure framework to strengthen market discipline through more comprehensive public disclosures. Banks are now required to provide detailed information on capital and risk exposures, and a formal disclosure policy approved by boards is also mandatory. The revised framework aims to enhance transparency and accountability in the banking sector.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-issues-revised-basel-pillar-3-disclosure-framework-for-commercial-small-finance-and-payments-banks/articleshow/132744948.cms"
-        },
-        {
-          "title": "US Fed Reserve pause; Geopolitical risks to force RBI status quo as economists are Bullish on inflows: Experts",
-          "summary": "The Reserve Bank of India's Monetary Policy Committee is expected to maintain status quo on key policy rates in its upcoming meeting, keeping a watchful eye on global central banks' moves and sticky inflation. Economists believe that geopolitical risks and the US Fed Reserve's pause will influence the RBI's decision. The RBI is likely to maintain a cautious approach to monetary policy.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/us-fed-reserve-pause-geopolitical-risks-to-force-rbi-status-quo-as-economists-are-bullish-on-inflows-experts"
-        },
-        {
-          "title": "Finance Ministry Calls for Swifter Policy Response Amid AI, Trade Weaponisation Risks",
-          "summary": "India's Finance Ministry has called for swifter policy responses to global shifts driven by AI and trade weaponisation to secure long-term strategic leverage. The ministry has flagged upside risks to inflation, the fiscal deficit, and the current account, as well as downside risks to growth, and is urging better-implemented policy action. The ministry's report highlights the need for proactive policy measures to mitigate these risks and ensure a resilient economic outlook.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/economy-and-policy/finance-ministry-calls-for-swifter-policy-response-amid-ai-trade-weaponisation-risks"
-        }
-      ],
-      "Business": [
-        {
-          "title": "India startup funding slumps 57% in a week as big",
-          "summary": "Indian startups raised $80 million in funding during July 24-30, a 57% drop from the previous week. This decline is attributed to a slowdown in early- and late-stage funding. Despite this, seed-stage activity showed stronger performance.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-slumps-57-in-a-week-as-big-ticket-deals-dry-up-19959001.htm"
-        },
-        {
-          "title": "Swiggy, Eternal Surge As Zepto's IPO Valuation Reset Raises Market Share Hopes",
-          "summary": "Swiggy and Eternal shares increased as investors believe Zepto's reduced IPO valuation and funding constraints could slow its growth, allowing listed competitors to gain market share in India's quick commerce sector. This development may impact the market dynamics of the sector.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/markets/swiggy-eternal-surge-as-zeptos-ipo-valuation-reset-raises-market-share-hopes"
-        },
-        {
-          "title": "Mahindra Last Mile Mobility turns unicorn after Rs 322-crore funding at Rs 10,822 crore valuation",
-          "summary": "Mahindra Last Mile Mobility has become a unicorn after raising ₹322 crore in funding, valuing the company at ₹10,822 crore. This investment strengthens its position in India's electric three-wheeler market and demonstrates investor confidence in the segment.",
-          "source": "Moneycontrol",
-          "url": "https://www.moneycontrol.com/automobile/mahindra-last-mile-mobility-turns-unicorn-after-rs-322-crore-funding-at-rs-10-822-crore-valuation-article-13989369.html"
-        },
-        {
-          "title": "Zepto delays listing, looks to raise Rs 1,000 crore in funding",
-          "summary": "Zepto is delaying its listing plans and instead seeking to raise around ₹1,000 crore in pre-IPO funding. This move may impact the company's growth plans and its position in the market.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-delays-listing-looks-to-raise-1000-crore-in-funding/articleshow/132752901.cms"
-        },
-        {
-          "title": "Indore Gets Smart Seed Incubation Centre To Boost Startups And Innovation",
-          "summary": "The Indore Smart Seed Incubation Centre has been inaugurated to support startups and drive innovation in Madhya Pradesh. The centre offers incubation seats, mentorship, and funding support to nurture startups and promote economic growth in Central India.",
-          "source": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/indore/indore-gets-smart-seed-incubation-centre-to-boost-startups-and-innovation"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Supreme Court: Fresh public hearing must for clearance, but mining to continue",
-          "summary": "The Supreme Court has ruled that a fresh public hearing is necessary for clearance, but allowed mining to continue. This judgment was delivered by a bench comprising the Chief Justice of India and two other justices. The ruling aims to balance environmental concerns with the need for mining activities.",
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/legal-news/supreme-court-fresh-public-hearing-must-for-clearance-but-mining-to-continue-10812811/"
-        },
-        {
-          "title": "Should polygamy among Muslims be banned, SC seeks Centre's viewpoint",
-          "summary": "The Supreme Court has sought the Centre's view on a petition seeking a ban on polygamy among Muslims. The court is already examining petitions challenging the practice of talaq-e-hasan. The Centre's response will help the court make a decision on the matter.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/should-polygamy-among-muslims-be-banned-sc-seeks-centres-viewpoint/articleshow/132776759.cms"
-        },
-        {
-          "title": "SC: How is torching a police station UAPA offence?",
-          "summary": "The Supreme Court has questioned how torching a police station can be considered an offence under the Unlawful Activities (Prevention) Act (UAPA). The court dismissed a challenge to a high court's decision to grant bail in a case involving the torching of a police station.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/sc-how-is-torching-a-police-station-uapa-offence/articleshow/132776718.cms"
-        },
-        {
-          "title": "Fairness matters : Panel to select ECI brass must be balanced",
-          "summary": "The Supreme Court has emphasized the importance of fairness in the appointment process of the Chief Election Commissioner and Election Commissioners. A balanced selection panel is necessary to ensure the integrity of the Election Commission of India. The Centre has defended the current selection process, but the court's emphasis on fairness is crucial for democratic governance.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/editorials/fairness-matters-panel-to-select-eci-brass-must-be-balanced/"
-        },
-        {
-          "title": "DKS defers talks with Vijay amid Cauvery protests; Tamil Nadu to move Supreme Court",
-          "summary": "Talks between DKS and Vijay have been deferred due to the current atmosphere of Cauvery protests. Tamil Nadu has decided to move the Supreme Court in relation to the protests. The Cauvery water dispute is a longstanding issue between states, and the Supreme Court's intervention may be necessary to resolve the matter.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/dks-defers-talks-with-vijay-amid-cauvery-protests-tamil-nadu-to-move-supreme-court-101785525543126.html"
-        },
-        {
-          "title": "‘Liberty not reliant on order’s brevity’: Supreme Court in Haldwani riots case",
-          "summary": "The Supreme Court has refused to interfere with the Uttarakhand high court's decision to release Abdul Malik, the alleged mastermind of the Haldwani riots. The court emphasized that liberty is not dependent on the brevity of an order, highlighting the importance of individual freedom and the need for careful consideration in such cases.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/liberty-not-reliant-on-order-s-brevity-supreme-court-in-haldwani-riots-case-101785524763365.html"
         }
       ]
     }
