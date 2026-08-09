@@ -1,5 +1,115 @@
 [
   {
+    "generated_at": "2026-08-09T12:36:08.366013+00:00",
+    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The US-Iran tensions continue to shape global dynamics, with Turkey proposing a defence pact with Pakistan and Saudi Arabia, while the US army opens its testing ranges to private arms makers to accelerate the acquisition process. In India, the Reserve Bank of India's decision to hold the repo rate steady at 5.25% has reinforced confidence in the realty sector, and the Gujarat government's initiative to pioneer Green AI data centres is expected to contribute to India's digital future. Meanwhile, the Supreme Court has made notable rulings on women's justice, exam integrity, and medical care for crime victims, underscoring the need for effective implementation of laws and policies in the country.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "US-Iran War: Turkey proposes defence pact with Pakistan, Saudi Arabia",
+          "summary": "Turkey has proposed a defence pact with Pakistan and Saudi Arabia, which could also include Egypt, to address security concerns in the region. The pact would be similar to NATO's Article 5, where an attack on one member is considered an attack on all. This development comes amid ongoing tensions between the US and Iran.",
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/world/story/us-iran-war-live-tehran-trump-bahrain-saudi-arabia-gulf-countries-kuwait-iraq-defence-pact-pakistan-2966866-2026-08-09"
+        },
+        {
+          "title": "US army opens test grounds to private arms makers",
+          "summary": "The US army is opening its testing ranges to private companies developing missiles, drones, and other weapons to accelerate the acquisition process. This move comes as the US faces depleted weapons stockpiles due to the ongoing conflict with Iran. The goal is to quickly replenish and upgrade the US military's arsenal.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/us-army-opens-test-grounds-to-private-arms-makers-as-iran-war-drains-weapons-stockpiles/articleshow/133046471.cms"
+        },
+        {
+          "title": "Parliament panel seeks deeper India-US collaboration in tech",
+          "summary": "A parliament panel has recommended increased collaboration between India and the US in areas such as AI, quantum tech, and semiconductors to boost economic growth. The panel suggests dedicated measures to help Indian MSMEs participate in India-US digital technology partnerships. This could improve access to technology, digital infrastructure, and international collaboration opportunities for Indian businesses.",
+          "source": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/business/economy/parliament-panel-seeks-deeper-india-us-collaboration-in-ai-quantum-tech-semiconductors-to-boost-economic-growth-13998379.html"
+        },
+        {
+          "title": "Global Political Landscape: Key Events from August to October 2026",
+          "summary": "A series of significant international events, including presidential visits, commemorations, and cultural festivals, are scheduled to take place from August to October 2026. These events are expected to shape global dynamics, particularly in areas of diplomacy, economic partnerships, and cultural exchange. They will be closely watched for their impact on international relations and global affairs.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3961174-global-political-landscape-a-snapshot-of-key-events"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Policy Continuity Reinforces Realty Confidence as RBI Holds Repo Rate at 5.25%",
+          "summary": "The Reserve Bank of India's decision to keep the repo rate steady at 5.25% has been praised by industrialists as it provides stability in the housing and commercial realty sectors. This stability helps homebuyers and developers make investment decisions and plan future projects. It also provides a sound base for the future with continued infrastructure development and robust end-user demand.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/policy-continuity-reinforces-realty-confidence-as-rbi-holds-repo-rate-at-5-25/"
+        },
+        {
+          "title": "Gujarat's Bold Leap: Pioneering Green AI Data Centres for Digital Future",
+          "summary": "The Gujarat government has introduced a policy to position the state as a leader in hyperscale Green AI data centres, aiming to attract investments and enhance India's digital economy. The initiative focuses on sustainable development and cutting-edge digital infrastructure. This move is expected to contribute to India's digital future.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/headlines/3961303-gujarats-bold-leap-pioneering-green-ai-data-centres-for-digital-future"
+        },
+        {
+          "title": "Banks tone down rate-hike bets as RBI sounds dovish on prices",
+          "summary": "Some banks have revised their forecasts for policy rate increases from the Reserve Bank of India, anticipating fewer hikes. This revision is due to the RBI's dovish stance on prices, which suggests that the central bank is less concerned about inflation. Inflation projections remain sensitive to future crude oil price movements.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/banks-tone-down-rate-hike-bets-as-rbi-sounds-dovish-on-prices/articleshow/133018263.cms"
+        },
+        {
+          "title": "Indian markets end higher on easing crude prices, RBI policy support; Sensex gains 374 pts",
+          "summary": "Indian benchmark indices ended higher due to easing crude oil prices and the Reserve Bank of India's steady policy stance. Selective buying in heavyweight, banking, and energy stocks also supported the market. The RBI's policy decision and the decline in crude oil prices contributed to the positive market sentiment.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/indian-markets-end-higher-on-easing-crude-prices-rbi-policy-support-sensex-gains-374-pts/"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Superleap Raises INR 36 Cr to Build the AI",
+          "summary": "Superleap, an enterprise AI CRM platform, has raised INR 36 crore in a pre-Series A round to support its growth. The funding will help the company build its AI-native alternative to legacy CRMs. This investment is significant for the Indian startup ecosystem, particularly in the AI and CRM space.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/superleap-raises-inr-36-cr-to-build-the-ai-native-alternative-to-legacy-crms/"
+        },
+        {
+          "title": "New platform to support cultural entrepreneurship in India",
+          "summary": "A new platform has been launched to support cultural entrepreneurship in India, focusing on craft traditions, cultural knowledge systems, and community-led impact. This initiative aims to address the gap in traditional incubation, mentorship, and funding networks for cultural sector entrepreneurs. It has the potential to boost India's cultural and creative economy.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/arts/new-platform-to-support-cultural-entrepreneurship-in-india/"
+        },
+        {
+          "title": "Stage VCs Are Rethinking Investing as AI Rewrites Startup Economics",
+          "summary": "The rise of AI is changing the startup funding landscape, with early-stage VCs shifting to sector-focused investing and seeking deeper engagement and specialized expertise. This shift is significant for India's startup ecosystem, as VCs adapt to the evolving needs of startups in the AI era. It may lead to more targeted and effective investments.",
+          "source": "Forbes India",
+          "url": "https://www.forbesindia.com/article/news/deep-dive/why-ai-could-lead-to-an-existential-crisis-for-early-stage-investors/2996635/1"
+        },
+        {
+          "title": "Zepto to raise pre-IPO funding amid delayed listing",
+          "summary": "Zepto, a prominent Indian startup, is raising pre-IPO funding due to a delayed public listing. This move indicates that the company is seeking alternative funding options to support its growth plans. The development is noteworthy for the Indian startup ecosystem, particularly for companies considering IPOs.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-to-raise-pre-ipo-funding-amid-delayed-listing/articleshow/132791582.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Meta Restricts Instagram Post On Kashmir Pellet Victim Insha Mushtaq In India Under IT Rules",
+          "summary": "Meta has restricted an Instagram post about Kashmir pellet victim Insha Mushtaq in India, citing the country's IT Rules. The move comes amid renewed scrutiny of pellet gun use and ongoing Supreme Court proceedings on the issue. This highlights the intersection of technology, free speech, and government regulations in India.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/india/meta-restricts-instagram-post-on-kashmir-pellet-victim-insha-mushtaq-in-india-under-it-rules"
+        },
+        {
+          "title": "Laws are in place for women’s justice; implementation is the challenge, says Supreme Court judge Nagarathna",
+          "summary": "According to Supreme Court judge B.V. Nagarathna, India has established the necessary laws to ensure justice for women, but the challenge lies in implementing these laws effectively. This highlights the gap between legal frameworks and their actual enforcement in the country. The judge's statement emphasizes the need for better implementation of existing laws.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/karnataka/laws-are-in-place-for-womens-justice-implementation-is-the-challenge-says-supreme-court-judge-nagarathna/article71321620.ece"
+        },
+        {
+          "title": "Jharkhand Students' Protest Reaches Supreme Court, Plea Demands CBI Probe, Cancellation of JPSC Exam",
+          "summary": "A Public Interest Litigation has been filed in the Supreme Court seeking a CBI investigation into alleged irregularities in the JPSC Combined Civil Services Preliminary Examination 2025. The petition also demands the cancellation of the exam, following ongoing protests by Jharkhand students. This case highlights issues related to exam integrity and student grievances in India.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/jharkhand-students-protest-reaches-supreme-court-plea-demands-cbi-probe-cancellation-of-jpsc-exam-article-155386605"
+        },
+        {
+          "title": "Hospitals can’t show negligence in treating crime victims, says SC",
+          "summary": "The Supreme Court has stated that hospitals cannot show negligence in treating victims of serious crimes who require immediate medical attention. The court plans to frame guidelines for hospitals and law enforcement agencies to prevent such lapses. This ruling aims to ensure timely and proper medical care for crime victims in India.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/hospitals-can-t-show-negligence-in-treating-crime-victims-says-sc-101786126577998.html"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-08-09T06:43:12.404841+00:00",
     "brief": "Today's brief highlights key developments across geopolitics, economy, and national affairs. The Indian Army's Eastern Command is commemorating the 55th anniversary of the 1971 war, while a parliament panel has recommended deeper collaboration between India and the US in areas like AI, quantum technology, and semiconductors to boost economic growth. Meanwhile, the RBI's decision to hold the repo rate steady at 5.25 percent has reinforced confidence in the realty sector, and the Gujarat government has introduced a policy to position the state as a leader in hyperscale Green AI data centres, aiming to attract investments and enhance India's digital economy. These developments underscore the interconnectedness of diplomatic relations, economic policies, and technological advancements in shaping India's growth trajectory.",
     "categories": {
@@ -3366,110 +3476,6 @@
           "summary": "The Supreme Court has ruled that a wife cannot receive interim maintenance if an allegation of adultery against her is found to be prima facie true. This decision may impact the way maintenance cases are handled in the future. The court's ruling provides clarity on the issue, which is significant in family law cases.",
           "source": "Times of India",
           "url": "https://timesofindia.indiatimes.com/india/wife-not-entitled-to-interim-maintenance-if-adultery-allegation-is-prima-facie-true-sc/articleshow/132792673.cms"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-08-02T13:05:28.968559+00:00",
-    "brief": "Today's brief highlights significant developments across various categories, with a focus on geopolitics, economy, and business. The ongoing conflict between Iran and the US, along with North Korea's condemnation of NATO's fuel network overhaul, underscores the complexities of global security, while India's efforts to strengthen its bilateral ties with nations like Lesotho demonstrate its growing role in international relations. On the economic front, SBI Research has raised India's Q1 FY27 GDP growth estimate to around 7%, driven by stronger economic indicators and improved industrial activity, which may influence the Reserve Bank of India's decision on the repo rate.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Scorching heat, prolonged power outages deepen hardships in Khartoum",
-          "summary": "Sudan's capital Khartoum is facing significant challenges due to scorching heat and prolonged power outages, exacerbating the city's struggles to recover from the devastating effects of war. This situation highlights the humanitarian crisis in Sudan and the need for international support. The country's struggles have far-reaching implications for regional stability.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/scorching-heat-prolonged-power-outages-deepen-hardships-in-khartoum/"
-        },
-        {
-          "title": "North Korea decries NATO fuel network overhaul as 'unprecedented' war preparations",
-          "summary": "North Korea has condemned NATO's recent overhaul of its fuel network, describing it as 'unprecedented' war preparations. This statement reflects the ongoing tensions between North Korea and Western nations, with potential implications for global security. The situation highlights the complex geopolitics of the region.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/north-korea-decries-nato-fuel-network-overhaul-as-unprecedented-war-preparations/"
-        },
-        {
-          "title": "Indian-origin US soldier killed in Iran war given hero’s funeral",
-          "summary": "An Indian-origin US soldier, Angel Rampersad, was killed in action in the Iran war and given a hero's funeral. This incident highlights the global nature of modern conflicts and the sacrifices made by individuals from diverse backgrounds. The situation underscores the human cost of war and the importance of diplomacy in preventing such conflicts.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/indian-origin-us-soldier-killed-in-iran-war-given-heros-funeral/"
-        },
-        {
-          "title": "Dialogue, the only way forward",
-          "summary": "The ongoing confrontation between Iran and the US serves no one's long-term interests, and diplomacy should be given another chance to resolve the conflict. A peaceful resolution requires mutual trust, international monitoring, and respect for regional stakeholders' security concerns. The situation highlights the need for patient diplomacy and adherence to international law to achieve peace in the region.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/letters/dialogue-the-only-way-forward/"
-        },
-        {
-          "title": "India, Lesotho review entire spectrum of bilateral ties and cooperation",
-          "summary": "India and Lesotho have reviewed their bilateral relations and cooperation, covering various aspects of their partnership. This development highlights India's efforts to strengthen its ties with African nations and promote cooperation in areas such as trade, security, and development. The situation reflects India's growing role in international relations and its attempts to expand its diplomatic footprint.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/india-lesotho-review-entire-spectrum-of-bilateral-ties-and-cooperation/"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "SBI Research raises India's Q1 FY27 GDP growth estimate to around 7%",
-          "summary": "SBI Research has increased India's GDP growth estimate for the first quarter of FY27 to around 7%, citing stronger economic indicators, improved industrial activity, and a recovery in exports. This revised estimate is higher than earlier expectations. The growth is supported by positive trends in the economy.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3958302-sbi-research-raises-indias-q1-fy27-gdp-growth-estimate-to-around-7"
-        },
-        {
-          "title": "RBI likely to hold repo rate at 5.25%, market to focus on policy guidance: Nuvama",
-          "summary": "The Reserve Bank of India is expected to keep the repo rate unchanged at 5.25% due to elevated inflation risks and tightened financial conditions. The market will focus on the policy guidance from the RBI. A wait-and-watch approach is anticipated from policymakers amid uncertainty over inflation, growth, and global conditions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-likely-to-hold-repo-rate-at-5-25-market-to-focus-on-policy-guidance-nuvama/articleshow/132783688.cms"
-        }
-      ],
-      "Business": [
-        {
-          "title": "Zepto to raise pre-IPO funding amid delayed listing",
-          "summary": "Zepto is raising funds through pre-IPO financing due to a delayed public listing. The company is seeking to raise around $105 million. This move indicates a shift in Zepto's plans, potentially impacting its market position.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-to-raise-pre-ipo-funding-amid-delayed-listing/articleshow/132791582.cms"
-        },
-        {
-          "title": "India startup funding slumps 57% in a week as big",
-          "summary": "Indian startup funding saw a significant decline of 57% in a week, with total investments dropping to $80 million. This slowdown is attributed to a decrease in early- and late-stage funding. Despite this, seed-stage activity remained strong.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-slumps-57-in-a-week-as-big-ticket-deals-dry-up-19959001.htm"
-        },
-        {
-          "title": "Swiggy, Eternal Surge As Zepto's IPO Valuation Reset Raises Market Share Hopes",
-          "summary": "Zepto's proposed IPO valuation cut and funding constraints may slow its expansion, potentially allowing rivals like Swiggy and Eternal to gain market share in India's quick commerce sector. This development has led to a surge in Swiggy and Eternal's shares. The reset in Zepto's valuation could impact the market dynamics.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/markets/swiggy-eternal-surge-as-zeptos-ipo-valuation-reset-raises-market-share-hopes"
-        },
-        {
-          "title": "Mahindra Last Mile Mobility turns unicorn after Rs 322-crore funding at Rs 10,822 crore valuation",
-          "summary": "Mahindra Last Mile Mobility has entered the unicorn club with a valuation of ₹10,822 crore after raising ₹322 crore in funding. This investment strengthens the company's lead in India's electric three-wheeler market, indicating investor confidence in the segment. The funding will likely support the company's growth plans.",
-          "source": "Moneycontrol",
-          "url": "https://www.moneycontrol.com/automobile/mahindra-last-mile-mobility-turns-unicorn-after-rs-322-crore-funding-at-rs-10-822-crore-valuation-article-13989369.html"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "DMK Moves SC Seeking Immediate Release of Cauvery Water To Tamil Nadu",
-          "summary": "The DMK has approached the Supreme Court to direct the Karnataka government to release Cauvery water to Tamil Nadu, citing non-compliance with the Supreme Court's 2018 ruling. This move aims to ensure that Tamil Nadu receives its due share of water. The case highlights the ongoing water dispute between the two states.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/india/dmk-moves-sc-seeking-immediate-release-of-cauvery-water-to-tamil-nadu-article-155229039"
-        },
-        {
-          "title": "SC flags absence of law regulating private detectives, urges Parliament, govt to act",
-          "summary": "The Supreme Court has pointed out the lack of a law regulating private detectives in India and has urged the government and Parliament to address this issue. This highlights the need for legislation to govern the activities of private detectives. The court's directive aims to fill the existing legislative gap.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/india/sc-flags-absence-of-law-regulating-private-detectives-urges-parliament-govt-to-act/"
-        },
-        {
-          "title": "Wife not entitled to interim maintenance if adultery allegation is prima facie true: SC",
-          "summary": "The Supreme Court has ruled that a wife is not entitled to interim maintenance if there is a prima facie allegation of adultery against her. This ruling clarifies the criteria for granting interim maintenance in such cases. The court's decision aims to ensure that maintenance is granted based on legitimate grounds.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/wife-not-entitled-to-interim-maintenance-if-adultery-allegation-is-prima-facie-true-sc/articleshow/132792673.cms"
-        },
-        {
-          "title": "Supreme Court asks states to stop cattle straying on roads, compensate victims of accidents",
-          "summary": "The Supreme Court has directed states to prevent cattle from straying onto roads and to compensate victims of accidents caused by such stray animals. This move aims to address the issue of road accidents caused by stray cattle. The court's order emphasizes the need for states to enact laws or enforce regulations to prevent such incidents.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/supreme-court-asks-states-to-stop-cattle-straying-on-roads-compensate-victims-of-accidents-101785565334882.html"
         }
       ]
     }
