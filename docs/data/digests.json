@@ -1,5 +1,103 @@
 [
   {
+    "generated_at": "2026-08-10T01:11:30.627810+00:00",
+    "brief": "Tensions between the US and Iran continue to escalate, with the Iranian Revolutionary Guards refusing to reopen the Strait of Hormuz until all conditions are met, and the US Pentagon responding by asking defense firms to ramp up weapons production. Meanwhile, in India, the Reserve Bank of India's decision to hold the repo rate at 5.25% has been welcomed by industrialists, providing stability to the realty sector and supporting investment decisions. Additionally, the Indian stock market has ended on a positive note, driven by easing crude oil prices and the RBI's steady policy stance, with the Sensex gaining 374 points.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Iran Guards say won't reopen Hormuz without US meeting all Tehran's conditions",
+          "summary": "Iran's Revolutionary Guards have stated that they will not reopen the Strait of Hormuz until the US meets all of Tehran's conditions, including compensation for war damages and an end to aggression. This move has led to significant transit drops and international condemnation. Mediators are urging both sides to return to peace talks.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/defence/iran-guards-say-wont-reopen-hormuz-without-us-meeting-all-tehrans-conditions/articleshow/133065034.cms"
+        },
+        {
+          "title": "Pentagon asks defence firms to ramp up weapons production as Iran war drains stockpile: Report",
+          "summary": "The US Pentagon has asked defense companies to accelerate weapons production and deliveries due to the depletion of stockpiles resulting from the Iran war. This move is a response to the growing pressure to replenish the stockpiles. The request aims to ensure a steady supply of weapons.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/pentagon-asks-defence-firms-to-ramp-up-weapons-production-as-iran-war-drains-stockpile-report/articleshow/133061658.cms"
+        },
+        {
+          "title": "US-Iran War Live: Turkey says Egypt may join defence pact with Pakistan, Saudi Arabia",
+          "summary": "Turkey's Foreign Minister has announced that Egypt may join a proposed defense pact between Turkey, Pakistan, and Saudi Arabia. The pact would be similar to NATO's Article 5, where an attack on one member is treated as an attack on all. The agreement would also include a committee of ministers and a general secretariat.",
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/world/story/us-iran-war-live-tehran-trump-bahrain-saudi-arabia-gulf-countries-kuwait-iraq-defence-pact-pakistan-2966866-2026-08-09"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Policy Continuity Reinforces Realty Confidence as RBI Holds Repo Rate at 5.25%",
+          "summary": "The Reserve Bank of India's decision to keep the repo rate at 5.25% has been praised by industrialists as it provides stability in the housing and commercial realty sectors, aiding investment decisions and planning for developers. This stability, along with infrastructure development and robust end-user demand, provides a sound base for the future. The move is seen as providing assurance to homebuyers and supporting the real estate sector.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/policy-continuity-reinforces-realty-confidence-as-rbi-holds-repo-rate-at-5-25/"
+        },
+        {
+          "title": "Gujarat's Bold Leap: Pioneering Green AI Data Centres for Digital Future",
+          "summary": "The Gujarat government has introduced the Viksit Gujarat Data Centre Policy 2026-29, aiming to establish the state as a leader in hyperscale Green AI data centres. This initiative focuses on sustainable development and cutting-edge digital infrastructure to attract investments and enhance India's digital economy. The policy is part of the state's efforts to position itself at the forefront of digital innovation.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/headlines/3961303-gujarats-bold-leap-pioneering-green-ai-data-centres-for-digital-future"
+        },
+        {
+          "title": "Banks tone down rate-hike bets as RBI sounds dovish on prices",
+          "summary": "Following the Reserve Bank of India's recent policy statement, some banks have revised their forecasts for interest rate hikes, anticipating fewer increases. This shift in expectations is influenced by the RBI's stance on inflation and the potential impact of crude oil price movements on the economy. Banks such as Yes Bank, State Bank of India, and MUFG Bank have adjusted their rate hike forecasts accordingly.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/banks-tone-down-rate-hike-bets-as-rbi-sounds-dovish-on-prices/articleshow/133018263.cms"
+        },
+        {
+          "title": "Indian markets end higher on easing crude prices, RBI policy support; Sensex gains 374 pts",
+          "summary": "The Indian stock market ended on a positive note, supported by easing crude oil prices and the Reserve Bank of India's steady policy stance. The market also saw selective buying in heavyweight, banking, and energy stocks, contributing to the gains. The Sensex rose by 374 points, reflecting the positive sentiment among investors.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/indian-markets-end-higher-on-easing-crude-prices-rbi-policy-support-sensex-gains-374-pts/"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Superleap Raises INR 36 Cr to Build the AI",
+          "summary": "Superleap, an enterprise AI CRM platform, has raised INR 36 crore in a pre-Series A round to support its growth. The funding will help the company build its AI-native alternative to legacy CRMs. This investment is significant as it highlights the growing importance of AI in the CRM space.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/superleap-raises-inr-36-cr-to-build-the-ai-native-alternative-to-legacy-crms/"
+        },
+        {
+          "title": "New platform to support cultural entrepreneurship in India",
+          "summary": "A new platform has been launched to support cultural entrepreneurship in India, focusing on craft traditions, cultural knowledge systems, and community-led impact. This initiative aims to address the gap in traditional incubation, mentorship, and funding networks for cultural sector entrepreneurs. It has the potential to boost India's cultural and creative economy.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/arts/new-platform-to-support-cultural-entrepreneurship-in-india/"
+        },
+        {
+          "title": "Stage VCs Are Rethinking Investing as AI Rewrites Startup Economics",
+          "summary": "The rise of AI is changing the startup funding landscape, with early-stage VCs shifting to sector-focused investing and seeking deeper engagement and specialized expertise. This shift is driven by the need for VCs to adapt to the evolving startup ecosystem in India. As AI rewrites startup economics, VCs are rethinking their investment strategies.",
+          "source": "Forbes India",
+          "url": "https://www.forbesindia.com/article/news/deep-dive/why-ai-could-lead-to-an-existential-crisis-for-early-stage-investors/2996635/1"
+        },
+        {
+          "title": "Zepto to raise pre-IPO funding amid delayed listing",
+          "summary": "Zepto, a startup, is raising pre-IPO funding due to a delayed public listing. The company is seeking alternative funding options amid a tepid response from investors. This move highlights the challenges faced by startups in the current market and their need to explore different funding avenues.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-to-raise-pre-ipo-funding-amid-delayed-listing/articleshow/132791582.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Chief Minister leading talks to resolve Orthodox-Jacobite dispute: Govt tells HC",
+          "summary": "The Kerala government, led by Chief Minister V D Satheesan, is mediating the Orthodox-Jacobite Church dispute to achieve a peaceful resolution. The dispute is related to the Malankara Church and involves the Orthodox and Jacobite factions. The government's efforts aim to find an amicable solution to the long-standing conflict.",
+          "source": "Malayala Manorama",
+          "url": "https://www.onmanorama.com/news/kerala/2026/08/09/chief-minister-leading-talks-to-resolve-orthodox-jacobite-dispute-govt-tells-hc.html"
+        },
+        {
+          "title": "SC Collegium recommends new Chief Justices for Patna, Calcutta, Bombay, Punjab & Haryana HCs",
+          "summary": "The Supreme Court Collegium, headed by Chief Justice of India Surya Kant, has recommended new Chief Justices for several high courts, including Patna, Calcutta, Bombay, Punjab, and Haryana. This move is part of the process to fill vacancies in the higher judiciary. The recommendations will now be sent to the government for approval.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/national/sc-collegium-recommends-new-chief-justices-for-patna-calcutta-bombay-punjab-haryana-hcs/"
+        },
+        {
+          "title": "SC Collegium Recommends Elevation of Four Judges As Chief Justices of Different High Courts",
+          "summary": "The Supreme Court collegium has recommended the elevation of four judges as Chief Justices of different high courts. The decision was taken in a meeting headed by Chief Justice of India Surya Kant. The recommended judges will now be considered for appointment as Chief Justices of various high courts.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/supreme-court-collegium-recommends-elevation-of-four-judges-as-chief-justices-of-different-high-courts-article-155401698"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-08-09T18:30:06.455667+00:00",
     "brief": "The US Pentagon's request to defence firms to ramp up weapons production due to the Iran war has significant implications for global defence dynamics, while a proposed defence pact between Turkey, Pakistan, Saudi Arabia, and potentially Egypt, could alter regional security in the Middle East. In India, the Reserve Bank of India's decision to hold the repo rate steady has boosted confidence in the realty sector, and the Gujarat government's initiative to pioneer Green AI data centres is expected to enhance the country's digital economy. Meanwhile, the rise of AI is driving changes in startup economics, with venture capitalists adapting their investment strategies to remain relevant in India's maturing ecosystem.",
     "categories": {
@@ -3348,134 +3446,6 @@
           "summary": "The DMK has approached the Supreme Court, requesting the Karnataka government to release Cauvery water to Tamil Nadu immediately. The party is seeking compliance with the Supreme Court's 2018 ruling and directives from the Cauvery Water Management Authority. This move highlights the ongoing dispute over Cauvery water sharing between the two states.",
           "source": "Times Now",
           "url": "https://www.timesnownews.com/india/dmk-moves-sc-seeking-immediate-release-of-cauvery-water-to-tamil-nadu-article-155229039"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-08-03T02:07:31.601639+00:00",
-    "brief": "Tensions in the Middle East and the South China Sea continue to escalate, with Saudi Crown Prince urging the US to avoid new strikes on Iran and China introducing new management measures for Huangyan Dao, affecting regional stability and global trade. Meanwhile, in India, the Reserve Bank of India is expected to hold interest rates in its August monetary policy review due to elevated inflation risks, and the Indian stock market is likely to be influenced by the RBI's decision, earnings reports, and global events. Additionally, the Indian startup ecosystem is experiencing a slowdown in funding, with a 57% decline in funding last week, although seed-stage activity remains strong, indicating a continued interest in new ideas and ventures.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Saudi Crown Prince calls on Trump to avoid new Iran strikes, pursue diplomacy to prevent wider Middle East war: Report",
-          "summary": "Saudi Crown Prince has urged the US to avoid new strikes on Iran and instead pursue diplomacy to prevent a wider conflict in the Middle East. This warning highlights the region's fragile security and stability. The situation has significant implications for global security and international relations.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/news/us-news/saudi-crown-prince-calls-on-trump-to-avoid-new-iran-strikes-pursue-diplomacy-to-prevent-wider-middle-east-war-report-11785670259301.html"
-        },
-        {
-          "title": "Knowledge Nugget | South China Sea back in spotlight: What’s happening and why it matters",
-          "summary": "The South China Sea dispute has resurfaced with China introducing new management measures for Huangyan Dao, affecting international relations and regional stability. This development has significant implications for global trade and security. The dispute involves several countries, including the Philippines, and has the potential to escalate tensions in the region.",
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-south-china-sea-dispute-islands-philippines-upsc-10814514/"
-        },
-        {
-          "title": "Waging war against God': Iran hangs 20-year-old protester, third anti-regime demonstrator executed in a week",
-          "summary": "Iran has executed a 20-year-old protester, sparking concerns for other detainees on death row. The execution has drawn international attention and criticism, with the UN calling for a halt to such executions. This incident highlights the ongoing human rights concerns and tensions in Iran.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/news/world/waging-war-against-god-iran-hangs-20-year-old-protester-third-anti-regime-demonstrator-executed-in-a-week-11785648210771.html"
-        },
-        {
-          "title": "Scorching heat, prolonged power outages deepen hardships in Khartoum",
-          "summary": "Sudan's capital Khartoum is facing significant hardships due to scorching heat and prolonged power outages, exacerbating the effects of the ongoing war. The situation has severe implications for the city's residents, who are struggling to access basic necessities. The crisis highlights the need for urgent humanitarian assistance and support.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/scorching-heat-prolonged-power-outages-deepen-hardships-in-khartoum/"
-        },
-        {
-          "title": "North Korea decries NATO fuel network overhaul as 'unprecedented' war preparations",
-          "summary": "North Korea has condemned NATO's recently approved fuel network overhaul, describing it as 'unprecedented' war preparations. This statement reflects the ongoing tensions between North Korea and the international community, with significant implications for global security and stability. The situation has the potential to escalate tensions in the region.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/north-korea-decries-nato-fuel-network-overhaul-as-unprecedented-war-preparations/"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "RBI likely to hold rates in August, maintain hawkish tone as inflation risks persist: Economists",
-          "summary": "The Reserve Bank of India is expected to keep interest rates unchanged in its August monetary policy review due to elevated inflation risks. This decision is based on a poll of economists and treasury heads. The RBI's stance is likely to remain hawkish, indicating a cautious approach to monetary policy.",
-          "source": "Greater Kashmir",
-          "url": "https://www.greaterkashmir.com/national/rbi-likely-to-hold-rates-in-august-maintain-hawkish-tone-as-inflation-risks-persist-economists-12221206"
-        },
-        {
-          "title": "Stock market outlook: RBI policy, earnings and Middle East tensions to set Dalal Street mood this week",
-          "summary": "The Indian stock market is expected to be influenced by several domestic and global events, including the RBI's monetary policy review and earnings reports. Middle East tensions are also likely to impact investor sentiment. The market ended the previous week on a strong note, but its mood this week will depend on these factors.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-outlook-rbi-policy-earnings-and-middle-east-tensions-to-set-dalal-street-mood-this-week/articleshow/132804366.cms"
-        },
-        {
-          "title": "More dialogue needed between youth & policymakers as AI creating uncertainty about jobs: Ex - NITI Aayog VC",
-          "summary": "Former NITI Aayog Vice Chairman Rajiv Kumar emphasized the need for more dialogue between policymakers and youth, as Artificial Intelligence is creating uncertainty about job prospects. He also stressed the importance of India achieving higher economic growth to become an upper-middle-income country. Kumar suggested state-specific export policies to boost manufacturing and employment.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/india/more-dialogue-needed-between-youth-policymakers-as-ai-creating-uncertainty-about-jobs-ex-niti-aayog-vc/articleshow/132800723.cms"
-        },
-        {
-          "title": "SBI Research raises India's Q1 FY27 GDP growth estimate to around 7%",
-          "summary": "SBI Research has revised its estimate for India's GDP growth in the first quarter of FY27 to around 7%, citing stronger economic indicators, improved industrial activity, and a recovery in exports. This is higher than earlier expectations, indicating a positive outlook for the Indian economy. The revision is based on a Pre-Monetary Policy Committee report released by SBI Research.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3958302-sbi-research-raises-indias-q1-fy27-gdp-growth-estimate-to-around-7"
-        }
-      ],
-      "Business": [
-        {
-          "title": "Zepto to raise pre-IPO funding amid delayed listing",
-          "summary": "Zepto is raising funds through a pre-IPO financing due to a tepid response from investors to its public listing, delaying its listing plans. This move indicates the company's efforts to secure funding before going public. The development is significant for India's startup ecosystem, particularly in the quick commerce sector.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-to-raise-pre-ipo-funding-amid-delayed-listing/articleshow/132791582.cms"
-        },
-        {
-          "title": "India startup funding slumps 57% in a week as big",
-          "summary": "Indian startups raised $80 million across nine funding rounds during July 24–30, marking a 57% decline from the previous week. The slowdown in early- and late-stage funding is a significant trend in the Indian startup ecosystem. Despite this, seed-stage activity remains strong, indicating a continued interest in new ideas and ventures.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-slumps-57-in-a-week-as-big-ticket-deals-dry-up-19959001.htm"
-        },
-        {
-          "title": "Swiggy, Eternal Surge As Zepto's IPO Valuation Reset Raises Market Share Hopes",
-          "summary": "Swiggy and Eternal shares have rallied as investors bet that Zepto's proposed IPO valuation cut and funding constraints could slow its expansion. This development could help listed rivals gain market share in India's quick commerce sector, indicating a shift in the competitive landscape. The outcome will depend on how these companies adapt to changing market conditions.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/markets/swiggy-eternal-surge-as-zeptos-ipo-valuation-reset-raises-market-share-hopes"
-        },
-        {
-          "title": "wheeler business becomes unicorn with fresh investment",
-          "summary": "Mahindra Last Mile Mobility has entered the unicorn club after raising ₹322 crore in a funding round, taking its valuation to ₹10,822 crore. This investment strengthens the company's lead in India's electric three-wheeler market, underscoring investor confidence in the EV segment. The development highlights the growth potential of India's electric vehicle industry.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/business/companies/mahindra-last-mile-mobility-unicorn-lightrock-funding-electric-three-wheeler-ev-business-19958563.htm"
-        },
-        {
-          "title": "Mahindra Last Mile Mobility turns unicorn after Rs 322-crore funding at Rs 10,822 crore valuation",
-          "summary": "Mahindra Last Mile Mobility has turned unicorn after a ₹322-crore funding round, valuing the company at ₹10,822 crore. This investment reflects investor confidence in India's electric three-wheeler market, which is one of the fastest-growing EV segments. The development is significant for the Indian automotive industry and the broader EV ecosystem.",
-          "source": "Moneycontrol",
-          "url": "https://www.moneycontrol.com/automobile/mahindra-last-mile-mobility-turns-unicorn-after-rs-322-crore-funding-at-rs-10-822-crore-valuation-article-13989369.html"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Supreme Court's Justice Bhuyan backs more transparency in collegium’s operation",
-          "summary": "Supreme Court Justice Ujjal Bhuyan has called for more transparency in the collegium's operation, stating that not providing reasons for decisions is a disservice to outstanding judges. This statement highlights the need for greater accountability within the judiciary. The Judicial Transparency Index report was released to emphasize this point.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/supreme-court-justice-ujjal-bhuyan-backs-more-transparency-in-collegium-operation-101785638404268.html"
-        },
-        {
-          "title": "How smooth are govt websites like IRCTC, EPFO, Digilocker in India, the land of techies?",
-          "summary": "Many government websites in India, such as IRCTC and EPFO, are slow, glitchy, and difficult to navigate, despite being used by millions daily. This issue affects various services, including train ticket booking, RTI filing, and accessing court records. Experts and users have expressed concerns about the usability of these portals.",
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/sunday-special/story/indian-government-websites-irctc-railone-ugc-net-rti-epfo-umang-glitches-2939953-2026-08-02"
-        },
-        {
-          "title": "DMK Moves SC Seeking Immediate Release of Cauvery Water To Tamil Nadu",
-          "summary": "The DMK has approached the Supreme Court, requesting the Karnataka government to immediately release Cauvery water to Tamil Nadu. This move is based on the Supreme Court's 2018 ruling and directives from the Cauvery Water Management Authority. The DMK is seeking compliance with these existing orders.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/india/dmk-moves-sc-seeking-immediate-release-of-cauvery-water-to-tamil-nadu-article-155229039"
-        },
-        {
-          "title": "SC flags absence of law regulating private detectives, urges Parliament, govt to act",
-          "summary": "The Supreme Court has highlighted the lack of legislation regulating private detectives in India and has urged the government and Parliament to address this issue. The court is seeking to fill the legislative gap regarding the investigations conducted by private detectives.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/india/sc-flags-absence-of-law-regulating-private-detectives-urges-parliament-govt-to-act/"
-        },
-        {
-          "title": "Wife not entitled to interim maintenance if adultery allegation is prima facie true: SC",
-          "summary": "The Supreme Court has ruled that a wife is not entitled to interim maintenance if an allegation of adultery against her is found to be prima facie true. This decision sets a precedent for similar cases, emphasizing the importance of considering allegations of adultery in maintenance claims.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/wife-not-entitled-to-interim-maintenance-if-adultery-allegation-is-prima-facie-true-sc/articleshow/132792673.cms"
         }
       ]
     }
