@@ -1,5 +1,139 @@
 [
   {
+    "generated_at": "2026-08-11T18:52:52.476135+00:00",
+    "brief": "Today's brief highlights the ongoing geopolitical tensions in the Middle East, which are having a ripple effect on global oil prices and international relations. The situation in the Strait of Hormuz, a critical oil shipping route, remains uncertain, with potential implications for global oil supplies and prices. Meanwhile, in India, the Reserve Bank of India's decision to hold the repo rate steady at 5.25% has been welcomed by industrialists, providing stability in the housing and commercial realty sectors. Additionally, the Indian economy is also being impacted by the global economic trends, with the stock markets ending flat due to elevated oil prices and uncertainty in the Middle East.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Oil prices hold near one-week high as Strait of Hormuz reopening remains in limbo",
+          "summary": "Oil prices are steady near a one-week high due to uncertainty over the reopening of the Strait of Hormuz, a key oil shipping route, amid hopes of a US-Iran deal to end their conflict. The situation is being closely watched as it could impact global oil supplies and prices. The Strait of Hormuz is a critical route for oil exports from the Middle East.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-hold-near-one-week-high-as-strait-of-hormuz-reopening-remains-in-limbo/articleshow/133140281.cms"
+        },
+        {
+          "title": "Allegations of Torture: A Grim Tale of Captivity",
+          "summary": "Ukraine has accused Russia of systematically torturing prisoners of war and civilian detainees, including beatings, electric shocks, and sexual abuse. Russia denies these claims, calling them disinformation. The allegations have sparked calls for international pressure and accountability for Russia's actions.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/law-order/3962231-allegations-of-torture-a-grim-tale-of-captivity"
+        },
+        {
+          "title": "US conflict creates new strategic challenges for China: Report",
+          "summary": "The conflict between the US and Iran has created new strategic challenges for China, according to a report. The situation is seen as a victory for Chinese diplomacy and a defeat for US influence in the region. The report highlights the implications of the conflict for China's strategic interests.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/iran-us-conflict-creates-new-strategic-challenges-for-china-report/"
+        },
+        {
+          "title": "Why are Indian seafarers among the biggest victims of the West Asia war?",
+          "summary": "Indian seafarers are among the biggest victims of the West Asia war due to their significant presence on ships operating in the region. With over 12% of the global seafaring workforce being Indian, they are vulnerable to the conflict's impact on international shipping routes. The situation highlights the risks faced by Indian seafarers in the region.",
+          "source": "The New Indian Express",
+          "url": "https://www.newindianexpress.com/explainers/2026/Aug/10/why-are-indian-seafarers-among-the-biggest-victims-of-the-west-asia-war"
+        },
+        {
+          "title": "No Quiet on the Eastern Front: Moscow Rebuffs 'Freeze' Peace Proposals in Ukraine Standoff",
+          "summary": "Russia has rejected proposals to 'freeze' the conflict in Ukraine, instead emphasizing the need to address the war's root causes. The situation continues to escalate, with ongoing strikes and attacks on energy infrastructure exacerbating regional instability and global food security concerns. The rejection of peace proposals has deepened international concerns about the conflict.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/international/3961773-no-quiet-on-the-eastern-front-moscow-rebuffs-freeze-peace-proposals-in-ukraine-standoff"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Samudra Manthan, petroleum and India's energy security policy",
+          "summary": "This article discusses India's petroleum economy and energy security policy, covering trade aspects and the larger energy-security picture. It provides insights into India's energy security challenges and potential solutions. The article is relevant for understanding India's economic and energy policies.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/editors-pick/samudra-manthan-petroleum-and-indias-energy-security-policy-number-theory-101786410479868.html"
+        },
+        {
+          "title": "'No Policy Bars Airport Operators From Owning Airlines'",
+          "summary": "The Centre has clarified that there is no policy that prevents airport operators from owning airlines, following a request from the Airports Authority of India. This development could potentially impact the aviation industry and its regulations. The clarification is significant for understanding the relationship between airport operators and airlines.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/business-economy/economy/no-policy-bars-airport-operators-from-owning-airlines-centre-article-155498124"
+        },
+        {
+          "title": "Stock Markets End Flat; Oil Prices Elevated, Middle East Uncertainty Weigh",
+          "summary": "The stock markets ended flat due to elevated oil prices and uncertainty in the Middle East. The upcoming US inflation data is expected to impact the Federal Reserve's policy, which could influence market volatility and foreign investment in India. This development is relevant for understanding the global economic trends and their impact on India.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/business-economy/markets/stock-markets-end-flat-oil-prices-elevated-middle-east-uncertainty-weigh-article-155496264"
+        },
+        {
+          "title": "What To Take Away From The Credit Policy Of The Reserve Bank Of India",
+          "summary": "The Reserve Bank of India kept the repo rate unchanged at 5.25% and retained a neutral stance. This decision is significant for understanding the RBI's monetary policy and its impact on the economy. The article provides insights into the implications of the credit policy for the Indian economy.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/analysis/what-to-take-away-from-the-credit-policy-of-the-reserve-bank-of-india"
+        },
+        {
+          "title": "Policy Continuity Reinforces Realty Confidence as RBI Holds Repo Rate at 5.25%",
+          "summary": "The RBI's decision to hold the repo rate steady at 5.25% has been praised by industrialists as it provides stability in the housing and commercial realty sectors. The stability in interest rates aids in making investment decisions and helps developers plan future projects. This development is relevant for understanding the impact of monetary policy on the real estate sector.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/policy-continuity-reinforces-realty-confidence-as-rbi-holds-repo-rate-at-5-25/"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Superleap Raises INR 36 Cr to Build the AI",
+          "summary": "Superleap, an enterprise AI CRM platform, has raised INR 36 crore in a pre-Series A round to support its growth. The funding will help the company build its AI-native alternative to legacy CRMs. This investment highlights the growing interest in AI-based solutions for revenue teams.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/superleap-raises-inr-36-cr-to-build-the-ai-native-alternative-to-legacy-crms/"
+        },
+        {
+          "title": "New platform to support cultural entrepreneurship in India",
+          "summary": "A new platform aims to support cultural entrepreneurship in India by providing incubation, mentorship, and funding to founders working in the cultural sector. This initiative recognizes the growth of India's startup ecosystem and the need to support entrepreneurs in the cultural sector. The platform will help address the underserved needs of cultural entrepreneurs.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/arts/new-platform-to-support-cultural-entrepreneurship-in-india/"
+        },
+        {
+          "title": "Stage VCs Are Rethinking Investing as AI Rewrites Startup Economics",
+          "summary": "The rise of AI is changing the way early-stage venture capitalists invest in startups. Many VCs are shifting to sector-focused investing, seeking deeper engagement and specialized expertise in India's maturing ecosystem. This change in investing strategy reflects the impact of AI on startup economics and the need for VCs to adapt.",
+          "source": "Forbes India",
+          "url": "https://www.forbesindia.com/article/news/deep-dive/why-ai-could-lead-to-an-existential-crisis-for-early-stage-investors/2996635/1"
+        },
+        {
+          "title": "Zepto to raise pre-IPO funding amid delayed listing",
+          "summary": "Zepto, a startup, is raising pre-IPO funding due to a delayed public listing. The company is seeking to raise funds through a pre-IPO financing round amid a tepid response from investors. This move highlights the challenges faced by startups in navigating the public listing process.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-to-raise-pre-ipo-funding-amid-delayed-listing/articleshow/132791582.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "CJP, Oral Remarks And A PIL: Supreme Court Steps In",
+          "summary": "The Supreme Court has issued notices to the Centre and other parties on a PIL seeking action against the alleged misuse of judges' oral observations. The court will hear the matter on September 10. This case highlights the importance of judicial accountability and the role of the Supreme Court in ensuring that the judiciary is not misused.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/supreme-court-notice-pil-misuse-judges-oral-observations-cockroach-janta-party-article-155588443"
+        },
+        {
+          "title": "'History will remember him kindly': Sonia Gandhi writes on Manmohan Singh after SC clean chit",
+          "summary": "Sonia Gandhi has written in praise of former Prime Minister Manmohan Singh after the Supreme Court gave him a clean chit in the coal block allocation case. This development is significant as it marks a closure to a long-standing controversy surrounding the allocation of coal blocks during Singh's tenure. The clean chit is expected to have implications for the political landscape.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/history-will-remember-him-kindly-sonia-gandhi-writes-on-manmohan-singh-after-sc-clean-chit/articleshow/133142850.cms"
+        },
+        {
+          "title": "SC to hear TN’s plea on Cauvery issue on August 13",
+          "summary": "The Supreme Court will hear Tamil Nadu's plea seeking directions to Karnataka to release water from the Kabini and Krishna Raja Sagara reservoirs. This case is significant as it involves a long-standing dispute between the two states over the sharing of Cauvery river water. The court's decision is expected to have implications for the water supply and agricultural activities in the region.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/sc-to-hear-tn-s-plea-on-cauvery-issue-on-august-13-101786390894386.html"
+        },
+        {
+          "title": "State calls petitions challenging Special Public Security Act ‘frivolous’, urges HC to dismiss them",
+          "summary": "The Maharashtra government has urged the Bombay High Court to dismiss petitions challenging the constitutional validity of the Maharashtra Special Public Security Act. The Act has been contested by opposition parties, which claim it infringes upon individual rights. The court's decision will have implications for the balance between public security and individual freedoms.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/cities/pune-news/state-calls-petitions-challenging-special-public-security-act-frivolous-urges-hc-to-dismiss-them-101786387770265.html"
+        },
+        {
+          "title": "SC To Hear Plea Challenging HC Order Acquitting Gurmeet Ram Rahim Singh in 2002 Murder Case",
+          "summary": "The Supreme Court will review a plea challenging the acquittal of Dera Sacha Sauda leader Gurmeet Ram Rahim Singh in a 2002 journalist murder case. The case has significant implications for the rule of law and the justice system in India. The Supreme Court's decision will be closely watched as it involves a high-profile figure and a serious crime.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/sc-to-hear-plea-challenging-hc-order-acquitting-gurmeet-ram-rahim-singh-in-2002-murder-case-article-155553136"
+        },
+        {
+          "title": "SC allows TMC's Abhishek Banerjee to travel abroad for treatment",
+          "summary": "The Supreme Court has allowed TMC leader Abhishek Banerjee to travel abroad for medical treatment, citing the fundamental right to travel and choose a hospital. This decision highlights the importance of individual rights and the role of the judiciary in protecting them. The court's ruling is expected to have implications for similar cases in the future.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/sc-allows-tmcs-abhishek-banerjee-to-travel-abroad-for-treatment/articleshow/133137376.cms"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-08-11T12:47:56.768684+00:00",
     "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The US-Iran conflict has created new strategic challenges for China, while also impacting Indian seafarers and raising concerns about the US's military capabilities. In India, the RBI's decision to hold the repo rate steady has been praised by industrialists, providing stability in the housing and commercial realty sectors, and the Gujarat government has unveiled a policy to position the state as a leader in hyperscale Green AI data centres. Meanwhile, the Supreme Court has admitted a petition challenging the acquittal of Dera Sacha Sauda chief Gurmeet Ram Rahim in a journalist murder case, and has also demanded sweeping reforms to combat the national drug crisis in India.",
     "categories": {
@@ -3336,134 +3470,6 @@
           "summary": "The Supreme Court has directed the Reserve Bank of India to create a standard operating procedure to tackle digital fraud, including mule accounts. The court has also asked states and Union Territories to adopt grievance redressal modules for victims of cyber fraud. This move aims to enhance recovery of funds lost to cyber fraud and improve public awareness about available remedies.",
           "source": "CNBC TV18",
           "url": "https://www.cnbctv18.com/india/sc-issues-directions-to-tackle-digital-fraud-asks-rbi-to-circulate-sop-on-mule-accounts-19961605.htm"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-08-04T19:21:59.817163+00:00",
-    "brief": "Tensions in the Middle East continue to impact global affairs, with Iran's leadership stating that it does not seek to expand the war, while the US rushes to rebuild its missile stock amid the ongoing conflict. Meanwhile, the Indian economy is closely watching the Reserve Bank of India's policy meeting, which is expected to maintain current interest rates, and the rupee has climbed to a one-month peak due to declining oil prices and stronger inflows. In the business sector, Indian startups are facing a challenging funding environment, with a 57% decline in funding last week, and companies like Zepto are exploring alternative funding options, which may impact the competitive dynamics in the Indian e-commerce market.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Iran's Pezeshkian Says Tehran Does Not Seek To Expand The War",
-          "summary": "Iranian leader Pezeshkian has stated that Tehran does not seek to expand the war, marking a clear declaration of restraint from Iran's leadership. This statement is directed at both domestic and international audiences amid ongoing regional tensions. The declaration aims to position Iran as not pursuing an escalation of the current conflict.",
-          "source": "scanx.trade",
-          "url": "https://scanx.trade/stock-market-news/global/iran-s-pezeshkian-says-tehran-does-not-seek-to-expand-the-war/47372056"
-        },
-        {
-          "title": "'Arsenal of Freedom': US rushes to rebuild missile stock amid Iran war",
-          "summary": "The United States military is facing a shortage of key weapon systems due to extensive use in the ongoing conflict in Iran. As a result, the US is rushing to rebuild its missile stock. This development highlights the impact of the conflict on the US military's resources.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/defence/international/arsenal-of-freedom-us-rushes-to-rebuild-missile-stock-amid-iran-war/articleshow/132847730.cms"
-        },
-        {
-          "title": "From fresh US tariffs to growth downgrades and CWG medal tally, top global news in five charts",
-          "summary": "The US has reintroduced tariffs targeting 60 countries, including India, over forced labor concerns. The ongoing West Asia war has led to a downgrade in the International Monetary Fund's 2026 GDP outlook. These developments are part of the significant global news in recent times.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/news/from-fresh-us-tariffs-to-growth-downgrades-and-cwg-medal-tally-top-global-news-in-five-charts-11785814423212.html"
-        },
-        {
-          "title": "Meet Fire Point: The Ukrainian firm building drones, cruise missiles to strike Russia",
-          "summary": "Ukraine's war with Russia has transformed the country's defense industry, with firms like Fire Point rapidly building drones and cruise missiles to strike Russia. This development highlights Ukraine's efforts to become self-sufficient in its defense capabilities. The country is shifting from relying on foreign military aid to producing its own weapons.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/defence/international/meet-fire-point-the-ukrainian-firm-building-drones-cruise-missiles-to-strike-russia/articleshow/132846819.cms"
-        },
-        {
-          "title": "The week that was in international affairs: Saudi joins US strikes in Iraq, Ukraine targets Russian e-commerce giant",
-          "summary": "Saudi Arabia has joined the US in strikes in Iraq, while Ukraine has targeted a Russian e-commerce giant. These developments are part of the expanding scope of the US-Iran war and the ongoing conflict between Ukraine and Russia. The international community is closely watching these events unfold.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/the-week-that-was-in-international-affairs-saudi-joins-us-strikes-in-iraq-ukraine-targets-russian-e-commerce-giant/articleshow/132836578.cms"
-        },
-        {
-          "title": "South Korea, US launch joint underwater survey for Korean War aircraft wreckage",
-          "summary": "South Korea and the US have launched a joint underwater excavation project to locate and survey the wreckage of Korean War aircraft. This project aims to recover and identify the remains of soldiers who went missing during the war. The joint effort highlights the ongoing cooperation between the two countries in addressing the legacy of the Korean War.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/south-korea-us-launch-joint-underwater-survey-for-korean-war-aircraft-wreckage/"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "India bonds pause before RBI policy, debt supply",
-          "summary": "The benchmark bond yield in India remained steady ahead of the Reserve Bank of India's policy announcement and debt supply. This pause reflects market anticipation of the central bank's decision on interest rates. The yield was flat at 6.8346% as of a recent morning",
-          "source": "The Hindu Business Line",
-          "url": "https://www.thehindubusinessline.com/markets/india-bonds-pause-before-rbi-policy-debt-supply/article71304022.ece"
-        },
-        {
-          "title": "Will FD investors get higher interest rates as Iran",
-          "summary": "Rising inflation and increased credit demand may lead banks to offer higher fixed deposit rates to attract more deposits. Deposit growth has slowed down, while credit demand has increased significantly, creating a gap that banks may fill by revising fixed deposit rates. This decision could be influenced by the Reserve Bank of India's policy changes",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/wealth/invest/bank-post-office-fd-interest-rate-2026-rbi-mpc-august-5-will-fd-investors-get-higher-interest-rates-as-iran-us-war-continues-and-inflation-shoots/articleshow/132819810.cms"
-        },
-        {
-          "title": "Rupee climbs to one-month peak of 95.13 vs USD on oil slump, stronger inflows",
-          "summary": "The Indian rupee reached a one-month high due to declining oil prices and increased foreign inflows. The Reserve Bank of India is expected to maintain current interest rates, and analysts anticipate a cautious policy statement regarding inflation. The decline in oil prices was triggered by the US President's attempt to seek a deal with Iran",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/forex/rupee-climbs-to-one-month-peak-on-oil-slump-stronger-inflows/articleshow/132819760.cms"
-        },
-        {
-          "title": "RBI MPC meeting begins today; Rate pause likely as policymakers balance inflation risks and growth concerns",
-          "summary": "The Reserve Bank of India's Monetary Policy Committee has started its three-day policy meeting, with market participants expecting the central bank to keep the benchmark repo rate unchanged. The decision will be made while considering domestic inflation dynamics and global uncertainties. Policymakers aim to balance inflation risks and growth concerns",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/business/3958656-rbi-mpc-meeting-begins-today-rate-pause-likely-as-policymakers-balance-inflation-risks-and-growth-concerns"
-        }
-      ],
-      "Business": [
-        {
-          "title": "Stage VCs Are Rethinking Investing as AI Rewrites Startup Economics",
-          "summary": "The rise of AI is changing the way early-stage venture capitalists invest in startups, with a shift towards sector-focused investing and deeper engagement. This change is driven by the need for specialized expertise in India's maturing ecosystem. As a result, VCs are adapting their strategies to stay relevant.",
-          "source": "Forbes India",
-          "url": "https://www.forbesindia.com/article/news/deep-dive/why-ai-could-lead-to-an-existential-crisis-for-early-stage-investors/2996635/1"
-        },
-        {
-          "title": "Zepto to raise pre-IPO funding amid delayed listing",
-          "summary": "Zepto is raising funds through a pre-IPO financing round due to a delayed public listing. The company is seeking to raise capital amid a tepid response from investors. This move indicates that Zepto is exploring alternative funding options to support its growth.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-to-raise-pre-ipo-funding-amid-delayed-listing/articleshow/132791582.cms"
-        },
-        {
-          "title": "India startup funding slumps 57% in a week as big",
-          "summary": "Indian startups raised $80 million in funding during July 24-30, a 57% decline from the previous week. The decline is attributed to a slowdown in early- and late-stage funding, despite an increase in seed-stage activity. This trend may indicate a challenging environment for startups seeking capital.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-slumps-57-in-a-week-as-big-ticket-deals-dry-up-19959001.htm"
-        },
-        {
-          "title": "Swiggy, Eternal Surge As Zepto's IPO Valuation Reset Raises Market Share Hopes",
-          "summary": "Zepto's proposed IPO valuation cut and funding constraints may slow its expansion, potentially allowing rivals like Swiggy and Eternal to gain market share in India's quick commerce sector. Investors are betting on this scenario, leading to a surge in Swiggy and Eternal shares. This development highlights the competitive dynamics in the Indian e-commerce market.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/markets/swiggy-eternal-surge-as-zeptos-ipo-valuation-reset-raises-market-share-hopes"
-        },
-        {
-          "title": "Mahindra Last Mile Mobility becomes unicorn with fresh investment",
-          "summary": "Mahindra Last Mile Mobility has raised ₹322 crore in a funding round, valuing the company at ₹10,822 crore and making it a unicorn. This investment strengthens the company's lead in India's electric three-wheeler market and demonstrates the growth potential of the EV sector.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/business/companies/mahindra-last-mile-mobility-unicorn-lightrock-funding-electric-three-wheeler-ev-business-19958563.htm"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "SC asks JioStar to approach Delhi HC in TRAI tariff framework dispute",
-          "summary": "The Supreme Court has directed JioStar India to approach the Delhi High Court with its plea challenging parts of the Telecom Regulatory Authority of India's regulatory framework on television channel pricing. JioStar had argued that the regulations and tariff orders were interconnected and linked. The court disposed of JioStar's transfer petition filed earlier.",
-          "source": "ThePrint",
-          "url": "https://theprint.in/india/sc-asks-jiostar-to-approach-delhi-hc-in-trai-tariff-framework-dispute/3004860/"
-        },
-        {
-          "title": "Why is Environmental Impact Assessment (EIA) back in the spotlight?",
-          "summary": "The Environmental Impact Assessment (EIA) is back in focus due to its evolution, key stages, and Supreme Court rulings. The Draft EIA Notification 2020 and the latest Supreme Court verdict have significant implications for environmental governance in India. Understanding EIA is crucial for assessing the impact of projects on the environment.",
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-environmental-impact-assessment-eia-upsc-10816967/"
-        },
-        {
-          "title": "Supreme Court opens door for withdrawal of FIRs against student protestors",
-          "summary": "The Supreme Court has clarified the eligibility for withdrawal of criminal cases against student protesters, allowing states to close FIRs without serious offenses. This move may have significant implications for student protests and the handling of such cases by law enforcement. The court's decision aims to balance the rights of protesters with the need for maintaining law and order.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustimes.com/india-news/supreme-court-opens-door-for-withdrawal-of-firs-against-student-protestors-101785816696054.html"
-        },
-        {
-          "title": "Amritsar: Lawyers to resume court work from today after CJI’s assurance",
-          "summary": "Lawyers across Punjab, Haryana, and Chandigarh have decided to resume court work after the Chief Justice of India assured them that the Legal Aid Defence Counsel system would be rolled back. A new policy will be formulated after taking suggestions from all Bar associations and councils. This development aims to resolve the issues between the lawyers and the judiciary.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/amritsar/amritsar-lawyers-to-resume-court-work-from-today-after-cjis-assurance/"
         }
       ]
     }
