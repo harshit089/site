@@ -1,5 +1,121 @@
 [
   {
+    "generated_at": "2026-08-12T07:14:16.312858+00:00",
+    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. The US is backing an Australian mining project to challenge China's dominance in the mineral market, while India's economic growth continues with the country becoming the sixth-largest economy in the world. Meanwhile, human rights concerns persist globally, with allegations of torture in Ukraine and war crimes in Myanmar, and the Trump administration facing legal challenges over its sanctions against the International Criminal Court. These events underscore the complex interplay between global politics, economies, and human rights, with far-reaching implications for international relations and national interests.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Rights Groups Challenge Trump’s ICC Sanctions",
+          "summary": "Four major US human rights organizations have initiated legal proceedings against the Trump administration over its sanctions against the International Criminal Court, arguing that these measures infringe on constitutional rights and hinder efforts to address global crimes. This challenge highlights the ongoing debate about the role of the ICC in international justice. The case has implications for global human rights and the US's relationship with the ICC.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/law-order/3962466-rights-groups-challenge-trumps-icc-sanctions"
+        },
+        {
+          "title": "Balochistan observes 'Independence Day': Should India recognise it?",
+          "summary": "Baloch leaders are seeking international recognition for an independent Balochistan, but India is unlikely to formally back this due to its position on territorial integrity, Kashmir, and global diplomacy. This situation highlights the complex geopolitical dynamics at play in the region, involving India, China, and Pakistan. India's decision on recognition will have significant implications for its relationships with these countries.",
+          "source": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/world/balochistan-observes-independence-day-should-india-recognise-it-why-kashmir-and-china-make-it-a-tough-call-explained-article-14001963.html"
+        },
+        {
+          "title": "Escalating Crisis: Myanmar's Military Intensifies Aerial Attacks Amid War Crimes Allegations",
+          "summary": "Myanmar's military has increased aerial attacks on civilians, with UN investigators identifying rising war crimes, including torture and sexual violence. The military's actions have resulted in a military-backed victory in elections, raising international concerns about ongoing violence and abuses. This situation highlights the deteriorating human rights situation in Myanmar and the need for international intervention.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/law-order/3962338-escalating-crisis-myanmars-military-intensifies-aerial-attacks-amid-war-crimes-allegations"
+        },
+        {
+          "title": "Why US is backing Australia's $400 million scandium project to challenge China's mineral grip",
+          "summary": "The US Department of War has committed a conditional $400 million loan to an Australian mining company for a scandium project, aiming to challenge China's dominance in the mineral market. This move highlights the growing competition between the US and China for control of critical minerals and the importance of these resources in the global economy. The project has significant implications for the geopolitical dynamics of the mineral industry.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/why-us-is-backing-australias-400-million-scandium-project-to-challenge-chinas-mineral-grip/articleshow/133147770.cms"
+        },
+        {
+          "title": "Allegations of Torture: A Grim Tale of Captivity",
+          "summary": "Former Ukrainian detainees and officials have accused Russia of systematically torturing prisoners of war and civilian detainees, citing beatings, electric shocks, and overcrowded conditions. Russia denies these claims, labeling them disinformation, while Ukraine calls for international pressure and accountability. This situation highlights the ongoing human rights concerns in the conflict between Ukraine and Russia and the need for international intervention to prevent further abuses.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/law-order/3962231-allegations-of-torture-a-grim-tale-of-captivity"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "India's 'BBB-' rating unchanged: Fitch cites energy shocks, fiscal weakness, but praises growth",
+          "summary": "Fitch Ratings has kept India's sovereign credit rating at BBB- with a stable outlook, citing robust growth and solid external finances despite fiscal weaknesses and energy shocks. The agency forecasts 6.4% GDP growth for India over the medium term. High deficits and debt constrain the rating, despite recent fiscal consolidation efforts.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-bbb-rating-unchanged-fitch-cites-energy-shocks-fiscal-weakness-but-praises-growth/articleshow/133164460.cms"
+        },
+        {
+          "title": "Fed may talk less and let markets lead. That could spell more volatility for India",
+          "summary": "The US Federal Reserve's potential reduction in forward guidance and balance sheet shrinkage could increase global market volatility and capital flows, affecting India. The RBI may need a more flexible policy approach to respond to interest-rate and currency swings. This could lead to more volatility in India's markets.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/opinion/et-commentary/fed-may-talk-less-and-let-markets-lead-that-could-spell-more-volatility-for-india/articleshow/133163063.cms"
+        },
+        {
+          "title": "India Sixth-Largest Economy In World With $3.92 Tn GDP",
+          "summary": "India has become the sixth-largest economy in the world with a GDP of $3.92 trillion. The government is promoting investment through public capital expenditure, a liberalised FDI policy, and tax reforms to improve the ease of doing business. This is expected to further boost India's economic growth.",
+          "source": "Outlook Business",
+          "url": "https://www.outlookbusiness.com/economy-and-policy/india-sixth-largest-economy-in-world-with-392-tn-gdp"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Superleap Raises INR 36 Cr to Build the AI",
+          "summary": "Superleap, an enterprise AI CRM platform, has raised INR 36 crore in a pre-Series A round to support its growth and development. This funding will help the company build its AI-native alternative to legacy CRMs. The investment is a significant milestone for the company.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/superleap-raises-inr-36-cr-to-build-the-ai-native-alternative-to-legacy-crms/"
+        },
+        {
+          "title": "New platform to support cultural entrepreneurship in India",
+          "summary": "A new platform has been launched to support cultural entrepreneurship in India, aiming to provide incubation, mentorship, and funding to founders working in the cultural sector. This initiative recognizes the growth of India's startup ecosystem and the need to support entrepreneurs in the cultural sector. The platform will help address the underserved needs of cultural entrepreneurs.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/arts/new-platform-to-support-cultural-entrepreneurship-in-india/"
+        },
+        {
+          "title": "Stage VCs Are Rethinking Investing as AI Rewrites Startup Economics",
+          "summary": "The rise of AI is changing the way early-stage venture capitalists invest in startups, with a shift towards sector-focused investing and deeper engagement. This change is driven by the need for specialized expertise in India's maturing ecosystem. As a result, VCs are adapting their investment strategies to stay relevant.",
+          "source": "Forbes India",
+          "url": "https://www.forbesindia.com/article/news/deep-dive/why-ai-could-lead-to-an-existential-crisis-for-early-stage-investors/2996635/1"
+        },
+        {
+          "title": "Zepto to raise pre-IPO funding amid delayed listing",
+          "summary": "Zepto, a startup, is raising pre-IPO funding due to a delayed public listing. The company is seeking alternative funding options amid a tepid response from investors. This move indicates the challenges faced by startups in navigating the public listing process.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-to-raise-pre-ipo-funding-amid-delayed-listing/articleshow/132791582.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Supreme Court Constitution Bench's Sabarimala Verdict May Be Out By October First Week",
+          "summary": "The Supreme Court's verdict on the Sabarimala case is expected to be delivered by early October. The case has been pending for a long time and the verdict is eagerly awaited. The court's decision will have significant implications for the temple's traditions and women's rights.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/supreme-court-constitution-bench-sabarimala-verdict-may-be-out-by-october-first-week-article-155595222"
+        },
+        {
+          "title": "West Bengal SIR: Supreme Court asks ECI for data on appeals against electoral roll deletions",
+          "summary": "The Supreme Court has asked the Election Commission of India to provide data on appeals against electoral roll deletions in West Bengal. The court's direction is related to the Special Intensive Revision exercise in the state. The data will help the court to understand the extent of electoral roll deletions and the appeals process.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/news/india/west-bengal-sir-supreme-court-asks-eci-for-data-on-appeals-against-electoral-roll-deletions-11786463343312.html"
+        },
+        {
+          "title": "Diageo Hits Back at India’s Rum Ban, Says Due Process Was Ignored",
+          "summary": "Diageo has challenged the Indian government's ban on its rum in Maharashtra, arguing that due process was not followed. The company has approached the Mumbai High Court, which has asked the government to respond to the challenge. The case highlights the regulatory issues faced by the alcoholic beverages sector in India.",
+          "source": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/business/diageo-hits-back-at-indias-rum-ban-says-due-process-was-ignored-1978383"
+        },
+        {
+          "title": "Diageo India unit tells court rum ban lacked due process: Report",
+          "summary": "United Spirits, a Diageo unit, has challenged the government's ban on its rum in Maharashtra, citing lack of due process. The company claims that the ban is premature and commercially prejudicial to its business. The case is part of the ongoing regulatory scrutiny of the alcoholic beverages sector in India.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/cons-products/liquor/diageo-india-unit-tells-court-rum-ban-lacked-due-process-report/articleshow/133153900.cms"
+        },
+        {
+          "title": "Google removes Dhruv Rathee’s ‘Can Hindus eat BEEF?’ video: What did the video say?",
+          "summary": "Google has removed a video by Dhruv Rathee from its platform in India, following a complaint and an order from the Union Government's Grievance Appellate Committee. The video had analyzed ancient Hindu texts and referenced diet and figures like Lord Ram and Lord Krishna. The removal of the video highlights the ongoing debate on free speech and online content regulation in India.",
+          "source": "THE WEEK",
+          "url": "https://www.theweek.in/news/india/2026/08/11/google-removes-dhruv-rathees-can-hindus-eat-beef-video-what-did-the-video-say.html"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-08-12T01:18:19.183014+00:00",
     "brief": "Today's brief highlights key developments across geopolitics, economy, and national affairs. The US is backing an Australian mining project to challenge China's dominance in the mineral market, while India has become the sixth-largest economy in the world with a GDP of $3.92 trillion. Meanwhile, geopolitical tensions persist, with Myanmar's military intensifying aerial attacks amid war crimes allegations and the international community watching the situation closely, as India navigates its own delicate diplomatic stance on issues like Balochistan's independence and the Iran-US conflict.",
     "categories": {
@@ -3324,146 +3440,6 @@
           "summary": "The Supreme Court has suggested that vehicles without insurance should be challaned, and their owners may not be able to purchase fuel from petrol pumps in the future. This move aims to increase the number of insured vehicles on the road and reduce the risk of accidents and financial losses. The court's directive is expected to improve road safety and compliance with insurance regulations.",
           "source": "Times of India",
           "url": "https://timesofindia.indiatimes.com/india/56-of-vehicles-not-insured-sc-says-challan-them/articleshow/132873924.cms"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-08-05T08:25:01.511690+00:00",
-    "brief": "Today's brief highlights key developments across geopolitics, economy, and national affairs. The ongoing conflict between the US and Iran has depleted US missile stocks, raising concerns over readiness for a potential conflict with China, while Iran's leadership has stated that it does not seek to expand the war. In India, the banking system liquidity has improved due to strong inflows from FCNR(B) deposits, and the RBI's upcoming monetary policy announcement is expected to maintain the key policy rate unchanged. Meanwhile, the Supreme Court has made significant rulings, including directing the government to prepare a pilot project to prevent uninsured vehicles from accessing fuel and extending a 10-km radius buffer zone for mining activities to all wetland reserves, prioritizing environmental conservation and wildlife protection.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Pakistan rescue, Iran outreach and China defence updates mark global day",
-          "summary": "Recent global events have highlighted crisis response, strategic signalling, and persistent geopolitical strain, with developments in Pakistan, Iran, China, and other countries. These events demonstrate the complex and interconnected nature of international relations. The situation is being closely monitored by countries around the world.",
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/world/story/pakistan-avalanche-rescue-iran-outreach-china-df-17-footage-us-tariffs-lawsuit-russia-ukraine-strikes-ptag-2963514-2026-08-04"
-        },
-        {
-          "title": "Iran war depletes US missile stocks, raising concerns over readiness for conflict with China: Report",
-          "summary": "The US has reportedly depleted its stockpile of long-range precision missiles due to the ongoing conflict with Iran, raising concerns about its readiness for a potential conflict with China. This development has significant implications for global geopolitics and the balance of power. The US military's ability to respond to future conflicts may be impacted.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/defence/international/us-has-nearly-emptied-its-stock-of-long-range-precision-weapons-in-war-with-iran-report/articleshow/132862107.cms"
-        },
-        {
-          "title": "Iran's Pezeshkian Says Tehran Does Not Seek To Expand The War",
-          "summary": "Iranian leader Pezeshkian has stated that Tehran does not seek to expand the current conflict, in a declaration of restraint from Iran's leadership. This statement is intended for both domestic and international audiences and aims to position Iran as not pursuing an escalation of the war. The statement may have implications for regional tensions and global geopolitics.",
-          "source": "scanx.trade",
-          "url": "https://scanx.trade/stock-market-news/global/iran-s-pezeshkian-says-tehran-does-not-seek-to-expand-the-war/47372056"
-        },
-        {
-          "title": "'Arsenal of Freedom': US rushes to rebuild missile stock amid Iran war",
-          "summary": "The US military is working to rebuild its stockpile of missiles, which has been depleted due to extensive use in the ongoing conflict with Iran. The US is rushing to replenish its stock of key weapon systems to ensure readiness for future conflicts. This development highlights the ongoing challenges faced by the US military in the region.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/defence/international/arsenal-of-freedom-us-rushes-to-rebuild-missile-stock-amid-iran-war/articleshow/132847730.cms"
-        },
-        {
-          "title": "From fresh US tariffs to growth downgrades and CWG medal tally, top global news in five charts",
-          "summary": "The US has reintroduced tariffs targeting 60 countries, including India, over forced labour concerns, and the International Monetary Fund has downgraded its 2026 GDP outlook due to the West Asia war. These developments have significant implications for global trade and economic growth. The ongoing conflict is having far-reaching effects on the global economy.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/news/from-fresh-us-tariffs-to-growth-downgrades-and-cwg-medal-tally-top-global-news-in-five-charts-11785814423212.html"
-        },
-        {
-          "title": "Meet Fire Point: The Ukrainian firm building drones, cruise missiles to strike Russia",
-          "summary": "A Ukrainian firm, Fire Point, is building drones and cruise missiles to strike Russia, as the country's defence industry rapidly develops in response to the ongoing war. This development highlights Ukraine's efforts to build its military capabilities and reduce its dependence on foreign aid. The conflict between Ukraine and Russia continues to escalate.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/defence/international/meet-fire-point-the-ukrainian-firm-building-drones-cruise-missiles-to-strike-russia/articleshow/132846819.cms"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Banking system liquidity improves on FCNR (B) inflows",
-          "summary": "India's banking system liquidity has improved to Rs 2.4 lakh crore due to strong inflows from FCNR(B) deposits, which has eased the weighted average call rate to 5.06%. This development comes ahead of the RBI's monetary policy announcement. The improvement in liquidity is a positive sign for the economy.",
-          "source": "The Financial Express",
-          "url": "https://www.financialexpress.com/business/banking-finance-banking-system-liquidity-improves-on-fcnr-b-inflows-4310427/"
-        },
-        {
-          "title": "Stable Financing Supports Housing, Luxury Inventory Build",
-          "summary": "Stable financing conditions and buyer confidence are supporting India's housing market, while the RBI's policy decision and rising luxury inventory are key factors to watch. The housing market's performance is crucial for the overall economy. Knight Frank has noted that despite stable financing conditions, the build-up of luxury inventory is a concern.",
-          "source": "Outlook Money",
-          "url": "https://www.outlookmoney.com/invest/luxury-real-estate-inventory-build-up-a-concern-despite-stable-financing-conditions-says-knight-frank"
-        },
-        {
-          "title": "India bonds rise on position building ahead of RBI policy",
-          "summary": "Indian government bonds have seen a slight increase as traders position themselves before the RBI's policy announcement, which is expected to maintain the key policy rate unchanged. Rising oil prices have limited the upward movement in bond yields. The RBI's policy decision will provide guidance on liquidity and economic forecast revisions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-on-position-building-ahead-of-rbi-policy/articleshow/132860400.cms"
-        },
-        {
-          "title": "Competing cues, caution ahead of RBI policy decision keep rupee nearly flat",
-          "summary": "The rupee has remained stable as traders await the RBI's policy announcement, with foreign bank dollar sales and importer hedging demand influencing currency movements. Banking system liquidity has improved, leading to lower forward premiums on dollar-rupee trades. Economists expect the central bank to maintain current policy rates but adopt a hawkish stance.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/competing-cues-caution-ahead-of-rbi-policy-decision-keep-rupee-nearly-flat/articleshow/132858867.cms"
-        },
-        {
-          "title": "Indian bond yields trades flat ahead of RBI MPC meeting outcome",
-          "summary": "Bond yields in India have remained stable as investors await the RBI's policy decision, with an auction to raise ₹268.5 billion adding caution. Economists predict that the repo rate will remain at 5.25%, with inflation trends showing some moderation since the last review. The RBI's policy decision will provide guidance on the economy's future trajectory.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/market/stock-market-news/indian-bond-yields-trades-flat-ahead-of-rbi-mpc-meeting-outcome-experts-decode-the-outlook-11785831046953.html"
-        }
-      ],
-      "Business": [
-        {
-          "title": "New platform to support cultural entrepreneurship in India",
-          "summary": "A new platform aims to support entrepreneurs in India's cultural sector, which has been underserved by traditional incubation and funding networks. This initiative could help promote cultural entrepreneurship and preserve traditional crafts. It may also create new opportunities for startups in this space.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/arts/new-platform-to-support-cultural-entrepreneurship-in-india/"
-        },
-        {
-          "title": "Stage VCs Are Rethinking Investing as AI Rewrites Startup Economics",
-          "summary": "The rise of AI is changing the way early-stage venture capitalists invest in startups, with a shift towards sector-focused investing. This change could lead to more specialized expertise and deeper engagement with startups. It may also impact the overall startup funding landscape in India.",
-          "source": "Forbes India",
-          "url": "https://www.forbesindia.com/article/news/deep-dive/why-ai-could-lead-to-an-existential-crisis-for-early-stage-investors/2996635/1"
-        },
-        {
-          "title": "Zepto to raise pre-IPO funding amid delayed listing",
-          "summary": "Zepto is raising pre-IPO funding due to a delayed public listing, indicating a shift in its funding strategy. This move may be a result of a tepid response from investors to its initial public offering. The development highlights the challenges faced by startups in securing funding through public listings.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-to-raise-pre-ipo-funding-amid-delayed-listing/articleshow/132791582.cms"
-        },
-        {
-          "title": "India startup funding slumps 57% in a week as big",
-          "summary": "Startup funding in India has declined by 57% in a week, with total investments dropping to $80 million. This decline is attributed to a slowdown in early- and late-stage funding, despite an increase in seed-stage activity. The trend may indicate a challenging environment for startups seeking funding.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-slumps-57-in-a-week-as-big-ticket-deals-dry-up-19959001.htm"
-        },
-        {
-          "title": "Swiggy, Eternal Surge As Zepto's IPO Valuation Reset Raises Market Share Hopes",
-          "summary": "The proposed IPO valuation cut and funding constraints of Zepto may slow its expansion, potentially allowing listed rivals like Swiggy and Eternal to gain market share in India's quick commerce sector. This development highlights the competitive dynamics in the sector and the impact of funding on market share.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/markets/swiggy-eternal-surge-as-zeptos-ipo-valuation-reset-raises-market-share-hopes"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "‘No insurance, no fuel’: SC directs govt to prepare pilot project, flags 16.54 crore uninsured vehicles",
-          "summary": "The Supreme Court has directed the government to create a pilot project that would prevent vehicles without valid third-party insurance from accessing fuel at petrol stations, in an effort to address the high number of uninsured vehicles in India. This move aims to reduce the number of uninsured vehicles, which currently stands at 16.54 crore. The project's goal is to ensure that all vehicles on the road have valid insurance.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/no-insurance-no-fuel-sc-directs-govt-to-prepare-pilot-project-flags-16-54-crore-uninsured-vehicles/articleshow/132866959.cms"
-        },
-        {
-          "title": "SC says 10-km radius buffer for mining extends to all wetland reserves",
-          "summary": "The Supreme Court has ruled that a 10-km radius buffer zone for mining activities will be extended to all wetland reserves in India, prioritizing wildlife protection and environmental conservation. This decision aims to protect the country's wetlands and the ecosystems that depend on them. The ruling emphasizes the importance of preserving India's natural resources.",
-          "source": "The Hindu Business Line",
-          "url": "https://www.thehindubusinessline.com/news/sc-says-10-km-radius-buffer-for-mining-extends-to-all-wetland-reserves/article71306108.ece"
-        },
-        {
-          "title": "SC calls to 'dismantle' ‘men’s clubs’ in Bar Councils, orders co-option of 2 women members",
-          "summary": "The Supreme Court has observed that State Bar Councils have become 'men's clubs' and ordered the co-option of two women members to each council, aiming to increase female representation. This decision seeks to address the gender imbalance in the legal profession and promote diversity in Bar Councils. The court's ruling is expected to have a positive impact on women's participation in the legal field.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/sc-calls-to-dismantle-mens-clubs-in-bar-councils-orders-co-option-of-2-women-members/articleshow/132862470.cms"
-        },
-        {
-          "title": "Supreme Court Issues Nationwide Directions To Curb Digital Arrest Scams",
-          "summary": "The Supreme Court has issued nationwide directions to combat digital arrest scams, instructing the Reserve Bank of India to create a standard operating procedure for mule accounts. This move aims to strengthen measures against online scams and protect individuals from financial fraud. The court's directives are expected to help prevent such scams and ensure a safer online environment.",
-          "source": "Daily Excelsior",
-          "url": "https://www.dailyexcelsior.com/supreme-court-issues-nationwide-directions-to-curb-digital-arrest-scams/"
-        },
-        {
-          "title": "Can women in live-in relationships now file cruelty cases? Supreme Court says yes",
-          "summary": "The Supreme Court has ruled that women in live-in relationships can now file cruelty cases under Section 498A, a significant development in India's criminal law. This decision expands the scope of the law, allowing women in live-in relationships to seek protection against cruelty. The ruling is expected to have a positive impact on women's rights and provide them with greater legal recourse.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/toi-plus/law/can-women-in-live-in-relationships-now-file-cruelty-cases-supreme-court-says-yes/articleshow/132858847.cms"
         }
       ]
     }
