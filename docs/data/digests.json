@@ -1,5 +1,139 @@
 [
   {
+    "generated_at": "2026-08-13T18:53:24.345405+00:00",
+    "brief": "Tensions are escalating globally, with the Baloch National Movement condemning Pakistani airstrikes in Balochistan and Taiwan conducting anti-blockade drills in response to increasing maritime pressure from China. Meanwhile, in India, the Reserve Bank of India has issued draft guidelines to harmonise interest rates on loans for banks, and experts predict that retail inflation is likely to rise due to food prices, although it is expected to remain below 6%. Additionally, the Indian rupee has marginally appreciated due to the RBI's intervention in the foreign exchange market, and the government has approved the introduction of plastic currency notes, with field trials set to begin in the next financial year.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "‘Blatant war crime’: BNM condemns Pak airstrikes in Balochistan’s Surab",
+          "summary": "The Baloch National Movement has condemned Pakistani airstrikes in Balochistan's Surab, describing them as a 'blatant war crime'. This incident highlights the ongoing tensions and conflict in the region. The situation in Balochistan is a significant geopolitical issue, with implications for regional stability.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/blatant-war-crime-bnm-condemns-pak-airstrikes-in-balochistans-surab/"
+        },
+        {
+          "title": "Taiwan's Tactical Preparations: Anti-Blockade Drills Unveiled",
+          "summary": "Taiwan has conducted anti-blockade drills as part of its annual war games, in response to increasing maritime pressure from China. The exercises aim to bolster Taiwan's defense and reassure international allies. This development reflects the escalating tensions between Taiwan and China, with significant implications for regional security.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/law-order/3963242-taiwans-tactical-preparations-anti-blockade-drills-unveiled"
+        },
+        {
+          "title": "3,000 drones a month: Russia scales up production of jet-powered Geran variants",
+          "summary": "Russia is ramping up production of its Geran-4 and Geran-5 strike drones, with around 3,000 units being produced every month. This significant increase in production is likely to impact the ongoing conflict in the region. The development and deployment of advanced drones can alter the dynamics of modern warfare.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/3000-drones-a-month-russia-scales-up-production-of-jet-powered-geran-variants-why-it-matters/articleshow/133197398.cms"
+        },
+        {
+          "title": "Hegseth urges allies to quit ICC; calls it fake, illegitimate international court",
+          "summary": "US Secretary of War Pete Hegseth has urged Western Hemisphere security coalition members to withdraw from the International Criminal Court, describing it as 'fake' and 'illegitimate'. This statement reflects the US's skepticism towards the ICC and its potential implications for international relations. The ICC plays a crucial role in promoting accountability and justice globally.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/hegseth-urges-allies-to-quit-icc-calls-it-fake-illegitimate-international-court/"
+        },
+        {
+          "title": "Oil prices slip as OPEC cuts 2026 demand forecast; Iran war keeps supply risks alive",
+          "summary": "Oil prices have declined due to a weaker outlook for global demand, as forecasted by OPEC. However, supply risks remain due to the ongoing conflict in Iran. This development highlights the complex interplay between global demand, supply, and geopolitical factors in determining oil prices.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-slip-as-opec-cuts-2026-demand-forecast-iran-war-keeps-supply-risks-alive/articleshow/133195863.cms"
+        },
+        {
+          "title": "The new arms race: 7 terrifying technologies that could decide who wins the next great war",
+          "summary": "The next major war may be influenced by emerging technologies such as cyberattacks, artificial intelligence, and hypersonic missiles. These technologies have the potential to significantly impact the nature of modern warfare. The development and deployment of such technologies can alter the global balance of power and pose significant security risks.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/the-new-arms-race-7-terrifying-technologies-that-could-decide-who-wins-the-next-great-war/articleshow/133094117.cms"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "RBI issues draft guidelines to harmonise interest rates on loans for banks",
+          "summary": "The Reserve Bank of India has issued draft guidelines to harmonise interest rates on loans for banks, aiming to ensure effective monetary policy transmission and fair treatment of borrowers. This move is part of the central bank's developmental and regulatory policies. The guidelines are titled 'Reserve Bank of India (Interest Rates on Loans and Advances) Directions, 2026'",
+          "source": "ANI (Asian News International)",
+          "url": "https://www.aninews.in/news/business/rbi-issues-draft-guidelines-to-harmonise-interest-rates-on-loans-for-banks20260813122245/"
+        },
+        {
+          "title": "Inflation likely to rise from here as food prices remain key risk: Experts",
+          "summary": "Experts predict that India's retail inflation is likely to increase in the coming months, driven primarily by food prices. Despite this, inflation is expected to remain below 6%. The Reserve Bank of India is anticipated to maintain its current policy stance, with supply-side factors and geopolitical developments influencing price increases",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/inflation-likely-to-rise-from-here-as-food-prices-remain-key-risk-experts/articleshow/133185286.cms"
+        },
+        {
+          "title": "Rupee nudges up on RBI intervention; investors eye inflation data",
+          "summary": "The Indian rupee has marginally appreciated due to the Reserve Bank of India's intervention in the foreign exchange market. The central bank's actions have provided support against the US dollar. Traders are now focused on upcoming inflation data from India and the US, which could impact future monetary policy decisions",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-rupee-nudges-up-on-rbi-intervention-investors-eye-inflation-data/articleshow/133179272.cms"
+        },
+        {
+          "title": "When will government issue plastic currency notes? Minister reveals this in Parliament",
+          "summary": "The government has approved the Reserve Bank of India's proposal to introduce plastic currency notes, with field trials set to begin in the next financial year. The procurement of polymer banknotes is currently underway, although the launch date and associated costs have not been disclosed",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/wealth/save/when-will-rbi-central-government-issue-plastic-currency-notes-minister-reveals-this-in-parliament/articleshow/133177358.cms"
+        },
+        {
+          "title": "India's 'BBB-' rating unchanged: Fitch cites energy shocks, fiscal weakness, but praises growth",
+          "summary": "Fitch Ratings has maintained India's sovereign credit rating at 'BBB-' with a stable outlook, citing robust growth and solid external finances. However, the agency notes that fiscal weaknesses and energy shocks balance out these positives, with high deficits and debt constraining the rating. India's macroeconomic stability and policy credibility are expected to support continued growth",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-bbb-rating-unchanged-fitch-cites-energy-shocks-fiscal-weakness-but-praises-growth/articleshow/133164460.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Yotta plans IPO of up to Rs 8,000 cr to fund AI infra push",
+          "summary": "Yotta Data Services is planning an initial public offering to raise up to Rs 8,000 crore, which will be used to expand its data centre footprint and AI infrastructure deployment. This move aims to meet the growing demand for computing capacity in India. The company recently secured $150 million in pre-IPO funding.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/yotta-plans-ipo-of-up-to-rs-8000-cr-to-fund-ai-infra-push/articleshow/133195570.cms"
+        },
+        {
+          "title": "Superleap Raises INR 36 Cr to Build the AI",
+          "summary": "Superleap, an enterprise AI CRM platform, has raised INR 36 crore in a pre-Series A round led by Peak XV's Surge. The funding will support the company's growth and development of its AI-native alternative to legacy CRMs. This investment indicates the growing interest in AI-based solutions for revenue teams.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/superleap-raises-inr-36-cr-to-build-the-ai-native-alternative-to-legacy-crms/"
+        },
+        {
+          "title": "Stage VCs Are Rethinking Investing as AI Rewrites Startup Economics",
+          "summary": "The rise of AI is impacting startup funding, with early-stage VCs shifting to sector-focused investing and seeking deeper engagement and specialized expertise. This change is driven by the maturing ecosystem in India and the need for investors to adapt to the new landscape. AI is redefining the startup economics and forcing VCs to rethink their investment strategies.",
+          "source": "Forbes India",
+          "url": "https://www.forbesindia.com/article/news/deep-dive/why-ai-could-lead-to-an-existential-crisis-for-early-stage-investors/2996635/1"
+        },
+        {
+          "title": "Zepto to raise pre-IPO funding amid delayed listing",
+          "summary": "Zepto is planning to raise funds through a pre-IPO financing round due to a delayed public listing. The company is seeking to raise capital amid a tepid response from investors. This move indicates the challenges faced by startups in securing funding through traditional IPO routes.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-to-raise-pre-ipo-funding-amid-delayed-listing/articleshow/132791582.cms"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "CJP Protest Facial Recognition Row: SC Agrees To Hear Plea Challenging Police Surveillance At Jantar Mantar",
+          "summary": "The Supreme Court has agreed to hear a plea challenging the use of facial recognition technology by police at Jantar Mantar during protests, citing concerns over mass surveillance and violation of fundamental rights. This case raises important questions about the balance between public safety and individual privacy. The court's decision will have implications for the use of surveillance technology in public spaces.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/cjp-protest-facial-recognition-row-sc-agrees-to-hear-plea-challenging-police-surveillance-at-jantar-mantar-article-155605097"
+        },
+        {
+          "title": "Supreme Court pushes 19 states, union territories to notify cancer",
+          "summary": "The Supreme Court has directed 19 states and union territories to notify cancer as a notifiable disease, which will help in improving cancer surveillance and registry in the country. This move aims to enhance the National Cancer Registry Programme, which currently covers only a fraction of India's population. Better cancer surveillance will enable more effective healthcare planning and policy-making.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/supreme-court-pushes-19-states-union-territories-to-notify-cancer/articleshow/133197445.cms"
+        },
+        {
+          "title": "Madhya Pradesh to deploy over 100 guards, check posts to combat illegal sand mining at Chambal sanctuary",
+          "summary": "The Madhya Pradesh government will deploy over 100 guards and set up check posts to prevent illegal sand mining at the Chambal sanctuary, following a Supreme Court directive. The sanctuary is home to several endangered species, and the mining activities pose a significant threat to the ecosystem. The measures include the use of CCTV cameras and AI systems to enhance surveillance.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/madhya-pradesh-to-deploy-over-100-guards-check-posts-to-combat-illegal-sand-mining-at-chambal-sanctuary-101786587796019.html"
+        },
+        {
+          "title": "No GST arrests without communicating order, ‘reasons to believe’: Supreme Court",
+          "summary": "The Supreme Court has ruled that GST authorities cannot make arrests without communicating the arrest order and the reasons behind it to the individual. This decision aims to ensure that individuals are informed about the grounds for their arrest, which is essential for filing anticipatory bail applications. The ruling provides clarity on the procedures to be followed by GST authorities during arrests.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/no-gst-arrests-without-communicating-order-reasons-to-believe-supreme-court-101786585811962.html"
+        },
+        {
+          "title": "SC orders CBI probe into Chhattisgarh custodial death",
+          "summary": "The Supreme Court has ordered a CBI investigation into a custodial death case in Chhattisgarh, accusing top administrative and police officials of trying to cover up the incident. The court's decision highlights the need for transparency and accountability in cases of custodial deaths. The CBI probe will help uncover the truth behind the incident and ensure that those responsible are held accountable.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/sc-orders-cbi-probe-into-chhattisgarh-custodial-death/articleshow/133193176.cms"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-08-13T12:54:33.361117+00:00",
     "brief": "Tensions are escalating globally, with North Korea firing its second ballistic missile in a week ahead of US-South Korea war drills, while a new arms race is emerging with countries developing advanced cyber warfare capabilities and artificial intelligence-powered drones. In India, the economy is expected to face inflationary pressures, primarily driven by food prices, with the Reserve Bank of India likely to maintain its current policy stance. Meanwhile, the Indian startup ecosystem is experiencing a slowdown in funding, with a 57% decline in a week, as venture capitalists rethink their investment strategies in light of the rising importance of artificial intelligence.",
     "categories": {
@@ -3295,146 +3429,6 @@
           "summary": "The Supreme Court has agreed to hear a petition related to the 'Sansad Chalo' march, which took place in Delhi on July 20. The petition emphasizes the need for restraint and community service for violators, and the court's decision to hear the plea may have implications for the organization of future protests. The case highlights the court's role in balancing the right to protest with the need for public order.",
           "source": "Hindustan Times",
           "url": "https://www.hindustantimes.com/india-news/youngsters-need-to-be-counselled-supreme-court-agrees-to-hear-plea-against-sansad-chalo-march-organisers-101785990740629.html"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-08-06T23:53:00.915891+00:00",
-    "brief": "Global oil prices have stabilized below $80 amid ongoing tensions over the Strait of Hormuz, with Iran and the US nearing a deal that could significantly impact global oil trade and geopolitical relations. Meanwhile, in India, the stock market has ended on a positive note due to easing crude prices and the Reserve Bank of India's steady policy stance, with the Sensex gaining 374 points. The RBI's decision to hold the policy rate steady has also led to a bond market rally, with investors closely watching the upcoming bond auction and the potential impact on interest rates and inflation.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "India's DPI model emerging as key pillar of digital diplomacy amid AI push: Report",
-          "summary": "India's Digital Public Infrastructure (DPI) framework is emerging as a key tool in international digital diplomacy, especially with the integration of Artificial Intelligence (AI). This development highlights India's growing influence in global digital governance. The DPI model could play a significant role in shaping international cooperation on digital issues.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/technology/indias-dpi-model-emerging-as-key-pillar-of-digital-diplomacy-amid-ai-push-report-1/"
-        },
-        {
-          "title": "How the border village of Barmer is an international supplier of unique embroidery",
-          "summary": "The village of Barmer is known for its unique embroidery, which is supplied internationally. The craft is primarily sustained by Meghwal women who have passed down the tradition through generations. This embroidery not only preserves cultural heritage but also contributes significantly to the local handicraft economy.",
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/express-sunday-eye/border-village-barmer-international-supplier-unique-bharat-embroidery-10820223/"
-        },
-        {
-          "title": "Iran, US say Strait of Hormuz deal is close, but one or both would have to back down",
-          "summary": "Iran and the US are nearing a deal regarding the Strait of Hormuz, but an agreement would require one or both parties to compromise. Iran seeks control over the strait, while the US aims to maintain it as an open international waterway. The outcome of these negotiations could significantly impact global oil trade and geopolitical relations.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/world/iran-us-say-strait-of-hormuz-deal-is-close-but-one-or-both-would-have-to-back-down-19962887.htm"
-        },
-        {
-          "title": "Oil price today: Crude steadies below $80 as Hormuz blockade keeps investors on edge",
-          "summary": "The price of crude oil has stabilized below $80 due to the ongoing blockade of the Strait of Hormuz. The situation is being closely monitored by investors as it affects global oil supply and prices. Efforts to resolve the US-Iran conflict and restore shipping through the strait are crucial for market stability.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-crude-steadies-below-80-as-hormuz-blockade-keeps-investors-on-edge/articleshow/132884487.cms"
-        },
-        {
-          "title": "Not true: US War Secretary Pete Hegseth rejects media reports claiming US missile defence stockpiles 'dangerously low'",
-          "summary": "US War Secretary Pete Hegseth has denied reports suggesting that the US missile defense stockpiles are dangerously low. The reports were based on estimates by the Center for Strategic and International Studies, which claimed the US had limited numbers of THAAD missiles and Patriot interceptors. Hegseth's statement aims to reassure about the country's defense capabilities.",
-          "source": "Moneycontrol",
-          "url": "https://www.moneycontrol.com/world/not-true-us-war-secretary-pete-hegseth-rejects-media-reports-claiming-us-missile-defence-stockpiles-dangerously-low-article-13994468.html"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Indian markets end higher on easing crude prices, RBI policy support; Sensex gains 374 pts",
-          "summary": "The Indian stock market ended on a positive note due to easing crude oil prices and the Reserve Bank of India's steady policy stance, with the Sensex gaining 374 points. This was also driven by selective buying in heavyweight, banking, and energy stocks. The market's positive movement is a reflection of the current economic conditions.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/indian-markets-end-higher-on-easing-crude-prices-rbi-policy-support-sensex-gains-374-pts/"
-        },
-        {
-          "title": "RBI policy-led India bond rally continues; Friday's debt sale in focus",
-          "summary": "The Indian government bond market saw a slight increase due to the Reserve Bank of India's dovish stance and falling oil prices. Investors are cautious ahead of a significant bond auction on Friday, which will test market demand and the sustainability of the recent bond price gains. The outcome of the auction will be closely watched by market participants.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/rbi-policy-led-india-bond-rally-continues-fridays-debt-sale-in-focus/articleshow/132993202.cms"
-        },
-        {
-          "title": "When is your home loan EMI increasing? RBI rate hike calls pushed back after dovish pause",
-          "summary": "The Reserve Bank of India's decision to maintain current rates and lower inflation forecasts has led economists to push back their expectations for a rate hike to December or later. This means that home loan EMIs may not increase as soon as previously thought. The central bank's stance differs from other Asian economies, which are responding to oil price spikes.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/when-is-your-home-loan-emi-increasing-rbi-rate-hike-calls-pushed-back-after-dovish-pause/articleshow/132987769.cms"
-        },
-        {
-          "title": "FMCG price hikes could rewrite India’s inflation story: Report",
-          "summary": "Planned price hikes by consumer goods companies could put pressure on inflation, despite the Reserve Bank of India's outlook. The RBI is expected to maintain interest rates through 2026, with a potential rate hike possible in early 2027 if inflation pressures intensify. The central bank's future policy decisions may be influenced by global central bank actions.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/fmcg-price-hikes-could-rewrite-indias-inflation-story-report/articleshow/132983766.cms"
-        },
-        {
-          "title": "How market participants read RBI's order of priority has a bearing on how well monetary policy works",
-          "summary": "The Reserve Bank of India's decision to hold the policy rate steady despite inflation risks has led to assumptions about the hierarchy of policy goals. The central bank must consider the potential consequences of this assumption and how it may impact the effectiveness of monetary policy. This has implications for the overall economy and the RBI's future policy decisions.",
-          "source": "Livemint",
-          "url": "https://www.livemint.com/opinion/online-views/how-market-participants-rbi-priority-monetary-policy-mpc-inflation-rupee-11785918847588.html"
-        }
-      ],
-      "Business": [
-        {
-          "title": "No government grants yet, but IPA says corporate is funding Indian pickleball",
-          "summary": "The Indian Pickleball Association is relying on private sponsors and franchise owners to build the sport's ecosystem in India, as it has not received any government funding yet. This approach is being led by teams like the Lucknow Leopards, which is setting a benchmark for the sport. The development indicates a growing interest in non-traditional sports in India.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/sports/others/no-government-grants-yet-but-ipa-says-corporate-is-funding-indian-pickleball-lucknow-leopards-setting-the-benchmark-101786004485977.html"
-        },
-        {
-          "title": "New platform to support cultural entrepreneurship in India",
-          "summary": "A new platform has been launched to support cultural entrepreneurship in India, targeting entrepreneurs who build ventures based on craft traditions, cultural knowledge, and design innovation. This initiative aims to address the gap in traditional incubation, mentorship, and funding networks for cultural sector founders. The platform's launch recognizes the growth potential of India's cultural and creative economy.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/arts/new-platform-to-support-cultural-entrepreneurship-in-india/"
-        },
-        {
-          "title": "Stage VCs Are Rethinking Investing as AI Rewrites Startup Economics",
-          "summary": "The rise of AI is changing the startup funding landscape, with early-stage venture capitalists shifting towards sector-focused investing. This approach requires deeper engagement and specialized expertise, reflecting the maturing ecosystem in India. The change indicates that VCs are adapting their strategies to the evolving startup environment.",
-          "source": "Forbes India",
-          "url": "https://www.forbesindia.com/article/news/deep-dive/why-ai-could-lead-to-an-existential-crisis-for-early-stage-investors/2996635/1"
-        },
-        {
-          "title": "Zepto to raise pre-IPO funding amid delayed listing",
-          "summary": "Zepto is planning to raise funds through a pre-IPO financing round due to a delayed public listing. The move indicates that the company is seeking alternative funding options to support its growth plans. This development reflects the challenges faced by startups in navigating the public listing process.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-to-raise-pre-ipo-funding-amid-delayed-listing/articleshow/132791582.cms"
-        },
-        {
-          "title": "India startup funding slumps 57% in a week as big",
-          "summary": "Indian startups raised $80 million in funding during July 24-30, marking a 57% decline from the previous week. The drop is attributed to a slowdown in early- and late-stage funding, despite an increase in seed-stage activity. This trend suggests a potential shift in investor sentiment towards Indian startups.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-slumps-57-in-a-week-as-big-ticket-deals-dry-up-19959001.htm"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Supreme Court denies Asaram medical bail, allows round-the-clock caretaker in jail",
-          "summary": "The Supreme Court has denied medical bail to Asaram, who is suffering from multiple ailments, but allowed a round-the-clock caretaker to attend to him in jail. This decision highlights the court's approach to balancing the need for medical care with the requirements of the legal process. Asaram's health issues have been a point of concern during his imprisonment.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/supreme-court-denies-asaram-medical-bail-allows-round-the-clock-caretaker-in-jail-101786008608855.html"
-        },
-        {
-          "title": "Cruelty Doesn't Need a Marriage Certificate",
-          "summary": "The Supreme Court has ruled that protection against cruelty can be extended to women in live-in relationships, similar to those in traditional marriages. This ruling emphasizes that constitutional rights and justice should not depend solely on marital status. The decision aims to provide greater protection to women in non-traditional relationships.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/opinion/india/cruelty-doesnt-need-a-marriage-certificate-article-155321337"
-        },
-        {
-          "title": "SC Appoints Ex-CJI DY Chandrachud As Mediator In Sunjay Kapur Estate Dispute",
-          "summary": "The Supreme Court has appointed former Chief Justice of India DY Chandrachud as a mediator to resolve an inheritance dispute between the family members of late industrialist Sunjay Kapur. The court aims to find an amicable solution to the dispute through mediation. Six sessions have already been held, with discussions progressing positively.",
-          "source": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/business/sc-appoints-ex-cji-dy-chandrachud-as-mediator-in-sunjay-kapur-estate-dispute-for-amicable-solution"
-        },
-        {
-          "title": "'Will approach Supreme Court': Ex-Tehelka editor Tarun Tejpal after conviction in 2013 sexual assault case",
-          "summary": "The Bombay High Court has overturned the acquittal of Tarun Tejpal, former editor of Tehelka, in a 2013 sexual assault case. Tejpal has stated that he will appeal to the Supreme Court. The case highlights the importance of the legal process in addressing allegations of sexual assault.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/ex-tehelka-editor-tarun-tejpal-convicted-in-2013-rape-case-by-bombay-high-court-says-will-approach-supreme-court-101785998394194.html"
-        },
-        {
-          "title": "'Youngsters need to be counselled': Supreme Court agrees to hear plea against 'Sansad Chalo' march organisers",
-          "summary": "The Supreme Court has agreed to hear a petition related to the 'Sansad Chalo' march, which took place on July 20 in Delhi. The court emphasized the importance of restraint and community service for violators, suggesting that youngsters involved in the protests may require counseling. The case raises questions about the balance between the right to protest and maintaining public order.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/youngsters-need-to-be-counselled-supreme-court-agrees-to-hear-plea-against-sansad-chalo-march-organisers-101785990740629.html"
-        },
-        {
-          "title": "SC awards ₹83 lakh to girl left paralysed after road accident",
-          "summary": "The Supreme Court has awarded ₹83 lakh in compensation to a girl who was left paralyzed after a road accident. The decision highlights the court's role in providing compensation to victims of accidents and ensuring that they receive adequate support for their rehabilitation. The amount awarded will likely help the girl cover her medical expenses and other needs.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/sc-awards-83-lakh-to-girl-left-paralysed-after-road-accident-101785958316570.html"
         }
       ]
     }
