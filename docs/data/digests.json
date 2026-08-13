@@ -1,5 +1,127 @@
 [
   {
+    "generated_at": "2026-08-13T12:54:33.361117+00:00",
+    "brief": "Tensions are escalating globally, with North Korea firing its second ballistic missile in a week ahead of US-South Korea war drills, while a new arms race is emerging with countries developing advanced cyber warfare capabilities and artificial intelligence-powered drones. In India, the economy is expected to face inflationary pressures, primarily driven by food prices, with the Reserve Bank of India likely to maintain its current policy stance. Meanwhile, the Indian startup ecosystem is experiencing a slowdown in funding, with a 57% decline in a week, as venture capitalists rethink their investment strategies in light of the rising importance of artificial intelligence.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "The new arms race: 7 terrifying technologies that could decide who wins the next great war",
+          "summary": "The next major war may start with a silent cyberattack, and several countries are developing new technologies that could give them an edge in such a conflict. These technologies include advanced cyber warfare capabilities, hypersonic missiles, and artificial intelligence-powered drones. This new arms race could significantly impact global geopolitics and international relations.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/the-new-arms-race-7-terrifying-technologies-that-could-decide-who-wins-the-next-great-war/articleshow/133094117.cms"
+        },
+        {
+          "title": "Azerbaijan Offers Energy Lifeline to Armenia Amidst Nuclear Challenges",
+          "summary": "Azerbaijan has offered to supply electricity to Armenia, which is facing concerns over its aging nuclear power plant. This move could help normalize relations between the two nations and create new energy links. Armenia is also seeking international help to build a new nuclear reactor, exploring options from several countries.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/science-environment/3962966-azerbaijan-offers-energy-lifeline-to-armenia-amidst-nuclear-challenges"
+        },
+        {
+          "title": "Foreign Contribution Act Sparks Diplomatic Debate over Religious Impact",
+          "summary": "India's Foreign Contribution (Regulation) Act has sparked international scrutiny, with US lawmakers alleging it targets religious organizations. India's Ministry of External Affairs has defended the law, stating it is an internal matter backed by global financial regulation norms. The outcome of this debate could significantly affect India-US relations.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/international/3962933-foreign-contribution-act-sparks-diplomatic-debate-over-religious-impact"
+        },
+        {
+          "title": "North Korea fires second ballistic missile in a week ahead of US-South Korea war drills",
+          "summary": "North Korea has fired a second ballistic missile in a week, ahead of planned US-South Korea war drills. This move has raised tensions in the region, with South Korean and Japanese authorities monitoring the situation closely. The launch is seen as a show of force by North Korea, amid ongoing tensions with its neighbors and the US.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/north-korea-fires-second-ballistic-missile-in-a-week-ahead-of-us-south-korea-war-drills/articleshow/133168025.cms"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Inflation likely to rise from here as food prices remain key risk: Experts",
+          "summary": "India's retail inflation is expected to increase in the coming months, primarily driven by food prices, although it is anticipated to remain below 6%. The Reserve Bank of India is likely to maintain its current policy stance, with supply-side factors such as tomato and onion costs influencing price increases. Geopolitical developments could lead to inflation undershooting official projections.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/inflation-likely-to-rise-from-here-as-food-prices-remain-key-risk-experts/articleshow/133185286.cms"
+        },
+        {
+          "title": "Rupee nudges up on RBI intervention; investors eye inflation data",
+          "summary": "The Indian rupee has marginally increased due to ongoing tensions in the Middle East and interventions by the Reserve Bank of India. Traders are watching for upcoming inflation data from India and the US, which could impact future monetary policy decisions. The central bank has been actively involved in the foreign exchange market throughout August.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-rupee-nudges-up-on-rbi-intervention-investors-eye-inflation-data/articleshow/133179272.cms"
+        },
+        {
+          "title": "When will government issue plastic currency notes? Minister reveals this in Parliament",
+          "summary": "The government has approved the Reserve Bank of India's proposal to introduce plastic currency notes, with field trials set to begin in the next financial year. The procurement of these polymer banknotes is currently underway, although the launch date and associated costs have not been disclosed. The introduction of plastic currency notes is expected to start soon.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/wealth/save/when-will-rbi-central-government-issue-plastic-currency-notes-minister-reveals-this-in-parliament/articleshow/133177358.cms"
+        },
+        {
+          "title": "India's 'BBB-' rating unchanged: Fitch cites energy shocks, fiscal weakness, but praises growth",
+          "summary": "Fitch Ratings has maintained India's sovereign credit rating at BBB- with a stable outlook, citing robust growth and solid external finances. However, the rating is constrained by fiscal weaknesses, energy shocks, and high deficits. The agency forecasts 6.4% GDP growth for India over the medium term, driven by macroeconomic stability and policy credibility.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-bbb-rating-unchanged-fitch-cites-energy-shocks-fiscal-weakness-but-praises-growth/articleshow/133164460.cms"
+        },
+        {
+          "title": "Fed may talk less and let markets lead. That could spell more volatility for India",
+          "summary": "The US Federal Reserve's potential reduction in forward guidance and balance sheet shrinkage could increase global market volatility and capital flows. This may require the Reserve Bank of India to adopt a more flexible policy approach to respond to interest-rate and currency swings. The change in the Fed's approach could have significant implications for India's economy.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/opinion/et-commentary/fed-may-talk-less-and-let-markets-lead-that-could-spell-more-volatility-for-india/articleshow/133163063.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "Superleap Raises INR 36 Cr to Build the AI",
+          "summary": "Superleap, an enterprise AI CRM platform, has raised INR 36 crore in a pre-Series A round to support its growth. The funding will help the company build its AI-native alternative to legacy CRMs. This investment is significant for the Indian startup ecosystem, particularly in the AI and CRM space.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/superleap-raises-inr-36-cr-to-build-the-ai-native-alternative-to-legacy-crms/"
+        },
+        {
+          "title": "Stage VCs Are Rethinking Investing as AI Rewrites Startup Economics",
+          "summary": "The rise of AI is changing the way early-stage venture capitalists invest in startups, with a shift towards sector-focused investing. This change is driven by the need for deeper engagement and specialized expertise in India's maturing startup ecosystem. As a result, VCs are adapting their strategies to stay relevant in the AI-driven landscape.",
+          "source": "Forbes India",
+          "url": "https://www.forbesindia.com/article/news/deep-dive/why-ai-could-lead-to-an-existential-crisis-for-early-stage-investors/2996635/1"
+        },
+        {
+          "title": "Zepto to raise pre-IPO funding amid delayed listing",
+          "summary": "Zepto, a Indian startup, is raising pre-IPO funding due to a delayed public listing. The company is seeking alternative funding options amid a tepid response from investors. This move highlights the challenges faced by Indian startups in accessing public markets.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-to-raise-pre-ipo-funding-amid-delayed-listing/articleshow/132791582.cms"
+        },
+        {
+          "title": "India startup funding slumps 57% in a week as big",
+          "summary": "Indian startup funding has declined by 57% in a week, with only $80 million raised across nine funding rounds. This significant drop is attributed to a slowdown in early- and late-stage funding, despite an increase in seed-stage activity. The decline in funding may impact the growth and development of Indian startups.",
+          "source": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-slumps-57-in-a-week-as-big-ticket-deals-dry-up-19959001.htm"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "SC orders CBI probe into Chhattisgarh custodial death",
+          "summary": "The Supreme Court has ordered a CBI probe into a custodial death case in Chhattisgarh, accusing top officials of trying to cover it up. This move highlights the court's efforts to ensure accountability in such cases. The CBI will now investigate the matter",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/sc-orders-cbi-probe-into-chhattisgarh-custodial-death/articleshow/133193176.cms"
+        },
+        {
+          "title": "'Absurd timelines': Supreme Court says only 12-15 cases for each UAPA court",
+          "summary": "The Supreme Court has criticized the long delay in trials under the Unlawful Activities (Prevention) Act (UAPA), stating that each UAPA court should only handle 12-15 cases. This directive aims to expedite the trial process and reduce delays. The court's comment highlights the need for efficient handling of such cases",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/absurd-timelines-supreme-court-says-only-12-15-cases-for-each-uapa-court/articleshow/133192929.cms"
+        },
+        {
+          "title": "BCI tells DU: Law graduates covered by SC order cannot be denied enrolment over attendance shortage",
+          "summary": "The Bar Council of India (BCI) has instructed Delhi University not to deny enrolment to law graduates who are covered by a Supreme Court order, despite attendance shortages. This order applies to all similarly placed candidates across India and aims to ensure uniformity in the application of the Supreme Court's directive. The BCI has notified all state bar councils and universities about this decision",
+          "source": "ANI (Asian News International)",
+          "url": "https://www.aninews.in/news/national/general-news/bci-tells-du-law-graduates-covered-by-sc-order-cannot-be-denied-enrolment-over-attendance-shortage20260812213002/"
+        },
+        {
+          "title": "SC examines whether later political developments can validate Shiv Sena split",
+          "summary": "The Supreme Court is examining whether the Election Commission of India can consider subsequent political developments and organizational support when deciding on a party's election symbol dispute. This case involves the Shiv Sena split and the court's decision will have implications for party politics and election symbols. The court's examination will help clarify the role of the Election Commission in such disputes",
+          "source": "ANI (Asian News International)",
+          "url": "https://www.aninews.in/news/national/general-news/sc-examines-whether-later-political-developments-can-validate-shiv-sena-split20260812175817/"
+        },
+        {
+          "title": "SC rejects plea for national policy for demolition rehab, leaves it to states",
+          "summary": "The Supreme Court has rejected a plea for a national policy on rehabilitation after demolitions, stating that such issues fall within the policy domain of states and union territories. The court has left it to the states to address these issues, allowing them to formulate their own policies and approaches. This decision highlights the importance of state-level governance in addressing local issues",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/sc-rejects-plea-for-national-policy-for-demolition-rehab-leaves-it-to-states-101786529793546.html"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-08-13T07:16:35.193556+00:00",
     "brief": "Tensions are escalating globally, with North Korea firing its second ballistic missile in a week ahead of US-South Korea war drills, while a new arms race emerges with the development of advanced cyber warfare capabilities, artificial intelligence, and hypersonic missiles. Meanwhile, in India, the economy is expected to face inflationary pressures driven by food prices, and the rupee has marginally increased due to RBI intervention, as the country's sovereign credit rating remains unchanged at BBB- with a stable outlook. Additionally, the Indian startup funding scene has seen a significant slump, with a 57% decline in funding in a week, as investors reassess their strategies in the face of changing market conditions and the rise of AI.",
     "categories": {
@@ -3313,128 +3435,6 @@
           "summary": "The Supreme Court has awarded ₹83 lakh in compensation to a girl who was left paralyzed after a road accident. The decision highlights the court's role in providing compensation to victims of accidents and ensuring that they receive adequate support for their rehabilitation. The amount awarded will likely help the girl cover her medical expenses and other needs.",
           "source": "Hindustan Times",
           "url": "https://www.hindustantimes.com/india-news/sc-awards-83-lakh-to-girl-left-paralysed-after-road-accident-101785958316570.html"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-08-06T13:48:28.419572+00:00",
-    "brief": "Today's key developments span multiple categories, with the ongoing US-Iran conflict and its implications for global oil markets being closely watched, as crude prices steady below $80 due to the blockade of the Hormuz Strait. Meanwhile, in India, the Reserve Bank of India has kept the repo rate unchanged at 5.25%, raising growth projections and lowering inflation estimates, which has had a positive impact on the stock market. Additionally, the Indian startup ecosystem is experiencing significant changes, with a 57% drop in funding in just one week, and companies like Zepto exploring alternative funding options, while the Supreme Court has made notable decisions, including safeguarding live-in partners from domestic violence and passing a bill to increase the sanctioned strength of the Supreme Court from 34 to 38 judges.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Oil price today: Crude steadies below $80 as Hormuz blockade keeps investors on edge",
-          "summary": "Oil prices have steadied below $80 due to the ongoing US-Iran conflict and the blockade of the Hormuz Strait, which is a critical shipping route. This development is being closely watched by investors and could have significant implications for global oil markets. The situation remains volatile, with markets waiting for a resolution to the conflict.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-crude-steadies-below-80-as-hormuz-blockade-keeps-investors-on-edge/articleshow/132884487.cms"
-        },
-        {
-          "title": "Iran war depletes US missile stocks, raising concerns over readiness for conflict with China: Report",
-          "summary": "The US has reportedly depleted its stockpile of long-range precision missiles due to the ongoing war with Iran, raising concerns about its readiness for a potential conflict with China. This development has significant implications for US military capabilities and global geopolitics. The depletion of missile stocks could impact US strategic planning and decision-making.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/defence/international/us-has-nearly-emptied-its-stock-of-long-range-precision-weapons-in-war-with-iran-report/articleshow/132862107.cms"
-        },
-        {
-          "title": "Arsenal of Freedom': US rushes to rebuild missile stock amid Iran war",
-          "summary": "The US military is working to rebuild its missile stock amid the ongoing conflict in Iran, as stockpiles have dwindled due to extensive use. This effort is crucial for maintaining US military capabilities and responding to potential future conflicts. The US is rushing to replenish its arsenal to ensure it can continue to project power and protect its interests.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/defence/international/arsenal-of-freedom-us-rushes-to-rebuild-missile-stock-amid-iran-war/articleshow/132847730.cms"
-        },
-        {
-          "title": "Iran's Pezeshkian Says Tehran Does Not Seek To Expand The War",
-          "summary": "Iranian leader Pezeshkian has stated that Tehran does not seek to expand the current conflict, marking a declaration of restraint from Iran's leadership. This statement is intended for both domestic and international audiences and aims to convey that Iran is not pursuing an escalation of the conflict. The remark is significant, as it could impact the trajectory of the conflict and regional tensions.",
-          "source": "scanx.trade",
-          "url": "https://scanx.trade/stock-market-news/global/iran-s-pezeshkian-says-tehran-does-not-seek-to-expand-the-war/47372056"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Repo rate unchanged, RBI sees higher growth, lower inflation",
-          "summary": "The Reserve Bank of India (RBI) has kept the repo rate unchanged at 5.25% and raised its growth projections while lowering inflation estimates. This decision aims to maintain policy stability amid global uncertainties. The move is expected to have a positive impact on the economy.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/repo-rate-unchanged-rbi-sees-higher-growth-lower-inflation/articleshow/132979086.cms"
-        },
-        {
-          "title": "RBI holds repo rate at 5.25%, raises FY27 growth forecast, cuts inflation outlook",
-          "summary": "The RBI has kept the repo rate unchanged at 5.25% for the fourth consecutive time, raised its FY27 growth forecast to 6.7%, and lowered the inflation projection to 5%. The decision reflects the central bank's confidence in India's economic resilience despite global uncertainties. The revised loan pricing norms and plans to resume urban cooperative bank licenses are also notable.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-holds-repo-rate-at-5-25-raises-fy27-growth-forecast-cuts-inflation-outlook/articleshow/132968065.cms"
-        },
-        {
-          "title": "Sensex gains 152 pts in volatile session as RBI keeps policy rates unchanged",
-          "summary": "The benchmark BSE Sensex closed higher by 152 points in a volatile session after the RBI kept its key policy rates unchanged. The decision had a positive impact on the stock market, with the Sensex rising despite global uncertainties. The move is seen as a sign of stability in the economy.",
-          "source": "Daily Excelsior",
-          "url": "https://www.dailyexcelsior.com/sensex-gains-152-pts-in-volatile-session-as-rbi-keeps-policy-rates-unchanged/"
-        }
-      ],
-      "Business": [
-        {
-          "title": "New platform to support cultural entrepreneurship in India",
-          "summary": "A new platform has been launched to support cultural entrepreneurship in India, aiming to provide incubation, mentorship, and funding to entrepreneurs working in the cultural sector. This initiative recognizes the growth of India's startup ecosystem and the need to support founders working in the cultural sector. The platform will help bridge the gap in funding and resources for cultural entrepreneurs.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/arts/new-platform-to-support-cultural-entrepreneurship-in-india/"
-        },
-        {
-          "title": "Stage VCs Are Rethinking Investing as AI Rewrites Startup Economics",
-          "summary": "The rise of AI is changing the way early-stage venture capitalists invest in startups, with a shift towards sector-focused investing and deeper engagement. This change is driven by the need for specialized expertise in India's maturing startup ecosystem. As a result, VCs are adapting their investment strategies to stay relevant in the AI-driven landscape.",
-          "source": "Forbes India",
-          "url": "https://www.forbesindia.com/article/news/deep-dive/why-ai-could-lead-to-an-existential-crisis-for-early-stage-investors/2996635/1"
-        },
-        {
-          "title": "Zepto to raise pre-IPO funding amid delayed listing",
-          "summary": "Zepto, an Indian startup, is raising funds through a pre-IPO financing round due to a delayed public listing. The company is seeking to raise capital amid a tepid response from investors. This move indicates that Zepto is exploring alternative funding options to support its growth plans.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-to-raise-pre-ipo-funding-amid-delayed-listing/articleshow/132791582.cms"
-        },
-        {
-          "title": "India startup funding slumps 57% in a week as big",
-          "summary": "Indian startups saw a significant decline in funding, with a 57% drop in investments in just one week. The total funding raised was $80 million, with early- and late-stage funding slowing down. This decline highlights the challenges faced by Indian startups in securing funding, despite stronger seed-stage activity.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-slumps-57-in-a-week-as-big-ticket-deals-dry-up-19959001.htm"
-        },
-        {
-          "title": "Swiggy, Eternal Surge As Zepto's IPO Valuation Reset Raises Market Share Hopes",
-          "summary": "The proposed IPO valuation cut and funding constraints of Zepto have raised hopes for its competitors, Swiggy and Eternal, to gain market share in India's quick commerce sector. Investors are betting that Zepto's slower expansion will benefit listed rivals, leading to a surge in their shares. This development highlights the competitive landscape of India's quick commerce market.",
-          "source": "Outlook Business",
-          "url": "https://www.outlookbusiness.com/markets/swiggy-eternal-surge-as-zeptos-ipo-valuation-reset-raises-market-share-hopes"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Supreme Court safeguards for live-in partners are much-needed and long-overdue",
-          "summary": "The Supreme Court has taken steps to protect live-in partners from domestic violence, a pervasive yet under-reported crime in India. According to NFHS-6, over 22% of ever-married women have experienced physical, sexual, or emotional violence at the hands of their partners. This move aims to provide much-needed protection to live-in partners.",
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/opinion/editorials/supreme-court-live-in-partner-protection-against-domestic-cruelty-10819795/"
-        },
-        {
-          "title": "Supreme Court acquits man in jail for 22 years for wrong conviction",
-          "summary": "The Supreme Court has acquitted a man who was wrongly convicted and spent 22 years in jail. The acquittal was due to the trial court's failure to evaluate evidence properly and the Odisha High Court's inaction. This case highlights the need for proper evaluation of evidence in the justice system.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/supreme-court-acquits-man-in-jail-for-22-years-for-wrong-conviction/articleshow/132977940.cms"
-        },
-        {
-          "title": "Decide on raising retirement age of judges by Sept 2: SC to states",
-          "summary": "The Supreme Court has asked states to decide on raising the retirement age of judges by September 2. This move aims to bring the retirement age of judicial officers in line with that of High Court judges. The decision will help ensure that experienced judges can continue to serve the justice system.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/decide-on-raising-retirement-age-of-judges-by-sept-2-sc-to-states/articleshow/132977281.cms"
-        },
-        {
-          "title": "‘Criminal cases can’t have lifespan of turtle’: Supreme Court on activist’s trial delay",
-          "summary": "The Supreme Court has expressed concern over the delay in the trial of an activist, stating that the lifespan of a criminal trial cannot be as long as that of a turtle. The trial has been ongoing for over three years, highlighting the need for a more efficient justice system.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/criminal-cases-cant-have-lifespan-of-turtle-supreme-court-on-activists-trial-delay/articleshow/132973968.cms"
-        },
-        {
-          "title": "Rajya Sabha passes by voice vote bill to raise Supreme Court judge strength",
-          "summary": "The Rajya Sabha has passed a bill to increase the sanctioned strength of the Supreme Court from 34 to 38 judges. The bill replaces an ordinance that was promulgated earlier this year and aims to strengthen the judiciary. The move is expected to help reduce the backlog of cases in the Supreme Court.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/rajya-sabha-passes-by-voice-vote-bill-to-raise-supreme-court-judge-strength/articleshow/132973008.cms"
-        },
-        {
-          "title": "Rajya Sabha clears Bill raising SC judges' strength",
-          "summary": "The Rajya Sabha has passed the Supreme Court (Number of Judges) Amendment Bill, 2026, increasing the sanctioned strength of the apex court from 34 to 38 judges. The bill had already been passed by the Lok Sabha and aims to strengthen the judiciary by adding more judges to the Supreme Court.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/india/rajya-sabha-clears-bill-raising-sc-judges-strength/"
         }
       ]
     }
