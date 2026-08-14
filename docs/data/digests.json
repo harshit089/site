@@ -1,5 +1,127 @@
 [
   {
+    "generated_at": "2026-08-14T18:43:55.828077+00:00",
+    "brief": "Tensions are escalating globally, with the US warning Iran of an indefinite naval blockade and Taiwan conducting extensive air raid and naval drills to simulate a potential Chinese attack. Meanwhile, in India, the economy is expected to see changes with the Reserve Bank of India's proposed new loan-pricing rules and draft guidelines to harmonize interest rates on loans for banks, which aim to increase transparency and protect borrowers. Additionally, the Indian rupee has appreciated slightly due to RBI intervention, and market participants are now focused on upcoming inflation data, which could impact future monetary policy decisions.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "US warns Iran of indefinite naval blockade as Strait of Hormuz deadlock continues",
+          "summary": "The US has warned Iran of an indefinite naval blockade due to stalled ceasefire talks, which could lead to increased economic pressure and regional tensions. This move may impact global oil supply and have significant implications for the global economy. The situation is being closely watched due to its potential to escalate into a larger conflict.",
+          "source": "Malayala Manorama",
+          "url": "https://www.onmanorama.com/news/world/2026/08/14/us-warns-iran-of-indefinite-naval-blockade-as-strait-of-hormuz-deadlock-continues.html"
+        },
+        {
+          "title": "Simulating Crisis: Taiwan's Tactical Preparations Against Potential Threats",
+          "summary": "Taiwan has conducted extensive air raid and naval drills to simulate a potential Chinese attack, including mobile internet throttling and civil defense exercises. The drills aim to prepare Taiwan for potential threats and demonstrate its commitment to international cooperation. The move comes amid rising tensions between Taiwan and China.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/law-order/3963297-simulating-crisis-taiwans-tactical-preparations-against-potential-threats"
+        },
+        {
+          "title": "Taiwan's Tactical Preparations: Anti-Blockade Drills Unveiled",
+          "summary": "Taiwan's armed forces have conducted an anti-blockade drill to simulate merchant ship escorting amidst increasing maritime pressure from China. The exercise aims to bolster Taiwan's defense and reassure international allies. The move is seen as a response to China's growing military presence in the region.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/law-order/3963242-taiwans-tactical-preparations-anti-blockade-drills-unveiled"
+        },
+        {
+          "title": "‘Blatant war crime’: BNM condemns Pak airstrikes in Balochistan’s Surab",
+          "summary": "The Baloch National Movement has condemned Pakistani airstrikes in Balochistan's Surab, describing them as a 'blatant war crime'. The incident highlights the ongoing conflict in the region and raises concerns about human rights and regional stability. The situation is being closely watched by international observers.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/blatant-war-crime-bnm-condemns-pak-airstrikes-in-balochistans-surab/"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Rahul Sahai seeks early rollout of new industrial incentive policy for J&K",
+          "summary": "Rahul Sahai has urged for an early implementation of the new industrial incentive policy for Jammu and Kashmir. This policy aims to promote industrial growth in the region. The rollout is expected to have a positive impact on the local economy.",
+          "source": "Greater Kashmir",
+          "url": "https://www.greaterkashmir.com/business/rahul-sahai-seeks-early-rollout-of-new-industrial-incentive-policy-for-jk-12258726"
+        },
+        {
+          "title": "Explainer: RBI’s new loan-pricing rules: What changes for borrowers & lenders",
+          "summary": "The Reserve Bank of India has proposed a common framework for determining and revising loan interest rates. This move aims to increase transparency, protect borrowers, and improve monetary policy transmission. The new rules are set to come into effect from April 2027.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/business/banking-finance-explainer-rbis-new-loan-pricing-rules-what-changes-for-borrowers-amp-lenders-4317179/"
+        },
+        {
+          "title": "RBI issues draft guidelines to harmonise interest rates on loans for banks",
+          "summary": "The Reserve Bank of India has issued draft guidelines to harmonize interest rates on loans for banks. The guidelines aim to ensure effective monetary policy transmission, appropriate pricing of credit risk, and fair treatment of borrowers. The draft is titled 'Reserve Bank of India (Interest Rates on Loans and Advances) Directions, 2026'.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/rbi-issues-draft-guidelines-to-harmonise-interest-rates-on-loans-for-banks/"
+        },
+        {
+          "title": "Inflation likely to rise from here as food prices remain key risk: Experts",
+          "summary": "Experts predict that India's retail inflation is likely to increase in the coming months, driven primarily by food prices. However, inflation is expected to remain below 6%. The Reserve Bank of India is likely to maintain its current policy stance, with supply-side factors and geopolitical developments influencing price increases.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/inflation-likely-to-rise-from-here-as-food-prices-remain-key-risk-experts/articleshow/133185286.cms"
+        },
+        {
+          "title": "Rupee nudges up on RBI intervention; investors eye inflation data",
+          "summary": "The Indian rupee has appreciated slightly due to interventions by the Reserve Bank of India. The central bank's actions have provided support against the US dollar. Market participants are now focused on upcoming inflation data from India and the US, which could impact future monetary policy decisions.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-rupee-nudges-up-on-rbi-intervention-investors-eye-inflation-data/articleshow/133179272.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "TNAU’s Incubation Centre applies for support under Startup India Seed Fund Scheme",
+          "summary": "TNAU's incubation centre, COXBIT, has applied for funding under the Startup India Seed Fund Scheme to support biotech startups in sustainable agriculture and innovation. This move aims to promote entrepreneurship and innovation in the agricultural sector. The funding will help startups develop innovative solutions for sustainable agriculture.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/cities/Coimbatore/tnaus-incubation-centre-applies-for-support-under-startup-india-seed-fund-scheme/article71341245.ece"
+        },
+        {
+          "title": "Yotta plans IPO of up to Rs 8,000 cr to fund AI infra push",
+          "summary": "Yotta Data Services is planning an initial public offering to raise up to Rs 8,000 crore, which will be used to expand its data centre footprint and deploy AI infrastructure. This move aims to meet the growing demand for computing capacity in India. The company recently secured $150 million in pre-IPO funding, positioning it for growth in the AI infrastructure space.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/yotta-plans-ipo-of-up-to-rs-8000-cr-to-fund-ai-infra-push/articleshow/133195570.cms"
+        },
+        {
+          "title": "Superleap Raises INR 36 Cr to Build the AI",
+          "summary": "Superleap, an enterprise AI CRM platform, has raised INR 36 crore in a pre-Series A round led by Peak XV's Surge. The funding will support the company's development of an AI-native alternative to legacy CRMs. This investment highlights the growing interest in AI-powered solutions for revenue teams.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/superleap-raises-inr-36-cr-to-build-the-ai-native-alternative-to-legacy-crms/"
+        },
+        {
+          "title": "No government grants yet, but IPA says corporate is funding Indian pickleball",
+          "summary": "The Indian Pickleball Association (IPA) is relying on private sponsors and franchise owners to build the sport's ecosystem in India, as it has not received any government funding yet. The IPA is working to develop the sport beyond the league, with corporate funding playing a crucial role. The Lucknow Leopards are cited as a benchmark for the sport's growth.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/sports/others/no-government-grants-yet-but-ipa-says-corporate-is-funding-indian-pickleball-lucknow-leopards-setting-the-benchmark-101786004485977.html"
+        },
+        {
+          "title": "Stage VCs Are Rethinking Investing as AI Rewrites Startup Economics",
+          "summary": "The rise of AI is changing the startup funding landscape, with early-stage VCs shifting to sector-focused investing and seeking deeper engagement and specialized expertise. This shift is driven by the need for VCs to adapt to the changing economics of startups in India's maturing ecosystem. AI is rewriting the rules of startup funding, and VCs must evolve to remain relevant.",
+          "source": "Forbes India",
+          "url": "https://www.forbesindia.com/article/news/deep-dive/why-ai-could-lead-to-an-existential-crisis-for-early-stage-investors/2996635/1"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Supreme Court Intervenes in BCI and NALSAR Dispute",
+          "summary": "The Supreme Court has intervened in a dispute between the Bar Council of India (BCI) and NALSAR University, issuing a notice to the BCI over two controversial circulars. The court emphasized the right of students to lawful protest. The BCI has since clarified that no inquiry against students will proceed.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/headlines/3963734-supreme-court-intervenes-in-bci-and-nalsar-dispute"
+        },
+        {
+          "title": "‘Shouldn’t govt give employment?’ Supreme Court stays HC order on jobs for Karur stampede victims' kin",
+          "summary": "The Supreme Court has stayed a Madras High Court order that struck down the Tamil Nadu government's decision to provide government jobs to relatives of victims of a stampede in Karur. The court's decision raises questions about the government's responsibility to provide employment to those affected by such incidents.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/shouldnt-govt-give-employment-supreme-court-stays-hc-order-on-jobs-for-karur-stampede-victims-kin/articleshow/133230654.cms"
+        },
+        {
+          "title": "NALSAR Row: SC Takes Stern View Of BCI Circular, Says Students Have Right To Protest",
+          "summary": "The Supreme Court has taken a stern view of a Bar Council of India (BCI) circular that directed state bar councils not to enroll NALSAR University graduates as advocates. The court stated that students have a right to protest, emphasizing the importance of protecting this fundamental right.",
+          "source": "Daily Excelsior",
+          "url": "https://www.dailyexcelsior.com/nalsar-row-sc-takes-stern-view-of-bci-circular-says-students-have-right-to-protest/"
+        },
+        {
+          "title": "NALSAR students have right to protest; Bar Council of India has no business to stop them: CJI",
+          "summary": "The Chief Justice of India has stated that the Bar Council of India (BCI) has no authority to stop students from protesting, emphasizing the importance of protecting the right to protest. This statement was made in response to a BCI circular that attempted to restrict the enrollment of NALSAR University graduates as advocates.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/india/nalsar-students-have-right-to-protest-bar-council-of-india-has-no-business-to-stop-them-cji"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-08-14T12:50:11.234176+00:00",
     "brief": "Today's brief highlights key developments across geopolitics, economy, and national affairs. Taiwan has been actively preparing for potential threats from China, conducting extensive air raid and naval drills, including anti-blockade exercises, to simulate a potential attack and reassure international allies. Meanwhile, in India, the Reserve Bank of India has proposed new loan-pricing rules to enhance transparency and borrower protection, and the rupee has nudged up due to the central bank's intervention in the foreign exchange market. Additionally, the Indian government has confirmed plans to introduce plastic currency notes in the next financial year, aiming to improve the durability and security of Indian currency.",
     "categories": {
@@ -3307,122 +3429,6 @@
           "summary": "The Delhi high court has denied bail to Olympic wrestler Sushil Kumar in a murder case. Kumar's bail was previously granted by the high court but was later set aside by the Supreme Court. The denial of bail indicates that the court considers Kumar a flight risk or a threat to the investigation.",
           "source": "Hindustan Times",
           "url": "https://www.hindustantimes.com/india-news/delhi-high-court-denies-bail-to-olympic-wrestler-sushil-kumar-in-murder-case-101786080048105.html"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-08-07T18:43:59.061673+00:00",
-    "brief": "Today's brief highlights key developments across geopolitics, economy, business, and national affairs. The 80th anniversary of the atomic bombing of Hiroshima serves as a reminder of the devastating consequences of war and scientific power, while India's Digital Public Infrastructure framework is emerging as a key tool of international digital diplomacy. In economic news, the Reserve Bank of India's dovish stance on prices has led to revised forecasts for fewer policy rate increases, influencing the Indian stock market and bond rally. Meanwhile, the Indian startup funding scene has seen a significant decline, with a 57% drop in investments over a week, amidst a broader landscape of changing startup economics driven by the rise of AI.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Hiroshima 1945: Why the atomic explosion that transformed war, peace and global power still matters 80 years later",
-          "summary": "The atomic bombing of Hiroshima 80 years ago was a defining moment in history, accelerating the end of World War II and initiating the nuclear age. This event forever altered international politics and led to a global arms race and ongoing security concerns. It serves as a reminder of the devastating consequences of war and scientific power.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/international/global-trends/hiroshima-1945-why-the-atomic-explosion-that-transformed-war-peace-and-global-power-still-matters-80-years-later/articleshow/133010376.cms"
-        },
-        {
-          "title": "India's DPI model emerging as key pillar of digital diplomacy amid AI push: Report",
-          "summary": "India's Digital Public Infrastructure (DPI) framework is emerging as a key tool of international digital diplomacy, particularly with the increasing push for artificial intelligence. This development highlights India's growing role in shaping global digital policies and standards. The DPI model is being seen as a significant pillar in India's digital diplomacy efforts.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/technology/indias-dpi-model-emerging-as-key-pillar-of-digital-diplomacy-amid-ai-push-report-1/"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Banks tone down rate-hike bets as RBI sounds dovish on prices",
-          "summary": "Some banks have revised their forecasts for fewer policy rate increases from the Reserve Bank of India due to its dovish stance on prices. This change in expectation is influenced by factors such as inflation projections and crude oil price movements. The revision indicates a potential shift in the monetary policy outlook.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/banks-tone-down-rate-hike-bets-as-rbi-sounds-dovish-on-prices/articleshow/133018263.cms"
-        },
-        {
-          "title": "Indian markets end higher on easing crude prices, RBI policy support; Sensex gains 374 pts",
-          "summary": "The Indian stock market ended on a positive note due to easing crude oil prices and the Reserve Bank of India's steady policy stance. The market also saw selective buying in key sectors such as banking and energy. This uptrend is a response to both domestic and international economic factors.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/indian-markets-end-higher-on-easing-crude-prices-rbi-policy-support-sensex-gains-374-pts/"
-        },
-        {
-          "title": "RBI policy-led India bond rally continues; Friday's debt sale in focus",
-          "summary": "The Indian government bond market saw an increase following the Reserve Bank of India's dovish stance and falling oil prices. Investors are cautious ahead of a significant bond auction, which will test market demand and the sustainability of recent bond price gains. This rally and the upcoming auction are crucial for understanding the direction of India's bond market.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/rbi-policy-led-india-bond-rally-continues-fridays-debt-sale-in-focus/articleshow/132993202.cms"
-        },
-        {
-          "title": "When is your home loan EMI increasing? RBI rate hike calls pushed back after dovish pause",
-          "summary": "Economists now expect the Reserve Bank of India to raise interest rates later than initially anticipated, possibly in December or later. This shift is due to low core inflation and the central bank's decision to maintain current rates and lower inflation forecasts. The change in expectations could impact home loan EMIs and the overall monetary policy stance.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/when-is-your-home-loan-emi-increasing-rbi-rate-hike-calls-pushed-back-after-dovish-pause/articleshow/132987769.cms"
-        },
-        {
-          "title": "FMCG price hikes could rewrite India’s inflation story: Report",
-          "summary": "Planned price hikes by consumer goods companies could impact India's inflation rate, potentially altering the Reserve Bank of India's outlook. Despite the RBI's current stance, inflation pressures from these hikes and global factors could influence future policy decisions, including potential interest rate changes in 2027. The interplay between consumer prices and monetary policy is crucial for understanding India's economic trajectory.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/fmcg-price-hikes-could-rewrite-indias-inflation-story-report/articleshow/132983766.cms"
-        }
-      ],
-      "Business": [
-        {
-          "title": "No government grants yet, but IPA says corporate is funding Indian pickleball",
-          "summary": "The Indian Pickleball Association is relying on private sponsors and franchise owners to build the sport's ecosystem in India, as it has not received any government funding yet. This approach is being led by teams like the Lucknow Leopards, which is setting a benchmark for others to follow. The development of pickleball in India is thus being driven by corporate funding.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/sports/others/no-government-grants-yet-but-ipa-says-corporate-is-funding-indian-pickleball-lucknow-leopards-setting-the-benchmark-101786004485977.html"
-        },
-        {
-          "title": "New platform to support cultural entrepreneurship in India",
-          "summary": "A new platform has been launched to support cultural entrepreneurship in India, aiming to address the gap in funding and mentorship for startups in the cultural sector. This initiative recognizes the growth of India's cultural and creative economy and seeks to provide necessary support to entrepreneurs in this space. The platform will focus on craft traditions, cultural knowledge systems, design innovation, and community-led impact.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/arts/new-platform-to-support-cultural-entrepreneurship-in-india/"
-        },
-        {
-          "title": "Stage VCs Are Rethinking Investing as AI Rewrites Startup Economics",
-          "summary": "The rise of AI is changing the way early-stage venture capitalists invest in startups, with a shift towards sector-focused investing and deeper engagement. This change is driven by the need for specialized expertise in India's maturing ecosystem. As a result, VCs are adapting their strategies to stay relevant in a landscape where AI is rewriting startup economics.",
-          "source": "Forbes India",
-          "url": "https://www.forbesindia.com/article/news/deep-dive/why-ai-could-lead-to-an-existential-crisis-for-early-stage-investors/2996635/1"
-        },
-        {
-          "title": "Zepto to raise pre-IPO funding amid delayed listing",
-          "summary": "Zepto is planning to raise funds through a pre-IPO financing round due to a delayed public listing. The company is seeking to raise capital amid a tepid response from investors to its initial public offering. This move indicates that Zepto is exploring alternative funding options to support its growth plans.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-to-raise-pre-ipo-funding-amid-delayed-listing/articleshow/132791582.cms"
-        },
-        {
-          "title": "India startup funding slumps 57% in a week as big",
-          "summary": "Indian startups have seen a significant decline in funding, with a 57% drop in investments over a week. The total funding raised during this period was $80 million, with a slowdown in early- and late-stage funding. Despite this, seed-stage activity remained strong, indicating that new startups are still attracting investors.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-slumps-57-in-a-week-as-big-ticket-deals-dry-up-19959001.htm"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Delhi high court denies bail to Olympic wrestler Sushil Kumar in murder case",
-          "summary": "The Delhi High Court has denied bail to Olympic wrestler Sushil Kumar in a murder case, after the Supreme Court set aside a previous bail order. This decision is significant as it highlights the court's stance on high-profile cases. The case is being closely watched due to Kumar's public profile.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/delhi-high-court-denies-bail-to-olympic-wrestler-sushil-kumar-in-murder-case-101786080048105.html"
-        },
-        {
-          "title": "SC stays pleas in HCs against Sahyog portal",
-          "summary": "The Supreme Court has stayed all pending challenges to the Centre's Sahyog portal, which is related to the government's power to order online content takedown. This decision will have implications for online content regulation in India. The court will now decide on the constitutional validity of the relevant section of the Information Technology Act.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/sc-stays-pleas-in-hcs-against-sahyog-portal-101786043086010.html"
-        },
-        {
-          "title": "Main Lakhimpur accused denied free hometown visits",
-          "summary": "The Supreme Court has refused to relax the bail conditions of Ashish Mishra, the prime accused in the 2021 Lakhimpur Kheri violence case, denying him free visits to his hometown. This decision reflects the court's cautious approach to granting bail in sensitive cases. Mishra's bail conditions remain unchanged.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/main-lakhimpur-accused-denied-free-hometown-visits-101786042952188.html"
-        },
-        {
-          "title": "SC denies Asaram bail, allows 24 x 7 caretaker",
-          "summary": "The Supreme Court has denied interim bail to self-styled godman Asaram, who is serving a life sentence for sexually assaulting a minor, citing medical grounds. However, the court has allowed Asaram to engage a caretaker for assistance inside jail. This decision highlights the court's balance between compassion and justice.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/sc-denies-asaram-bail-allows-24-x-7-caretaker-101786042833906.html"
-        },
-        {
-          "title": "SC hopeful of settlement in Sunjay Kapur family inheritance row",
-          "summary": "The Supreme Court is hopeful of a settlement in the high-stakes inheritance dispute within the family of late businessman Sunjay Kapur, as mediation is progressing satisfactorily. The court has reminded the parties to participate in the mediation with an open mind. A settlement in this case could have implications for family business disputes in India.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/sc-hopeful-of-settlement-in-sunjay-kapur-family-inheritance-row-101786042288312.html"
         }
       ]
     }
