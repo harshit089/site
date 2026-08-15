@@ -1,5 +1,127 @@
 [
   {
+    "generated_at": "2026-08-15T00:50:56.297039+00:00",
+    "brief": "The US has suffered a significant loss in its conflict with Iran, with 45 Reaper drones valued at $1.3 billion reportedly destroyed, accounting for 25% of its fleet, which could impact its military strategy in the region. Meanwhile, in India, the Reserve Bank of India has proposed new loan-pricing rules to enhance transparency and borrower protection, and experts predict that inflation is likely to rise due to food prices, although it is expected to remain below six percent. Additionally, the Indian business sector is witnessing significant developments, with companies like Yotta Data Services planning to raise up to Rs 8,000 crore through an initial public offering to fund its AI infrastructure push, and startups like Superleap raising funds to build AI-powered customer relationship management solutions.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "US lost 45 reaper drones in Iran war, representing 25% of fleet worth $1.3 billion: Report",
+          "summary": "The US has reportedly lost 45 MQ-9 Reaper drones in its conflict with Iran, accounting for about 25% of its fleet and valued at $1.3 billion. This significant loss highlights the intensity of the conflict and its impact on US military capabilities. The loss of these drones could have implications for US military strategy in the region.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/us-loses-45-reaper-drones-in-iran-war-representing-25-of-fleet-worth-1-3-billion-report/articleshow/133236331.cms"
+        },
+        {
+          "title": "International Memorial Day For Comfort Women: Who Was Kim Hak-Sun? The World War II Comfort Woman Survivor Whose Testimony Changed History",
+          "summary": "Kim Hak-Sun was a World War II comfort woman survivor whose testimony played a crucial role in bringing attention to the issue of comfort women. Her story highlights the human rights abuses suffered by women during the war and the importance of acknowledging and learning from history. The International Memorial Day for Comfort Women serves as a reminder of the need for justice and accountability for such atrocities.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/lifestyle/international-memorial-day-for-comfort-women-who-was-kim-hak-sun-the-world-war-ii-comfort-woman-survivor-whose-testimony-changed-history"
+        },
+        {
+          "title": "Baloch Voice for Justice Challenges Official Narrative of Giddar Bombing",
+          "summary": "The Baloch Voice for Justice has disputed the official account of the Giddar bombing in Balochistan, accusing the military of distorting facts and calling for international investigations into alleged war crimes and civilian deaths. The group's challenge to the official narrative highlights the need for transparency and accountability in conflict zones. The incident has sparked controversy and raised concerns about human rights in the region.",
+          "source": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/international/3963778-baloch-voice-for-justice-challenges-official-narrative-of-giddar-bombing"
+        },
+        {
+          "title": "US warns Iran of indefinite naval blockade as Strait of Hormuz deadlock continues",
+          "summary": "The US has warned Iran of an indefinite naval blockade due to stalled ceasefire talks and declining oil supplies, intensifying economic pressure on the country. The blockade has significant implications for global oil supplies and regional tensions, with the potential to impact the global economy. The situation in the Strait of Hormuz remains a key point of contention between the US and Iran.",
+          "source": "Malayala Manorama",
+          "url": "https://www.onmanorama.com/news/world/2026/08/14/us-warns-iran-of-indefinite-naval-blockade-as-strait-of-hormuz-deadlock-continues.html"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Rahul Sahai seeks early rollout of new industrial incentive policy for J&K",
+          "summary": "Rahul Sahai has urged for an early implementation of the new industrial incentive policy for Jammu and Kashmir. This policy aims to promote industrial growth in the region. The rollout is expected to have a positive impact on the local economy.",
+          "source": "Greater Kashmir",
+          "url": "https://www.greaterkashmir.com/business/rahul-sahai-seeks-early-rollout-of-new-industrial-incentive-policy-for-jk-12258726"
+        },
+        {
+          "title": "Explainer: RBI’s new loan-pricing rules: What changes for borrowers & lenders",
+          "summary": "The Reserve Bank of India has proposed a common framework for loan interest rates to enhance transparency and borrower protection. The new rules aim to improve monetary policy transmission from April 2027. This change will affect both borrowers and lenders in the banking sector.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/business/banking-finance-explainer-rbis-new-loan-pricing-rules-what-changes-for-borrowers-amp-lenders-4317179/"
+        },
+        {
+          "title": "RBI issues draft guidelines to harmonise interest rates on loans for banks",
+          "summary": "The Reserve Bank of India has issued draft guidelines to harmonize interest rates on loans for banks. The guidelines aim to ensure effective monetary policy transmission and fair treatment of borrowers. The draft is titled 'Reserve Bank of India (Interest Rates on Loans and Advances) Directions, 2026'.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/rbi-issues-draft-guidelines-to-harmonise-interest-rates-on-loans-for-banks/"
+        },
+        {
+          "title": "Inflation likely to rise from here as food prices remain key risk: Experts",
+          "summary": "Experts predict that inflation in India is likely to increase in the coming months, driven by food prices. Despite this, inflation is expected to remain below six percent. The Reserve Bank of India is likely to maintain its current policy stance, with supply-side factors influencing price increases.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/inflation-likely-to-rise-from-here-as-food-prices-remain-key-risk-experts/articleshow/133185286.cms"
+        },
+        {
+          "title": "Rupee nudges up on RBI intervention; investors eye inflation data",
+          "summary": "The Indian rupee has marginally appreciated due to interventions by the Reserve Bank of India. The central bank's actions have provided support against the US dollar. Investors are now waiting for critical inflation data from India and the US, which could impact future monetary policy decisions.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-rupee-nudges-up-on-rbi-intervention-investors-eye-inflation-data/articleshow/133179272.cms"
+        }
+      ],
+      "Business": [
+        {
+          "title": "TNAU’s Incubation Centre applies for support under Startup India Seed Fund Scheme",
+          "summary": "The Tamil Nadu Agricultural University's incubation centre, COXBIT, has applied for funding under the Startup India Seed Fund Scheme to support biotech startups in sustainable agriculture and innovation. This move aims to promote entrepreneurship and innovation in the agricultural sector. The funding will help support startups in their early stages of development.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/cities/Coimbatore/tnaus-incubation-centre-applies-for-support-under-startup-india-seed-fund-scheme/article71341245.ece"
+        },
+        {
+          "title": "Yotta plans IPO of up to Rs 8,000 cr to fund AI infra push",
+          "summary": "Yotta Data Services is planning to file its draft prospectus for an initial public offering to raise up to Rs 8,000 crore. The funds will be used to expand its data centre footprint and deploy AI infrastructure, meeting the growing demand for computing capacity in India. This move positions Yotta to capitalize on the increasing demand for data storage and AI services.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/yotta-plans-ipo-of-up-to-rs-8000-cr-to-fund-ai-infra-push/articleshow/133195570.cms"
+        },
+        {
+          "title": "Superleap Raises INR 36 Cr to Build the AI",
+          "summary": "Superleap, an enterprise AI CRM platform, has raised INR 36 crore in a pre-Series A round led by Peak XV's Surge. The funding will support the company's growth and development of its AI-native alternative to legacy CRMs. This investment highlights the growing interest in AI-powered customer relationship management solutions.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/superleap-raises-inr-36-cr-to-build-the-ai-native-alternative-to-legacy-crms/"
+        },
+        {
+          "title": "No government grants yet, but IPA says corporate is funding Indian pickleball",
+          "summary": "The Indian Pickleball Association (IPA) is relying on private sponsors and franchise owners to build India's pickleball ecosystem, as it has not received any government funding yet. The IPA is working to develop the sport beyond the league, with corporate funding playing a crucial role in its growth. This highlights the importance of private funding in supporting emerging sports in India.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/sports/others/no-government-grants-yet-but-ipa-says-corporate-is-funding-indian-pickleball-lucknow-leopards-setting-the-benchmark-101786004485977.html"
+        },
+        {
+          "title": "Stage VCs Are Rethinking Investing as AI Rewrites Startup Economics",
+          "summary": "The rise of AI is changing the way early-stage venture capitalists invest in startups, with a shift towards sector-focused investing and deeper engagement. This change is driven by the need for specialized expertise in India's maturing ecosystem. As AI rewrites startup economics, VCs are adapting their strategies to stay relevant and successful.",
+          "source": "Forbes India",
+          "url": "https://www.forbesindia.com/article/news/deep-dive/why-ai-could-lead-to-an-existential-crisis-for-early-stage-investors/2996635/1"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "'Not said, but presented as if it was': CJI Surya Kant says 'cockroach' remark 'misquoted'",
+          "summary": "Chief Justice of India Surya Kant has clarified that his oral remarks during a Supreme Court hearing were misquoted and used with malicious intent. This incident highlights the importance of accurate reporting and the potential consequences of misquoting public figures. The clarification is significant as it comes from the highest judicial authority in the country.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/not-said-but-presented-as-if-it-was-cji-surya-kant-says-cockroach-remark-misquoted/articleshow/133240381.cms"
+        },
+        {
+          "title": "'India's Got Latent' remarks: SC quashes FIRs against comedian Samay Raina, 4 others",
+          "summary": "The Supreme Court has quashed all FIRs against comedian Samay Raina and four others over insensitive remarks made on his show 'India's Got Latent'. The court's decision comes after the individuals took steps to make amends, including raising funds for disabled persons. This case highlights the importance of accountability and making amends for hurtful comments.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/india/indias-got-latent-remarks-sc-quashes-firs-against-comedian-samay-raina-4-others/"
+        },
+        {
+          "title": "Elected Once, Re-elected Six Times: Why BCI Chief Manan Kumar Mishra's Never-Ending Tenure Is Ruffling Feathers",
+          "summary": "A Supreme Court plea has sought reforms in the Bar Council of India, including fixed terms for its chairman and vice-chairman. The plea highlights BCI chief Manan Kumar Mishra's long tenure and recent controversies, sparking debates about the need for structural reforms in the council. This case raises questions about the accountability and transparency of institutions.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/india/elected-once-re-elected-six-times-why-bci-chief-manan-kumar-mishras-never-ending-tenure-is-ruffling-feathers"
+        },
+        {
+          "title": "Manan Mishra lowered the Bar with NALSAR threat. Shouldn't he pay for it?",
+          "summary": "The Bar Council of India's order blocking enrolment of NALSAR's 2026 batch was withdrawn after criticism and Supreme Court scrutiny. The incident has raised questions about the council's statutory powers and sparked calls for chairman Manan Kumar Mishra's resignation. This case highlights the importance of institutional accountability and the need for checks on power.",
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/india/story/bci-nalsar-row-supreme-court-questions-manan-mishra-order-bar-council-india-cji-surya-kant-2971115-2026-08-14"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-08-14T18:43:55.828077+00:00",
     "brief": "Tensions are escalating globally, with the US warning Iran of an indefinite naval blockade and Taiwan conducting extensive air raid and naval drills to simulate a potential Chinese attack. Meanwhile, in India, the economy is expected to see changes with the Reserve Bank of India's proposed new loan-pricing rules and draft guidelines to harmonize interest rates on loans for banks, which aim to increase transparency and protect borrowers. Additionally, the Indian rupee has appreciated slightly due to RBI intervention, and market participants are now focused on upcoming inflation data, which could impact future monetary policy decisions.",
     "categories": {
@@ -3301,134 +3423,6 @@
           "summary": "The Bofors case has been closed by the Supreme Court, nearly four decades after it began. The scandal remains India's most consequential corruption controversy, having reshaped the country's politics and continues to have an impact today.",
           "source": "Outlook India",
           "url": "https://www.outlookindia.com/national/outlook-explains-why-bofors-remains-indias-most-consequential-corruption-scandal"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-08-08T01:05:17.136003+00:00",
-    "brief": "Today's key developments span multiple categories, with India's shifting focus in its relationship with Kenya towards shared capacity and innovation, alongside its defense of foreign funding regulations, making headlines in geopolitics. Meanwhile, in the economy, the Reserve Bank of India's dovish stance on prices has led banks to tone down their rate-hike bets, influencing monetary policy and the bond market. Additionally, the Indian startup funding scene has seen a significant slump, with a 57% decline in funding over the past week, underscoring the challenges faced by the sector amidst a broader economic landscape influenced by factors such as inflation projections and crude oil price movements.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Kenya relations about shared capacity and innovation, not just financing projects",
-          "summary": "India and Kenya are shifting their relationship focus from just financing projects to shared capacity and innovation. This new phase aims to go beyond the traditional donor-recipient lens. The change in approach is expected to strengthen ties between the two nations.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/international/next-phase-in-india-kenya-relations-about-shared-capacity-and-innovation-not-just-financing-projects/"
-        },
-        {
-          "title": "India Defends Foreign Funding Rule Amid Criticism",
-          "summary": "India has defended its foreign funding regulations amidst international criticism. The regulations aim to monitor foreign contributions and maintain religious properties. The Ministry of External Affairs stated that these affairs are controlled by Parliament.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/international/3961133-india-defends-foreign-funding-rule-amid-criticism"
-        },
-        {
-          "title": "Baloch Peoples Congress accuses Pakistan of fuelling Sudan war through arms exports, seeks international probe",
-          "summary": "The Baloch Peoples Congress has accused Pakistan of supplying weapons and military equipment to Sudan, contributing to the country's ongoing conflict. The group alleges that these exports also strengthen Islamabad's military operations at home. They are seeking an international probe into the matter.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/international/3960992-baloch-peoples-congress-accuses-pakistan-of-fuelling-sudan-war-through-arms-exports-seeks-international-probe"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Banks tone down rate-hike bets as RBI sounds dovish on prices",
-          "summary": "Some banks have revised their forecasts for fewer policy rate increases by the Reserve Bank of India due to its dovish stance on prices. This change in expectations is influenced by factors such as inflation projections and crude oil price movements. The revision indicates a potential shift in the monetary policy landscape.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/banks-tone-down-rate-hike-bets-as-rbi-sounds-dovish-on-prices/articleshow/133018263.cms"
-        },
-        {
-          "title": "Indian markets end higher on easing crude prices, RBI policy support; Sensex gains 374 pts",
-          "summary": "The Indian stock market ended on a positive note due to easing crude oil prices and the Reserve Bank of India's steady policy stance. Selective buying in key sectors also supported the market's upward movement. This development reflects the interplay between global commodity prices, monetary policy, and market sentiment.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/indian-markets-end-higher-on-easing-crude-prices-rbi-policy-support-sensex-gains-374-pts/"
-        },
-        {
-          "title": "RBI policy-led India bond rally continues; Friday's debt sale in focus",
-          "summary": "The Indian government bond market saw a rally following the Reserve Bank of India's dovish stance and falling oil prices. Investors are cautious ahead of a significant bond auction, which will test market demand and the sustainability of the bond price gains. This event is crucial for understanding the impact of monetary policy on the bond market.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/rbi-policy-led-india-bond-rally-continues-fridays-debt-sale-in-focus/articleshow/132993202.cms"
-        },
-        {
-          "title": "When is your home loan EMI increasing? RBI rate hike calls pushed back after dovish pause",
-          "summary": "Economists now expect the Reserve Bank of India to raise interest rates later than initially anticipated, potentially in December or later. This shift is due to low core inflation and the central bank's decision to maintain current rates and lower inflation forecasts. The change in expectations may impact home loan borrowers and the overall economy.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/when-is-your-home-loan-emi-increasing-rbi-rate-hike-calls-pushed-back-after-dovish-pause/articleshow/132987769.cms"
-        },
-        {
-          "title": "FMCG price hikes could rewrite India’s inflation story: Report",
-          "summary": "Planned price hikes by consumer goods companies may pressure inflation in India, despite the Reserve Bank of India's outlook. The central bank is expected to maintain interest rates through 2026, with a potential rate hike in early 2027 if inflation intensifies. This development highlights the complex interplay between consumer prices, monetary policy, and inflation.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/fmcg-price-hikes-could-rewrite-indias-inflation-story-report/articleshow/132983766.cms"
-        }
-      ],
-      "Business": [
-        {
-          "title": "No government grants yet, but IPA says corporate is funding Indian pickleball",
-          "summary": "The Indian Pickleball Association is relying on private sponsors and franchise owners to build the sport's ecosystem in India, as it has not received any government funding yet. This indicates a growing trend of corporate involvement in non-traditional sports in the country. The Lucknow Leopards team is setting a benchmark for this initiative.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/sports/others/no-government-grants-yet-but-ipa-says-corporate-is-funding-indian-pickleball-lucknow-leopards-setting-the-benchmark-101786004485977.html"
-        },
-        {
-          "title": "New platform to support cultural entrepreneurship in India",
-          "summary": "A new platform has been launched to support cultural entrepreneurship in India, which is home to a growing number of entrepreneurs building ventures based on craft traditions, cultural knowledge, and design innovation. This platform aims to provide support to these entrepreneurs, who often remain underserved by traditional incubation and funding networks. The initiative recognizes the potential of India's cultural and creative economy.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/arts/new-platform-to-support-cultural-entrepreneurship-in-india/"
-        },
-        {
-          "title": "Stage VCs Are Rethinking Investing as AI Rewrites Startup Economics",
-          "summary": "The rise of AI is changing the way early-stage venture capitalists invest in startups, with a shift towards sector-focused investing and deeper engagement. This change is driven by the need for specialized expertise in India's maturing startup ecosystem. As AI rewrites startup economics, VCs are adapting their strategies to stay relevant.",
-          "source": "Forbes India",
-          "url": "https://www.forbesindia.com/article/news/deep-dive/why-ai-could-lead-to-an-existential-crisis-for-early-stage-investors/2996635/1"
-        },
-        {
-          "title": "Zepto to raise pre-IPO funding amid delayed listing",
-          "summary": "Zepto is planning to raise funds through a pre-IPO financing round, as its public listing has been delayed due to a tepid response from investors. This move indicates that the company is seeking alternative funding options to support its growth plans. The pre-IPO funding round will help Zepto to raise capital before its eventual listing.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-to-raise-pre-ipo-funding-amid-delayed-listing/articleshow/132791582.cms"
-        },
-        {
-          "title": "India startup funding slumps 57% in a week as big-ticket deals dry up",
-          "summary": "Indian startups raised only $80 million in funding during the week of July 24-30, a 57% decline from the previous week. This decline is attributed to a slowdown in early- and late-stage funding, despite an increase in seed-stage activity. The lack of big-ticket deals has contributed to the slump in startup funding.",
-          "source": "CNBC TV18",
-          "url": "https://www.cnbctv18.com/business/startup/india-startup-funding-slumps-57-in-a-week-as-big-ticket-deals-dry-up-19959001.htm"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Uttarakhand cabinet approves 40 hectares for new high court complex in Haldwani",
-          "summary": "The Uttarakhand cabinet has approved the allocation of 40 hectares of land for a new high court complex in Haldwani, as directed by the Supreme Court. This decision follows a petition filed by the High Court Bar Association. The state government has been given six weeks to transfer the identified land.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/uttarakhand-cabinet-approves-40-hectares-for-new-high-court-complex-in-haldwani-101786105013053.html"
-        },
-        {
-          "title": "Supreme Court expands CBI probe into builder-bank subvention scam, brings ED into fold",
-          "summary": "The Supreme Court has ordered the CBI to expand its investigation into the builder-bank subvention scam and share details of criminal cases with the Enforcement Directorate (ED). The court emphasized the need for timely investigations. This move aims to crack down on the scam and bring those involved to justice.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/supreme-court-expands-cbi-probe-into-builder-bank-subvention-scam-brings-ed-into-fold-101786094807665.html"
-        },
-        {
-          "title": "'You Fear EGGS?' Supreme Court's Stinging Rebuke To Mahua Moitra In Hate Speech Case",
-          "summary": "The Supreme Court has refused to entertain a plea by TMC MP Mahua Moitra against a Calcutta High Court order directing her to appear before an investigating officer in a hate speech case. The court's decision indicates that it will not tolerate attempts to evade investigation into hate speech cases.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/india/supreme-court-mahua-moitra-eggs-hate-speech-case-article-155361040"
-        },
-        {
-          "title": "Why Bofors Remains India's Most Consequential Corruption Scandal",
-          "summary": "The Bofors case, which has been closed by the Supreme Court, remains India's most consequential corruption scandal due to its significant impact on the country's politics. The scandal, which involved the purchase of howitzers from Sweden, led to a major political upheaval and changed the course of Indian politics. It continues to be relevant today, nearly four decades later.",
-          "source": "Outlook India",
-          "url": "https://www.outlookindia.com/national/outlook-explains-why-bofors-remains-indias-most-consequential-corruption-scandal"
-        },
-        {
-          "title": "SC directs time-bound disposal of Narayan Sai’s appeal against rape conviction",
-          "summary": "The Supreme Court has directed the timely disposal of Narayan Sai's appeal against his rape conviction. Sai had challenged the Gujarat high court's order, which had upheld his conviction. The Supreme Court's decision ensures that the appeal will be heard and decided within a specific timeframe.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/sc-directs-time-bound-disposal-of-narayan-sai-s-appeal-against-rape-conviction-101786085026687.html"
-        },
-        {
-          "title": "Delhi high court denies bail to Olympic wrestler Sushil Kumar in murder case",
-          "summary": "The Delhi high court has denied bail to Olympic wrestler Sushil Kumar in a murder case. Kumar's bail was previously granted by the high court but was later set aside by the Supreme Court. The denial of bail indicates that the court considers Kumar a flight risk or a threat to the investigation.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/delhi-high-court-denies-bail-to-olympic-wrestler-sushil-kumar-in-murder-case-101786080048105.html"
         }
       ]
     }
