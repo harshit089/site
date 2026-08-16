@@ -1,5 +1,133 @@
 [
   {
+    "generated_at": "2026-08-16T18:18:07.902686+00:00",
+    "brief": "The US war with Iran has led to a significant shift in global geopolitics, with the last US aircraft carrier being pulled out of the Pacific, potentially giving China an opportunity to increase its presence in the region. Meanwhile, in other parts of Asia, South Korean President has proposed dialogue with North Korea to officially end the Korean War, and Russian President Vladimir Putin has hailed the India-Russia partnership as 'particularly privileged' on India's Independence Day. On the economic front, India's growth is expected to slow down to 6.6% this fiscal year, and the Reserve Bank of India may stay flexible on policy rates, while the government aims to boost dollar inflows through policy measures to address the balance of payments deficit.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Iran war pulls last US carrier out of Pacific, opening space for China to step up",
+          "summary": "The US is pulling its last aircraft carrier from the western Pacific due to its war with Iran, which may give China an opportunity to increase its presence in the region. This move stretches the US Navy's ability and could have significant geopolitical implications. The shift in military presence may alter the balance of power in the Pacific.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/iran-war-pulls-last-us-carrier-out-of-pacific-opening-space-for-china-to-step-up/articleshow/133265047.cms"
+        },
+        {
+          "title": "South Korean President proposes dialogue with North Korea to officially end Korean War",
+          "summary": "The South Korean President has proposed talks with North Korea to officially end the Korean War, which could be a significant step towards peace on the Korean Peninsula. The proposal aims to begin a dialogue between the two countries, potentially leading to a formal end to the conflict. This development could have far-reaching implications for regional stability and international relations.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/south-korean-president-proposes-dialogue-with-north-korea-to-officially-end-korean-war/"
+        },
+        {
+          "title": "Putin hails India-Russia ‘particularly privileged’ partnership on Independence Day",
+          "summary": "Russian President Vladimir Putin has praised the India-Russia partnership as 'particularly privileged' on India's Independence Day, highlighting the constructive bilateral relationship and cooperation in various areas. Putin expressed confidence in the partnership enhancing international security and stability. The statement underscores the strong ties between the two nations and their commitment to mutual benefit and stability.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/india/putin-hails-india-russia-particularly-privileged-partnership-on-independence-day/articleshow/133259808.cms"
+        },
+        {
+          "title": "Indian envoy to Nepal stresses stronger connectivity and energy partnership",
+          "summary": "The Indian Ambassador to Nepal has emphasized the importance of strengthening connectivity and energy partnerships between the two countries, highlighting the expansion of multifaceted relations. The envoy's statement aims to promote cooperation in various areas, which could enhance regional stability and economic growth. This development could have significant implications for India-Nepal relations and regional connectivity.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/indian-envoy-to-nepal-stresses-stronger-connectivity-and-energy-partnership/"
+        },
+        {
+          "title": "US lost 45 reaper drones in Iran war, representing 25% of fleet worth $1.3 billion: Report",
+          "summary": "The US military has reportedly lost at least 45 MQ-9 Reaper drones in the war with Iran, accounting for about 25% of its fleet and valued at $1.3 billion. This significant loss could impact the US military's capabilities and strategy in the region. The report highlights the ongoing conflict's substantial costs and consequences for the US military.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/us-loses-45-reaper-drones-in-iran-war-representing-25-of-fleet-worth-1-3-billion-report/articleshow/133236331.cms"
+        },
+        {
+          "title": "International Memorial Day For Comfort Women: Who Was Kim Hak-Sun? The World War II Comfort Woman Survivor Whose Testimony Changed History",
+          "summary": "Kim Hak-Sun was a World War II comfort woman survivor whose testimony played a crucial role in changing history and raising awareness about the issue. Her story is being remembered on International Memorial Day For Comfort Women, highlighting the importance of acknowledging and learning from the past. The day serves as a reminder of the need to address historical injustices and promote human rights.",
+          "source": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/lifestyle/international-memorial-day-for-comfort-women-who-was-kim-hak-sun-the-world-war-ii-comfort-woman-survivor-whose-testimony-changed-history"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "RBI may stay nimble on rates as growth is seen slowing to 6.6%: Report",
+          "summary": "According to a Crisil report, India's growth may slow down to 6.6% this fiscal year, which could lead the Reserve Bank of India to remain flexible on policy rates. The report also notes improvements in foreign portfolio investor inflows and a widening systemic liquidity surplus. This flexibility in policy rates could impact the country's economic growth and monetary policy.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-may-stay-nimble-on-rates-as-growth-is-seen-slowing-to-6-6-report/articleshow/133248659.cms"
+        },
+        {
+          "title": "India's April-June balance of payments records $8.1 billion deficit, June turns surplus",
+          "summary": "India recorded an $8.1 billion balance of payments deficit in the April-June quarter, despite a $2.9 billion surplus in June. The current account balance slipped to a $3.1 billion deficit for the quarter. The government aims to boost dollar inflows through policy measures to address the deficit.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/finance/indias-april-june-balance-of-payments-records-8-1-billion-deficit-june-turns-surplus/articleshow/133244572.cms"
+        },
+        {
+          "title": "Explainer: RBI’s new loan-pricing rules: What changes for borrowers & lenders",
+          "summary": "The Reserve Bank of India has proposed a common framework for banks and lenders to determine and revise loan interest rates, aiming to enhance transparency and borrower protection. The new rules, set to be implemented from April 2027, will impact how loan interest rates are calculated and revised. This change aims to improve monetary policy transmission and borrower protection.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/business/banking-finance-explainer-rbis-new-loan-pricing-rules-what-changes-for-borrowers-amp-lenders-4317179/"
+        }
+      ],
+      "Business": [
+        {
+          "title": "TNAU’s Incubation Centre applies for support under Startup India Seed Fund Scheme",
+          "summary": "TNAU's incubation centre, COXBIT, has applied for funding under the Startup India Seed Fund Scheme to support biotech startups in sustainable agriculture and innovation. This move aims to promote entrepreneurship and innovation in the agricultural sector. The funding will help startups develop innovative solutions for sustainable agriculture.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/cities/Coimbatore/tnaus-incubation-centre-applies-for-support-under-startup-india-seed-fund-scheme/article71341245.ece"
+        },
+        {
+          "title": "Yotta plans IPO of up to Rs 8,000 cr to fund AI infra push",
+          "summary": "Yotta Data Services is planning an initial public offering to raise up to Rs 8,000 crore, which will be used to expand its data centre footprint and deploy AI infrastructure. The company recently secured $150 million in pre-IPO funding and aims to meet the growing demand for computing capacity in India. This move positions Yotta for growth in the Indian data centre market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/yotta-plans-ipo-of-up-to-rs-8000-cr-to-fund-ai-infra-push/articleshow/133195570.cms"
+        },
+        {
+          "title": "Superleap Raises INR 36 Cr to Build the AI",
+          "summary": "Superleap, an enterprise AI CRM platform, has raised INR 36 crore in a pre-Series A round led by Peak XV's Surge. The funding will support the company's development of AI-native alternatives to legacy CRMs. This investment highlights the growing interest in AI-powered CRM solutions for revenue teams.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/superleap-raises-inr-36-cr-to-build-the-ai-native-alternative-to-legacy-crms/"
+        },
+        {
+          "title": "No government grants yet, but IPA says corporate is funding Indian pickleball",
+          "summary": "The Indian Pickleball Association (IPA) is relying on private sponsors and franchise owners to build the sport's ecosystem in India, as it has not received any government funding yet. The IPA is working to develop the sport beyond the league, with corporate funding playing a key role. This approach highlights the potential for private investment in emerging sports in India.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/sports/others/no-government-grants-yet-but-ipa-says-corporate-is-funding-indian-pickleball-lucknow-leopards-setting-the-benchmark-101786004485977.html"
+        },
+        {
+          "title": "Stage VCs Are Rethinking Investing as AI Rewrites Startup Economics",
+          "summary": "The rise of AI is changing the startup funding landscape, with early-stage VCs shifting to sector-focused investing and seeking deeper engagement and specialized expertise. This shift is driven by the need for VCs to adapt to the changing economics of startups in India's maturing ecosystem. As AI rewrites startup economics, VCs are rethinking their investment strategies to stay relevant.",
+          "source": "Forbes India",
+          "url": "https://www.forbesindia.com/article/news/deep-dive/why-ai-could-lead-to-an-existential-crisis-for-early-stage-investors/2996635/1"
+        },
+        {
+          "title": "Race Eco Chain extends Rs. 4.97 Cr corporate guarantee to Silverline Eco Thrive",
+          "summary": "Race Eco Chain Limited has issued a corporate guarantee of Rs 4.97 crore to its subsidiary, Silverline Eco Thrive Limited, to secure funding from Bank of India. This move is compliant with SEBI regulations and is expected to have no immediate financial impact on the parent company. The guarantee will help the subsidiary access funding for its operations.",
+          "source": "scanx.trade",
+          "url": "https://scanx.trade/stock-market-news/companies/race-eco-chain-extends-rs-4-97-cr-corporate-guarantee-to-silverline-eco-thrive/47304579"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "'Don't Say India Can't Match Global Standards': SC Asks Centre to Decide on Front Labels for Food Packets",
+          "summary": "The Supreme Court has directed the Indian government to decide on implementing Front-of-Package Labelling for pre-packaged foods, emphasizing the need for international standards to protect public health. The court questioned the government's stance that India cannot match global standards. This decision aims to ensure that food products in India meet international health standards.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/supreme-court-asks-centre-to-decide-on-front-labels-for-food-packets-says-dont-say-india-cant-match-global-standards-article-155678691"
+        },
+        {
+          "title": "'Much Remains To Be Done': CJI Surya Kant Says Young Law Graduates, Lawyers Should Shoulder Responsibility of Future",
+          "summary": "Chief Justice of India Surya Kant addressed young law graduates, emphasizing their role in upholding justice and shouldering the responsibility of the future. He stated that much remains to be done, and it is up to the new generation of lawyers to make a difference. This speech highlights the importance of young lawyers in shaping the country's legal system.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/cji-surya-kant-says-young-law-graduates-lawyers-should-shoulder-responsibility-of-future-as-much-remains-to-be-done-article-155672480"
+        },
+        {
+          "title": "‘Better than any para-legal volunteer’: SC praises Kerala woman’s self-taught efforts to help 33 villagers",
+          "summary": "The Supreme Court praised a Kerala woman, Maymol P Davis, for her self-taught efforts in helping 33 villagers with their legal issues. Davis successfully challenged a High Court order, demonstrating her ability to navigate the legal system despite not being a trained lawyer. This case highlights the potential for individuals to make a positive impact in their communities through self-education and determination.",
+          "source": "Malayala Manorama",
+          "url": "https://www.onmanorama.com/news/kerala/2026/08/15/better-than-any-para-legal-volunteer-sc-praises-kerala-woman-self-taught-efforts-to-help-33-villagers.html"
+        },
+        {
+          "title": "Should India remain underdeveloped? SC raps Centre over packaged food warning labels",
+          "summary": "The Supreme Court directed the Centre to decide on the visual format for front-of-package food labelling within two weeks, emphasizing the importance of clear warning labels for public health. The court questioned whether India should remain underdeveloped by not adopting international standards for food labelling. This decision aims to ensure that Indian consumers have access to clear and accurate information about the food products they consume.",
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/india/law-news/story/front-of-package-labelling-supreme-court-asks-centre-to-decide-visual-format-ptag-2971908-2026-08-15"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-08-16T12:24:47.728893+00:00",
     "brief": "The US withdrawal of its last aircraft carrier from the western Pacific due to the war with Iran has created an opportunity for China to increase its presence in the region, potentially altering the balance of power. Meanwhile, in the economic sphere, India's growth is expected to slow down to 6.6% this fiscal year, which may lead the Reserve Bank of India to remain flexible on policy rates. Additionally, the Indian government is being urged by the Supreme Court to adopt international standards for food labelling, highlighting the need for India to catch up with global norms in areas such as public health and consumer protection.",
     "categories": {
@@ -3325,128 +3453,6 @@
           "summary": "The Supreme Court collegium has recommended the elevation of four judges as Chief Justices of different high courts. The decision was taken in a meeting headed by Chief Justice of India Surya Kant. The recommended judges will now be considered for appointment as Chief Justices of various high courts.",
           "source": "Times Now",
           "url": "https://www.timesnownews.com/india/supreme-court-collegium-recommends-elevation-of-four-judges-as-chief-justices-of-different-high-courts-article-155401698"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-08-09T18:30:06.455667+00:00",
-    "brief": "The US Pentagon's request to defence firms to ramp up weapons production due to the Iran war has significant implications for global defence dynamics, while a proposed defence pact between Turkey, Pakistan, Saudi Arabia, and potentially Egypt, could alter regional security in the Middle East. In India, the Reserve Bank of India's decision to hold the repo rate steady has boosted confidence in the realty sector, and the Gujarat government's initiative to pioneer Green AI data centres is expected to enhance the country's digital economy. Meanwhile, the rise of AI is driving changes in startup economics, with venture capitalists adapting their investment strategies to remain relevant in India's maturing ecosystem.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Pentagon asks defence firms to ramp up weapons production as Iran war drains stockpile",
-          "summary": "The US Pentagon has asked defence companies to increase weapons production and deliveries due to the depletion of stockpiles caused by the Iran war. This move indicates the growing pressure on Washington to replenish its arsenal. The development highlights the ongoing tensions between the US and Iran and their impact on global defence dynamics.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/defence/international/pentagon-asks-defence-firms-to-ramp-up-weapons-production-as-iran-war-drains-stockpile-report/articleshow/133061658.cms"
-        },
-        {
-          "title": "US-Iran War Live: Turkey says Egypt may join defence pact with Pakistan, Saudi Arabia",
-          "summary": "Turkey's Foreign Minister has announced that Egypt may join a proposed defence pact between Turkey, Pakistan, and Saudi Arabia, which would be similar to NATO's Article 5. The agreement would provide a collective defence mechanism and include a committee of ministers and a general secretariat. This development could significantly impact regional security dynamics in the Middle East.",
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/world/story/us-iran-war-live-tehran-trump-bahrain-saudi-arabia-gulf-countries-kuwait-iraq-defence-pact-pakistan-2966866-2026-08-09"
-        },
-        {
-          "title": "US army opens test grounds to private arms makers as Iran war drains weapons stockpiles",
-          "summary": "The US army is opening its testing ranges to private companies developing missiles, drones, and other weapons to accelerate the acquisition process. This move is in response to the depletion of weapons stockpiles caused by the Iran war. The development highlights the growing role of private companies in the US defence sector and the efforts to enhance military capabilities.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/defence/international/us-army-opens-test-grounds-to-private-arms-makers-as-iran-war-drains-weapons-stockpiles/articleshow/133046471.cms"
-        },
-        {
-          "title": "Parliament panel seeks deeper India-US collaboration in AI, quantum tech, semiconductors to boost economic growth",
-          "summary": "A parliament panel has recommended increased collaboration between India and the US in areas like AI, quantum technology, and semiconductors to boost economic growth. The panel suggested dedicated measures to help Indian MSMEs participate in India-US digital technology partnerships. This development highlights the growing importance of technological cooperation between the two countries.",
-          "source": "Moneycontrol",
-          "url": "https://www.moneycontrol.com/news/business/economy/parliament-panel-seeks-deeper-india-us-collaboration-in-ai-quantum-tech-semiconductors-to-boost-economic-growth-13998379.html"
-        },
-        {
-          "title": "Global Political Landscape: A Snapshot of Key Events",
-          "summary": "A comprehensive overview of significant global events scheduled from August to October 2026 has been released, including presidential visits, international commemorations, and cultural festivals. These events are expected to shape global dynamics, particularly in areas of diplomacy, economic partnerships, and cultural exchange. The development highlights the importance of staying informed about global events and their potential impact on international relations.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/politics/3961174-global-political-landscape-a-snapshot-of-key-events"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Policy Continuity Reinforces Realty Confidence as RBI Holds Repo Rate at 5.25%",
-          "summary": "The Reserve Bank of India's decision to hold the repo rate steady at 5.25 percent has been praised by industrialists as it provides stability in the housing and commercial realty sectors. This stability in interest rates gives assurance to homebuyers and aids developers in planning future projects. It also provides a sound base for the future with continued infrastructure development and robust end-user demand.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/policy-continuity-reinforces-realty-confidence-as-rbi-holds-repo-rate-at-5-25/"
-        },
-        {
-          "title": "Gujarat's Bold Leap: Pioneering Green AI Data Centres for Digital Future",
-          "summary": "The Gujarat government has unveiled a policy to position the state as a leader in hyperscale Green AI data centres, aiming to attract investments and enhance India's digital economy. The initiative focuses on sustainable development and cutting-edge digital infrastructure. This move is expected to boost India's digital future.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/headlines/3961303-gujarats-bold-leap-pioneering-green-ai-data-centres-for-digital-future"
-        },
-        {
-          "title": "Banks tone down rate-hike bets as RBI sounds dovish on prices",
-          "summary": "Some banks have revised their forecasts for policy rate increases from the Reserve Bank of India, anticipating fewer hikes. This revision is due to the RBI's dovish stance on prices, which has led to a change in expectations. Inflation projections remain sensitive to future crude oil price movements.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/banks-tone-down-rate-hike-bets-as-rbi-sounds-dovish-on-prices/articleshow/133018263.cms"
-        },
-        {
-          "title": "Indian markets end higher on easing crude prices, RBI policy support; Sensex gains 374 pts",
-          "summary": "Indian benchmark indices ended higher due to easing crude oil prices and the Reserve Bank of India's steady policy stance. Selective buying in heavyweight, banking, and energy stocks also supported the market. The RBI's policy support and easing crude prices have boosted market sentiment.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/indian-markets-end-higher-on-easing-crude-prices-rbi-policy-support-sensex-gains-374-pts/"
-        }
-      ],
-      "Business": [
-        {
-          "title": "Superleap Raises INR 36 Cr to Build the AI",
-          "summary": "Superleap, an enterprise AI CRM platform, has raised INR 36 crore in a pre-Series A round to support its growth. The funding will help the company build its AI-native alternative to legacy CRMs. This investment is significant as it indicates the growing interest in AI-based solutions for revenue teams.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/superleap-raises-inr-36-cr-to-build-the-ai-native-alternative-to-legacy-crms/"
-        },
-        {
-          "title": "New platform to support cultural entrepreneurship in India",
-          "summary": "A new platform has been launched to support cultural entrepreneurship in India, focusing on ventures rooted in craft traditions, cultural knowledge systems, and design innovation. This initiative aims to address the gap in traditional incubation, mentorship, and funding networks for cultural sector founders. It highlights the growing importance of cultural entrepreneurship in India's startup ecosystem.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/arts/new-platform-to-support-cultural-entrepreneurship-in-india/"
-        },
-        {
-          "title": "Stage VCs Are Rethinking Investing as AI Rewrites Startup Economics",
-          "summary": "The rise of AI is changing the way early-stage venture capitalists invest in startups, with a shift towards sector-focused investing and deeper engagement. This change is driven by the need for specialized expertise in India's maturing ecosystem. As AI rewrites startup economics, VCs are adapting their strategies to remain relevant.",
-          "source": "Forbes India",
-          "url": "https://www.forbesindia.com/article/news/deep-dive/why-ai-could-lead-to-an-existential-crisis-for-early-stage-investors/2996635/1"
-        },
-        {
-          "title": "Zepto to raise pre-IPO funding amid delayed listing",
-          "summary": "Zepto, a startup, is raising pre-IPO funding due to a delayed public listing. The company is seeking alternative funding options amid a tepid response from investors. This move highlights the challenges faced by startups in navigating the public listing process and the importance of exploring alternative funding routes.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-to-raise-pre-ipo-funding-amid-delayed-listing/articleshow/132791582.cms"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Supreme Court collegium to recommend five judges for high court chief justices",
-          "summary": "The Supreme Court collegium, headed by Chief Justice Surya Kant, is set to recommend five judges for high court chief justices. This move is significant as it will impact the leadership of various high courts in India. The recommendations will be made to the government for further approval.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/supreme-court-high-court-delhi-bombay-mumbai-rajasthan-punjab-ladakh-haryana-jammu-and-kashmir-madhya-pradesh-101786240962679.html"
-        },
-        {
-          "title": "Meta Restricts Instagram Post On Kashmir Pellet Victim Insha Mushtaq In India Under IT Rules",
-          "summary": "Meta has restricted access to an Instagram post about Kashmir pellet victim Insha Mushtaq in India, citing the country's IT Rules. This move highlights the ongoing debate around online content regulation and freedom of speech in India. The restriction comes amid renewed scrutiny of pellet gun use in the region.",
-          "source": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/india/meta-restricts-instagram-post-on-kashmir-pellet-victim-insha-mushtaq-in-india-under-it-rules"
-        },
-        {
-          "title": "Laws are in place for women’s justice; implementation is the challenge, says Supreme Court judge Nagarathna",
-          "summary": "According to Supreme Court judge B.V. Nagarathna, India has established the necessary laws to ensure justice for women, but the challenge lies in implementing these laws effectively. This statement highlights the need for better enforcement of existing laws to promote women's rights in the country. Effective implementation is crucial to deliver justice to women.",
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/karnataka/laws-are-in-place-for-womens-justice-implementation-is-the-challenge-says-supreme-court-judge-nagarathna/article71321620.ece"
-        },
-        {
-          "title": "Jharkhand Students' Protest Reaches Supreme Court, Plea Demands CBI Probe, Cancellation of JPSC Exam",
-          "summary": "A Public Interest Litigation (PIL) has been filed in the Supreme Court, seeking a CBI investigation into alleged irregularities in the JPSC Combined Civil Services Preliminary Examination 2025. The petition also demands the cancellation of the exam, highlighting the concerns of students in Jharkhand regarding the fairness of the examination process.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/india/jharkhand-students-protest-reaches-supreme-court-plea-demands-cbi-probe-cancellation-of-jpsc-exam-article-155386605"
-        },
-        {
-          "title": "Hospitals can’t show negligence in treating crime victims, says SC",
-          "summary": "The Supreme Court has stated that hospitals cannot show negligence in treating victims of serious crimes who require immediate medical attention. The court plans to frame guidelines for hospitals and law enforcement agencies to prevent such lapses in the future. This move aims to ensure that crime victims receive timely and proper medical care.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/hospitals-can-t-show-negligence-in-treating-crime-victims-says-sc-101786126577998.html"
         }
       ]
     }
