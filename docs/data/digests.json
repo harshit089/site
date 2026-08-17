@@ -1,5 +1,121 @@
 [
   {
+    "generated_at": "2026-08-17T00:51:54.964554+00:00",
+    "brief": "Today's brief highlights significant developments across geopolitics, economy, and national affairs. India's global presence is being bolstered by diplomatic engagements with countries like Bangladesh and Australia, while its economic growth is expected to slow down to 6.6% this fiscal year, prompting the Reserve Bank of India to remain flexible on policy rates. Meanwhile, the space startup sector is experiencing a boom, with 440 firms and $618.5 million in private investment, driving innovation in the industry and potentially contributing to the country's economic growth.",
+    "categories": {
+      "Geopolitics": [
+        {
+          "title": "Bangladesh, Australia and diaspora events put India in global spotlight",
+          "summary": "Recent diplomatic engagements between India, Bangladesh, and Australia, along with diaspora events, have highlighted India's relevance across multiple global fronts. These developments demonstrate the role of diplomacy, communities, and regional resilience in maintaining India's global presence. This increased engagement could have significant implications for India's international relationships and global standing.",
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/world/story/india-global-developments-bangladesh-outreach-australia-visit-diaspora-events-bhutan-quake-drill-ptag-2972517-2026-08-16"
+        },
+        {
+          "title": "A Latvian astronomer and his wife drove 190 miles to a secret Soviet ghost town in 1994; found a 600-ton telescope the Russians had poured acid on",
+          "summary": "A Latvian astronomer and his wife discovered a 600-ton Soviet-era radio telescope in a secret ghost town in Latvia. They restored the damaged equipment, which was initially built for Cold War espionage, and now it contributes to international scientific research. This telescope is currently used for terrestrial measurements and astronomical exploration, showcasing the repurposing of Cold War infrastructure for modern scientific purposes.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/international/us/a-latvian-astronomer-and-his-wife-drove-190-miles-to-a-secret-soviet-ghost-town-in-1994-found-a-600-ton-telescope-the-russians-had-poured-acid-on-adapted-the-cold-war-machine-built-to-spy-on-the-west-and-listen-to-the-stars/articleshow/133271888.cms"
+        },
+        {
+          "title": "World News Today Live Updates on August 16, 2026 : Russia might not win the prolonged ‘war of attrition’ against Ukraine, Moscow's chief economist warns: Here's why",
+          "summary": "Moscow's chief economist has warned that Russia may not emerge victorious in its prolonged conflict with Ukraine, citing the challenges of a 'war of attrition'. This assessment highlights the economic and strategic pressures Russia is facing in the ongoing conflict. The warning from the chief economist underscores the complexities and uncertainties of the Russia-Ukraine conflict.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/news/world/total-world-latest-news-on-august-16-2026-live-updates-11786862844862.html"
+        },
+        {
+          "title": "South Korean President proposes dialogue with North Korea to officially end Korean War",
+          "summary": "The South Korean President has proposed initiating dialogue with North Korea to officially bring an end to the Korean War. This move aims to establish a formal peace agreement between the two nations, which have technically been at war since the 1950s. The proposal marks a significant step towards potential reconciliation and peace on the Korean Peninsula.",
+          "source": "Lokmat Times",
+          "url": "https://www.lokmattimes.com/international/south-korean-president-proposes-dialogue-with-north-korea-to-officially-end-korean-war/"
+        },
+        {
+          "title": "Iran war pulls last US carrier out of Pacific, opening space for China to step up",
+          "summary": "The United States is withdrawing its last aircraft carrier from the western Pacific due to the ongoing conflict with Iran, which is straining the US Navy's capabilities. This move creates an opportunity for China to increase its presence in the region. The withdrawal of the US carrier has significant implications for the balance of power in the Pacific and could lead to increased Chinese assertiveness.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/international/iran-war-pulls-last-us-carrier-out-of-pacific-opening-space-for-china-to-step-up/articleshow/133265047.cms"
+        }
+      ],
+      "Economy": [
+        {
+          "title": "Oil and gas exploration policy: Why India should price risk, not subsidize it",
+          "summary": "India's new oil and gas exploration policy aims to incentivize private efforts, but covering up to half the cost may not be the best approach. Policymakers should consider what makes an upstream petroleum fiscal regime work. This could impact the country's energy sector and economy.",
+          "source": "Livemint",
+          "url": "https://www.livemint.com/opinion/online-views/oil-gas-exploration-policy-india-price-risk-subsidize-hydrocarbons-crude-oil-petroleum-11786613224777.html"
+        },
+        {
+          "title": "RBI may stay nimble on rates as growth is seen slowing to 6.6%: Report",
+          "summary": "India's economic growth is expected to slow down to 6.6% this fiscal year, according to a Crisil report. The Reserve Bank of India may remain flexible on policy rates due to this slowdown, as well as other factors such as improved foreign portfolio investor inflows and a widening systemic liquidity surplus. This could impact the country's monetary policy and economy.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-may-stay-nimble-on-rates-as-growth-is-seen-slowing-to-6-6-report/articleshow/133248659.cms"
+        },
+        {
+          "title": "India's April-June balance of payments records $8.1 billion deficit, June turns surplus",
+          "summary": "India recorded an $8.1 billion balance of payments deficit in the April-June quarter, despite a $2.9 billion surplus in June. The current account balance slipped to a $3.1 billion deficit for the quarter. The country is taking policy measures to boost dollar inflows and improve its balance of payments.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/economy/finance/indias-april-june-balance-of-payments-records-8-1-billion-deficit-june-turns-surplus/articleshow/133244572.cms"
+        },
+        {
+          "title": "Rahul Sahai seeks early rollout of new industrial incentive policy for J&K",
+          "summary": "Rahul Sahai has urged for the early rollout of a new industrial incentive policy for Jammu and Kashmir. This policy aims to boost the region's economy and industry, and its implementation could have a significant impact on the local business environment.",
+          "source": "Greater Kashmir",
+          "url": "https://www.greaterkashmir.com/business/rahul-sahai-seeks-early-rollout-of-new-industrial-incentive-policy-for-jk-12258726"
+        }
+      ],
+      "Business": [
+        {
+          "title": "India’s space startup boom: 440 firms, $618.5 million private investment and 18 IN-SPACe-authorised startups eyeing launches",
+          "summary": "India's space startup sector is experiencing significant growth, with 440 firms and $618.5 million in private investment. Several startups, including Agnikul Cosmos and Skyroot, have raised funding for launch vehicles and satellites. This growth is expected to drive innovation in the space industry.",
+          "source": "The Financial Express",
+          "url": "https://www.financialexpress.com/business/industry/india-space-startup-boom-440-firms-over-618-million-private-investment-18-in-space-authorised-startups-eyeing-launches/4318976/"
+        },
+        {
+          "title": "Yotta plans IPO of up to Rs 8,000 cr to fund AI infra push",
+          "summary": "Yotta Data Services is planning an initial public offering to raise up to Rs 8,000 crore, which will be used to expand its data centre footprint and deploy AI infrastructure. The company recently secured $150 million in pre-IPO funding and aims to meet growing demands for computing capacity in India. This move is expected to drive growth in the country's AI infrastructure.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/yotta-plans-ipo-of-up-to-rs-8000-cr-to-fund-ai-infra-push/articleshow/133195570.cms"
+        },
+        {
+          "title": "Superleap Raises INR 36 Cr to Build the AI",
+          "summary": "Superleap, an enterprise AI CRM platform, has raised INR 36 crore in a pre-Series A round led by Peak XV's Surge. The funding will support the company's growth and development of its AI-native alternative to legacy CRMs. This investment is expected to drive innovation in the AI-powered customer relationship management space.",
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/superleap-raises-inr-36-cr-to-build-the-ai-native-alternative-to-legacy-crms/"
+        },
+        {
+          "title": "No government grants yet, but IPA says corporate is funding Indian pickleball: 'Lucknow Leopards setting the benchmark'",
+          "summary": "The Indian Pickleball Association (IPA) is relying on private sponsors and franchise owners to build the sport's ecosystem in India, as it has not received any government funding yet. The Lucknow Leopards are setting a benchmark for the sport, and corporate funding is expected to drive growth in the Indian pickleball league.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/sports/others/no-government-grants-yet-but-ipa-says-corporate-is-funding-indian-pickleball-lucknow-leopards-setting-the-benchmark-101786004485977.html"
+        }
+      ],
+      "National Affairs": [
+        {
+          "title": "Cauvery water row: Supreme Court to hear Tamil Nadu plea against Karnataka on August 17",
+          "summary": "The Supreme Court is set to hear a plea from the Tamil Nadu government seeking directions to Karnataka to release its due share of Cauvery water. This long-standing dispute between the two states has significant implications for water management and inter-state relations. The court's decision will be closely watched by both states and the central government.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/cauvery-water-row-supreme-court-to-hear-tamil-nadu-plea-against-karnataka-on-august-17/articleshow/133272970.cms"
+        },
+        {
+          "title": "'Don't Say India Can't Match Global Standards': SC Asks Centre to Decide on Front Labels for Food Packets",
+          "summary": "The Supreme Court has directed the Indian government to decide on the implementation of Front-of-Package Labelling (FOPL) for pre-packaged foods, emphasizing the need for international standards for public health. This move aims to ensure that Indian consumers have access to clear and accurate information about the food they buy. The government's decision will have significant implications for the food industry and consumer health.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/supreme-court-asks-centre-to-decide-on-front-labels-for-food-packets-says-dont-say-india-cant-match-global-standards-article-155678691"
+        },
+        {
+          "title": "'Much Remains To Be Done': CJI Surya Kant Says Young Law Graduates, Lawyers Should Shoulder Responsibility of Future",
+          "summary": "Chief Justice of India Surya Kant has emphasized the importance of young law graduates and lawyers taking responsibility for upholding justice in the country. He highlighted that much remains to be done to ensure that the legal system serves the needs of all citizens. The Chief Justice's remarks underscore the critical role that young legal professionals will play in shaping the future of India's justice system.",
+          "source": "Times Now",
+          "url": "https://www.timesnownews.com/india/cji-surya-kant-says-young-law-graduates-lawyers-should-shoulder-responsibility-of-future-as-much-remains-to-be-done-article-155672480"
+        },
+        {
+          "title": "‘Better than any para-legal volunteer’: SC praises Kerala woman’s self-taught efforts to help 33 villagers",
+          "summary": "The Supreme Court has praised the self-taught efforts of a Kerala woman, Maymol P Davis, who successfully challenged a High Court order and helped 33 villagers with their legal issues. The court's recognition of her work highlights the importance of access to justice and the role that individuals can play in supporting their communities. Davis's achievements demonstrate that legal knowledge and skills are not limited to formal education or training.",
+          "source": "Malayala Manorama",
+          "url": "https://www.onmanorama.com/news/kerala/2026/08/15/better-than-any-para-legal-volunteer-sc-praises-kerala-woman-self-taught-efforts-to-help-33-villagers.html"
+        }
+      ]
+    }
+  },
+  {
     "generated_at": "2026-08-16T18:18:07.902686+00:00",
     "brief": "The US war with Iran has led to a significant shift in global geopolitics, with the last US aircraft carrier being pulled out of the Pacific, potentially giving China an opportunity to increase its presence in the region. Meanwhile, in other parts of Asia, South Korean President has proposed dialogue with North Korea to officially end the Korean War, and Russian President Vladimir Putin has hailed the India-Russia partnership as 'particularly privileged' on India's Independence Day. On the economic front, India's growth is expected to slow down to 6.6% this fiscal year, and the Reserve Bank of India may stay flexible on policy rates, while the government aims to boost dollar inflows through policy measures to address the balance of payments deficit.",
     "categories": {
@@ -3353,104 +3469,6 @@
         {
           "title": "SC Collegium Recommends Elevation of Four Judges As Chief Justices of Different High Courts",
           "summary": "The Supreme Court collegium has recommended the elevation of four judges as Chief Justices of different high courts. The collegium, headed by Chief Justice of India Surya Kant, made this decision in a meeting held on August 6. The recommendations are significant as they will impact the leadership of the high courts and the judiciary as a whole.",
-          "source": "Times Now",
-          "url": "https://www.timesnownews.com/india/supreme-court-collegium-recommends-elevation-of-four-judges-as-chief-justices-of-different-high-courts-article-155401698"
-        }
-      ]
-    }
-  },
-  {
-    "generated_at": "2026-08-10T01:11:30.627810+00:00",
-    "brief": "Tensions between the US and Iran continue to escalate, with the Iranian Revolutionary Guards refusing to reopen the Strait of Hormuz until all conditions are met, and the US Pentagon responding by asking defense firms to ramp up weapons production. Meanwhile, in India, the Reserve Bank of India's decision to hold the repo rate at 5.25% has been welcomed by industrialists, providing stability to the realty sector and supporting investment decisions. Additionally, the Indian stock market has ended on a positive note, driven by easing crude oil prices and the RBI's steady policy stance, with the Sensex gaining 374 points.",
-    "categories": {
-      "Geopolitics": [
-        {
-          "title": "Iran Guards say won't reopen Hormuz without US meeting all Tehran's conditions",
-          "summary": "Iran's Revolutionary Guards have stated that they will not reopen the Strait of Hormuz until the US meets all of Tehran's conditions, including compensation for war damages and an end to aggression. This move has led to significant transit drops and international condemnation. Mediators are urging both sides to return to peace talks.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/defence/iran-guards-say-wont-reopen-hormuz-without-us-meeting-all-tehrans-conditions/articleshow/133065034.cms"
-        },
-        {
-          "title": "Pentagon asks defence firms to ramp up weapons production as Iran war drains stockpile: Report",
-          "summary": "The US Pentagon has asked defense companies to accelerate weapons production and deliveries due to the depletion of stockpiles resulting from the Iran war. This move is a response to the growing pressure to replenish the stockpiles. The request aims to ensure a steady supply of weapons.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/defence/international/pentagon-asks-defence-firms-to-ramp-up-weapons-production-as-iran-war-drains-stockpile-report/articleshow/133061658.cms"
-        },
-        {
-          "title": "US-Iran War Live: Turkey says Egypt may join defence pact with Pakistan, Saudi Arabia",
-          "summary": "Turkey's Foreign Minister has announced that Egypt may join a proposed defense pact between Turkey, Pakistan, and Saudi Arabia. The pact would be similar to NATO's Article 5, where an attack on one member is treated as an attack on all. The agreement would also include a committee of ministers and a general secretariat.",
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/world/story/us-iran-war-live-tehran-trump-bahrain-saudi-arabia-gulf-countries-kuwait-iraq-defence-pact-pakistan-2966866-2026-08-09"
-        }
-      ],
-      "Economy": [
-        {
-          "title": "Policy Continuity Reinforces Realty Confidence as RBI Holds Repo Rate at 5.25%",
-          "summary": "The Reserve Bank of India's decision to keep the repo rate at 5.25% has been praised by industrialists as it provides stability in the housing and commercial realty sectors, aiding investment decisions and planning for developers. This stability, along with infrastructure development and robust end-user demand, provides a sound base for the future. The move is seen as providing assurance to homebuyers and supporting the real estate sector.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/policy-continuity-reinforces-realty-confidence-as-rbi-holds-repo-rate-at-5-25/"
-        },
-        {
-          "title": "Gujarat's Bold Leap: Pioneering Green AI Data Centres for Digital Future",
-          "summary": "The Gujarat government has introduced the Viksit Gujarat Data Centre Policy 2026-29, aiming to establish the state as a leader in hyperscale Green AI data centres. This initiative focuses on sustainable development and cutting-edge digital infrastructure to attract investments and enhance India's digital economy. The policy is part of the state's efforts to position itself at the forefront of digital innovation.",
-          "source": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/headlines/3961303-gujarats-bold-leap-pioneering-green-ai-data-centres-for-digital-future"
-        },
-        {
-          "title": "Banks tone down rate-hike bets as RBI sounds dovish on prices",
-          "summary": "Following the Reserve Bank of India's recent policy statement, some banks have revised their forecasts for interest rate hikes, anticipating fewer increases. This shift in expectations is influenced by the RBI's stance on inflation and the potential impact of crude oil price movements on the economy. Banks such as Yes Bank, State Bank of India, and MUFG Bank have adjusted their rate hike forecasts accordingly.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/banks-tone-down-rate-hike-bets-as-rbi-sounds-dovish-on-prices/articleshow/133018263.cms"
-        },
-        {
-          "title": "Indian markets end higher on easing crude prices, RBI policy support; Sensex gains 374 pts",
-          "summary": "The Indian stock market ended on a positive note, supported by easing crude oil prices and the Reserve Bank of India's steady policy stance. The market also saw selective buying in heavyweight, banking, and energy stocks, contributing to the gains. The Sensex rose by 374 points, reflecting the positive sentiment among investors.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/indian-markets-end-higher-on-easing-crude-prices-rbi-policy-support-sensex-gains-374-pts/"
-        }
-      ],
-      "Business": [
-        {
-          "title": "Superleap Raises INR 36 Cr to Build the AI",
-          "summary": "Superleap, an enterprise AI CRM platform, has raised INR 36 crore in a pre-Series A round to support its growth. The funding will help the company build its AI-native alternative to legacy CRMs. This investment is significant as it highlights the growing importance of AI in the CRM space.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/business/superleap-raises-inr-36-cr-to-build-the-ai-native-alternative-to-legacy-crms/"
-        },
-        {
-          "title": "New platform to support cultural entrepreneurship in India",
-          "summary": "A new platform has been launched to support cultural entrepreneurship in India, focusing on craft traditions, cultural knowledge systems, and community-led impact. This initiative aims to address the gap in traditional incubation, mentorship, and funding networks for cultural sector entrepreneurs. It has the potential to boost India's cultural and creative economy.",
-          "source": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/arts/new-platform-to-support-cultural-entrepreneurship-in-india/"
-        },
-        {
-          "title": "Stage VCs Are Rethinking Investing as AI Rewrites Startup Economics",
-          "summary": "The rise of AI is changing the startup funding landscape, with early-stage VCs shifting to sector-focused investing and seeking deeper engagement and specialized expertise. This shift is driven by the need for VCs to adapt to the evolving startup ecosystem in India. As AI rewrites startup economics, VCs are rethinking their investment strategies.",
-          "source": "Forbes India",
-          "url": "https://www.forbesindia.com/article/news/deep-dive/why-ai-could-lead-to-an-existential-crisis-for-early-stage-investors/2996635/1"
-        },
-        {
-          "title": "Zepto to raise pre-IPO funding amid delayed listing",
-          "summary": "Zepto, a startup, is raising pre-IPO funding due to a delayed public listing. The company is seeking alternative funding options amid a tepid response from investors. This move highlights the challenges faced by startups in the current market and their need to explore different funding avenues.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-to-raise-pre-ipo-funding-amid-delayed-listing/articleshow/132791582.cms"
-        }
-      ],
-      "National Affairs": [
-        {
-          "title": "Chief Minister leading talks to resolve Orthodox-Jacobite dispute: Govt tells HC",
-          "summary": "The Kerala government, led by Chief Minister V D Satheesan, is mediating the Orthodox-Jacobite Church dispute to achieve a peaceful resolution. The dispute is related to the Malankara Church and involves the Orthodox and Jacobite factions. The government's efforts aim to find an amicable solution to the long-standing conflict.",
-          "source": "Malayala Manorama",
-          "url": "https://www.onmanorama.com/news/kerala/2026/08/09/chief-minister-leading-talks-to-resolve-orthodox-jacobite-dispute-govt-tells-hc.html"
-        },
-        {
-          "title": "SC Collegium recommends new Chief Justices for Patna, Calcutta, Bombay, Punjab & Haryana HCs",
-          "summary": "The Supreme Court Collegium, headed by Chief Justice of India Surya Kant, has recommended new Chief Justices for several high courts, including Patna, Calcutta, Bombay, Punjab, and Haryana. This move is part of the process to fill vacancies in the higher judiciary. The recommendations will now be sent to the government for approval.",
-          "source": "Lokmat Times",
-          "url": "https://www.lokmattimes.com/national/sc-collegium-recommends-new-chief-justices-for-patna-calcutta-bombay-punjab-haryana-hcs/"
-        },
-        {
-          "title": "SC Collegium Recommends Elevation of Four Judges As Chief Justices of Different High Courts",
-          "summary": "The Supreme Court collegium has recommended the elevation of four judges as Chief Justices of different high courts. The decision was taken in a meeting headed by Chief Justice of India Surya Kant. The recommended judges will now be considered for appointment as Chief Justices of various high courts.",
           "source": "Times Now",
           "url": "https://www.timesnownews.com/india/supreme-court-collegium-recommends-elevation-of-four-judges-as-chief-justices-of-different-high-courts-article-155401698"
         }
